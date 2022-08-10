@@ -1,4 +1,0 @@
-#Wed Apr 13 17:29:49 BST 2022
-base.0=/home/james/New operators/Apps/PortAuthoritye0163e20d1a67c22c2f7ed0f0345206ce1a050f0/app/build/intermediates/dex/donateDebug/mergeDexDonateDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

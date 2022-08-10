@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.fdroid.fdroid.FeatureImageTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-01T15:07:49" hostname="james-HP-ProDesk-400-G6-MT" time="1.973">
-  <properties/>
-  <testcase name="test1" classname="org.fdroid.fdroid.FeatureImageTest" time="1.973"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
