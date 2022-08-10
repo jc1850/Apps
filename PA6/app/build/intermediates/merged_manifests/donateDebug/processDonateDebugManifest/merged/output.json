@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":37,"versionName":"1.7.9","enabled":true,"outputFile":"app-donate-debug.apk","fullName":"donateDebug","baseName":"donate-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.aaronjwood.portauthority.donate","split":"","minSdkVersion":"17"}}]

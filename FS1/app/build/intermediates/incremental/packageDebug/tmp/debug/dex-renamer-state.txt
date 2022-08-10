@@ -1,0 +1,4 @@
+#Tue May 03 15:22:25 BST 2022
+base.0=/home/james/New operators/FS1/app/build/intermediates/dex/debug/mergeDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex

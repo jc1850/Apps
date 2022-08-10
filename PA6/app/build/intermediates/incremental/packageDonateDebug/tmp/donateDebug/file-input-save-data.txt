@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Mon May 30 17:59:00 BST 2022
+3.set=ASSET
+3.path=ports.csv
+2.base=/home/james/newOps/Apps/PA6/app/build/intermediates/transforms/dexMerger/donate/debug/1
+0.path=oui.db
+count=4
+1.set=DEX
+2.path=classes.dex
+2.baseType=DIRECTORY
+0.base=/home/james/newOps/Apps/PA6/app/build/intermediates/merged_assets/donateDebug/mergeDonateDebugAssets/out
+2.set=DEX
+3.base=/home/james/newOps/Apps/PA6/app/build/intermediates/merged_assets/donateDebug/mergeDonateDebugAssets/out
+1.baseType=DIRECTORY
+3.baseType=DIRECTORY
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.base=/home/james/newOps/Apps/PA6/app/build/intermediates/transforms/dexMerger/donate/debug/0
+0.set=ASSET

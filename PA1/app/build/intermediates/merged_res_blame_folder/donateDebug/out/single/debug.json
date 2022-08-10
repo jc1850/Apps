@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable_scrollbar.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable/scrollbar.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_activity_dns.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/activity_dns.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-mdpi_ic_menu_white.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-mdpi/ic_menu_white.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable_button.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable/button.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_port_list_item.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/port_list_item.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_activity_main.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/menu_host_menu.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/menu/host_menu.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable_dialog_border.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable/dialog_border.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-xxxhdpi_icon.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/anim_layout_slide_in_bottom.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/anim/layout_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-xhdpi_icon.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/xml_preferences.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-xhdpi_ic_menu_white.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-xhdpi/ic_menu_white.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable_button_text.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable/button_text.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout-land_activity_main.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_activity_lanhost.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/activity_lanhost.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-xxhdpi_icon.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_activity_wanhost.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/activity_wanhost.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_checkbox.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/checkbox.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-xxxhdpi_ic_menu_white.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-xxxhdpi/ic_menu_white.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-xxhdpi_ic_menu_white.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-xxhdpi/ic_menu_white.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable_cell_shape.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable/cell_shape.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/anim_slide_in_bottom.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_port_range.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/port_range.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-hdpi_ic_menu_white.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-hdpi/ic_menu_white.png"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/layout_host_list_item.xml.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/layout/host_list_item.xml"
+    },
+    {
+        "merged": "/home/jcallan/TestApps/Apps/PA1/app/build/intermediates/res/merged/donate/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/jcallan/TestApps/Apps/PA1/app/src/main/res/drawable-ldpi/icon.png"
+    }
+]
