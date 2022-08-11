@@ -72,6 +72,7 @@ public class FeatureImageTest {
         assert image.alphaAnimator.isStarted();
         PropertyValuesHolder[] values = image.alphaAnimator.getValues();
         assert values[0].toString().equals(":  0  255  ");
+        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
 
 }
