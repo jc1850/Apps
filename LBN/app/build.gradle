@@ -1,0 +1,137 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
+apply plugin: "kotlin-android-extensions"
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion project.targetSdkVersion
+    buildToolsVersion project.buildToolsVersion
+
+    defaultConfig {
+        minSdkVersion project.minSdkVersion
+        targetSdkVersion project.targetSdkVersion
+        versionName project.versionName
+        vectorDrawables.useSupportLibrary = true
+    }
+
+//    sourceSets {
+//        lightningPlus.setRoot('src/LightningPlus')
+//        lightningLite.setRoot('src/LightningLite')
+//    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles 'proguard-project.txt'
+        }
+
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles 'proguard-project.txt'
+        }
+    }
+
+
+
+/*    productFlavors {
+        lightningPlus {
+            buildConfigField "boolean", "FULL_VERSION", "Boolean.parseBoolean(\"true\")"
+            applicationId "acr.browser.lightning"
+            versionCode project.versionCode_plus
+        }
+
+        lightningLite {
+            buildConfigField "boolean", "FULL_VERSION", "Boolean.parseBoolean(\"false\")"
+            applicationId "acr.browser.barebones"
+            versionCode project.versionCode_lite
+        }
+    }*/
+
+    lintOptions {
+        abortOnError true
+    }
+
+    packagingOptions {
+        exclude '.readme'
+    }
+
+    testOptions {
+        unitTests{
+            includeAndroidResources = true
+        }
+        unitTests.all {
+
+            testLogging {
+                events "passed", "skipped", "failed", "standardOut", "standardError"
+            }
+
+
+        }
+    }
+    flavorDimensions 'main'
+}
+
+
+dependencies {
+    testImplementation 'junit:junit:4.12'
+
+    // support libraries
+    def supportLibVersion = '25.4.0'
+    implementation "com.android.support:palette-v7:$supportLibVersion"
+    implementation "com.android.support:appcompat-v7:$supportLibVersion"
+    implementation "com.android.support:design:$supportLibVersion"
+    implementation "com.android.support:recyclerview-v7:$supportLibVersion"
+    implementation "com.android.support:support-v4:$supportLibVersion"
+
+    // html parsing for reading mode
+    implementation 'org.jsoup:jsoup:1.10.2'
+
+    // dependency injection
+    def daggerVersion = '2.11'
+    implementation "com.google.dagger:dagger:$daggerVersion"
+    kapt "com.google.dagger:dagger-compiler:$daggerVersion"
+//    annotationProcessor "com.google.dagger:dagger-compiler:$daggerVersion"
+//    compileOnly 'javax.annotation:jsr250-api:1.0'
+    implementation 'javax.annotation:javax.annotation-api:1.3.2'
+    annotationProcessor("javax.annotation:javax.annotation-api:1.3.2")
+
+    kapt 'javax.annotation:javax.annotation-api:1.3.2'
+
+    // view binding
+    def butterknifeVersion = '8.6.0'
+    implementation "com.jakewharton:butterknife:$butterknifeVersion"
+//    annotationProcessor "com.jakewharton:butterknife-compiler:$butterknifeVersion"
+
+    // permissions
+    implementation 'com.anthonycr.grant:permissions:1.1.2'
+
+    // proxy support
+    implementation 'net.i2p.android:client:0.8'
+
+    implementation 'com.squareup.okhttp3:okhttp:3.8.0'
+
+    // tor proxy
+    def netcipherVersion = '2.0.0-alpha1'
+    implementation "info.guardianproject.netcipher:netcipher:$netcipherVersion"
+    implementation "info.guardianproject.netcipher:netcipher-webkit:$netcipherVersion"
+
+    implementation 'com.anthonycr.bonsai:bonsai:1.1.0'
+
+    implementation 'com.anthonycr.progress:animated-progress:1.0'
+
+    // memory leak analysis
+    def leakCanaryVersion = '1.5.1'
+    debugImplementation "com.squareup.leakcanary:leakcanary-android:$leakCanaryVersion"
+    releaseImplementation "com.squareup.leakcanary:leakcanary-android-no-op:$leakCanaryVersion"
+
+    // Kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    testImplementation 'androidx.test:core:1.4.0'
+    testImplementation 'org.robolectric:robolectric:4.7.2'
+    testImplementation 'org.awaitility:awaitility:4.2.0'
+    testImplementation 'androidx.test:rules:1.2.0'
+}
