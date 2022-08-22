@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_dns.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/activity_dns.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/port_list_item.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/port_list_item.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/host_list_item.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/host_list_item.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/wake_on_lan.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/wake_on_lan.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_lanhost.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/activity_lanhost.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/checkbox.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/checkbox.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_wanhost.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/activity_wanhost.xml"
+    },
+    {
+        "merged": "/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/port_range.xml",
+        "source": "/home/james/newOps/Apps/curr/PortAuthority/app/src/main/res/layout/port_range.xml"
+    }
+]
