@@ -147,4 +147,9 @@ public class BookmarkExporterTest {
 
     }
 
+    @After
+    public void tearDown() {
+        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
+    }
+
 }

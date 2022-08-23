@@ -78,6 +78,11 @@ public class ScanPortsAsyncTaskTest {
 
     }
 
+    @After
+    public void tearDown() {
+        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
+    }
+
 
 
 
@@ -119,8 +124,5 @@ class TestHostAsyncResponse extends HostActivity implements HostAsyncResponse  {
         finished = true;
     }
 
-    @After
-    public void tearDown() {
-        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
-    }
+
 }
