@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -904521732
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /home/james/newOps/Apps/frozenbubbleandroid/app/build/.cxx/Debug/21o4cc1u/x86/android_gradle_build.json due to:",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -267367023
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /home/james/newOps/Apps/frozenbubbleandroid/app/build/.cxx/Debug/21o4cc1u/x86/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 861277035
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /home/james/newOps/Apps/frozenbubbleandroid/app/build/.cxx/Debug/21o4cc1u/x86/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1895278967
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1732570614
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/home/james/newOps/Apps/frozenbubbleandroid/app/build/.cxx/Debug/21o4cc1u/x86\u0027",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1782653328
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild Executable : /home/james/Android/Sdk/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003d/home/james/newOps/Apps/frozenbubbleandroid/app/build/intermediates/cxx/Debug/21o4cc1u/obj\nNDK_LIBS_OUT\u003d/home/james/newOps/Apps/frozenbubbleandroid/app/build/intermediates/cxx/Debug/21o4cc1u/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -589408791
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : /home/james/Android/Sdk/ndk/21.4.7075529/ndk-build\narguments : \nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk\nAPP_ABI\u003dx86\nNDK_ALL_ABIS\u003dx86\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-16\nNDK_OUT\u003d/home/james/newOps/Apps/frozenbubbleandroid/app/build/intermediates/cxx/Debug/21o4cc1u/obj\nNDK_LIBS_OUT\u003d/home/james/newOps/Apps/frozenbubbleandroid/app/build/intermediates/cxx/Debug/21o4cc1u/lib\nAPP_SHORT_COMMANDS\u003dfalse\nLOCAL_SHORT_COMMANDS\u003dfalse\n-B\n-n\njvmArgs : \n\n",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1950630340
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 175087301
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2039933867
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /home/james/newOps/Apps/frozenbubbleandroid/app/build/.cxx/Debug/21o4cc1u/x86/metadata_generation_command.txt",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -92060987
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -936669849
+  }
+]

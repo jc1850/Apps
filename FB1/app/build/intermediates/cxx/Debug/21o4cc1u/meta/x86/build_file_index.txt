@@ -1,0 +1,1 @@
+/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/Android.mk
