@@ -1,0 +1,60 @@
+{
+  "buildFiles": [
+    "/home/james/newOps/Apps/curr/FBN/app/src/main/jni/Android.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/james/Android/Sdk/ndk/21.4.7075529/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/home/james/newOps/Apps/curr/FBN/app/src/main/jni/Android.mk",
+      "APP_ABI\u003darm64-v8a",
+      "NDK_ALL_ABIS\u003darm64-v8a",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-16",
+      "NDK_OUT\u003d/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/obj",
+      "NDK_LIBS_OUT\u003d/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/james/Android/Sdk/ndk/21.4.7075529/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/home/james/newOps/Apps/curr/FBN/app/src/main/jni/Android.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-16",
+    "NDK_OUT\u003d/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/obj",
+    "NDK_LIBS_OUT\u003d/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "modplug-1.0-debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/home/james/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/james/newOps/Apps/curr/FBN/app/src/main/jni/Android.mk",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-16",
+        "NDK_OUT\u003d/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/obj",
+        "NDK_LIBS_OUT\u003d/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/lib",
+        "/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/obj/local/arm64-v8a/libmodplug-1.0.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "modplug-1.0",
+      "output": "/home/james/newOps/Apps/curr/FBN/app/build/intermediates/cxx/Debug/546273l2/obj/local/arm64-v8a/libmodplug-1.0.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cppCompilerExecutable": "/home/james/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

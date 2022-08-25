@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.fdroid.fdroid.RepoXMLHandlerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-25T16:10:58" hostname="james-HP-ProDesk-400-G6-MT" time="30.739">
+  <properties/>
+  <testcase name="bandTest" classname="org.fdroid.fdroid.RepoXMLHandlerTest" time="30.739"/>
+  <system-out><![CDATA[resources.arsc in APK '/home/james/.m2/repository/org/robolectric/android-all-instrumented/12-robolectric-7732740-i3/android-all-instrumented-12-robolectric-7732740-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+System.logW: No Compatibility callbacks set! Querying change 171228096
+]]></system-err>
+</testsuite>
