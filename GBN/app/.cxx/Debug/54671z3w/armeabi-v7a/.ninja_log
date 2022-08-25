@@ -1,0 +1,19 @@
+# ninja log v5
+1	110	681136533	CMakeFiles/tiny-edhc.dir/ecdh_jni.c.o	b058c28bb010e42d
+6	133	681136533	CMakeFiles/tiny-edhc.dir/ecdh.c.o	484d42819983b417
+133	260	681136533	C:/Users/jcall/StudioProjects/Gadgetbridge/app/build/intermediates/cxx/Debug/54671z3w/obj/armeabi-v7a/libtiny-edhc.so	694f524b70a76d05
+0	11	0	clean	69f7c371f28c6b5c
+0	10	0	clean	69f7c371f28c6b5c
+0	11	0	clean	69f7c371f28c6b5c
+0	8	0	clean	69f7c371f28c6b5c
+0	9	0	clean	69f7c371f28c6b5c
+0	8	0	clean	69f7c371f28c6b5c
+0	9	0	clean	69f7c371f28c6b5c
+0	8	0	clean	69f7c371f28c6b5c
+0	8	0	clean	69f7c371f28c6b5c
+0	9	0	clean	69f7c371f28c6b5c
+0	9	0	clean	69f7c371f28c6b5c
+0	9	0	clean	69f7c371f28c6b5c
+6	90	681138482	CMakeFiles/tiny-edhc.dir/ecdh_jni.c.o	b058c28bb010e42d
+1	111	681138482	CMakeFiles/tiny-edhc.dir/ecdh.c.o	484d42819983b417
+111	221	681138482	C:/Users/jcall/StudioProjects/Gadgetbridge/app/build/intermediates/cxx/Debug/54671z3w/obj/armeabi-v7a/libtiny-edhc.so	694f524b70a76d05

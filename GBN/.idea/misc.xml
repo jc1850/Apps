@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jcall/StudioProjects/Gadgetbridge/app/src/main/res/layout/activity_appinstaller.xml" value="0.25" />
+        <entry key="..\:/Users/jcall/StudioProjects/Gadgetbridge/app/src/main/res/layout/activity_appmanager.xml" value="0.2" />
+        <entry key="..\:/Users/jcall/StudioProjects/Gadgetbridge/app/src/main/res/layout/activity_fragmentappmanager.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

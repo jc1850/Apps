@@ -1,0 +1,1 @@
+C:\Users\jcall\StudioProjects\Gadgetbridge\app\src\main\c\CMakeLists.txt

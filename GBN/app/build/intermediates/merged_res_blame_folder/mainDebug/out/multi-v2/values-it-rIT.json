@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jcall\\StudioProjects\\Gadgetbridge\\app\\build\\intermediates\\incremental\\mergeMainDebugResources\\merged.dir\\values-it-rIT\\values-it-rIT.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\8189f884a9482372161b674189f7f364\\transformed\\jetified-colorpicker-1.0.2\\res\\values-it-rIT\\values-it-rIT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,109,175,227,276",
+                        "endColumns": "53,65,51,48,56",
+                        "endOffsets": "104,170,222,271,328"
+                    }
+                }
+            ]
+        }
+    ]
+}
