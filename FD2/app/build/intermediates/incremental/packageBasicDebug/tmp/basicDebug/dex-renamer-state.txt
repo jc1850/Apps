@@ -1,0 +1,4 @@
+#Fri Apr 08 17:34:31 BST 2022
+base.0=/home/james/New operators/Apps/fdroidTvClient/app/build/intermediates/dex/basicDebug/minifyBasicDebugWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
