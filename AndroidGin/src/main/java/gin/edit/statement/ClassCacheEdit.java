@@ -101,6 +101,24 @@ public class ClassCacheEdit extends StatementEdit {
         };
         sft = sft.addFieldDeclaration(ttype, "ginCache" + cacheNo, Modifier.Keyword.PRIVATE);
 
+        int ind = 0;
+        for (Integer i : sft.allNodes.keySet()) {
+            Node node = sft.allNodes.get(i);
+            if (node==null) {
+                continue;
+            }
+            if (node.getClass().equals(MethodCallExpr.class)){
+                if (node.toString().equals(method)) {
+                    if (! node.getParentNode().get().toString().contains(cacheNo.toString())) {
+                        if (toCache.contains(ind)) {
+                            sft = sft.replaceNode(i, new NameExpr("ginCache" + cacheNo));
+                        }
+                        ind++;
+                    }
+                }
+            }
+        }
+
         //If null assign
 
         IfStmt ifStmt = new IfStmt();
@@ -121,12 +139,14 @@ public class ClassCacheEdit extends StatementEdit {
         ifStmt = ifStmt.clone();
 
         // add if statement replace method calls
-        int ind = 0;
+        ind = 0;
+
+
 
         for (Integer i : parentNodeIDs){
             Node parentNode =(MethodDeclaration) sft.getNode(i);
-            for (Node node: parentNode.getChildNodesByType(MethodCallExpr.class)) {
-                if (node.toString().equals(method)) {
+            for (Node node: parentNode.getChildNodesByType(NameExpr.class)) {
+                if (node.toString().contains(cacheNo.toString())) {
                     if (toCache.contains(ind)) {
                         Node ancestor = node.getParentNode().get();
                         while (!(ancestor instanceof BlockStmt)) {
@@ -155,23 +175,7 @@ public class ClassCacheEdit extends StatementEdit {
                 }
             }
         }
-        ind = 0;
-        for (Integer i : parentNodeIDs) {
-            Node parentNode = (MethodDeclaration) sft.getNode(i);
-            for (Node node : parentNode.getChildNodesByType(MethodCallExpr.class)) {
-                if (node == null) {
-                    continue;
-                }
-                if (node.toString().equals(method)) {
-                    if (! parentNode.toString().contains(cacheNo.toString())) {
-                        if (toCache.contains(ind)) {
-                            sft = sft.replaceNode(i, new NameExpr("ginCache" + cacheNo));
-                        }
-                        ind++;
-                    }
-                }
-            }
-        }
+
         return  sft;
 
     }

@@ -65,7 +65,7 @@ public class SourceFileTree extends SourceFile {
      * to the original IDs
      */
     protected CompilationUnit compilationUnit;
-    private Map<Integer,Node> allNodes;
+    public Map<Integer,Node> allNodes;
     private Map<String,ResolvedType> typeCache;
     private List<Integer> allBlockIDs;
 
