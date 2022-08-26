@@ -1,3 +1,0 @@
-com/aaronjwood/portauthority/async/ScanPortsAsyncTaskTest.java
- com.aaronjwood.portauthority.async.ScanPortsAsyncTaskTest
- com.aaronjwood.portauthority.async.TestHostAsyncResponse

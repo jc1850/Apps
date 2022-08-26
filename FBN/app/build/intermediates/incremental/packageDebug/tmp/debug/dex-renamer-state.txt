@@ -1,7 +1,0 @@
-#Tue Aug 23 15:33:01 BST 2022
-base.1=/home/james/newOps/Apps/curr/FBN/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex
-path.1=classes2.dex
-base.0=/home/james/newOps/Apps/curr/FBN/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.1=classes2.dex
-renamed.0=classes.dex
-path.0=classes.dex

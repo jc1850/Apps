@@ -1,1 +1,0 @@
-C:\Users\jcall\StudioProjects\Gadgetbridge\app\build\intermediates\cxx\RelWithDebInfo\302237u2\obj\arm64-v8a

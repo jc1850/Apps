@@ -1,4 +1,0 @@
-/home/james/newOps/Apps/frozenbubbleandroid/app/src/main/jni/jni_stubs.cpp:364:15: warning: address of array 'samplebuffer' will always evaluate to 'true' [-Wpointer-bool-conversion]
-  if (size && samplebuffer && (smpsize || currsample < SAMPLEBUFFERSIZE)) {
-           ~~ ^~~~~~~~~~~~
-1 warning generated.

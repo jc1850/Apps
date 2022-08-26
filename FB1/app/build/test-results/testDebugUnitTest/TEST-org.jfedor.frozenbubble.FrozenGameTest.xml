@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.jfedor.frozenbubble.FrozenGameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-23T17:25:18" hostname="james-HP-ProDesk-400-G6-MT" time="1.261">
-  <properties/>
-  <testcase name="testPause" classname="org.jfedor.frozenbubble.FrozenGameTest" time="1.261"/>
-  <system-out><![CDATA[
-Gin Memory: 39826432
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

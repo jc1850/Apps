@@ -1,1 +1,0 @@
-/home/james/newOps/Apps/curr/FBN/app/src/main/jni/Android.mk

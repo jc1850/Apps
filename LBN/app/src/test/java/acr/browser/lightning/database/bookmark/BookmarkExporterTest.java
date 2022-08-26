@@ -20,6 +20,7 @@ import com.anthonycr.bonsai.Single;
 import com.anthonycr.bonsai.SingleOnSubscribe;
 import com.anthonycr.bonsai.Subscription;
 
+import org.junit.After;
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;

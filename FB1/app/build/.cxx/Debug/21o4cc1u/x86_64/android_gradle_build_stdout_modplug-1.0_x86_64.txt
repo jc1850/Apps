@@ -1,2 +1,0 @@
-[x86_64] Compile++      : modplug-1.0 <= jni_stubs.cpp
-[x86_64] SharedLibrary  : libmodplug-1.0.so

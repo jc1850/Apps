@@ -1,4 +1,0 @@
-#Thu Jul 07 15:11:31 BST 2022
-base.0=/home/james/newOps/Apps/curr/PortAuthority/app/build/intermediates/dex/donateDebug/mergeDexDonateDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
