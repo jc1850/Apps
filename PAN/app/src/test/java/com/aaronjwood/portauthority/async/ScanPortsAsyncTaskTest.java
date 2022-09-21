@@ -75,7 +75,7 @@ public class ScanPortsAsyncTaskTest {
         TestHostAsyncResponse finalDelegate2 = delegate;
         Awaitility.await().atMost(10, TimeUnit.SECONDS).until(() -> finalDelegate2.finished);
         assert ! delegate.errors;
-
+        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
 
     @After
