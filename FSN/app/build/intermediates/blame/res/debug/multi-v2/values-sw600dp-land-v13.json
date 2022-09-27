@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/james/Apps/fosdem-companion-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/james/Apps/fosdem-companion-android/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "51",
+                        "endOffsets": "103"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "101",
+                        "endColumns": "51",
+                        "endOffsets": "148"
+                    }
+                },
+                {
+                    "source": "/home/james/Apps/fosdem-companion-android/app/src/main/res/values-sw600dp-land/bools.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "45",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}

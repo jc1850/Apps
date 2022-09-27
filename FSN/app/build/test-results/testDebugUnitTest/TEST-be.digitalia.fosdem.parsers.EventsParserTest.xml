@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="be.digitalia.fosdem.parsers.EventsParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-27T15:52:28" hostname="james-HP-ProDesk-400-G6-MT" time="2.205">
+  <properties/>
+  <testcase name="test1" classname="be.digitalia.fosdem.parsers.EventsParserTest" time="2.205"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK '/home/james/.m2/repository/org/robolectric/android-all-instrumented/10-robolectric-5803371-i3/android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
