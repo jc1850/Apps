@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/video_loading_progress.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/video_loading_progress.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/tab_list_item_horizontal.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/tab_list_item_horizontal.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/simple_list_item.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/simple_list_item.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/list_dialog.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/list_dialog.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_manual_proxy.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_manual_proxy.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/browser_activity.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/browser_activity.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_ssl_info.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_ssl_info.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/toolbar.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/tab_drawer.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/tab_drawer.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/tab_strip.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/tab_strip.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_edit_bookmark.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_edit_bookmark.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/search.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/search.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_ssl_warning.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_ssl_warning.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_list_item.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_list_item.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_auth_request.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_auth_request.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/bookmark_list_item.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/bookmark_list_item.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/bookmark_drawer.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/bookmark_drawer.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/two_line_autocomplete.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/two_line_autocomplete.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_seek_bar.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_seek_bar.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/reading_view.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/reading_view.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/dialog_edit_text.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/dialog_edit_text.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/toolbar_settings.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/toolbar_settings.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/search_interface.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/search_interface.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/toolbar_content.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/toolbar_content.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/tab_list_item.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/tab_list_item.xml"
+    },
+    {
+        "merged": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/stripped.dir/layout/browser_content.xml",
+        "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/layout/browser_content.xml"
+    }
+]

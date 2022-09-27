@@ -28,7 +28,6 @@
     <string name="location">Acesso de localização</string>
     <string name="password">Guardar palavras-passe</string>
     <string name="agent">Agente</string>
-    <string name="flash">Ativar Adobe Flash</string>
     <string name="home">Página inicial</string>
     <string name="fullscreen">Modo de ecrã completo</string>
     <string name="java">Ativar JavaScript</string>
@@ -41,7 +40,6 @@
     <string name="block">Bloquear imagens</string>
     <string name="window">Permitir que os sites abram novas janelas</string>
     <string name="cookies">Ativar cookies</string>
-    <string name="importbookmarks">Importar marcadores do navegador</string>
     <string name="size">Tamanho do texto</string>
     <string name="recommended">Recomendado</string>
     <string name="search">Motor de pesquisa</string>
@@ -110,7 +108,6 @@
     <string name="download_sdcard_busy_dlg_title">Cartão SD não disponível</string>
     <string name="download_sdcard_busy_dlg_msg">O cartão SD está ocupado. Para poder descarregar ficheiros, desative a opção Desativar armazenamento USB na notificação.</string>
     <string name="incognito_cookies">Permitir cookies no modo incógnito</string>
-    <string name="title_flash">Adobe Flash</string>
     <string name="action_manual">Manual</string>
     <string name="action_auto">Automático</string>
     <string name="action_follow_me">Contactos</string>
@@ -173,7 +170,7 @@
     <string name="freeware">Freeware</string>
     <string name="android_open_source_project">Projeto Android Open Source</string>
     <string name="hphosts_ad_server_list">hpHosts Ad Server List</string>
-    <string name="deleted_tab">Reabrir último separador</string>
+    <string name="reopening_recent_tab">Reabrir último separador</string>
     <string name="rendering_mode">Modo de processamento</string>
     <string name="name_inverted">Invertido</string>
     <string name="name_grayscale">Escala de cinzento</string>

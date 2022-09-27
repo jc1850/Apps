@@ -5,8 +5,6 @@ import android.app.Application;
 import android.content.Context;
 import android.os.Build;
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.util.Log;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
@@ -14,11 +12,16 @@ import android.view.inputmethod.InputMethodManager;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-public class MemoryLeakUtils {
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+
+public final class MemoryLeakUtils {
 
     private static final String TAG = "MemoryLeakUtils";
 
     @Nullable private static Method sFinishInputLocked = null;
+
+    private MemoryLeakUtils() {}
 
     /**
      * Clears the mNextServedView and mServedView in
@@ -28,7 +31,7 @@ public class MemoryLeakUtils {
      *                    the InputMethodManager that is
      *                    leaking the views.
      */
-    public static void clearNextServedView(Activity activity, @NonNull Application application) {
+    public static void clearNextServedView(@NonNull Activity activity, @NonNull Application application) {
 
         if (Build.VERSION.SDK_INT > Build.VERSION_CODES.M) {
             // This shouldn't be a problem on N
@@ -71,27 +74,28 @@ public class MemoryLeakUtils {
 
     }
 
+    @SuppressWarnings("NoopMethodInAbstractClass")
     public static abstract class LifecycleAdapter implements Application.ActivityLifecycleCallbacks {
         @Override
-        public void onActivityCreated(Activity activity, Bundle savedInstanceState) {}
+        public void onActivityCreated(@NonNull Activity activity, Bundle savedInstanceState) {}
 
         @Override
-        public void onActivityStarted(Activity activity) {}
+        public void onActivityStarted(@NonNull Activity activity) {}
 
         @Override
-        public void onActivityResumed(Activity activity) {}
+        public void onActivityResumed(@NonNull Activity activity) {}
 
         @Override
-        public void onActivityPaused(Activity activity) {}
+        public void onActivityPaused(@NonNull Activity activity) {}
 
         @Override
-        public void onActivityStopped(Activity activity) {}
+        public void onActivityStopped(@NonNull Activity activity) {}
 
         @Override
-        public void onActivitySaveInstanceState(Activity activity, Bundle outState) {}
+        public void onActivitySaveInstanceState(@NonNull Activity activity, @NonNull Bundle outState) {}
 
         @Override
-        public void onActivityDestroyed(Activity activity) {}
+        public void onActivityDestroyed(@NonNull Activity activity) {}
     }
 
 

@@ -5,7 +5,6 @@
     <string name="location">الوصول إلى موقعك</string>
     <string name="password">حفظ كلمات السر</string>
     <string name="agent">وكيل المستخدم</string>
-    <string name="flash">تفعيل مشغل الفلاش</string>
     <string name="home">الصفحة الرئيسية</string>
     <string name="fullscreen">وضع ملء الشاشة</string>
     <string name="java">تفعيل الجافا</string>
@@ -18,7 +17,6 @@
     <string name="block">حظر الصور</string>
     <string name="window">السماح للمواقع بالفتح في نوافذ جديدة</string>
     <string name="cookies">تفعيل ملفات تعريف الارتباط</string>
-    <string name="importbookmarks">استيراد العلامات المرجعية من المتصفح</string>
     <string name="size">حجم النص</string>
     <string name="recommended">(مستحسن)</string>
     <string name="search">محرك البحث</string>

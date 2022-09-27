@@ -14,7 +14,6 @@
     <string name="location">位置情報の使用を許可する</string>
     <string name="password">パスワードを記憶する</string>
     <string name="agent">ユーザーエージェント</string>
-    <string name="flash">Adobe Flash を有効にする</string>
     <string name="home">ホームページ</string>
     <string name="fullscreen">全画面モード</string>
     <string name="java">JavaScript を有効にする</string>
@@ -27,7 +26,6 @@
     <string name="block">画像を読み込まない</string>
     <string name="window">サイトが新しいタブを開くことを許可する</string>
     <string name="cookies">Cookie を有効にする</string>
-    <string name="importbookmarks">他のブラウザからブックマークをインポートする</string>
     <string name="size">文字サイズ</string>
     <string name="recommended">推奨</string>
     <string name="search">検索エンジン</string>
@@ -97,7 +95,6 @@
     <string name="download_sdcard_busy_dlg_title">USB ストレージが使用できません</string>
     <string name="download_sdcard_busy_dlg_msg">ストレージがビジー状態です。ダウンロードするには、ステータスバーの \"USB ストレージをオフにする\" をタップしてください</string>
     <string name="incognito_cookies">シークレットタブで Cookie を有効にする</string>
-    <string name="title_flash">Adobe Flash</string>
     <string name="action_manual">手動</string>
     <string name="action_auto">自動</string>
     <string name="action_follow_me">問い合わせ先</string>
@@ -162,7 +159,7 @@
     <string name="freeware">Freeware</string>
     <string name="android_open_source_project">Android Open Source Project</string>
     <string name="hphosts_ad_server_list">hpHosts Ad Server List</string>
-    <string name="deleted_tab">閉じたタブを元に戻す</string>
+    <string name="reopening_recent_tab">閉じたタブを元に戻す</string>
     <string name="rendering_mode">レンダリングモード</string>
     <string name="name_inverted">色の反転</string>
     <string name="name_grayscale">グレースケール</string>
@@ -227,7 +224,6 @@
     <string name="action_add_to_homescreen">ホーム画面に追加</string>
     <string name="message_added_to_homescreen">ホーム画面にショートカットを追加しました</string>
     <string name="action_delete_all_bookmarks">すべてのブックマークを削除する</string>
-    <string name="flash_not_supported">このシステムは Flash Player をサポートしていません</string>
     <string name="upsell_plus_version">広告をブロックするには Lightning Plus へアップグレードしてください</string>
     <string name="message_open_download_fail">このファイルは存在しません</string>
 

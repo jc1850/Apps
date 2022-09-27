@@ -5,26 +5,25 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
-import android.graphics.Color;
 import android.graphics.ColorFilter;
 import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffColorFilter;
 import android.graphics.drawable.Drawable;
-import android.os.Build;
-import android.support.annotation.AttrRes;
-import android.support.annotation.ColorInt;
-import android.support.annotation.DrawableRes;
-import android.support.annotation.NonNull;
-import android.support.v4.content.ContextCompat;
-import android.support.v4.graphics.drawable.DrawableCompat;
 import android.util.TypedValue;
 
 import acr.browser.lightning.R;
+import androidx.annotation.AttrRes;
+import androidx.annotation.ColorInt;
+import androidx.annotation.DrawableRes;
+import androidx.annotation.NonNull;
+import androidx.core.content.ContextCompat;
 
-public class ThemeUtils {
+public final class ThemeUtils {
 
     private static final TypedValue sTypedValue = new TypedValue();
+
+    private ThemeUtils() {}
 
     /**
      * Gets the primary color of the current theme.
@@ -94,7 +93,7 @@ public class ThemeUtils {
      * @return the color of the icon.
      */
     @ColorInt
-    public static int getIconLightThemeColor(@NonNull Context context) {
+    private static int getIconLightThemeColor(@NonNull Context context) {
         return ContextCompat.getColor(context, R.color.icon_light_theme);
     }
 
@@ -105,7 +104,7 @@ public class ThemeUtils {
      * @return the color of the icon.
      */
     @ColorInt
-    public static int getIconDarkThemeColor(@NonNull Context context) {
+    private static int getIconDarkThemeColor(@NonNull Context context) {
         return ContextCompat.getColor(context, R.color.icon_dark_theme);
     }
 
@@ -125,19 +124,12 @@ public class ThemeUtils {
 
     @NonNull
     private static Drawable getVectorDrawable(@NonNull Context context, int drawableId) {
-        Drawable drawable = ContextCompat.getDrawable(context, drawableId);
-
-        Preconditions.checkNonNull(drawable);
-
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.LOLLIPOP) {
-            drawable = (DrawableCompat.wrap(drawable)).mutate();
-        }
-        return drawable;
+        return ContextCompat.getDrawable(context, drawableId);
     }
 
     // http://stackoverflow.com/a/38244327/1499541
     @NonNull
-    private static Bitmap getBitmapFromVectorDrawable(@NonNull Context context, int drawableId) {
+    public static Bitmap getBitmapFromVectorDrawable(@NonNull Context context, int drawableId) {
         Drawable drawable = getVectorDrawable(context, drawableId);
 
         Bitmap bitmap = Bitmap.createBitmap(drawable.getIntrinsicWidth(), drawable.getIntrinsicHeight(),
@@ -160,7 +152,7 @@ public class ThemeUtils {
      * @return a themed icon.
      */
     @NonNull
-    public static Bitmap getThemedBitmap(@NonNull Context context, @DrawableRes int res, boolean dark) {
+    public static Bitmap createThemedBitmap(@NonNull Context context, @DrawableRes int res, boolean dark) {
         int color = dark ? getIconDarkThemeColor(context) : getIconLightThemeColor(context);
 
         Bitmap sourceBitmap = getBitmapFromVectorDrawable(context, res);
@@ -173,38 +165,6 @@ public class ThemeUtils {
         canvas.drawBitmap(sourceBitmap, 0, 0, p);
         sourceBitmap.recycle();
         return resultBitmap;
-    }
-
-    /**
-     * Gets the icon with an applied color filter
-     * for the correct theme.
-     *
-     * @param context the context to use.
-     * @param res     the drawable resource to use.
-     * @param dark    true for icon suitable for use with a dark theme,
-     *                false for icon suitable for use with a light theme.
-     * @return a themed icon.
-     */
-    @NonNull
-    public static Drawable getThemedDrawable(@NonNull Context context, @DrawableRes int res, boolean dark) {
-        int color = dark ? getIconDarkThemeColor(context) : getIconLightThemeColor(context);
-
-        final Drawable drawable = getVectorDrawable(context, res);
-        drawable.mutate();
-        drawable.setColorFilter(color, PorterDuff.Mode.SRC_IN);
-        return drawable;
-    }
-
-    /**
-     * The text hint color for dark theme or light theme.
-     *
-     * @param dark true for a text color suitable for use with a dark theme,
-     *             false for a text color suitable for use with a light theme.
-     * @return a text color.
-     */
-    @ColorInt
-    public static int getThemedTextHintColor(boolean dark) {
-        return 0x80ffffff & (dark ? Color.WHITE : Color.BLACK);
     }
 
     /**

@@ -1,0 +1,51 @@
+package com.anthonycr.mezzanine;
+
+import java.lang.Override;
+import java.lang.String;
+
+public final class MezzanineGenerator {
+  private MezzanineGenerator() {
+  }
+
+  public static class ListPageReader implements acr.browser.lightning.html.ListPageReader {
+    @Override
+    public String provideHtml() {
+      return "<!DOCTYPE html>\n<html xmlns=http://www.w3.org/1999/xhtml>\n\n<head>\n    <meta content=en-us http-equiv=Content-Language/>\n    <meta content='text/html; charset=utf-8' http-equiv=Content-Type/>\n    <meta name=viewport\n          content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>\n    <title>\n\n    </title>\n</head>\n<style>\n    :root {\n        --body-bg: {COLOR}\n        --divider-color: {COLOR}\n        --title-color: {COLOR}\n        --subtitle-color: {COLOR}\n    }\n\n    body,\n    html {\n        margin: 0px;\n        padding: 0px;\n        background-color: var(--body-bg);\n    }\n    \n    .box {\n        vertical-align: middle;\n        position: relative;\n        display: block;\n        margin: 0px;\n        padding-left: 14px;\n        padding-right: 14px;\n        padding-top: 9px;\n        padding-bottom: 9px;\n        border-bottom: 1px solid var(--divider-color);\n        font-family: Arial;\n        color: #444;\n        font-size: 12px;\n    }\n    \n    .box a {\n        width: 100%;\n        height: 100%;\n        position: absolute;\n        left: 0;\n        top: 0;\n    }\n    \n    .black {\n        color: var(--title-color);\n        font-size: 15px;\n        font-family: Arial;\n        white-space: nowrap;\n        overflow: hidden;\n        margin: auto;\n        text-overflow: ellipsis;\n        -o-text-overflow: ellipsis;\n        -ms-text-overflow: ellipsis;\n    }\n    \n    .font {\n        color: var(--subtitle-color);\n        font-size: 10px;\n        font-family: Arial;\n        white-space: nowrap;\n        overflow: hidden;\n        margin: auto;\n        text-overflow: ellipsis;\n        -o-text-overflow: ellipsis;\n        -ms-text-overflow: ellipsis;\n    }\n</style>\n\n<body>\n<div id=\"content\">\n\n    <div id=repeated class=box>\n        <a href='${URL}'></a>\n        <p id='title' class='black'>${TITLE}</p>\n        <p id='url' class='font'>${URL}</p>\n    </div>\n\n</div>\n</body>\n\n</html>\n";
+    }
+  }
+
+  public static class HomePageReader implements acr.browser.lightning.html.homepage.HomePageReader {
+    @Override
+    public String provideHtml() {
+      return "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\n\n<head>\n    <meta content=\"en-us\" http-equiv=\"Content-Language\"/>\n    <meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"/>\n    <meta name=\"viewport\"\n          content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">\n    <title>${TITLE}</title>\n</head>\n<style>\n    :root {\n        --body-bg: {COLOR}\n        --box-bg: {COLOR}\n        --box-txt: {COLOR}\n    }\n\n    body {\n        background: var(--body-bg);\n        text-align: center;\n        margin: 0px;\n    }\n\n    input {\n        color: var(--box-txt);\n    }\n    \n    #search_input {\n        height: 35px;\n        width: 100%;\n        outline: none;\n        border: none;\n        font-size: 16px;\n        background-color: transparent;\n    }\n    \n    span {\n        display: block;\n        overflow: hidden;\n        padding-left: 5px;\n        vertical-align: middle;\n    }\n    \n    .search_bar {\n        display: table;\n        vertical-align: middle;\n        width: 90%;\n        height: 40px;\n        max-width: 500px;\n        margin: 0 auto;\n        background-color: var(--box-bg);\n        font-family: Arial;\n        color: var(--box-txt);\n        -moz-border-radius: 3px;\n        -webkit-border-radius: 3px;\n        border-radius: 3px;\n    }\n    \n    #search_submit {\n        outline: none;\n        height: 37px;\n        float: right;\n        color: var(--box-txt);\n        font-size: 16px;\n        font-weight: bold;\n        border: none;\n        background-color: transparent;\n    }\n    \n    .outer {\n        display: table;\n        position: absolute;\n        height: 100%;\n        width: 100%;\n    }\n    \n    .middle {\n        display: table-cell;\n        vertical-align: middle;\n    }\n    \n    .inner {\n        margin-left: auto;\n        margin-right: auto;\n        margin-bottom: 10%;\n        width: 100%;\n    }\n    \n    img.smaller {\n        width: 50%;\n        max-width: 300px;\n    }\n\n\n</style>\n\n<body>\n<div class=\"outer\">\n    <div class=\"middle\">\n        <div class=\"inner\">\n            <img id=\"image_url\" class=\"smaller\" src=\"${IMAGE}\">\n            </br>\n            </br>\n            <form onsubmit=\"return search()\" class=\"search_bar\" autocomplete=\"off\">\n                <input type=\"submit\" id=\"search_submit\" value=\"Search\">\n                <span>\n                        <input class=\"search\" type=\"text\" value=\"\" id=\"search_input\"/>\n                    </span>\n            </form>\n            </br>\n            </br>\n        </div>\n    </div>\n</div>\n<script type=\"text/javascript\">\n        function search() {\n            if (document.getElementById(\"search_input\").value != \"\") {\n                window.location.href = \"${BASE_URL}\" + document.getElementById(\"search_input\").value;\n                document.getElementById(\"search_input\").value = \"\";\n            }\n            return false;\n        }\n\n</script>\n</body>\n\n</html>\n";
+    }
+  }
+
+  public static class BookmarkPageReader implements acr.browser.lightning.html.bookmark.BookmarkPageReader {
+    @Override
+    public String provideHtml() {
+      return "<!DOCTYPE html>\n<html xmlns=http://www.w3.org/1999/xhtml>\n\n<head>\n    <meta content=en-us http-equiv=Content-Language>\n    <meta content='text/html; charset=utf-8' http-equiv=Content-Type>\n    <meta name=viewport\n          content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>\n    <title>\n        ${TITLE}\n    </title>\n</head>\n<style>\n    :root {\n        --body-bg: {COLOR}\n        --box-bg: {COLOR}\n        --box-txt: {COLOR}\n    }\n\n    body {\n        background: var(--body-bg);\n        padding-top: 5px;\n        max-width: 100%;\n        min-height: 100%\n    }\n\n    #content {\n        width: 100%;\n        max-width: 800px;\n        margin: 0 auto;\n        text-align: center\n    }\n    \n    .box {\n        vertical-align: middle;\n        text-align: center;\n        position: relative;\n        display: inline-block;\n        height: 45px;\n        width: 145px;\n        margin: 6px;\n        padding: 4px;\n        background-color: var(--box-bg);\n        font-family: Arial;\n        color: var(--box-txt);\n        font-size: 12px;\n        -moz-border-radius: 3px;\n        -webkit-border-radius: 3px;\n        border-radius: 3px\n    }\n    \n    .box-content {\n        height: 25px;\n        width: 100%;\n        vertical-align: middle;\n        text-align: center;\n        display: table-cell\n    }\n    \n    p.ellipses {\n        width: 130px;\n        font-size: small;\n        font-family: Arial, Helvetica, 'sans-serif';\n        white-space: nowrap;\n        overflow: hidden;\n        text-align: left;\n        vertical-align: middle;\n        margin: auto;\n        text-overflow: ellipsis;\n        -o-text-overflow: ellipsis;\n        -ms-text-overflow: ellipsis\n    }\n    \n    .box a {\n        width: 100%;\n        height: 100%;\n        position: absolute;\n        left: 0;\n        top: 0\n    }\n    \n    img {\n        vertical-align: middle;\n        margin-right: 10px;\n        width: 20px;\n        height: 20px;\n    }\n    \n    .margin {\n        margin: 10px\n    }\n\n\n</style>\n\n<body>\n<div id=content>\n\n    <div id=repeated class=box>\n        <a href='${URL}'></a>\n        <div class=margin>\n            <div class=box-content>\n                <p class=ellipses id=title>\n                    <img src='${IMAGE}'/>\n                </p>\n            </div>\n        </div>\n    </div>\n\n</div>\n</body>\n\n</html>\n";
+    }
+  }
+
+  public static class InvertPage implements acr.browser.lightning.js.InvertPage {
+    @Override
+    public String provideJs() {
+      return "(function () {\n    'use strict';\n    \n    var inverted = 'img {-webkit-filter: invert(100%);-moz-filter: invert(100%);-o-filter:  invert(100%);-ms-filter: invert(100%); }',\n        normal = 'html {-webkit-filter: invert(0%); -moz-filter: invert(0%); -o-filter: invert(0%); -ms-filter: invert(0%); }',\n        headElement = document.getElementsByTagName('head')[0],\n        styleElement = document.createElement('style'),\n        inversionToggle = inverted;\n    \n    if (!window.counter) {\n        window.counter = 1;\n    } else {\n        window.counter += 1;\n        if (window.counter % 2 === 0) {\n            inversionToggle = normal;\n        }\n    }\n    \n    styleElement.type = 'text/css';\n    \n    if (styleElement.styleSheet) {\n        styleElement.styleSheet.cssText = inversionToggle;\n    } else {\n        styleElement.appendChild(document.createTextNode(inversionToggle));\n    }\n\n    headElement.appendChild(styleElement);\n}());\n";
+    }
+  }
+
+  public static class TextReflow implements acr.browser.lightning.js.TextReflow {
+    @Override
+    public String provideJs() {
+      return "(function () {\n    'use strict';\n    \n    document.getElementsByTagName('body')[0].style.width = window.innerWidth + 'px';\n}());";
+    }
+  }
+
+  public static class ThemeColor implements acr.browser.lightning.js.ThemeColor {
+    @Override
+    public String provideJs() {
+      return "(function () {\n    'use strict';\n    \n    var metas, i, tag;\n    \n    metas = document.getElementsByTagName('meta');\n    \n    if (metas !== null) {\n        for (i = 0; i < metas.length; i += 1) {\n            \n            tag = metas[i].getAttribute('name');\n            \n            if (tag !== null && tag.toLowerCase() === 'theme-color') {\n                return metas[i].getAttribute('content');\n            }\n            \n            console.log(tag);\n        }\n    }\n\n    return '';\n}());\n";
+    }
+  }
+}

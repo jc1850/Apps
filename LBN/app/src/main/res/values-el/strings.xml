@@ -13,7 +13,6 @@
     <string name="location">Πρόσβαση σε τοποθεσία</string>
     <string name="password">Αποθήκευση κωδικών</string>
     <string name="agent">User Agent</string>
-    <string name="flash">Ενεργοποίηση Adobe Flash</string>
     <string name="home">Αρχική σελίδα</string>
     <string name="fullscreen">Λειτουργία πλήρης οθόνης</string>
     <string name="java">Ενεργοποίηση JavaScript</string>
@@ -26,7 +25,6 @@
     <string name="block">Μπλοκάρισμα εικόνων</string>
     <string name="window">Να επιτρέπεται στις σελίδες να ανοίγουν νέα παράθυρα</string>
     <string name="cookies">Ενεργοποίηση Cookies</string>
-    <string name="importbookmarks">Εισαγωγή σελιδοδεικτών απο άλλον Browser</string>
     <string name="size">Μέγεθος κειμένου</string>
     <string name="recommended">Συνιστάται</string>
     <string name="search">Μηχανή αναζήτησης</string>
@@ -90,7 +88,6 @@
     <string name="download_sdcard_busy_dlg_title">USB storage μη διαθέσιμο</string>
     <string name="download_sdcard_busy_dlg_msg" >Η συσκευή αποθήκευσης είναι απασχολημένη. Για να επιτρέψετε λήψεις πατήστε το Κλείσιμο USB Storage στις ειδοποιήσεις.</string>
     <string name="incognito_cookies">Ενεργοποίηση Cookies στην Ανώνυμη περιήγηση</string>
-    <string name="title_flash">Adobe Flash</string>
     <string name="action_manual">Χειροκίνητα</string>
     <string name="action_auto">Αυτόματα</string>
     <string name="action_follow_me">Επικοινωνήστε μαζί μου</string>
@@ -131,7 +128,7 @@
     <string name="freeware">Freeware</string>
     <string name="android_open_source_project">Android Open Source Project</string>
     <string name="hphosts_ad_server_list">hpHosts Ad Server List</string>
-    <string name="deleted_tab">Άνοιγμα παλιάς καρτέλας</string>
+    <string name="reopening_recent_tab">Άνοιγμα παλιάς καρτέλας</string>
     <string name="rendering_mode">Rendering</string>
     <string name="name_inverted">Inverted</string>
     <string name="name_grayscale">Grayscale</string>

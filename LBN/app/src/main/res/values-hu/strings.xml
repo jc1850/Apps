@@ -29,7 +29,6 @@
     <string name="location">Hely hozzáférés</string>
     <string name="password">Jelszavak mentése</string>
     <string name="agent">Felhasználó Ügynök</string>
-    <string name="flash">Adobe Flash bekapcsolása</string>
     <string name="home">Főoldal</string>
     <string name="fullscreen">Teljes képernyős mód</string>
     <string name="java">JavaScript bekapcsolása</string>
@@ -42,7 +41,6 @@
     <string name="block">Képek blokkolása</string>
     <string name="window">Engedélyezés,hogy a webhelyek új lapot nyithassanak meg</string>
     <string name="cookies">Cookie-k bekapcsolása</string>
-    <string name="importbookmarks">Könyvjelzők importálása a Böngészőből</string>
     <string name="size">Szövegméret</string>
     <string name="recommended">Ajánlott</string>
     <string name="search">Keresőmotor</string>
@@ -111,7 +109,6 @@
     <string name="download_sdcard_busy_dlg_title">USB-tár nem elérhető</string>
     <string name="download_sdcard_busy_dlg_msg" >A tároló dolgozik.Hogy engedélyezze a letöltéseket , érintse meg az USB-tár kikapcsolását az értesítésnél.</string>
     <string name="incognito_cookies">Cookie-k engedélyezése inkognitó módban</string>
-    <string name="title_flash">Adobe Flash</string>
     <string name="action_manual">Kézi</string>
     <string name="action_auto">Automata</string>
     <string name="action_follow_me">Vedd fel velem a kapcsolatot</string>
@@ -172,7 +169,7 @@
     <string name="freeware">Freeware</string>
     <string name="android_open_source_project">Android Open Source Project</string>
     <string name="hphosts_ad_server_list">hpHosts Ad Server Lista</string>
-    <string name="deleted_tab">Régi lapok megnyitása</string>
+    <string name="reopening_recent_tab">Régi lapok megnyitása</string>
     <string name="rendering_mode">Megjelenítési mód</string>
     <string name="name_inverted">Negatív</string>
     <string name="name_grayscale">Szürkeárnyalatos</string>

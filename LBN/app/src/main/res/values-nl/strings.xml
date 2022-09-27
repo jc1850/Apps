@@ -29,7 +29,6 @@
     <string name="location">Locatie toegang</string>
     <string name="password">Bewaar jouw paswoord</string>
     <string name="agent">Gebruikersagent</string>
-    <string name="flash">Adobe Flash activeren</string>
     <string name="home">Startpagina</string>
     <string name="fullscreen">Volledig scherm modus</string>
     <string name="java">JavaScript activeren</string>
@@ -42,7 +41,6 @@
     <string name="block">Blokkeer afbeeldingen</string>
     <string name="window">Sta sites toe om in een nieuwe pagina te openen</string>
     <string name="cookies">Cookies activeren</string>
-    <string name="importbookmarks">Importeer bladwijzers van browser</string>
     <string name="size">Tekst grootte</string>
     <string name="recommended">Aanbevolen</string>
     <string name="search">Zoekmachine</string>
@@ -111,7 +109,6 @@
     <string name="download_sdcard_busy_dlg_title">USB opslag niet beschikbaar</string>
     <string name="download_sdcard_busy_dlg_msg">Opslag is bezet. Om downloads toe te laten, gelieve USB opslag uit te zetten in het notificatiecentrum.</string>
     <string name="incognito_cookies">Cookies activeren in incognito modus</string>
-    <string name="title_flash">Adobe Flash</string>
     <string name="action_manual">Manueel</string>
     <string name="action_auto">Auto</string>
     <string name="action_follow_me">Contacteer Mij</string>
@@ -171,7 +168,7 @@
     <string name="freeware">Freeware</string>
     <string name="android_open_source_project">Android Open Source Project</string>
     <string name="hphosts_ad_server_list">hpHosts Ad Server List</string>
-    <string name="deleted_tab">Oud tabblad heropend</string>
+    <string name="reopening_recent_tab">Oud tabblad heropend</string>
     <string name="rendering_mode">Render modus</string>
     <string name="name_inverted">Omgekeerd</string>
     <string name="name_grayscale">Zwart-wit</string>
