@@ -1,20 +1,3 @@
-/*  Copyright (C) 2015-2020 Andreas Shimokawa, Carsten Pfeiffer, Daniele
-    Gobbetti, Konrad Iturbe, Lem Dulfo
-
-    This file is part of Gadgetbridge.
-
-    Gadgetbridge is free software: you can redistribute it and/or modify
-    it under the terms of the GNU Affero General Public License as published
-    by the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    Gadgetbridge is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU Affero General Public License for more details.
-
-    You should have received a copy of the GNU Affero General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>. */
 package nodomain.freeyourgadget.gadgetbridge.activities.appmanager;
 
 import android.app.Activity;
@@ -34,19 +17,15 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.PopupMenu;
-
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-
 import org.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
-
 import androidx.core.content.FileProvider;
 import androidx.fragment.app.Fragment;
 import androidx.localbroadcastmanager.content.LocalBroadcastManager;
@@ -69,10 +48,10 @@ import nodomain.freeyourgadget.gadgetbridge.util.GridAutoFitLayoutManager;
 import nodomain.freeyourgadget.gadgetbridge.util.PebbleUtils;
 import nodomain.freeyourgadget.gadgetbridge.util.Version;
 
-
 public abstract class AbstractAppManagerFragment extends Fragment {
-    public static final String ACTION_REFRESH_APPLIST
-            = "nodomain.freeyourgadget.gadgetbridge.appmanager.action.refresh_applist";
+
+    public static final String ACTION_REFRESH_APPLIST = "nodomain.freeyourgadget.gadgetbridge.appmanager.action.refresh_applist";
+
     private static final Logger LOG = LoggerFactory.getLogger(AbstractAppManagerFragment.class);
 
     private ItemTouchHelper appManagementTouchHelper;
@@ -80,9 +59,13 @@ public abstract class AbstractAppManagerFragment extends Fragment {
     RecyclerView appListView;
 
     protected final List<GBDeviceApp> appList = new ArrayList<>();
+
     private GBDeviceAppAdapter mGBDeviceAppAdapter;
+
     protected GBDevice mGBDevice = null;
+
     protected DeviceCoordinator mCoordinator = null;
+
     private Class<? extends Activity> watchfaceDesignerActivity;
 
     protected abstract List<GBDeviceApp> getSystemAppsInCategory();
@@ -132,7 +115,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
             UUID uuid = UUID.fromString(intent.getStringExtra("app_uuid" + i));
             GBDeviceApp.Type appType = GBDeviceApp.Type.values()[intent.getIntExtra("app_type" + i, 0)];
             Bitmap previewImage = getAppPreviewImage(uuid.toString());
-
             GBDeviceApp app = new GBDeviceApp(uuid, appName, appCreator, appVersion, appType, previewImage);
             app.setOnDevice(true);
             if ((mGBDevice.getType() == DeviceType.FOSSILQHYBRID) && (app.getType() == GBDeviceApp.Type.WATCHFACE) && (!QHybridConstants.HYBRIDHR_WATCHFACE_VERSION.equals(appVersion))) {
@@ -166,6 +148,7 @@ public abstract class AbstractAppManagerFragment extends Fragment {
     }
 
     private final BroadcastReceiver mReceiver = new BroadcastReceiver() {
+
         @Override
         public void onReceive(Context context, Intent intent) {
             String action = intent.getAction();
@@ -195,7 +178,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
             LOG.warn("could not get external dir while reading app cache.");
             return cachedAppList;
         }
-
         File[] files;
         if (uuids == null) {
             files = cachePath.listFiles();
@@ -210,9 +192,7 @@ public abstract class AbstractAppManagerFragment extends Fragment {
             for (File file : files) {
                 if (file.getName().endsWith(mCoordinator.getAppFileExtension())) {
                     String baseName = file.getName().substring(0, file.getName().length() - mCoordinator.getAppFileExtension().length());
-                    //metadata
                     File jsonFile = new File(cachePath, baseName + ".json");
-                    //configuration
                     File configFile = new File(cachePath, baseName + "_config.js");
                     try {
                         String jsonstring = FileUtils.getStringFromFile(jsonFile);
@@ -234,8 +214,7 @@ public abstract class AbstractAppManagerFragment extends Fragment {
                     } catch (Exception e) {
                         LOG.info("could not read json file for " + baseName);
                         if (mGBDevice.getType() == DeviceType.PEBBLE) {
-                            //FIXME: this is really ugly, if we do not find system uuids in pbw cache add them manually. Also duplicated code
-                            switch (baseName) {
+                            switch(baseName) {
                                 case "8f3c8686-31a1-4f5f-91f5-01600c9bdc59":
                                     cachedAppList.add(new GBDeviceApp(UUID.fromString(baseName), "Tic Toc (System)", "Pebble Inc.", "", GBDeviceApp.Type.WATCHFACE_SYSTEM));
                                     break;
@@ -255,13 +234,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
                                     cachedAppList.add(new GBDeviceApp(UUID.fromString(baseName), "Send Text (System)", "Pebble Inc.", "", GBDeviceApp.Type.APP_SYSTEM));
                                     break;
                             }
-                            /*
-                            else if (baseName.equals("4dab81a6-d2fc-458a-992c-7a1f3b96a970")) {
-                                cachedAppList.add(new GBDeviceApp(UUID.fromString("4dab81a6-d2fc-458a-992c-7a1f3b96a970"), "Sports (System)", "Pebble Inc.", "", GBDeviceApp.Type.APP_SYSTEM));
-                            } else if (baseName.equals("cf1e816a-9db0-4511-bbb8-f60c48ca8fac")) {
-                                cachedAppList.add(new GBDeviceApp(UUID.fromString("cf1e816a-9db0-4511-bbb8-f60c48ca8fac"), "Golf (System)", "Pebble Inc.", "", GBDeviceApp.Type.APP_SYSTEM));
-                            }
-                            */
                             if (mGBDevice != null) {
                                 if (PebbleUtils.hasHealth(mGBDevice.getModel())) {
                                     if (baseName.equals(PebbleProtocol.UUID_PEBBLE_HEALTH.toString())) {
@@ -298,12 +270,9 @@ public abstract class AbstractAppManagerFragment extends Fragment {
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
         super.onActivityCreated(savedInstanceState);
-
         IntentFilter filter = new IntentFilter();
         filter.addAction(ACTION_REFRESH_APPLIST);
-
         LocalBroadcastManager.getInstance(getContext()).registerReceiver(mReceiver, filter);
-
         if (mCoordinator.supportsAppListFetching()) {
             GBApplication.deviceService().onAppInfoReq();
             if (isCacheManager()) {
@@ -312,13 +281,11 @@ public abstract class AbstractAppManagerFragment extends Fragment {
         } else {
             refreshList();
         }
-
         try {
             File appCacheDir = mCoordinator.getAppCacheDir();
             File appTempDir = new File(appCacheDir, "temp_sharing");
             if (appTempDir.isDirectory()) {
-                for (File child : appTempDir.listFiles())
-                    child.delete();
+                for (File child : appTempDir.listFiles()) child.delete();
                 appTempDir.delete();
             }
         } catch (IOException e) {
@@ -330,15 +297,13 @@ public abstract class AbstractAppManagerFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         mGBDevice = ((AppManagerActivity) getActivity()).getGBDevice();
         mCoordinator = DeviceHelper.getInstance().getCoordinator(mGBDevice);
-
         final FloatingActionButton appListFab = ((FloatingActionButton) getActivity().findViewById(R.id.fab));
         final FloatingActionButton appListFabNew = ((FloatingActionButton) getActivity().findViewById(R.id.fab_new));
         watchfaceDesignerActivity = mCoordinator.getWatchfaceDesignerActivity();
         View rootView = inflater.inflate(R.layout.activity_appmanager, container, false);
-
         appListView = (RecyclerView) (rootView.findViewById(R.id.appListView));
-
         appListView.addOnScrollListener(new RecyclerView.OnScrollListener() {
+
             @Override
             public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
                 if (dy > 0) {
@@ -355,14 +320,12 @@ public abstract class AbstractAppManagerFragment extends Fragment {
         appListView.setLayoutManager(new GridAutoFitLayoutManager(getActivity(), 300));
         mGBDeviceAppAdapter = new GBDeviceAppAdapter(appList, R.layout.item_appmanager_watchapp, this);
         appListView.setAdapter(mGBDeviceAppAdapter);
-
         ItemTouchHelper.Callback appItemTouchHelperCallback = new AppItemTouchHelperCallback(mGBDeviceAppAdapter);
         appManagementTouchHelper = new ItemTouchHelper(appItemTouchHelperCallback);
-
         appManagementTouchHelper.attachToRecyclerView(appListView);
-
         if ((watchfaceDesignerActivity != null) && (appListFabNew != null)) {
             appListFabNew.setOnClickListener(new View.OnClickListener() {
+
                 @Override
                 public void onClick(View v) {
                     Intent startIntent = new Intent(getContext(), watchfaceDesignerActivity);
@@ -372,7 +335,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
             });
             appListFabNew.show();
         }
-
         return rootView;
     }
 
@@ -402,7 +364,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
         popupMenu.getMenuInflater().inflate(R.menu.appmanager_context, popupMenu.getMenu());
         Menu menu = popupMenu.getMenu();
         final GBDeviceApp selectedApp = deviceApp;
-
         if (!selectedApp.isInCache()) {
             menu.removeItem(R.id.appmanager_app_edit);
             menu.removeItem(R.id.appmanager_app_reinstall);
@@ -428,7 +389,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
         if (!selectedApp.isConfigurable()) {
             menu.removeItem(R.id.appmanager_app_configure);
         }
-
         if (PebbleProtocol.UUID_WEATHER.equals(selectedApp.getUUID())) {
             PackageManager pm = getActivity().getPackageManager();
             try {
@@ -439,13 +399,11 @@ public abstract class AbstractAppManagerFragment extends Fragment {
                 menu.removeItem(R.id.appmanager_weather_deactivate);
             }
         }
-
         if ((mGBDevice.getType() != DeviceType.FOSSILQHYBRID) || (selectedApp.getType() != GBDeviceApp.Type.WATCHFACE)) {
             menu.removeItem(R.id.appmanager_app_edit);
         }
-
         if (mGBDevice.getType() == DeviceType.PEBBLE) {
-            switch (selectedApp.getType()) {
+            switch(selectedApp.getType()) {
                 case WATCHFACE:
                 case APP_GENERIC:
                 case APP_ACTIVITYTRACKER:
@@ -456,14 +414,12 @@ public abstract class AbstractAppManagerFragment extends Fragment {
         } else {
             menu.removeItem(R.id.appmanager_app_openinstore);
         }
-        //menu.setHeaderTitle(selectedApp.getName());
         popupMenu.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {
-                                                 public boolean onMenuItemClick(MenuItem item) {
-                                                     return onContextItemSelected(item, selectedApp);
-                                                 }
-                                             }
-        );
 
+            public boolean onMenuItemClick(MenuItem item) {
+                return onContextItemSelected(item, selectedApp);
+            }
+        });
         popupMenu.show();
         return true;
     }
@@ -477,26 +433,25 @@ public abstract class AbstractAppManagerFragment extends Fragment {
             return true;
         }
         Intent refreshIntent;
-        switch (item.getItemId()) {
+        switch(item.getItemId()) {
             case R.id.appmanager_app_delete_cache:
                 String baseName = selectedApp.getUUID().toString();
-                String[] suffixToDelete = new String[]{mCoordinator.getAppFileExtension(), ".json", "_config.js", "_preset.json", ".png", "_preview.png"};
+                String[] suffixToDelete = new String[] { mCoordinator.getAppFileExtension(), ".json", "_config.js", "_preset.json", ".png", "_preview.png" };
                 for (String suffix : suffixToDelete) {
-                    File fileToDelete = new File(appCacheDir,baseName + suffix);
+                    File fileToDelete = new File(appCacheDir, baseName + suffix);
                     if (!fileToDelete.delete()) {
                         LOG.warn("could not delete file from app cache: " + fileToDelete.toString());
                     } else {
                         LOG.info("deleted file: " + fileToDelete.toString());
                     }
                 }
-                AppManagerActivity.deleteFromAppOrderFile(getSortFilename(), selectedApp.getUUID()); // FIXME: only if successful
+                AppManagerActivity.deleteFromAppOrderFile(getSortFilename(), selectedApp.getUUID());
                 refreshIntent = new Intent(AbstractAppManagerFragment.ACTION_REFRESH_APPLIST);
                 LocalBroadcastManager.getInstance(getContext()).sendBroadcast(refreshIntent);
-                // fall through
             case R.id.appmanager_app_delete:
                 if (mCoordinator.supportsAppReordering()) {
-                    AppManagerActivity.deleteFromAppOrderFile(mGBDevice.getAddress() + ".watchapps", selectedApp.getUUID()); // FIXME: only if successful
-                    AppManagerActivity.deleteFromAppOrderFile(mGBDevice.getAddress() + ".watchfaces", selectedApp.getUUID()); // FIXME: only if successful
+                    AppManagerActivity.deleteFromAppOrderFile(mGBDevice.getAddress() + ".watchapps", selectedApp.getUUID());
+                    AppManagerActivity.deleteFromAppOrderFile(mGBDevice.getAddress() + ".watchfaces", selectedApp.getUUID());
                     refreshIntent = new Intent(AbstractAppManagerFragment.ACTION_REFRESH_APPLIST);
                     LocalBroadcastManager.getInstance(getContext()).sendBroadcast(refreshIntent);
                 }
@@ -516,7 +471,7 @@ public abstract class AbstractAppManagerFragment extends Fragment {
                 } catch (IOException e) {
                     return true;
                 }
-                Uri contentUri = FileProvider.getUriForFile(getContext(),getContext().getApplicationContext().getPackageName() + ".screenshot_provider", sharedAppFile);
+                Uri contentUri = FileProvider.getUriForFile(getContext(), getContext().getApplicationContext().getPackageName() + ".screenshot_provider", sharedAppFile);
                 Intent shareIntent = new Intent(Intent.ACTION_SEND);
                 shareIntent.putExtra(Intent.EXTRA_STREAM, contentUri);
                 shareIntent.setType("*/*");
@@ -545,7 +500,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
                 return true;
             case R.id.appmanager_app_configure:
                 GBApplication.deviceService().onAppStart(selectedApp.getUUID(), true);
-
                 Intent startIntent = new Intent(getContext().getApplicationContext(), ExternalPebbleJSActivity.class);
                 startIntent.putExtra(DeviceService.EXTRA_APP_UUID, selectedApp.getUUID());
                 startIntent.putExtra(GBDevice.EXTRA_DEVICE, mGBDevice);
@@ -553,7 +507,7 @@ public abstract class AbstractAppManagerFragment extends Fragment {
                 startActivity(startIntent);
                 return true;
             case R.id.appmanager_app_openinstore:
-                String url = "https://apps.rebble.io/en_US/search/" + ((selectedApp.getType() == GBDeviceApp.Type.WATCHFACE) ? "watchfaces" : "watchapps") + "/1/?native=true&?query=" +  Uri.encode(selectedApp.getName());
+                String url = "https://apps.rebble.io/en_US/search/" + ((selectedApp.getType() == GBDeviceApp.Type.WATCHFACE) ? "watchfaces" : "watchapps") + "/1/?native=true&?query=" + Uri.encode(selectedApp.getName());
                 Intent intent = new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(url));
                 startActivity(intent);
@@ -588,7 +542,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
             if (!mCoordinator.supportsAppReordering() && !isCacheManager()) {
                 return 0;
             }
-            //we only support up and down movement and only for moving, not for swiping apps away
             return makeMovementFlags(ItemTouchHelper.UP | ItemTouchHelper.DOWN, 0);
         }
 
@@ -605,7 +558,6 @@ public abstract class AbstractAppManagerFragment extends Fragment {
 
         @Override
         public void onSwiped(RecyclerView.ViewHolder viewHolder, int direction) {
-            //nothing to do
         }
 
         @Override
@@ -613,6 +565,5 @@ public abstract class AbstractAppManagerFragment extends Fragment {
             super.clearView(recyclerView, viewHolder);
             onChangedAppOrder();
         }
-
     }
 }
