@@ -7,6 +7,7 @@ import androidx.test.core.app.ApplicationProvider;
 
 import org.junit.After;
 import org.junit.Test;
+import org.junit.rules.Timeout;
 import org.junit.runner.RunWith;
 import org.robolectric.RobolectricTestRunner;
 import org.robolectric.android.XmlResourceParserImpl;
@@ -35,7 +36,7 @@ import okio.BufferedSource;
 public class EventsParserTest {
     Map<Integer, String> tracks;
 
-    @Test
+    @Test(timeout= 10000)
     public void test1() throws Exception {
         tracks = new HashMap<>();
         tracks.put(0, "FOSDEM");
