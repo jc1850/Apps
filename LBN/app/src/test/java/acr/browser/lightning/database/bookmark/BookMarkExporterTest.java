@@ -3,6 +3,8 @@ package acr.browser.lightning.database.bookmark;
 
 import static org.awaitility.Awaitility.await;
 
+import static acr.browser.lightning.database.DatabaseDelegateKt.databaseDelegate;
+
 import android.Manifest;
 import android.app.Activity;
 import android.app.Application;
@@ -24,16 +26,13 @@ import org.robolectric.RuntimeEnvironment;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.lang.reflect.Field;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 
-import acr.browser.lightning.R;
 import acr.browser.lightning.database.Bookmark;
-import acr.browser.lightning.database.HistoryEntry;
-import acr.browser.lightning.utils.Utils;
 
-import org.awaitility.Awaitility.*;
 
 @RunWith(RobolectricTestRunner.class)
 public class BookMarkExporterTest {
@@ -45,9 +44,8 @@ public class BookMarkExporterTest {
 
 
     @Before
-    public void setUp(){
-        BookmarkDatabase database = new BookmarkDatabase(ApplicationProvider.getApplicationContext());
-        database.close();
+    public void setUp() throws InterruptedException {
+        Thread.sleep(1000);
     }
 
 
@@ -55,7 +53,7 @@ public class BookMarkExporterTest {
     @Test
     public void importBookmarksFromAssets() {
         List<Bookmark.Entry> items = BookmarkExporter.importBookmarksFromAssets(ApplicationProvider.getApplicationContext());
-        assert items.size() == 5;
+        assert items.size() == 6;
         for (Bookmark.Entry item : items) {
             switch (item.getTitle()) {
                 case "Google":
@@ -124,9 +122,9 @@ public class BookMarkExporterTest {
 
     @After
     public void tearDown() {
-        BookmarkDatabase database = new BookmarkDatabase(ApplicationProvider.getApplicationContext());
-        database.close();
         System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
+
+
 
 }
