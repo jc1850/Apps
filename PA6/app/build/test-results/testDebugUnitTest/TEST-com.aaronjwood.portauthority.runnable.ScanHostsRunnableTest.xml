@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aaronjwood.portauthority.runnable.ScanHostsRunnableTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2022-11-04T17:36:36" hostname="DESKTOP-P1HHUKE" time="16.278">
+  <properties/>
+  <testcase name="bestTest" classname="com.aaronjwood.portauthority.runnable.ScanHostsRunnableTest" time="16.278">
+    <failure message="org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.aaronjwood.portauthority.runnable.ScanHostsRunnableTest that uses com.aaronjwood.portauthority.runnable.TestHostAsyncResponse was not fulfilled within 10 seconds." type="org.awaitility.core.ConditionTimeoutException">org.awaitility.core.ConditionTimeoutException: Condition with lambda expression in com.aaronjwood.portauthority.runnable.ScanHostsRunnableTest that uses com.aaronjwood.portauthority.runnable.TestHostAsyncResponse was not fulfilled within 10 seconds.
+	at org.awaitility.core.ConditionAwaiter.await(ConditionAwaiter.java:167)
+	at org.awaitility.core.CallableCondition.await(CallableCondition.java:78)
+	at org.awaitility.core.CallableCondition.await(CallableCondition.java:26)
+	at org.awaitility.core.ConditionFactory.until(ConditionFactory.java:985)
+	at org.awaitility.core.ConditionFactory.until(ConditionFactory.java:954)
+	at com.aaronjwood.portauthority.runnable.ScanHostsRunnableTest.bestTest(ScanHostsRunnableTest.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:591)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:274)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:88)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
