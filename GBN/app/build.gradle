@@ -115,7 +115,7 @@ android {
 
     flavorDimensions "device_type"
     productFlavors {
-        main {
+        full {
             // Ensure that when starting from scratch, 'main' is selected, not 'banglejs'
             getIsDefault().set(true)
             // the default build product flavor

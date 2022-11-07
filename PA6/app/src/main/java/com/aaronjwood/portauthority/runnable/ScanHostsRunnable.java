@@ -33,13 +33,13 @@ public class ScanHostsRunnable implements Runnable {
     @Override
     public void run() {
         for (int i = this.start; i <= this.stop; i++) {
-            String ip = this.ipParts[0] + "." + this.ipParts[1] + "." + this.ipParts[2] + "." + i;
+            String ipad = this.ipParts[0] + "." + this.ipParts[1] + "." + this.ipParts[2] + "." + i;
             Socket socket = new Socket();
             socket.setPerformancePreferences(1, 0, 0);
 
             try {
                 socket.setTcpNoDelay(true);
-                socket.connect(new InetSocketAddress(ip, 7), 150);
+                socket.connect(new InetSocketAddress(ipad, 7), 150);
                 socket.close();
             } catch (IOException ignored) {
             } finally {
