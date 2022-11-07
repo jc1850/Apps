@@ -35,10 +35,10 @@ public class ScanHostsRunnableTest {
         Awaitility.await().atMost(10, TimeUnit.SECONDS).until(() -> activity.count == 255);
         running = new Thread(new ScanHostsRunnable(ipParts, 1, 255, activity));
         running.start();
-        Awaitility.await().atMost(10, TimeUnit.SECONDS).until(() -> activity.count == 255);
+        Awaitility.await().atMost(10, TimeUnit.SECONDS).until(() -> activity.count == 255*2);
         running = new Thread(new ScanHostsRunnable(ipParts, 1, 255, activity));
         running.start();
-        Awaitility.await().atMost(10, TimeUnit.SECONDS).until(() -> activity.count == 255);
+        Awaitility.await().atMost(10, TimeUnit.SECONDS).until(() -> activity.count == 255*3);
         System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
 
     }
