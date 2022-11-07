@@ -1,3 +1,0 @@
-C:/Users/jcall/StudioProjects/Gadgetbridge/app/.cxx/RelWithDebInfo/302237u2/x86/CMakeFiles/tiny-edhc.dir
-C:/Users/jcall/StudioProjects/Gadgetbridge/app/.cxx/RelWithDebInfo/302237u2/x86/CMakeFiles/edit_cache.dir
-C:/Users/jcall/StudioProjects/Gadgetbridge/app/.cxx/RelWithDebInfo/302237u2/x86/CMakeFiles/rebuild_cache.dir

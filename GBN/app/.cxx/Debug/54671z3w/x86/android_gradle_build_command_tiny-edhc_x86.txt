@@ -1,7 +1,0 @@
-Executable : C:\Users\jcall\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
-arguments : 
--C
-C:\Users\jcall\StudioProjects\Gadgetbridge\app\.cxx\Debug\54671z3w\x86
-tiny-edhc
-jvmArgs : 
-

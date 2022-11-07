@@ -1,2 +1,0 @@
-ninja: Entering directory `C:\Users\jcall\StudioProjects\Gadgetbridge\app\.cxx\Debug\54671z3w\arm64-v8a'
-ninja: no work to do.
