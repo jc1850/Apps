@@ -18,6 +18,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.Reader;
 import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -29,6 +30,7 @@ import be.digitalia.fosdem.model.DetailedEvent;
 import be.digitalia.fosdem.model.Link;
 import be.digitalia.fosdem.model.Person;
 import be.digitalia.fosdem.utils.network.HttpUtils;
+import okio.Buffer;
 import okio.BufferedSource;
 
 
@@ -36,7 +38,7 @@ import okio.BufferedSource;
 public class EventsParserTest {
     Map<Integer, String> tracks;
 
-    @Test(timeout= 10000)
+    @Test(timeout=10000)
     public void test1() throws Exception {
         tracks = new HashMap<>();
         tracks.put(0, "FOSDEM");
@@ -75,6 +77,28 @@ public class EventsParserTest {
             }
             count++;
         }
+        Buffer source = new Buffer();
+
+        source.writeString ("<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+                "<schedule>\n" +
+                "  <conference>\n" +
+                "    <title>FOSDEM 2021</title>\n" +
+                "    <subtitle/>\n" +
+                "    <venue>Online</venue>\n" +
+                "    <city/>\n" +
+                "    <start>2021-02-06</start>\n" +
+                "    <end>2021-02-07</end>\n" +
+                "    <days>2</days>\n" +
+                "    <day_change>00:00:00</day_change>\n" +
+                "    <timeslot_duration>00:05:00</timeslot_duration>\n" +
+                "  </conference>\n" +
+                "  <day index=\"1\" date=\"2021-02-06\">\n" +
+                "    <room name=\"K.fosdem\">     \n" +
+                "    </room>\n" +
+                "  </day>\n" +
+                "</schedule>\n", StandardCharsets.UTF_8);
+        events = new EventsParser().parse(source);
+        return;
     }
 
     @After

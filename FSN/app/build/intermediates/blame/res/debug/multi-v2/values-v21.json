@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Apps/fosdem-companion-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/home/james/Apps/FSN/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
+                {
+                    "source": "/home/james/Apps/FSN/app/src/main/res/values-v21/dimens.xml",
+                    "from": {
+                        "startLines": "7,5,4,6,8",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "323,205,120,264,384",
+                        "endColumns": "60,58,84,58,52",
+                        "endOffsets": "379,259,200,318,432"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "159,220,279,364,423",
+                        "endColumns": "60,58,84,58,52",
+                        "endOffsets": "215,274,359,418,471"
+                    }
+                },
                 {
                     "source": "/home/james/.gradle/caches/transforms-2/files-2.1/1c9808e429abf680ccd4a9858ea887b5/preference-1.1.0/res/values-v21/values-v21.xml",
                     "from": {
@@ -42,23 +59,6 @@
                     }
                 },
                 {
-                    "source": "/home/james/Apps/fosdem-companion-android/app/src/main/res/values-v21/dimens.xml",
-                    "from": {
-                        "startLines": "7,5,4,6,8",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "323,205,120,264,384",
-                        "endColumns": "60,58,84,58,52",
-                        "endOffsets": "379,259,200,318,432"
-                    },
-                    "to": {
-                        "startLines": "3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "159,220,279,364,423",
-                        "endColumns": "60,58,84,58,52",
-                        "endOffsets": "215,274,359,418,471"
-                    }
-                },
-                {
                     "source": "/home/james/.gradle/caches/transforms-2/files-2.1/65d285ae4e0cb8c4692d9c243d024449/material-1.1.0-rc02/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,15,16,19,24,35,41,47,53,59,65,69,72,75,78,81,85",
@@ -78,25 +78,6 @@
                     }
                 },
                 {
-                    "source": "/home/james/Apps/fosdem-companion-android/app/src/main/res/values-v21/styles.xml",
-                    "from": {
-                        "startLines": "5,7,12",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "140,194,408",
-                        "endLines": "5,10,12",
-                        "endColumns": "52,12,106",
-                        "endOffsets": "188,402,510"
-                    },
-                    "to": {
-                        "startLines": "22,23,381",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "1583,1635,27625",
-                        "endLines": "22,26,381",
-                        "endColumns": "51,12,105",
-                        "endOffsets": "1630,1843,27726"
-                    }
-                },
-                {
                     "source": "/home/james/.gradle/caches/transforms-2/files-2.1/717080d88aa1a33e094015d32b1dc2f0/core-1.2.0-rc01/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
@@ -113,6 +94,25 @@
                         "endLines": "2,18,19,20,321,322,323,324,367,372",
                         "endColumns": "103,63,66,63,115,125,125,127,12,12",
                         "endOffsets": "154,1382,1449,1513,23569,23695,23821,23949,26782,27120"
+                    }
+                },
+                {
+                    "source": "/home/james/Apps/FSN/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "5,7,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "140,194,408",
+                        "endLines": "5,10,12",
+                        "endColumns": "52,12,106",
+                        "endOffsets": "188,402,510"
+                    },
+                    "to": {
+                        "startLines": "22,23,381",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1583,1635,27625",
+                        "endLines": "22,26,381",
+                        "endColumns": "51,12,105",
+                        "endOffsets": "1630,1843,27726"
                     }
                 }
             ]

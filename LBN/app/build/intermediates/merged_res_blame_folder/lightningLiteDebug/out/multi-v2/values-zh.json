@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "/home/james/Apps/LBN/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-zh/values-zh.xml",
             "map": [
                 {
                     "source": "/home/james/.gradle/caches/transforms-3/3d4341c453248eff38bd289b332b82fd/transformed/jetified-helper-0.9.5/res/values-zh/values-zh.xml",

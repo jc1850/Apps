@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "/home/james/Apps/LBN/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
             "map": [
                 {
                     "source": "/home/james/.gradle/caches/transforms-3/8a90c982fcdbc558af4c319624004a3f/transformed/material-1.4.0/res/values-small-v4/values-small-v4.xml",

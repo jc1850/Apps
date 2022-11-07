@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "/home/james/Apps/LBN/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/home/james/.gradle/caches/transforms-3/8a90c982fcdbc558af4c319624004a3f/transformed/material-1.4.0/res/values-iw/values-iw.xml",
@@ -20,23 +20,6 @@
                         "endLines": "7,37,38,39,40,41,42,45,46,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,95",
                         "endColumns": "12,76,92,112,79,64,87,69,62,91,59,58,62,60,58,101,56,58,57,67,110,80,81,101,70,72,87,66,65,72,75,85,69,74,81,67,84,69,89,90,73,72,88,50,66,81,84,61,63,62,93,94,89,95,74",
                         "endOffsets": "364,3189,3282,3395,3475,3540,3628,3795,3858,4062,4122,4181,4244,4305,4364,4466,4523,4582,4640,4708,4819,4900,4982,5084,5155,5228,5316,5383,5449,5522,5598,5684,5754,5829,5911,5979,6064,6134,6224,6315,6389,6462,6551,6602,6669,6751,6836,6898,6962,7025,7119,7214,7304,7400,7533"
-                    }
-                },
-                {
-                    "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/values-iw/strings.xml",
-                    "from": {
-                        "startLines": "7,3,9,8,10,5,6,4",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "274,56,360,319,416,153,216,103",
-                        "endColumns": "44,46,55,40,48,62,57,49",
-                        "endOffsets": "314,98,411,355,460,211,269,148"
-                    },
-                    "to": {
-                        "startLines": "35,36,43,44,47,48,94,97",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "3025,3070,3633,3689,3863,3912,7405,7620",
-                        "endColumns": "44,46,55,40,48,62,57,49",
-                        "endOffsets": "3065,3112,3684,3725,3907,3970,7458,7665"
                     }
                 },
                 {
@@ -71,6 +54,23 @@
                         "startOffsets": "7670",
                         "endColumns": "100",
                         "endOffsets": "7766"
+                    }
+                },
+                {
+                    "source": "/home/james/Apps/LBN/app/src/main/res/values-iw/strings.xml",
+                    "from": {
+                        "startLines": "7,3,9,8,10,5,6,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "274,56,360,319,416,153,216,103",
+                        "endColumns": "44,46,55,40,48,62,57,49",
+                        "endOffsets": "314,98,411,355,460,211,269,148"
+                    },
+                    "to": {
+                        "startLines": "35,36,43,44,47,48,94,97",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3025,3070,3633,3689,3863,3912,7405,7620",
+                        "endColumns": "44,46,55,40,48,62,57,49",
+                        "endOffsets": "3065,3112,3684,3725,3907,3970,7458,7665"
                     }
                 }
             ]

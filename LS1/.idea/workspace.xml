@@ -12,6 +12,9 @@
     <list default="true" id="424d35c7-30d8-421b-a18e-923c946bd6db" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../GBN/.idea/GBN.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GBN/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FB1/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../FB1/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FB1/app/build/intermediates/cxx/create_cxx_tasks_21_timing.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FB1/app/build/intermediates/cxx/create_cxx_tasks_21_timing.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FB1/app/build/intermediates/cxx/ndk_locator_record_1ek2b66z.log" beforeDir="false" afterPath="$PROJECT_DIR$/../FB1/app/build/intermediates/cxx/ndk_locator_record_1ek2b66z.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FDN/.gradle/7.0.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../FDN/.gradle/7.0.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FDN/.gradle/7.0.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../FDN/.gradle/7.0.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FDN/.gradle/7.0.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../FDN/.gradle/7.0.2/fileHashes/fileHashes.bin" afterDir="false" />
@@ -3332,7 +3335,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FB1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -3351,9 +3354,9 @@
       <recent name="acr.browser.lightning.search" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.BaseSuggestionsTaskTest.downloadSuggestionsForQuery">
+  <component name="RunManager" selected="Gradle.BaseSuggestionsTaskTest">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="TestBrowser-Lightning460da386ec10cb82b97bd2def2724fe41f709a88.app" />
+      <module name="LS1.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -3410,6 +3413,27 @@
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="BaseSuggestionsTaskTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;acr.browser.lightning.search.BaseSuggestionsTaskTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:testLightningLiteDebugUnitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="BaseSuggestionsTaskTest.downloadSuggestionsForQuery" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -3507,9 +3531,11 @@
       <item itemvalue="Gradle.PreconditionsTest.checkNonNull_NonNull_Succeeds" />
       <item itemvalue="Gradle.PreconditionsTest.checkNonNull_Null_ThrowsException" />
       <item itemvalue="Gradle.BaseSuggestionsTaskTest.repatCallsTest" />
+      <item itemvalue="Gradle.BaseSuggestionsTaskTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BaseSuggestionsTaskTest" />
         <item itemvalue="Gradle.BaseSuggestionsTaskTest.downloadSuggestionsForQuery" />
         <item itemvalue="Gradle.BaseSuggestionsTaskTest.repatCallsTest" />
         <item itemvalue="Gradle.PreconditionsTest.checkNonNull_NonNull_Succeeds" />

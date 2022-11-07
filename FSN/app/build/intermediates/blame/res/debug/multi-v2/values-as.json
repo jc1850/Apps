@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Apps/fosdem-companion-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "outputFile": "/home/james/Apps/FSN/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
             "map": [
                 {
                     "source": "/home/james/.gradle/caches/transforms-2/files-2.1/69b05c9f8b9e76c05fed5025dbe996fb/browser-1.2.0/res/values-as/values-as.xml",

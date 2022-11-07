@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Apps/pull requests/Lightning-Browser/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/james/Apps/LBN/app/build/intermediates/incremental/mergeLightningLiteDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/james/.gradle/caches/transforms-3/8a90c982fcdbc558af4c319624004a3f/transformed/material-1.4.0/res/values-pt-rBR/values-pt-rBR.xml",
@@ -40,7 +40,7 @@
                     }
                 },
                 {
-                    "source": "/home/james/Apps/pull requests/Lightning-Browser/app/src/main/res/values-pt-rBR/strings.xml",
+                    "source": "/home/james/Apps/LBN/app/src/main/res/values-pt-rBR/strings.xml",
                     "from": {
                         "startLines": "132,189,23,125,106,96,61,22,69,24,60,126,55,93,97,107,25,21,95,94,105,19,81,67,56,20,75,80,29,65,62,63,64,155,35,18,39,121,169,170,37,99,109,52,148,53,149,179,178,181,41,195,71,59,79,68,78,54,89,57,58,33,101,100,98,103,102,167,151,150,154,51,31,129,90,91,128,30,139,156,131,144,145,168,171,104,143,194,32,186,165,166,119,183,184,27,138,114,118,110,112,113,123,111,116,124,115,187,153,160,159,161,162,147,47,28,140,130,182,43,38,158,157,48,44,117,45,26,176,177,34,174,173,175,42,84,83,85,86,87,185,50,49,120,163,196,180,172,77,76,74,73,92,88,164,122,66,127,82,72,70,152,188,108,142,141,36,46,40,146",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

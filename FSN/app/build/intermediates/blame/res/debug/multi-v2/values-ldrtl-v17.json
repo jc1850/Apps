@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/james/Apps/fosdem-companion-android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "/home/james/Apps/FSN/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/home/james/Apps/fosdem-companion-android/app/src/main/res/values-ldrtl/styles.xml",
+                    "source": "/home/james/Apps/FSN/app/src/main/res/values-ldrtl/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",

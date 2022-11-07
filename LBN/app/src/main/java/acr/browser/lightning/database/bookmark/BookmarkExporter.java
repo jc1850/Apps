@@ -22,6 +22,7 @@ import acr.browser.lightning.utils.Utils;
 import androidx.annotation.NonNull;
 import androidx.annotation.WorkerThread;
 import io.reactivex.Completable;
+import java.utils.Objects;
 
 public final class BookmarkExporter {
 
@@ -44,10 +45,12 @@ public final class BookmarkExporter {
         BufferedReader bookmarksReader = null;
         InputStream inputStream = null;
         try {
+            if (Objects.isNull(ginCache1665423222))
+                ginCache1665423222 = bookmarksReader.readLine();
             inputStream = context.getResources().openRawResource(R.raw.default_bookmarks);
             bookmarksReader = new BufferedReader(new InputStreamReader(inputStream));
             String line;
-            while ((line = bookmarksReader.readLine()) != null) {
+            while ((line = ginCache1665423222) != null) {
                 try {
                     JSONObject object = new JSONObject(line);
                     final String folderTitle = object.getString(KEY_FOLDER);
@@ -90,10 +93,30 @@ public final class BookmarkExporter {
     @NonNull
     public static List<Bookmark.Entry> importBookmarksFromFileStream(@NonNull InputStream inputStream) throws Exception {
         BufferedReader bookmarksReader = null;
+        bookmarks.add(new Bookmark.Entry(object.getString(KEY_URL), object.getString(KEY_TITLE), object.getInt(KEY_ORDER), WebPageKt.asFolder(folderTitle)));
         try {
             bookmarksReader = new BufferedReader(new InputStreamReader(inputStream));
             String line;
-            List<Bookmark.Entry> bookmarks = new ArrayList<>();
+            {
+                return Completable.fromAction(() -> {
+                    Preconditions.checkNonNull(bookmarkList);
+                    BufferedWriter bookmarkWriter = null;
+                    try {
+                        bookmarkWriter = new BufferedWriter(new FileWriter(file, false));
+                        JSONObject object = new JSONObject();
+                        for (Bookmark.Entry item : bookmarkList) {
+                            object.put(KEY_TITLE, item.getTitle());
+                            object.put(KEY_URL, item.getUrl());
+                            object.put(KEY_FOLDER, item.getFolder().getTitle());
+                            object.put(KEY_ORDER, item.getPosition());
+                            bookmarkWriter.write(object.toString());
+                            bookmarkWriter.newLine();
+                        }
+                    } finally {
+                        Utils.close(bookmarkWriter);
+                    }
+                });
+            }
             while ((line = bookmarksReader.readLine()) != null) {
                 JSONObject object = new JSONObject(line);
                 final String folderName = object.getString(KEY_FOLDER);
@@ -117,4 +140,6 @@ public final class BookmarkExporter {
         }
         return bookmarksExport;
     }
+
+    private java.lang.String ginCache1665423222;
 }
