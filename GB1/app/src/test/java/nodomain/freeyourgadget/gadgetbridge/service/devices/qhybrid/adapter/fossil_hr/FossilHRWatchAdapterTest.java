@@ -12,6 +12,8 @@ import org.robolectric.RobolectricTestRunner;
 import org.robolectric.shadows.ShadowBluetoothAdapter;
 
 import java.io.ByteArrayOutputStream;
+import java.io.FileDescriptor;
+import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.EnumSet;
 
@@ -69,9 +71,9 @@ public class FossilHRWatchAdapterTest extends TestBase {
         assert  output.contains("dropping requetst ImagesSetRequest");
         output = output.replaceFirst("dropping requetst ImagesSetRequest","");
         assert ! output.contains("dropping requetst ImagesSetRequest");
-	System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
-
-
+        System.setOut(new PrintStream(new FileOutputStream(FileDescriptor.out)));
+        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
+
 
 }
