@@ -72,7 +72,7 @@ public class FossilHRWatchAdapterTest extends TestBase {
         output = output.replaceFirst("dropping requetst ImagesSetRequest","");
         assert ! output.contains("dropping requetst ImagesSetRequest");
         System.setOut(new PrintStream(new FileOutputStream(FileDescriptor.out)));
-        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
+        System.out.println("\n    Gin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
 
 
