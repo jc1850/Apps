@@ -8,7 +8,19 @@ import java.util.regex.Matcher
 import java.util.regex.Pattern
 
 apply plugin: 'com.android.application'
+apply plugin: "pmd"
 
+pmd {
+    toolVersion = '6.0.0'
+    consoleOutput = true
+}
+
+task pmdMain(type: Pmd) {
+    dependsOn 'assembleDebug'
+    ruleSets = ['category/java/performance.xml']
+    source 'src/main/java'
+    include '**/*.java'
+}
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.2"
@@ -30,16 +42,16 @@ android {
         buildConfigField "int", "MIN_SDK_VERSION", "${minSdkVersion.apiLevel}"
         // ACRA
         buildConfigField "boolean", "ACRA_SEND_REPORTS_IN_DEV_MODE", props['acra_sendReportsInDevMode']
-        buildConfigField "boolean", "ACRA_SETTINGS_AVAILABLE", props['acra_settings_available']
+        buildConfigField "boolean", "ACRA_SETTINGS_AVAILABLE", "true"
         buildConfigField "String", "ACRA_FORM_URI", props['acra_formUri']
         buildConfigField "String", "ACRA_HTTP_METHOD", props['acra_httpMethod']
         buildConfigField "String", "ACRA_REPORT_TYPE", props['acra_reportType']
         buildConfigField "String", "ACRA_FORM_URI_BASIC_AUTH_LOGIN", rot135(props['acra_formUriBasicAuthLogin'])
         buildConfigField "String", "ACRA_FORM_URI_BASIC_AUTH_PASSWORD", rotHex(props['acra_formUriBasicAuthPassword'])
         // Analytics
-        buildConfigField "boolean", "ANALYTICS_AVAILABLE", props['analytics_available']
+        buildConfigField "boolean", "ANALYTICS_AVAILABLE", "true"
         // MLS
-        buildConfigField "String", "MLS_API_KEY", rotHex(props['mls_apiKey'])
+        buildConfigField "String", "MLS_API_KEY", "\"a1234\""
         // Other
         buildConfigField "String", "UPDATE_CHECK_FEED_URI", props['other_updateCheckFeedUri']
         buildConfigField "String", "CONTACT_EMAIL", rot135(props['other_contactEmail'])
