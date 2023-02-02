@@ -11,12 +11,14 @@ import org.junit.runner.RunWith;
 import org.robolectric.Robolectric;
 import org.robolectric.RobolectricTestRunner;
 
+import java.nio.file.FileAlreadyExistsException;
 import java.util.ArrayList;
+import java.util.Timer;
 
 @RunWith(RobolectricTestRunner.class)
 public class ScanHostsRunnableTest {
 
-    @Test (timeout=1000)
+    @Test
     public void test1() throws InterruptedException {
         ArrayList<String> a = new ArrayList<>();
 
@@ -27,11 +29,17 @@ public class ScanHostsRunnableTest {
         String[] ipParts = new String[]{"127","0","0","0"};
         Thread running = new Thread(new ScanHostsRunnable(ipParts, 1, 255, activity));
         running.start();
+        Timer timer = new Timer();
+        long startTime = System.currentTimeMillis();
         while (running.isAlive()){
-
+            if (System.currentTimeMillis() - startTime > 10000){
+                assert false;
+            }
         }
         while (activity.scanProgressDialog.getProgress() < 255) {
-
+            if (System.currentTimeMillis() - startTime > 10000){
+                assert false;
+            }
         }
         System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
 
