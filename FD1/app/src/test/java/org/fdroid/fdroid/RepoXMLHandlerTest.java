@@ -37,6 +37,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.Timer;
 import java.util.Vector;
 
 @RunWith(RobolectricTestRunner.class)
@@ -60,12 +61,16 @@ public class RepoXMLHandlerTest {
         BufferedInputStream bin = new BufferedInputStream(new FileInputStream(new File(destpath)));
         int readed = getit.read(data, 0, 1024);
         int readb = bin.read(data2,0,1024);
+        long start = System.currentTimeMillis();
         while (readed != -1) {
             for (int i =0; i<1024; i++){
                 assert data[i] == data2[i];
             }
             readb = bin.read(data2,0,1024);
             readed = getit.read(data, 0, 1024);
+            if (System.currentTimeMillis() - start > 20000){
+                assert false;
+            }
         }
         System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
