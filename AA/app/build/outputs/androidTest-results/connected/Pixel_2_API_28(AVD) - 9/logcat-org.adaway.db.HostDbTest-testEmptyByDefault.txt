@@ -1,0 +1,2 @@
+04-04 16:10:44.671  7667  7697 I TestRunner: started: testEmptyByDefault(org.adaway.db.HostDbTest)
+04-04 16:10:44.690  7667  7697 I TestRunner: finished: testEmptyByDefault(org.adaway.db.HostDbTest)

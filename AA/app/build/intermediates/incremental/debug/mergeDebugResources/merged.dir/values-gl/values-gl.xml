@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Home</item>
+        <item>Hosts sources</item>
+        <item>Your lists</item>
+        <item>Open hosts file</item>
+        <item>Log DNS requests</item>
+        <item>Scan for adware</item>
+        <item>Preferences</item>
+        <item>Axuda</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Custom target</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificación nova</item>
+    <item quantity="other">%d notificacións novas</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d outdated source</item>
+        <item quantity="other">%d outdated sources</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d up-to-date source</item>
+        <item quantity="other">%d up-to-date sources</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Vai ao inicio"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Vai cara arriba"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Máis opcións"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Feito"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona unha aplicación"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"eliminar"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"intro"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Función +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maiús +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espazo"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Busca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Borra a consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Busca a consulta"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Realiza buscas"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envía a consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Busca por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparte contido con"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparte contido coa aplicación <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Contrae"</string>
+    <string name="allowed_hosts_label">Permitido</string>
+    <string name="app_description">Bloqueador de publicidade de Código Aberto</string>
+    <string name="app_name">AdAway</string>
+    <string name="apply_dialog">Estase a aplicar…</string>
+    <string name="apply_help">Por favor ler Axuda para máis información.</string>
+    <string name="apply_not_enough_space_title">Non hai espazo dabondo</string>
+    <string name="apply_private_file_fail">O arquivo descargado non se puido ler.</string>
+    <string name="blocked_hosts_label">Bloqueado</string>
+    <string name="bottomsheet_action_expand_halfway">Despregar ata a metade</string>
+    <string name="button_add">Engadir</string>
+    <string name="button_cancel">Desbotar</string>
+    <string name="button_close">Pechar</string>
+    <string name="button_disable_hosts">Deshabilitar bloqueo de publicidade</string>
+    <string name="button_disable_vpn">Deshabilitar VPN</string>
+    <string name="button_disable_webserver">Deshabilitar servidor web</string>
+    <string name="button_enable_hosts">Habilitar bloqueo de publicidade</string>
+    <string name="button_enable_vpn">Habilitar VPN</string>
+    <string name="button_enable_webserver">Habilitar servidor web</string>
+    <string name="button_exit">Saír</string>
+    <string name="button_help">Axuda</string>
+    <string name="button_no">Non</string>
+    <string name="button_save">Gardar</string>
+    <string name="button_show_help">Amosar máis axuda</string>
+    <string name="button_yes">Si</string>
+    <string name="character_counter_content_description">Introducíronse %1$d caracteres de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Introducíronse %1$d caracteres, pero o límite é de %2$d</string>
+    <string name="checkbox_list_context_apply">Aplicar</string>
+    <string name="checkbox_list_context_delete">Eliminar</string>
+    <string name="checkbox_list_context_edit">Editar</string>
+    <string name="clear_text_end_icon_content_description">Borra texto</string>
+    <string msgid="6083905920877235314" name="copy">"Copiar"</string>
+    <string name="disable_vpn_fail">Erro ao deshabilitar o bloqueo de publicidade VPN.</string>
+    <string name="download_dialog">Estase a descarregar…</string>
+    <string name="enable_vpn_fail">Erro ao habilitar o bloqueo de publicidade VPN.</string>
+    <string name="error_copy_failed_details">Foi incapaz de copiar o arquivo hosts á partición do sistema. Verifica que o módulo systemless de Magisk esté habilitado para reiniciar.</string>
+    <string name="error_copy_failed_message">Erro ao instalar novo arquivo hosts</string>
+    <string name="error_dialog_help">Por favor ler Axuda para máis información.</string>
+    <string name="error_disable_vpn_failed_details">Por favor comproba os axustes da túa VPN para deshabilitala manualmente. </string>
+    <string name="error_disable_vpn_failed_message">Erro ao deshabilitar o bloqueo de publicidade VPN.</string>
+    <string name="error_enable_vpn_failed_message">Erro ao habilitar o bloqueo de publicidade VPN.</string>
+    <string name="error_icon_content_description">Produciuse un erro</string>
+    <string name="error_no_connection_message">Non hai conexión a Internet</string>
+    <string name="error_not_enough_space_message">Non hai espazo dabondo</string>
+    <string name="error_private_file_failed_message">Erro ao crear arquivo privado</string>
+    <string name="error_revert_failed_details">Non se é capaz de restaurar-la configuración predeterminada do arquivo hosts.</string>
+    <string name="error_revert_failed_message">Erro ao revertir o arquivo hosts</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Configuración avanzada"</string>
+    <string name="export_dialog">Estase a exportar…</string>
+    <string name="exposed_dropdown_menu_content_description">Mostra o menú despregable</string>
+    <string name="header_help">Benvido!</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Servidor web</string>
+    <string name="help_label">Amosar axuda</string>
+    <string name="hosts_content">Cargando contido do arquivo hosts…</string>
+    <string name="hosts_header">O arquivo hosts</string>
+    <string name="hosts_open_button">Abrir o arquivo hosts</string>
+    <string name="hosts_title">Hosts sources</string>
+    <string name="icon_content_description">Icona de cadro de diálogo</string>
+    <string name="icon_update_status">Estado da actualización</string>
+    <string name="import_dialog">Estase a importar…</string>
+    <string name="import_success">Copia de seguridade importada correctamente dende o teu almacenamento externo.</string>
+    <string name="item_view_role_description">Pestana</string>
+    <string name="list_add_dialog_black">Engadir host á lista negra</string>
+    <string name="list_add_dialog_redirect">Engadir host de redirección</string>
+    <string name="list_add_dialog_white">Engadir host á lista branca</string>
+    <string name="lists_menu_filter">Filtrar hosts</string>
+    <string name="lists_tab_allowed">Permitido</string>
+    <string name="lists_tab_blocked">Bloqueado</string>
+    <string name="lists_tab_redirected">Redirixido</string>
+    <string name="lists_title">Túas listas</string>
+    <string name="material_clock_toggle_content_description">Seleccionar a.m. ou p.m.</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">%1$s en punto</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Cambiar ao modo de reloxo para introducir a hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Seleccionar hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia ao modo de introdución de texto para introducir a hora.</string>
+    <string name="menu_add">Engadir</string>
+    <string name="menu_help">Axuda</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nova</string>
+    <string name="mtrl_chip_close_icon_content_description">Quita %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Máis de %1$d notificacións novas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar ao mes seguinte</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar ao mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
+    <string name="mtrl_picker_confirm">Aceptar</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona unha data</string>
+    <string name="mtrl_picker_date_header_unselected">Data seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">O formato non é válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usa este formato: %1$s</string>
+    <string name="mtrl_picker_invalid_range">O intervalo de datas non é válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir ao ano %1$s</string>
+    <string name="mtrl_picker_out_of_range">Só se admiten datas do intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de inicio - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s - data de finalización</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un intervalo de datas</string>
+    <string name="mtrl_picker_range_header_unselected">Data de inicio - data de finalización</string>
+    <string name="mtrl_picker_save">Gardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de inicio</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar ao modo de entrada de calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tocar para cambiar a selección de día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar ao modo de introdución de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tocar para cambiar a selección de ano</string>
+    <string name="mtrl_timepicker_cancel">Cancelar</string>
+    <string name="mtrl_timepicker_confirm">Aceptar</string>
+    <string msgid="6573031135582639649" name="not_set">"Sen configurar"</string>
+    <string name="notification_configuration_changed_action">Aplicar</string>
+    <string name="notification_configuration_failed">Erro ao aplicar a nova configuración.</string>
+    <string name="notification_update_app_available_text">Unha nova versión de AdAway está dispoñíbel para descargar</string>
+    <string name="notification_update_app_available_title">Actualización da app dispoñibel</string>
+    <string name="notification_update_channel_name">Actualizacións</string>
+    <string name="notification_update_host_available_text">Novos arquivos hosts dispoñíbeis para descargar.</string>
+    <string name="notification_update_host_available_title">Actualización da fonte dispoñibel</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="password_toggle_content_description">Mostra o contrasinal</string>
+    <string name="pref_main_title">Preferences</string>
+    <string name="pref_root_open_hosts">Open hosts file</string>
+    <string name="pref_update_title">Unha nova versión de AdAway está dispoñibel para descargar</string>
+    <string name="pref_vpn_ad_blocker_configuration">Bloqueador de publicidade baseado en VPN</string>
+    <string name="pref_vpn_exclude_system_apps">Excluír aplicacións do sistema</string>
+    <string name="pref_vpn_exclude_user_apps">Excluír aplicacións do usuario</string>
+    <string name="pref_vpn_exclude_user_apps_activity">Aplicacións excluídas</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Quitar selección a todas</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Icona da aplicación</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Selecciona todas</string>
+    <string name="pref_vpn_excluded_apps">Aplicacións excluídas</string>
+    <string name="pref_vpn_excluded_apps_description">Configure cales aplicacións non deberían utilizar a VPN para que non se bloqueen súas conexións.</string>
+    <string name="pref_vpn_service_on_boot">Habilitar no arranque</string>
+    <string name="pref_vpn_title">Bloqueador de publicidade baseado en VPN</string>
+    <string name="pref_webserver_enabled">Activar servidor web</string>
+    <string msgid="6685851473431805375" name="preference_copied">"Copiouse \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" no portapapeis."</string>
+    <string name="preferences_drawer_item">Preferences</string>
+    <string name="project_label">Abrir páxina de GitHub</string>
+    <string name="redirect_hosts_label">Redirixido</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Buscar"</string>
+    <string name="shortcut_your_lists">Túas listas</string>
+    <string name="show_log_button">Amosar dominios solicitados</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="status_disabled">Deshabilitado</string>
+    <string name="status_download_fail">Fontes non dispoñíbeis.</string>
+    <string name="status_download_fail_subtitle_new">Non hay fontes de hosts accesíbeis</string>
+    <string name="status_download_source">Descargando fonte %s</string>
+    <string name="status_enabled">Habilitado</string>
+    <string name="status_hosts_updated">Arquivo hosts actualizado correctamente</string>
+    <string name="status_no_connection">Sen conexión a Internet</string>
+    <string name="status_no_connection_subtitle">Non hai conexión a Internet dispoñíbel</string>
+    <string name="status_revert">Reverter ó arquivo hosts por defecto</string>
+    <string name="status_revert_done">Arquivo hosts predeterminado restablecido</string>
+    <string name="status_reverting_subtitle">Creando arquivo hosts estándar</string>
+    <string name="status_root_access_denied">Acceso root denegado</string>
+    <string name="status_update_available">Actualización da fonte dispoñíbel</string>
+    <string name="status_update_available_subtitle">Arquivos hosts recentes dispoñíbeis</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="update_button">Actualizar dominios bloqueados</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESACTIVADO"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVADO"</string>
+    <string name="vpn_status_running">En execución</string>
+    <string name="vpn_status_stopped">Detido</string>
+    <string name="webserver_status_running">En execución</string>
+    <string name="webserver_status_stopped">Detido</string>
+    <string name="welcome_first_step">Primeiro paso do asistente</string>
+    <string name="welcome_last_step">Derradeiro paso do asistente</string>
+    <string name="welcome_method_header">Benvido a AdAway!</string>
+    <string name="welcome_method_summary">AdAway proporciona dous métodos de bloqueo. Escolle un:</string>
+    <string name="welcome_next_button">Seguinte</string>
+    <string name="welcome_root_method_text3">Precisa root</string>
+    <string name="welcome_root_missile_description">Podería ser que non se atopara o arquivo su binary ou que AdAway non teña autorización dos permisos root.\n\nIsto sucede cando o teu dispositivo non está rooteado. Podes atopar información sobre como rootear o teu dispositivo en wiki.lineageos.org ou noutros sitios web Android.</string>
+    <string name="welcome_root_missing_title">Precisa ter Android rooteado</string>
+    <string name="welcome_second_step">Segundo paso do asistente</string>
+    <string name="welcome_support_button">Doar en PayPal</string>
+    <string name="welcome_support_telemetry_summary">Gústanche os bugs? A min tampouco.</string>
+    <string name="welcome_title">Benvido</string>
+    <string name="welcome_vpn_method_text2">Executar en segundo plano</string>
+    <string name="welcome_vpn_method_text3">Compatibilidade</string>
+</resources>

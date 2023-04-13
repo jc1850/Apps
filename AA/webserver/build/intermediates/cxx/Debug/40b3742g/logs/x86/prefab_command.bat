@@ -1,0 +1,20 @@
+@echo off
+"C:\\Users\\jcall\\.jdks\\corretto-11.0.16.1\\bin\\java" ^
+  --class-path ^
+  "C:\\Users\\jcall\\.gradle\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.0.0\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\cli-2.0.0-all.jar" ^
+  com.google.prefab.cli.AppKt ^
+  --build-system ^
+  ndk-build ^
+  --platform ^
+  android ^
+  --abi ^
+  x86 ^
+  --os-version ^
+  26 ^
+  --stl ^
+  c++_shared ^
+  --ndk-version ^
+  25 ^
+  --output ^
+  "C:\\Users\\jcall\\AppData\\Local\\Temp\\agp-prefab-staging16895672813248045872\\staged-cli-output" ^
+  "C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab"

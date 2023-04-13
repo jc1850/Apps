@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_items">
+        <item>Home</item>
+        <item>Hosts sources</item>
+        <item>Your lists</item>
+        <item>Open hosts file</item>
+        <item>Log DNS requests</item>
+        <item>Scan for adware</item>
+        <item>Preferences</item>
+        <item>Help</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Custom target</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d outdated source</item>
+        <item quantity="other">%d outdated sources</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d up-to-date source</item>
+        <item quantity="other">%d up-to-date sources</item>
+    </plurals>
+    <string name="app_name">AdAway</string>
+    <string name="button_add">Legg til</string>
+    <string name="button_cancel">Avbryt</string>
+    <string name="button_close">Lukk</string>
+    <string name="button_exit">Lukk</string>
+    <string name="button_no">Nei</string>
+    <string name="button_save">Lagre</string>
+    <string name="button_yes">Ja</string>
+    <string name="hosts_title">Hosts sources</string>
+    <string name="lists_title">Your lists</string>
+    <string name="menu_add">Legg til</string>
+    <string name="pref_main_title">Preferences</string>
+    <string name="pref_root_open_hosts">Open hosts file</string>
+    <string name="preferences_drawer_item">Preferences</string>
+    <string name="text_update">Alle vertsfiler fra valgte kilder er nedlastet, legg dem sammen med din egen liste og installer som en vertsfil.</string>
+</resources>

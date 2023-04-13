@@ -1,0 +1,153 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.adaway.app-mergeDebugResources-44:/values-ku/values-ku.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings_app.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "43",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "1119",
+                        "endColumns": "43",
+                        "endOffsets": "1158"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings_lists.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "50",
+                        "endOffsets": "103"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "1465",
+                        "endColumns": "50",
+                        "endOffsets": "1511"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings_prefs_vpn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "19",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "595",
+                        "endLines": "22",
+                        "endColumns": "19",
+                        "endOffsets": "766"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings.xml",
+                    "from": {
+                        "startLines": "9,6,3,5,4,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "426,211,77,169,126,265",
+                        "endLines": "18,6,3,5,4,7",
+                        "endColumns": "19,52,47,40,41,63",
+                        "endOffsets": "753,259,120,205,163,324"
+                    },
+                    "to": {
+                        "startLines": "2,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,1163,1216,1264,1305,1347",
+                        "endLines": "11,32,33,34,35,36",
+                        "endColumns": "19,52,47,40,41,63",
+                        "endOffsets": "373,1211,1259,1300,1342,1406"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings_home.xml",
+                    "from": {
+                        "startLines": "8,4,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "266,85,443",
+                        "endLines": "11,7,13",
+                        "endColumns": "14,14,63",
+                        "endOffsets": "435,260,502"
+                    },
+                    "to": {
+                        "startLines": "23,27,41",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "771,942,1637",
+                        "endLines": "26,30,41",
+                        "endColumns": "14,14,63",
+                        "endOffsets": "937,1114,1696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings_hosts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "53",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "1411",
+                        "endColumns": "53",
+                        "endOffsets": "1460"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings_prefs_root.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "123,57",
+                        "endLines": "8,2",
+                        "endColumns": "19,64",
+                        "endOffsets": "340,117"
+                    },
+                    "to": {
+                        "startLines": "12,40",
+                        "startColumns": "4,4",
+                        "startOffsets": "378,1572",
+                        "endLines": "17,40",
+                        "endColumns": "19,64",
+                        "endOffsets": "590,1632"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ku\\strings_prefs_main.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "55",
+                        "endOffsets": "108"
+                    },
+                    "to": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "1516",
+                        "endColumns": "55",
+                        "endOffsets": "1567"
+                    }
+                }
+            ]
+        }
+    ]
+}

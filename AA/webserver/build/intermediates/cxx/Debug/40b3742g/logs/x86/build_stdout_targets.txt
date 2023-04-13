@@ -1,0 +1,3 @@
+[x86] Prebuilt       : libssl.so <= C:/Users/jcall/.gradle/caches/transforms-3/18f9defc0c53f79ea334dc8688e39ce9/transformed/openssl-1.1.1q-beta-1/prefab/modules/ssl/libs/android.x86/
+[x86] Prebuilt       : libcrypto.so <= C:/Users/jcall/.gradle/caches/transforms-3/18f9defc0c53f79ea334dc8688e39ce9/transformed/openssl-1.1.1q-beta-1/prefab/modules/crypto/libs/android.x86/
+make: Nothing to be done for 'webserver_exec'.

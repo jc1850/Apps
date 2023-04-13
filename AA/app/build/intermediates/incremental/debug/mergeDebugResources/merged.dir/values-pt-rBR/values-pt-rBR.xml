@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Início</item>
+        <item>Fontes de hosts</item>
+        <item>Suas listas</item>
+        <item>Abrir arquivo hosts</item>
+        <item>Registrar solicitações de DNS</item>
+        <item>Procurar por adware</item>
+        <item>Preferências</item>
+        <item>Ajuda</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Destino personalizado</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>Claro</item>
+        <item>Escuro</item>
+        <item>Padrão do sistema</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>Nenhum</item>
+        <item>Todos, exceto navegadores</item>
+        <item>Todos</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="one">%d dia</item>
+        <item quantity="many">%d dias</item>
+        <item quantity="other">%d dias</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="one">%d hora</item>
+        <item quantity="many">%d horas</item>
+        <item quantity="other">%d horas</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="one">%d minuto</item>
+        <item quantity="many">%d minutos</item>
+        <item quantity="other">%d minutos</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="one">%d mês</item>
+        <item quantity="many">%d meses</item>
+        <item quantity="other">%d meses</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nova notificação</item>
+    <item quantity="other">%d novas notificações</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d outdated source</item>
+        <item quantity="other">%d fontes desatualizadas</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d up-to-date source</item>
+        <item quantity="other">%d fontes atualizadas</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="adblock_pause_button_description">Pausar/retomar ad bloqueador</string>
+    <string name="adware_description">Aqui você pode encontrar adwares instalados, aplicativos ruins que não podem ser bloqueados pelo AdAway. Esses aplicativos usam, por exemplo, notificações do Airpush que aparecem mesmo quando o aplicativo não está em execução ou até mesmo mudam seu toque. A única contramedida disponível é desinstalar esses aplicativos clicando nos itens da lista.</string>
+    <string name="adware_empty">Nenhum Adware foi encontrado!</string>
+    <string name="adware_header">Adware</string>
+    <string name="adware_scanning">Escaneando…</string>
+    <string name="allowed_hosts_label">Permitido</string>
+    <string name="app_description">Bloqueador de anúncios de código aberto</string>
+    <string name="app_logo">Logo AdAway</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Bloqueador de anúncios</string>
+    <string name="apply_apn_proxy">Um proxy APN está definido no seu Android!\nO AdAway não funcionará de forma confiável quando estiver em redes móveis como o 3G. Você pode desativar esse proxy acessando o APN selecionado (no aplicativo Configurações: Rede &amp; Internet -> Rede móvel -> Avançado -> Nomes de pontos de acesso) e remova o valor no campo de proxy.</string>
+    <string name="apply_apn_proxy_title">APN proxy definida!</string>
+    <string name="apply_copy_fail">Falha na cópia do arquivo hosts!</string>
+    <string name="apply_copy_fail_status">Falha ao copiar o arquivo hosts</string>
+    <string name="apply_copy_fail_title">Falha ao copiar</string>
+    <string name="apply_dialog">Aplicando…</string>
+    <string name="apply_dialog_apply">Aplicando arquivo hosts</string>
+    <string name="apply_dialog_hostnames">Analisando e mesclando arquivos hosts</string>
+    <string name="apply_dialog_hosts">Compilando arquivo hosts</string>
+    <string name="apply_dialog_lists">Aplicando Lista Negra e Lista Branca</string>
+    <string name="apply_fail">Falha ao aplicar arquivo hosts no seu sistema!\nTente alterar o destino do arquivo hosts nas preferências para /data/data/hosts.</string>
+    <string name="apply_fail_status">Falha ao aplicar o novo arquivo de hosts.</string>
+    <string name="apply_fail_title">Falha ao aplicar</string>
+    <string name="apply_help">Consulte a Ajuda para mais informações.</string>
+    <string name="apply_not_enough_space">Espaço insuficiente na partição!\nTente alterar o destino do arquivo hosts nas preferências para /data/data/hosts.</string>
+    <string name="apply_not_enough_space_title">Espaço insuficiente</string>
+    <string name="apply_private_file_fail">O arquivo baixado não pode ser lido.</string>
+    <string name="apply_private_file_fail_title">Falha no arquivo privado</string>
+    <string name="apply_remount_fail">Falha ao remontar a partição como leitura/escrita!</string>
+    <string name="apply_remount_fail_title">Falha ao remontar</string>
+    <string name="apply_success_dialog">A aplicação foi bem sucedida.\nPode ser necessário reiniciar o Android para as alterações fazerem efeito.\n\nDeseja reiniciar agora?\n(Para evitar perda de dados certifique-se de que nenhum app está usando o cartão SD no momento!)</string>
+    <string name="apply_success_subtitle">Fontes de hosts aplicadas</string>
+    <string name="apply_success_title">Sucesso ao aplicar</string>
+    <string name="apply_symlink_fail">O link simbólico não pôde ser criado pelo Android.\nIsso falha principalmente devido a um \'recurso\' chamado S-ON nos telefones HTC!\n\nUma solução é inicializar seu telefone no modo de recuperação e criar o link simbólico com \'ln -s /data/data/hosts /system/etc/hosts\'.\n\nSe isso não funcionar, procure na Internet por S-OFF e seu telefone.</string>
+    <string name="apply_symlink_fail_title">Falha ao criar link simbólico</string>
+    <string name="apply_symlink_missing">O link simbólico do seu destino para /system/etc/hosts não existe ou está incorreto! O AdAway não funcionará se ele não estiver direcionado ao arquivo certo.\n\nTentar criar um link simbólico?</string>
+    <string name="apply_symlink_missing_status">O symlink para o destino do arquivo hosts está ausente</string>
+    <string name="apply_symlink_missing_title">Link simbólico ausente</string>
+    <string name="apply_symlink_successful">O link simbólico foi criado com sucesso. Pode ser necessário reiniciar o Android para que as alterações entrem em vigor. Deseja reiniciar? (para evitar a perda de dados, certifique-se de que nenhum aplicativo está usando o cartão SD no momento!)</string>
+    <string name="apply_symlink_successful_title">Sucesso ao criar link simbólico</string>
+    <string name="blocked_hosts_label">Bloqueado</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir até a metade</string>
+    <string name="button_add">Adicionar</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_close">Fechar</string>
+    <string name="button_disable_hosts">Desativar bloqueio de anúncios</string>
+    <string name="button_disable_vpn">Desativar VPN</string>
+    <string name="button_disable_webserver">Desativar servidor web</string>
+    <string name="button_enable_hosts">Ativar bloqueio de anúncios</string>
+    <string name="button_enable_vpn">Ativar VPN</string>
+    <string name="button_enable_webserver">Ativar servidor web</string>
+    <string name="button_exit">Sair</string>
+    <string name="button_help">Ajuda</string>
+    <string name="button_no">Não</string>
+    <string name="button_save">Salvar</string>
+    <string name="button_show_help">Mostrar mais ajuda</string>
+    <string name="button_yes">Sim</string>
+    <string name="character_counter_content_description">Caracteres inseridos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limite de %2$d caracteres excedido em %1$d</string>
+    <string name="check_hosts_update_description">Checar por atualizações de hosts</string>
+    <string name="checkbox_list_context_apply">Aplicar</string>
+    <string name="checkbox_list_context_delete">Excluir</string>
+    <string name="checkbox_list_context_edit">Editar</string>
+    <string name="checkbox_list_context_title">Editar Entrada</string>
+    <string name="clear_text_end_icon_content_description">Limpar texto</string>
+    <string name="clipboard_host_copied">Host copiado para área da transferência</string>
+    <string msgid="6083905920877235314" name="copy">"Copiar"</string>
+    <string name="disable_systemless_magisk">Desative o recurso de hosts sem sistema do gerenciador Magisk. Na lista de módulos, desinstale o módulo <cite>Hosts sem sistema</cite> e reinicie o dispositivo.</string>
+    <string name="disable_systemless_magisk_title">Desativando módulo Magisk de hosts</string>
+    <string name="disable_systemless_successful">Você desativou o modo sem sistema. Pode ser necessário reiniciar o Android para que as alterações entrem em vigor. Deseja reiniciar? (Para evitar a perda de dados, certifique-se de que nenhum aplicativo use o cartão SD no momento!)</string>
+    <string name="disable_systemless_successful_title">Desativado com sucesso</string>
+    <string name="disable_vpn_fail">Falha ao desativar o bloqueio de anúncios VPN.</string>
+    <string name="download_dialog">Baixando…</string>
+    <string name="download_fail_dialog">Nenhuma de suas fontes de hosts ativadas está acessível! Você está conectado devidamente à Internet?</string>
+    <string name="download_fail_title">Falha ao baixar</string>
+    <string name="drawer_close">Fechar menu</string>
+    <string name="drawer_open">Abrir menu</string>
+    <string name="enable_systemless_magisk">Habilite o recurso hosts sem sistema do gerenciador Magisk. Nas configurações, ative a opção <cite>Hosts sem sistema</cite> e reinicie o dispositivo.</string>
+    <string name="enable_systemless_magisk_title">Ativando módulo Magisk de hosts</string>
+    <string name="enable_systemless_successful">Você ativou o modo sem sistema. Pode ser necessário reinicializar o Android para que as alterações entrem em vigor. Deseja reinicializar? (Para evitar a perda de dados, certifique-se de que nenhum aplicativo use o cartão SD no momento!)</string>
+    <string name="enable_systemless_successful_title">Ativado com sucesso</string>
+    <string name="enable_vpn_fail">Falha ao ativar o bloqueio de anúncios VPN.</string>
+    <string name="error_copy_failed_details">Não foi possível copiar o arquivo hosts para a partição do sistema. Verifique se o módulo systemless do Magisk está habilitado e reinicie.</string>
+    <string name="error_copy_failed_message">Falha ao instalar o novo arquivo de hosts</string>
+    <string name="error_dialog_help">Consulte a Ajuda para mais informações.</string>
+    <string name="error_disable_vpn_failed_details">Por favor, verifique suas configurações de VPN para desativá-lo manualmente.</string>
+    <string name="error_disable_vpn_failed_message">Falha ao desativar o bloqueio de anúncios VPN.</string>
+    <string name="error_download_failed_details">Nenhuma das fontes de hosts ativadas está acessível. Por favor verifique se você está conectado corretamente à Internet.</string>
+    <string name="error_download_failed_message">Falha ao baixar a fonte dos hosts</string>
+    <string name="error_enable_vpn_failed_details">Verifique suas configurações de VPN para autorizar o aplicativo VPN a iniciar.</string>
+    <string name="error_enable_vpn_failed_message">Falha ao ativar o bloqueio de anúncios VPN.</string>
+    <string name="error_icon_content_description">Erro</string>
+    <string name="error_no_connection_details">Não foi possível estabelecer uma conexão com a Internet. Por favor, verifique a conectividade do seu dispositivo.</string>
+    <string name="error_no_connection_message">Sem conexão com a Internet</string>
+    <string name="error_not_enough_space_details">Não foi possível copiar o arquivo hosts para partição do sistema. Por favor, verifique se o módulo sem sistema Magisk está ativado e reinicie.</string>
+    <string name="error_not_enough_space_message">Espaço insuficiente</string>
+    <string name="error_private_file_failed_details">Não foi possível criar um arquivo privado para criar uma nova fonte de hosts. Verifique o espaço livre disponível no seu dispositivo.</string>
+    <string name="error_private_file_failed_message">Falha ao criar arquivo privado</string>
+    <string name="error_revert_failed_details">Não foi possível restaurar a configuração do arquivo de hosts padrão.</string>
+    <string name="error_revert_failed_message">Falha ao reverter o arquivo hosts</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Avançado"</string>
+    <string name="export_dialog">Exportando…</string>
+    <string name="export_failed">Falha ao exportar arquivo de backup \'%s\'.</string>
+    <string name="export_success"> Backup exportado com sucesso para o arquivo \'%s\' em seu armazenamento externo.</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menu suspenso</string>
+    <string name="github_project_drawer_item">Projeto GitHub</string>
+    <string name="header_help">Bem-vindo!</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Servidor web</string>
+    <string name="help_label">Mostrar ajuda\ne dicas</string>
+    <string name="help_tab_faq">FAQ</string>
+    <string name="help_tab_problems">Problemas</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">Hosts oficiais do AdAway</string>
+    <string name="hosts_add_dialog">URL de entrada para arquivo hosts:</string>
+    <string name="hosts_add_dialog_title">Adicionar fonte</string>
+    <string name="hosts_content">Carregando o conteúdo do arquivo hosts…</string>
+    <string name="hosts_count">%s hosts</string>
+    <string name="hosts_description">O arquivo hosts é um arquivo de sistema que mapeia nomes de host para endereços IP. É um arquivo de texto simples cuja configuração é gerenciada pela AdAway. Aqui estão suas poucas primeiras linhas:</string>
+    <string name="hosts_dialog_url">URL: (https:// ou file:// recursos)</string>
+    <string name="hosts_dialog_url_hint">A URL da fonte de hosts</string>
+    <string name="hosts_edit_dialog_title">Editar fonte</string>
+    <string name="hosts_header">O arquivo de hosts</string>
+    <string name="hosts_not_available">não disponível</string>
+    <string name="hosts_open_button">Abrir arquivo hosts</string>
+    <string name="hosts_peterlowe_source">Lista negra de Pete Lowe</string>
+    <string name="hosts_source_disabled">Desativado</string>
+    <string name="hosts_source_few_minutes">poucos minutos</string>
+    <string name="hosts_source_installed">Instalado há %1$s</string>
+    <string name="hosts_source_last_update">Última atualização há %1$s</string>
+    <string name="hosts_source_need_update">Atualização necessária para %1$s</string>
+    <string name="hosts_source_unknown_status">Status de atualização desconhecido</string>
+    <string name="hosts_source_up_to_date">Atualizado há %1$s</string>
+    <string name="hosts_stevenblack_source">Hosts StevenBlack Unificados</string>
+    <string name="hosts_title">Fontes de hosts</string>
+    <string name="hosts_user_source">Lista do usuário</string>
+    <string name="icon_content_description">Ícone de caixa de diálogo</string>
+    <string name="icon_update_status">Atualizar status</string>
+    <string name="import_dialog">Importando…</string>
+    <string name="import_failed">Falha ao importar backup. Seu formato está correto? Verifique o logcat para mais detalhes.</string>
+    <string name="import_success">Backup importado com sucesso do seu armazenamento externo.</string>
+    <string name="item_view_role_description">Guia</string>
+    <string name="list_add_dialog_black">Adicionar host à lista negra</string>
+    <string name="list_add_dialog_redirect">Adicionar redirecionamento de host</string>
+    <string name="list_add_dialog_white">Adicionar host à lista branca</string>
+    <string name="list_dialog_hostname">Nome do host:</string>
+    <string name="list_dialog_hostname_hint">A URL da fonte de hosts</string>
+    <string name="list_dialog_ip">IP (IPv4 ou IPv6):</string>
+    <string name="list_dialog_wildcard">(Caracteres curinga * e ? são permitidos)</string>
+    <string name="list_edit_dialog_black">Editar host da lista negra</string>
+    <string name="list_edit_dialog_redirect">Editar redirecionamento</string>
+    <string name="list_edit_dialog_white">Editar host da lista branca</string>
+    <string name="lists_add">Adicionar host</string>
+    <string name="lists_menu_filter">Filtrar hosts</string>
+    <string name="lists_menu_filter_hint">Pesquisar nome do host…</string>
+    <string name="lists_menu_toggle_sources">Alternar fontes</string>
+    <string name="lists_tab_allowed">Permitido</string>
+    <string name="lists_tab_blocked">Bloqueado</string>
+    <string name="lists_tab_redirected">Redirecionado</string>
+    <string name="lists_title">Suas listas</string>
+    <string name="loading">Carregando…</string>
+    <string name="log_blocked_requests_ignored">\n\nSolicitações bloqueadas não vão ser registradas. Desative o bloqueio de anúncios se quiser registrá-las também.</string>
+    <string name="log_label">Mostrar registro de solicitação de DNS</string>
+    <string name="log_redirect_dialog_title">Redirecionamento de domínio</string>
+    <string name="log_sort_alphabetical">Ordem alfabética</string>
+    <string name="log_sort_top_level_domain">Ordem de nível de domínio</string>
+    <string name="log_start_recording">Aperte gravar para começar a registrar solicitações, navegue a Web ou use aplicativos, então retorne ou deslize para atualizar os registros.</string>
+    <string name="log_toggle_recording_description">Ativar gravação do registro</string>
+    <string name="material_clock_toggle_content_description">Selecionar AM ou PM</string>
+    <string name="material_hour_selection">Selecionar horário</string>
+    <string name="material_hour_suffix">%1$s em ponto</string>
+    <string name="material_minute_selection">Selecione os minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Alterne para o modo de relógio para informar o horário.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Selecionar horário</string>
+    <string name="material_timepicker_text_input_mode_description">Alterne para o modo de entrada de texto para informar o horário.</string>
+    <string name="menu_add">Adicionar</string>
+    <string name="menu_export">Exportar backup</string>
+    <string name="menu_help">Ajuda</string>
+    <string name="menu_import">Importar backup</string>
+    <string name="menu_refresh">Atualizar</string>
+    <string name="mtrl_badge_numberless_content_description">Nova notificação</string>
+    <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Mais de %1$d novas notificações</string>
+    <string name="mtrl_picker_a11y_next_month">Alterar para o próximo mês</string>
+    <string name="mtrl_picker_a11y_prev_month">Alterar para o mês anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Seleção atual: %1$s</string>
+    <string name="mtrl_picker_cancel">Cancelar</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecionar data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selecionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coluna de dias: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato inválido.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar %1$s</string>
+    <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir para o ano %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fora do intervalo: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de início – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Data de término</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecionar intervalo</string>
+    <string name="mtrl_picker_range_header_unselected">Data de início – Data de término</string>
+    <string name="mtrl_picker_save">Salvar</string>
+    <string name="mtrl_picker_text_input_date_hint">Data</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de término</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de início</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Alternar para o modo de entrada da agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toque para alternar para a seleção de um dia</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Alternar para o modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toque para alternar para a seleção de um ano</string>
+    <string name="mtrl_timepicker_cancel">Cancelar</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="no_connection">A conexão à Internet não está funcionando.</string>
+    <string name="no_connection_title">Sem Conexão</string>
+    <string name="no_file_manager">Nenhum gerenciador de arquivos pode ser encontrado para abrir arquivos. Você pode instalar OI Gerenciador de Arquivos ou outros gerenciadores de arquivos para contornar isto.\n\nInstalar OI Gerenciador de Arquivos?</string>
+    <string name="no_file_manager_title">Nenhum gerenciador de arquivos instalado</string>
+    <string name="no_hostname">Este não é um nome de host válido!</string>
+    <string name="no_hostname_title">Nome de host incorretamente formatado</string>
+    <string name="no_ip">Este não é um IP válido!</string>
+    <string name="no_ip_title">IP incorretamente formatado</string>
+    <string name="no_private_file">O arquivo privado não pode ser criado.</string>
+    <string name="no_private_file_status">Falha ao gravar o novo arquivo de hosts privados</string>
+    <string name="no_private_file_title">Falha ao criar arquivo privado</string>
+    <string name="no_text_editor">Nenhum editor de texto pode ser encontrado para abrir o arquivo hosts. Você pode instalar Jota ou outros editores de texto para contornar isto.\n\nInstalar Jota?</string>
+    <string name="no_text_editor_title">Nenhum editor de texto instalado</string>
+    <string msgid="6573031135582639649" name="not_set">"Não definido"</string>
+    <string name="notification_configuration_changed">Sua configuração foi alterada. Você precisa aplicá-la.</string>
+    <string name="notification_configuration_changed_action">Aplicar</string>
+    <string name="notification_configuration_failed">Falha ao aplicar nova configuração</string>
+    <string name="notification_configuration_installing">Aplicando nova configuração…</string>
+    <string name="notification_update_app_available_text">Uma nova versão do AdAway está disponível para download.</string>
+    <string name="notification_update_app_available_title">Atualização de aplicativo disponível</string>
+    <string name="notification_update_channel_description">Novas notificações de atualização</string>
+    <string name="notification_update_channel_name">Atualizações</string>
+    <string name="notification_update_host_available_text">Novos arquivos hosts disponíveis para download.</string>
+    <string name="notification_update_host_available_title">Atualização da fonte disponível</string>
+    <string name="notification_vpn_channel_description">Notificações de execução de VPN</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="open_drawer_button_description">Abrir gaveta de navegação</string>
+    <string name="password_toggle_content_description">Exibir senha</string>
+    <string name="permission_group_api_description">Permitir a interação com o AdAway</string>
+    <string name="permission_group_api_label">Permissões do AdAway</string>
+    <string name="permission_send_command_description">Permitir o envio de comandos para o AdAway, como habilitar ou desabilitar o bloqueio de anúncios em todo o sistema</string>
+    <string name="permission_send_command_label">Mandar comandos ao AdAway</string>
+    <string name="pref_ad_block_category">Ad bloqueador</string>
+    <string name="pref_apply_method">Destino do arquivo hosts</string>
+    <string name="pref_apply_method_summary">Antes de alterar esta definição, consulte a Ajuda sobre esta funcionalidade.</string>
+    <string name="pref_backup">Backup</string>
+    <string name="pref_backup_restore">Backup / restaure regras de bloqueio</string>
+    <string name="pref_backup_restore_title">Backup &amp; restaurar</string>
+    <string name="pref_backup_summary">Backup para armazenamento externo suas regras de bloqueio</string>
+    <string name="pref_custom_target">Destino personalizado</string>
+    <string name="pref_dark_theme">Ativar tema escuro</string>
+    <string name="pref_debug_category">Depuração</string>
+    <string name="pref_edit_text_value">Edite o valor em texto preferido</string>
+    <string name="pref_enable_debug">Habilitar log detalhado</string>
+    <string name="pref_enable_debug_summary">Você precisa reiniciar o AdAway para esta configuração ter efeito.</string>
+    <string name="pref_enable_ipv6">Ativar IPv6</string>
+    <string name="pref_enable_telemetry">Ativar relatório de erros</string>
+    <string name="pref_enable_telemetry_disabled_summary">Não suportado nesta compilação</string>
+    <string name="pref_enable_telemetry_summary">Permitir ao aplicativo enviar relatórios de erros e crashes para o Sentry (sentry.io).</string>
+    <string name="pref_general_category">Geral</string>
+    <string name="pref_hosts_installation">Instalar Hosts</string>
+    <string name="pref_hosts_redirection">Redirecionamento</string>
+    <string name="pref_hosts_redirection_summary">Definir para onde redirecionar hosts bloqueados</string>
+    <string name="pref_main_title">Preferências</string>
+    <string name="pref_never_reboot">Ocultar diálogo de reinicialização</string>
+    <string name="pref_redirection_invalid">Redirecionamento inválido</string>
+    <string name="pref_redirection_ipv4">Redirecionamento de IPv4</string>
+    <string name="pref_redirection_ipv6">Redirecionamento de IPv6</string>
+    <string name="pref_restore">Restaurar</string>
+    <string name="pref_restore_summary">Restaure suas regras de bloqueio do arquivo de backup</string>
+    <string name="pref_root_ad_blocker_configuration">Bloqueador de anúncios baseado em Root</string>
+    <string name="pref_root_open_hosts">Abrir arquivo hosts</string>
+    <string name="pref_root_title">Bloqueador de anúncios baseado em Root</string>
+    <string name="pref_update_app_category">Atualizações do aplicativo</string>
+    <string name="pref_update_check">Verificar se há atualizações na inicialização</string>
+    <string name="pref_update_check_app_daily">Verificar por atualizações diariamente</string>
+    <string name="pref_update_check_app_startup">Verificar se há atualizações na inicialização</string>
+    <string name="pref_update_check_hosts_daily">Verificar por atualizações diariamente</string>
+    <string name="pref_update_configuration">Atualizações automáticas</string>
+    <string name="pref_update_hosts_category">Atualizações de hosts</string>
+    <string name="pref_update_include_beta_releases">Incluir versões beta</string>
+    <string name="pref_update_sync_on_update">Sincronizar na atualização</string>
+    <string name="pref_update_sync_unmetered_only">Sincronizar apenas em rede sem limites</string>
+    <string name="pref_update_title">Atualizações</string>
+    <string name="pref_vpn_ad_blocker_configuration">Bloqueador de anúncios baseado em VPN</string>
+    <string name="pref_vpn_exclude_system_apps">Excluir aplicativos do sistema</string>
+    <string name="pref_vpn_exclude_user_apps">Excluir aplicativos do usuário</string>
+    <string name="pref_vpn_exclude_user_apps_activity">Aplicativos excluídos</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Remover todos</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Ícone do aplicativo</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Selecionar tudo</string>
+    <string name="pref_vpn_excluded_apps">Aplicativos excluídos</string>
+    <string name="pref_vpn_excluded_apps_description">Configure quais aplicativos não devem usar a VPN para que nenhuma conexão seja bloqueada.</string>
+    <string name="pref_vpn_service_monitor">Monitore a conexão</string>
+    <string name="pref_vpn_service_monitor_description">Verifique periodicamente o estado da rede para reiniciar a VPN em caso de desconexão.</string>
+    <string name="pref_vpn_service_on_boot">Ativar na inicialização</string>
+    <string name="pref_vpn_title">Bloqueador de anúncios baseado em VPN</string>
+    <string name="pref_webserver">Servidor Web Local</string>
+    <string name="pref_webserver_certificate">Instalar certificado autoassinado</string>
+    <string name="pref_webserver_certificate_dialog_action">Abra as configurações de \"Segurança\"</string>
+    <string name="pref_webserver_certificate_dialog_content">A partir do Android 11 (R), o aplicativo não pode mais instalar automaticamente a autoridade de certificação (CA).\n\nVá para as configurações de \"Segurança\", \"Criptografia e credenciais\" e, em seguida, \"Instalar um certificado\". A partir daí, escolha \"certificado CA\" e selecione o arquivo de certificado recém-exportado.</string>
+    <string name="pref_webserver_certificate_dialog_title">Instalação manual do certificado</string>
+    <string name="pref_webserver_enabled">Ativar servidor web</string>
+    <string name="pref_webserver_icon">Substituir espaço em branco do anúncio pelo ícone do aplicativo</string>
+    <string name="pref_webserver_state_checking">Checando…</string>
+    <string name="pref_webserver_state_not_running">Não executando</string>
+    <string name="pref_webserver_state_running_and_installed">Em execução e certificado instalado</string>
+    <string name="pref_webserver_state_running_not_installed">Em execução, mas o certificado não foi instalado</string>
+    <string name="pref_webserver_summary">O servidor da Web local escutam os endereços IP locais para responder a solicitações de nome de host bloqueadas. Pode ajudar com o congelamento de aplicativos na conexão bloqueada.</string>
+    <string name="pref_webserver_test">Testar servidor web</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" copiado para a área de transferência."</string>
+    <string name="preferences_drawer_item">Preferências</string>
+    <string name="project_label">Abrir página do GitHub</string>
+    <string name="reboot_never_reboot">Nunca reinicie e não mostre esta pergunta na próxima vez!</string>
+    <string name="redirect_hosts_label">Redirecionado</string>
+    <string name="revert_failed_status">Não foi possível reverter o arquivo hosts</string>
+    <string name="revert_problem">Falha ao reverter devido a razões desconhecidas.</string>
+    <string name="revert_problem_title">Falha ao reverter!</string>
+    <string name="revert_successful">Você reverteu para o arquivo de hosts padrão. Pode ser necessário reinicializar o Android para que as alterações entrem em vigor. Deseja reinicializar? (Para evitar a perda de dados, verifique se nenhum aplicativo usa o cartão SD no momento !)</string>
+    <string name="revert_successful_title">Revertido com sucesso</string>
+    <string name="root_access_fail">Por favor, verifique o seu aplicativo de gerenciamento de root para garantir que o acesso root tenha sido concedido.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="shortcut_dns_requests">Pedidos DNS</string>
+    <string name="shortcut_preferences">Preferências</string>
+    <string name="shortcut_your_lists">Suas listas</string>
+    <string name="show_log_button">Mostrar solicitações de domínios</string>
+    <string name="status_apply_sources">Aplicar as fontes mais recentes</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">Buscando atualização</string>
+    <string name="status_check_copy">Verificando a cópia do arquivo de hosts</string>
+    <string name="status_check_source">Verificando %s fonte para atualização</string>
+    <string name="status_copy_new_hosts">Copiando um novo arquivo de hosts</string>
+    <string name="status_create_new_hosts">Criando um novo arquivo de hosts</string>
+    <string name="status_disabled">Desativado</string>
+    <string name="status_disabled_subtitle">Arquivo hosts padrão instalado</string>
+    <string name="status_download_fail">Fontes indisponíveis</string>
+    <string name="status_download_fail_subtitle_new">Nenhuma fonte de host está acessível!</string>
+    <string name="status_download_source">Baixando fontes %s</string>
+    <string name="status_enabled">Ativado</string>
+    <string name="status_enabled_subtitle">Arquivos hosts mais recentes ativados</string>
+    <string name="status_failure">Algo deu errado</string>
+    <string name="status_failure_subtitle">Verifique o logcat para mais detalhes</string>
+    <string name="status_hosts_updated">Arquivo de hosts atualizado com sucesso</string>
+    <string name="status_no_connection">Sem conexão à Internet</string>
+    <string name="status_no_connection_subtitle">Nenhuma conexão à Internet disponível</string>
+    <string name="status_no_update_found">Nenhuma atualização de fonte encontrada</string>
+    <string name="status_parse_source">Fonte %s em análise</string>
+    <string name="status_read_source">Fonte de leitura %s</string>
+    <string name="status_retrieve">Obtendo fontes</string>
+    <string name="status_revert">Revertendo para o arquivo de hosts padrão</string>
+    <string name="status_revert_done">Arquivo de hosts padrão restaurado</string>
+    <string name="status_reverting_subtitle">Criando arquivo hosts padrão</string>
+    <string name="status_root_access_denied">Acesso root negado</string>
+    <string name="status_root_access_denied_subtitle">Permitir acesso root do seu aplicativo de root</string>
+    <string name="status_sync_database">Sincronizando o banco de dados de regras</string>
+    <string name="status_update_available">Atualização da fonte disponível</string>
+    <string name="status_update_available_subtitle">Hosts mais recentes disponíveis</string>
+    <string name="status_vpn_configuration_updated">Configuração da VPN atualizada com sucesso</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Apoie o projeto</string>
+    <string name="support_sponsorship_button">Seja um patrocinador</string>
+    <string name="support_title">Suporte</string>
+    <string name="tcpdump_description">Tcpdump é uma ferramenta para monitorar solicitações de DNS e salvá-las em um arquivo de registro. Você pode iniciá-la em segundo plano, executar apps que mostram anúncios, e logo após analisar as solicitações de DNS usando arquivo de registro. O possivel servidor de anúncios pode ser então adicionado na sua lista negra.</string>
+    <string name="tcpdump_disable_monitoring">Desativar monitoramento</string>
+    <string name="tcpdump_enable_monitoring">Ativar monitoramento</string>
+    <string name="tcpdump_entry_add_blacklist">Adicionar entrada à lista negra</string>
+    <string name="tcpdump_entry_add_redirection_list">Adicionar entrada à lista de redirecionamento</string>
+    <string name="tcpdump_entry_add_whitelist">Adicionar entrada à lista branca</string>
+    <string name="tcpdump_header">Despejo TCP</string>
+    <string name="tcpdump_menu_clear">Limpar registro</string>
+    <string name="tcpdump_menu_sort">Classificar domínios</string>
+    <string name="tcpdump_show_results">Mostrar resultados</string>
+    <string name="text_help">O AdAway é um projeto de software livre e Open-Source para bloquear publicidade. Ele baixa o endereço de rede de anúncios e configura o dispositivo para bloqueá-los.\nQuer saber mais? Verifique a ajuda abaixo!</string>
+    <string name="text_update">Todos os arquivos hosts das fontes selecionadas já estão baixados, mesclados com suas listas personalizadas e instalados como um único arquivo hosts no seu sistema.</string>
+    <string name="update_available">Atualização disponível!</string>
+    <string name="update_button">Atualizar domínios bloqueados</string>
+    <string name="update_donate_button">Doar</string>
+    <string name="update_hosts_description">Atualizar hosts</string>
+    <string name="update_last_changelog_title">Últimas modificações</string>
+    <string name="update_new_changelog_title">Registro de mudanças</string>
+    <string name="update_notification_description">Baixando a última versão do AdAway</string>
+    <string name="update_progress_label">%1$s / %2$s</string>
+    <string name="update_sponsor_button">Patrocinador</string>
+    <string name="update_support_title">Apoiar o desenvolvimento</string>
+    <string name="update_title">Atualização do AdAway</string>
+    <string name="update_up_to_date_header">Você esta atualizado</string>
+    <string name="update_update_available_header">Atualização disponível</string>
+    <string name="update_update_button">Atualizar agora</string>
+    <string name="update_updating_header">Atualizando AdAway</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DESATIVADO"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ATIVADO"</string>
+    <string name="vpn_notification_action_pause">Pausar</string>
+    <string name="vpn_notification_action_resume">Retomar</string>
+    <string name="vpn_notification_paused">pausado</string>
+    <string name="vpn_notification_reconnecting">reconectando</string>
+    <string name="vpn_notification_reconnecting_error">erro de reconexão</string>
+    <string name="vpn_notification_running">ativo</string>
+    <string name="vpn_notification_starting">iniciando</string>
+    <string name="vpn_notification_stopped">parado</string>
+    <string name="vpn_notification_stopping">parando</string>
+    <string name="vpn_notification_title">VPN bloqueador de anúncios %1$s</string>
+    <string name="vpn_notification_waiting_for_net">esperando pela rede</string>
+    <string name="vpn_status_running">Em execução</string>
+    <string name="vpn_status_stopped">Parado</string>
+    <string name="vpn_toggle_text">Inicie ou pare o VPN para filtrar solicitações.</string>
+    <string name="webserver_status_running">Em execução</string>
+    <string name="webserver_status_stopped">Parado</string>
+    <string name="webserver_toggle_text">Iniciar ou interromper servidor web no host local para responder solicitações de nomes de hosts bloqueados.</string>
+    <string name="welcome_back_button">Voltar</string>
+    <string name="welcome_finish_button">Terminar</string>
+    <string name="welcome_first_step">Primeira etapa do assistente</string>
+    <string name="welcome_last_step">Última etapa do assistente</string>
+    <string name="welcome_method_con_logo">Con</string>
+    <string name="welcome_method_header">Bem-vindo ao AdAway!</string>
+    <string name="welcome_method_pro_logo">Pro</string>
+    <string name="welcome_method_summary">O AdAway fornece dois métodos de bloqueio de anúncios. Escolha o que você gosta:</string>
+    <string name="welcome_next_button">Próximo</string>
+    <string name="welcome_root_method_logo">Root logo</string>
+    <string name="welcome_root_method_text1">Mais rápido</string>
+    <string name="welcome_root_method_text2">Bateria amigável</string>
+    <string name="welcome_root_method_text3">Root requerido</string>
+    <string name="welcome_root_method_title">Root baseado em\nad bloqueador</string>
+    <string name="welcome_root_missile_description">Não foi possível encontrar o binário su ou você não permitiu a permissão root do AdAway.\n\nIsso pode acontecer quando o dispositivo não está rooteado. Você pode encontrar informações sobre como fazer root no seu dispositivo em wiki.lineageos.org ou em outros sites Android.</string>
+    <string name="welcome_root_missing_title">É obrigatório o acesso ROOT</string>
+    <string name="welcome_second_step">Segunda etapa do assistente</string>
+    <string name="welcome_support_button">Doar pelo PayPal</string>
+    <string name="welcome_support_header">Ajude-me!</string>
+    <string name="welcome_support_logo">Suporte</string>
+    <string name="welcome_support_summary">É um aplicativo gratuito e de código aberto. Eu desenvolvo isso no meu tempo livre. Portanto, se você gostar, sinta-se à vontade para mostrar seu apoio:</string>
+    <string name="welcome_support_telemetry_button">Ativar telemetria para me enviar relatórios de falhas</string>
+    <string name="welcome_support_telemetry_summary">Você gosta de bugs? Nem eu.</string>
+    <string name="welcome_sync_done_logo">Sincronização concluída</string>
+    <string name="welcome_sync_error">Falha ao sincronizar: %1$s Tentar novamente agora?</string>
+    <string name="welcome_sync_error_logo">Erro durante a sincronização</string>
+    <string name="welcome_sync_header">Sincronizando</string>
+    <string name="welcome_sync_retry_logo">Repetir sincronização</string>
+    <string name="welcome_sync_summary">O AdAway baixa redes de anúncios para bloquear de fontes on-line. Você pode personalizá-los posteriormente nas configurações.</string>
+    <string name="welcome_synced_header">Sincronizado</string>
+    <string name="welcome_title">Bem-vindo</string>
+    <string name="welcome_vpn_method_logo">VPN logo</string>
+    <string name="welcome_vpn_method_text1">Mais lento</string>
+    <string name="welcome_vpn_method_text2">Executado em segundo plano</string>
+    <string name="welcome_vpn_method_text3">Compatibilidade</string>
+    <string name="welcome_vpn_method_title">VPN basedo em\nad bloqueador</string>
+</resources>

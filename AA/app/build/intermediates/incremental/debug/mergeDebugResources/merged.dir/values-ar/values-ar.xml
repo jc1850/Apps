@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>الصفحة الرئيسية</item>
+        <item>مصادر المضيف</item>
+        <item>قوائمك</item>
+        <item>فتح ملفات المضيف</item>
+        <item>سجل طلبات الDNS</item>
+        <item>البحث عن البرامج الداعمة للإعلانات</item>
+        <item>الخيارات</item>
+        <item>المساعدة</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>مسار مخصص</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>مضيئ</item>
+        <item>داكن</item>
+        <item>الإعداد الإفتراضي للنظام</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="zero">إنتهى تقريبا %d</item>
+        <item quantity="one">يوم %d</item>
+        <item quantity="two">يومان %d</item>
+        <item quantity="few">بعض الايام %d</item>
+        <item quantity="many">ايام %d</item>
+        <item quantity="other">ايام %d</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="zero">إنتهى تقريبا%d</item>
+        <item quantity="one">ساعة %d</item>
+        <item quantity="two">ساعتان %d</item>
+        <item quantity="few">ساعات %d</item>
+        <item quantity="many">الساعات %d</item>
+        <item quantity="other">الساعات %d</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="zero">إنتهى  تقريبا%d</item>
+        <item quantity="one">دقيقة %d</item>
+        <item quantity="two">دقيقتان %d</item>
+        <item quantity="few">القليل %d</item>
+        <item quantity="many">دقائق %d</item>
+        <item quantity="other">دقائق %d</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="zero">انتهى تقريبا %d</item>
+        <item quantity="one">شهر واحد %d</item>
+        <item quantity="two">شهران %d</item>
+        <item quantity="few">أشهُر %d</item>
+        <item quantity="many">أشهُر %d</item>
+        <item quantity="other">أشهُر %d</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="zero">%d إشعار جديد</item>
+    <item quantity="one">إشعار جديد واحد (%d)</item>
+    <item quantity="two">إشعاران جديدان (%d)</item>
+    <item quantity="few">%d إشعارات جديدة</item>
+    <item quantity="many">%d إشعارًا جديدًا</item>
+    <item quantity="other">%d إشعار جديد</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="zero">%d المصدر بحاجة لتحديث</item>
+        <item quantity="one">%d المصدر بحاجة لتحديث</item>
+        <item quantity="two">%d المصادر بحاجة لتحديث</item>
+        <item quantity="few">%d المصادر بحاجة لتحديث</item>
+        <item quantity="many">%d المصادر بحاجة لتحديث</item>
+        <item quantity="other">%d المصادر بحاجة لتحديث</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="zero">%d المصادر محدث</item>
+        <item quantity="one">%d المصدر محدث</item>
+        <item quantity="two">%d المصادر محدثة</item>
+        <item quantity="few">%d المصادر محدثة</item>
+        <item quantity="many">%d المصادر محدثة</item>
+        <item quantity="other">%d المصادر محدثة</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"مفعّلة"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="adblock_pause_button_description">إيقاف/إستئناف منع الإعلانات</string>
+    <string name="adware_description">هنا يمكنك العثور على تطبيقات Adware مثبّتة ، وهي تطبيقات سيئة لا يمكن منعها من قِبَل AdAway . على سبيل المثال تستخدم هذه التطبيقات إشعارات Airpush التي تظهر حتى عند عدم تشغيل التطبيق وتستطيع حتى تغيير نغمة الرنين لجهازك . الحل الوحيد هو حذف هذه التطبيقات التي عُثِرَ عليها من خلال النقر على أسماء التطبيقات في الأسفل .</string>
+    <string name="adware_empty">لم يتم العثور على إعلانات مُتسلّلة!</string>
+    <string name="adware_header">الإعلانات المُتسلّلة</string>
+    <string name="adware_scanning">جارٍ الفحص</string>
+    <string name="allowed_hosts_label">مسموح</string>
+    <string name="app_description">مانع إعلانات مفتوح المصدر</string>
+    <string name="app_logo">أيقونة AdAway</string>
+    <string name="app_name">آدواي AdAway</string>
+    <string name="app_subtitle">حاجب الإعلانات</string>
+    <string name="apply_apn_proxy">تم تعيين بروكسي APN على جهاز Android الخاص بك! \ n لن تعمل ميزة ADAway بشكل موثوق به عندما تكون على شبكات المحمول مثل 3G. يمكنك إلغاء تنشيط هذا الوكيل بالانتقال إلى APN المحدد (من تطبيق الإعدادات: الشبكة &amp; الإنترنت-> شبكة الهاتف المحمول-> خيارات متقدمة-> أسماء نقاط الوصول) وإزالة القيمة في حقل خادم الوكيل.</string>
+    <string name="apply_apn_proxy_title">تعيين وكيل APN!</string>
+    <string name="apply_copy_fail">فشل نسخ ملفات المضيف!</string>
+    <string name="apply_copy_fail_status">فشل نسخ ملف المضيفين</string>
+    <string name="apply_copy_fail_title">فشل النسخ</string>
+    <string name="apply_dialog">يتم التنفيذ…</string>
+    <string name="apply_dialog_apply">تنفيذ ملفات المضيف</string>
+    <string name="apply_dialog_hostnames">تحليل ودمج ملفات المضيف</string>
+    <string name="apply_dialog_hosts">بناء ملفات المضيف</string>
+    <string name="apply_dialog_lists">تنفيذ القائمة السوداء والبيضاء</string>
+    <string name="apply_fail">لقد فشلت عملية تثبيت ملفات المضيف! حاول تغيير مسار الملفات من الاعدادات الى /data/data/hosts</string>
+    <string name="apply_fail_status">فشل في تطبيق ملف المضيفين الجديد.</string>
+    <string name="apply_fail_title">فشل التنفيذ</string>
+    <string name="apply_help">يرجى قراءة التعليمات للمزيد من المعلومات.</string>
+    <string name="apply_not_enough_space">لا توجد مساحة كافية على القرص حاول تغيير المسار من الاعدادت الى /data/data/hosts</string>
+    <string name="apply_not_enough_space_title">لا توجد مساحة كافية</string>
+    <string name="apply_private_file_fail">لا يمكن قراءة الملف الذي تم تنزيله.</string>
+    <string name="apply_private_file_fail_title">فشل الملف الخاص</string>
+    <string name="apply_remount_fail">فشل تحويل القسم لوضع القراءة/الكتابة!</string>
+    <string name="apply_remount_fail_title">فشل التحويل</string>
+    <string name="apply_success_dialog">تم التثبيت بنجاح. \nيستوجب إعادة تشغيل الجهاز الآن. \n\nهل تريد إعادة تشغيل جهازك؟ \n(يرجى التأكد من عدم وجود تطبيقات تستخدم بطاقة الذاكرة الآن لتجنّب فقدان أي معلومات!)</string>
+    <string name="apply_success_subtitle">مصادر المضيف المطبّقة</string>
+    <string name="apply_success_title">تم التنفيذ بنجاح</string>
+    <string name="apply_symlink_fail">تعذر إنشاء الوصلة اللينة Symlink بواسطة  Android.\n وهذا الفشل غالبًا بسبب \"ميزة\" تُعرف باسم S-ON على  HTC هواتف!\n\n الحل هو تشغيل الهاتف في وضع الاسترداد وإنشاء الرابط الترافقي Symlink هناك باستخدام \'ln -s /data/data/hosts /system/etc/hosts\'.\n\n إذا لم يعمل ذلك ، ابحث في الإنترنت عن S-OFF وكذلك في هاتفك.</string>
+    <string name="apply_symlink_fail_title">الارتباط الرمزي لم ينشئ</string>
+    <string name="apply_symlink_missing">symlink من مسارك الى /system/etc/hosts غير موجود او غير صحيح . البرنامج لن يعمل اذا لم يتم تحديد الملف الصحيح . هل تريد محاولة انشاء symlink ؟</string>
+    <string name="apply_symlink_missing_status">الارتباط الرمزي إلى هدف ملف المضيفين مفقود</string>
+    <string name="apply_symlink_missing_title">الارتباط الرمزي مفقود</string>
+    <string name="apply_symlink_successful">تم إنشاء الرابط الرمزي بنجاح. \nيستوجب إعادة تشغيل الجهاز الآن. \n\nهل تريد إعادة تشغيل جهازك؟ \n(يرجى التأكد من عدم وجود تطبيقات تستخدم بطاقة الذاكرة الآن لتجنّب فقدان أي معلومات!)</string>
+    <string name="apply_symlink_successful_title">الارتباط الرمزي أنشئ بنجاح</string>
+    <string name="blocked_hosts_label">محظور</string>
+    <string name="bottomsheet_action_expand_halfway">توسيع البطاقة السفلية</string>
+    <string name="button_add">إضافة</string>
+    <string name="button_cancel">إلغاء</string>
+    <string name="button_close">إغلاق</string>
+    <string name="button_disable_hosts">إيقاف حجب الإعلانات</string>
+    <string name="button_disable_vpn">إيقاف VPN</string>
+    <string name="button_disable_webserver">إيقاف خادم الويب</string>
+    <string name="button_enable_hosts">تشغيل حجب الإعلانات</string>
+    <string name="button_enable_vpn">تفعيل VPN</string>
+    <string name="button_enable_webserver">تشغيل خادم الويب</string>
+    <string name="button_exit">خروج</string>
+    <string name="button_help">المساعدة</string>
+    <string name="button_no">لا</string>
+    <string name="button_save">حفظ</string>
+    <string name="button_show_help">إظهار المزيد من المساعدة</string>
+    <string name="button_yes">نعم</string>
+    <string name="character_counter_content_description">تمّ إدخال %1$d حرف من إجمالي %2$d.</string>
+    <string name="character_counter_overflowed_content_description">تجاوز عدد الأحرف المسموح به %1$d من %2$d.</string>
+    <string name="check_hosts_update_description">تحقق من وجود تحديثات المضيفين</string>
+    <string name="checkbox_list_context_apply">تنفيذ</string>
+    <string name="checkbox_list_context_delete">حذف</string>
+    <string name="checkbox_list_context_edit">تحرير</string>
+    <string name="checkbox_list_context_title">تحرير المدخلة</string>
+    <string name="clear_text_end_icon_content_description">محو النص</string>
+    <string name="clipboard_host_copied">تم نسخ المضيف إلى الحافظة</string>
+    <string msgid="6083905920877235314" name="copy">"نسخ"</string>
+    <string name="disable_systemless_magisk">تعطيل ميزة المضيفين بدون نظام من Magisk manager. من قائمة الوحدات ، قم بإلغاء تثبيت وحدة Systemless hosts ، ثم أعد تشغيل جهازك.</string>
+    <string name="disable_systemless_magisk_title">تعطيل وحدة Magisk المضيفة</string>
+    <string name="disable_systemless_successful">تم تعطيل الوضع اللّانظامي. \nيستوجب إعادة تشغيل الجهاز الآن. \n\nهل تريد إعادة تشغيل جهازك؟ \n(يرجى التأكد من عدم وجود تطبيقات تستخدم بطاقة الذاكرة الآن لتجنّب فقدان أي معلومات!)</string>
+    <string name="disable_systemless_successful_title">تم التعطيل بنجاح</string>
+    <string name="disable_vpn_fail">تعذر عن إيقاف إعلانات VPN</string>
+    <string name="download_dialog">جارٍ التحميل…</string>
+    <string name="download_fail_dialog">مصادر المضيف لا يمكن الوصول إليها! هل أنت متصل بالإنترنت؟</string>
+    <string name="download_fail_title">فشل التحميل</string>
+    <string name="drawer_close">إغلاق القائمة</string>
+    <string name="drawer_open">فتح القائمة</string>
+    <string name="enable_systemless_magisk">تمكين ميزة المضيفين بدون نظام من Magisk manager. من إعداداته ، قم بتمكين خيار Hostless hosts ثم أعد تشغيل جهازك.</string>
+    <string name="enable_systemless_magisk_title">تمكين وحدة Magisk المضيفة</string>
+    <string name="enable_systemless_successful">تم تفعيل الوضع اللّانظامي. \nيستوجب إعادة تشغيل الجهاز الآن. \n\nهل تريد إعادة تشغيل جهازك؟ \n(يرجى التأكد من عدم وجود تطبيقات تستخدم بطاقة الذاكرة الآن لتجنّب فقدان أي معلومات!)</string>
+    <string name="enable_systemless_successful_title">تم التنفيذ بنجاح</string>
+    <string name="enable_vpn_fail">تعذر عن تفعيل إعلانات VPN</string>
+    <string name="error_copy_failed_details">تعذر نسخ ملف المضيفين إلى / قسم النظام. يرجى التحقق من تمكين Magisk systemless module ثم إعادة التشغيل.</string>
+    <string name="error_copy_failed_message">فشل تثبيت ملف المضيفين الجديد</string>
+    <string name="error_dialog_help">يرجى قراءة التعليمات للمزيد من المعلومات.</string>
+    <string name="error_disable_vpn_failed_details">يرجى التحقق من إعدادات VPN الخاصة بك لتعطيلها يدويًا.</string>
+    <string name="error_disable_vpn_failed_message">تعذر عن إيقاف إعلانات VPN</string>
+    <string name="error_download_failed_details">لا يمكن الوصول إلى أي من مصادر المضيفين المفعلة. يرجى التحقق من أنك متصل بشكل صحيح بالإنترنت.</string>
+    <string name="error_download_failed_message">فشل تحميل مصدر المضيفين</string>
+    <string name="error_enable_vpn_failed_details">يرجى التحقق من إعدادات VPN الخاصة بك للسماح ل VPN التطبيق للبدء.</string>
+    <string name="error_enable_vpn_failed_message">تعذر عن تفعيل إعلانات VPN</string>
+    <string name="error_icon_content_description">خطأ</string>
+    <string name="error_no_connection_details">تعذر إنشاء اتصال بالإنترنت. يرجى التحقق من اتصال جهازك.</string>
+    <string name="error_no_connection_message">غير متصل بالشبكة</string>
+    <string name="error_not_enough_space_details">تعذر نسخ ملف المضيفين إلى قسم النظام لديك. يرجى التحقق من تمكين Magisk systemless module ثم إعادة التشغيل.</string>
+    <string name="error_not_enough_space_message">لا توجد مساحة كافية</string>
+    <string name="error_private_file_failed_details">تعذر إنشاء ملف خاص لبناء مصدر مضيف جديد. يرجى التحقق من المساحة الخالية المتوفرة على جهازك.</string>
+    <string name="error_private_file_failed_message">فشل إنشاء ملف خاص</string>
+    <string name="error_revert_failed_details">غير قادر على استعادة الإعداد الافتراضي لملف المضيفين.</string>
+    <string name="error_revert_failed_message">فشلت إعادة ملف المضيفين</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"إعدادات متقدمة"</string>
+    <string name="export_dialog">تصدير…</string>
+    <string name="export_failed">تعذر تصدير ملف نسخة إحتياطية %s</string>
+    <string name="export_success">تم أخذ النسخة الإحتياطية بنجاح وتصديرها للملف %sعلى وسيط التخزين الخارجي الخاص بك</string>
+    <string name="exposed_dropdown_menu_content_description">عرض القائمة المنسدلة</string>
+    <string name="github_project_drawer_item">مشروع جيثب</string>
+    <string name="header_help">أهلاً وسهلاً!</string>
+    <string name="header_vpn">في بي إن</string>
+    <string name="header_webserver">خادم الويب</string>
+    <string name="help_label">إظهار التعليمات n والنصائح</string>
+    <string name="help_tab_faq">الأسئلة الشائعة</string>
+    <string name="help_tab_problems">المشاكل</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">لائحة AdAway الرسمية</string>
+    <string name="hosts_add_dialog">أدخل عنوان URL لملفات المضيف:</string>
+    <string name="hosts_add_dialog_title">إضافة مصدر</string>
+    <string name="hosts_content">جارٍ تحميل محتوى ملف المضيف…</string>
+    <string name="hosts_count">%s مضيفين</string>
+    <string name="hosts_description">ملف المضيف هو ملف نظام يقوم بربط أسماء المضيف مع عناوين الإنترنت بروتوكول .إنه عبارة عن ملف نصّي ويهتم AdAway به ويقوم بإعداده. تبدو بعض الخطوط الأولى فيه كما يلي:</string>
+    <string name="hosts_dialog_url">الرابط: (إمّا مصدر https:// أو file://)</string>
+    <string name="hosts_dialog_url_hint">مصدر رابط المضيف</string>
+    <string name="hosts_edit_dialog_title">تحرير مصدر</string>
+    <string name="hosts_header">ملف المضيف</string>
+    <string name="hosts_not_available">غير متوفر</string>
+    <string name="hosts_open_button">فتح ملف المضيف</string>
+    <string name="hosts_peterlowe_source">لائحة Pete Lowe</string>
+    <string name="hosts_source_disabled">معطل</string>
+    <string name="hosts_source_few_minutes">بضع دقائق</string>
+    <string name="hosts_source_installed">تم تنصيبه قبل %1$s</string>
+    <string name="hosts_source_last_update">آخر تحديث قبل %1$s</string>
+    <string name="hosts_source_need_update">مطلوب تحديث لـ %1$s</string>
+    <string name="hosts_source_unknown_status">حالة تحديث غير معروفة</string>
+    <string name="hosts_source_up_to_date">حالي لـ %1$s</string>
+    <string name="hosts_stevenblack_source">لائحة StevenBlack</string>
+    <string name="hosts_title">مصادر المضيف</string>
+    <string name="hosts_user_source">لائحة المستخدم</string>
+    <string name="icon_content_description">رمز مربع الحوار</string>
+    <string name="icon_update_status">حالة التحديث</string>
+    <string name="import_dialog">استيراد…</string>
+    <string name="import_failed">فشل ادخال النسخة الاحتياطية,هل هي بالصيغة الصحيحة؟
+تفقد السجل لمزيد من المعلومات.</string>
+    <string name="import_success">تم ادخال النسخة الاحتياطية من الذاكرة الخارجية بنجاح.</string>
+    <string name="item_view_role_description">علامة تبويب</string>
+    <string name="list_add_dialog_black">إضافة المضيف للقائمة السوداء </string>
+    <string name="list_add_dialog_redirect">إضافة عملية إعادة توجيه المضيف</string>
+    <string name="list_add_dialog_white">إضافة المضيف للقائمة البيضاء</string>
+    <string name="list_dialog_hostname">اسم المضيف:</string>
+    <string name="list_dialog_hostname_hint">مصدر رابط المضيف</string>
+    <string name="list_dialog_ip">بروتكول الانترنت (IPv4 أو IPv6):</string>
+    <string name="list_dialog_wildcard">(يسمح اسخدام رموز البدل * و ?)</string>
+    <string name="list_edit_dialog_black">تحرير المضيف المُدرج في القائمة السوداء</string>
+    <string name="list_edit_dialog_redirect">تحرير عملية إعادة التوجيه</string>
+    <string name="list_edit_dialog_white">تحرير المضيف المُدرج في القائمة البيضاء</string>
+    <string name="lists_add">إضافة مضيف</string>
+    <string name="lists_menu_filter">تصفية المضيفين</string>
+    <string name="lists_menu_filter_hint">البحث عن اسم المضيف…</string>
+    <string name="lists_menu_toggle_sources">تبديل المصادر</string>
+    <string name="lists_tab_allowed">مسموح</string>
+    <string name="lists_tab_blocked">محظور</string>
+    <string name="lists_tab_redirected">معاد توجيهه</string>
+    <string name="lists_title">قوائمك</string>
+    <string name="loading">تحميل…</string>
+    <string name="log_blocked_requests_ignored">\n\nلن يتم تسجيل الطلبات المحظورة. قم بتعطيل حظر الإعلانات أولاً إذا كنت تريد تسجيلها أيضًا.
+</string>
+    <string name="log_label">إظهار سجل طلب DNS</string>
+    <string name="log_redirect_dialog_title">إعادة توجيه الـ domain</string>
+    <string name="log_sort_alphabetical">ترتيب أبجدي</string>
+    <string name="log_sort_top_level_domain">ترتيب Top level domain</string>
+    <string name="log_start_recording">اضغط على زر التسجيل لبدء تسجيل الطلبات وقم بتصفح الويب أو استخدام بعض التطبيقات، ثم عُد أو اسحب بإصبعك للأسفل لتحديث السجلات.</string>
+    <string name="log_toggle_recording_description">تشغيل أو إيقاف تسجيل السّجل</string>
+    <string name="material_clock_toggle_content_description">يُرجى اختيار صباحًا أو مساءً.</string>
+    <string name="material_hour_selection">تحديد الساعة</string>
+    <string name="material_hour_suffix">الساعة %1$s</string>
+    <string name="material_minute_selection">تحديد الدقائق</string>
+    <string name="material_minute_suffix">%1$s دقيقة</string>
+    <string name="material_timepicker_am">صباحًا</string>
+    <string name="material_timepicker_clock_mode_description">يُرجى التبديل إلى وضع الساعة لإدخال الوقت.</string>
+    <string name="material_timepicker_hour">الساعة</string>
+    <string name="material_timepicker_minute">دقيقة</string>
+    <string name="material_timepicker_pm">مساءً</string>
+    <string name="material_timepicker_select_time">اختيار الوقت</string>
+    <string name="material_timepicker_text_input_mode_description">يُرجى التبديل إلى وضع إدخال النص لإدخال الوقت.</string>
+    <string name="menu_add">إضافة</string>
+    <string name="menu_export">استخراج نسخة احتياطية.</string>
+    <string name="menu_help">المساعدة</string>
+    <string name="menu_import">استرجاع النسخة الاحتياطية.</string>
+    <string name="menu_refresh">تحديث</string>
+    <string name="mtrl_badge_numberless_content_description">إشعار جديد</string>
+    <string name="mtrl_chip_close_icon_content_description">إزالة %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">يبلغ عدد الإشعارات الجديدة أكثر من %1$d.</string>
+    <string name="mtrl_picker_a11y_next_month">التغيير إلى الشهر التالي</string>
+    <string name="mtrl_picker_a11y_prev_month">التغيير إلى الشهر السابق</string>
+    <string name="mtrl_picker_announce_current_selection">الاختيار الحالي: %1$s</string>
+    <string name="mtrl_picker_cancel">إلغاء</string>
+    <string name="mtrl_picker_confirm">حسنًا</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">يُرجى اختيار تاريخ.</string>
+    <string name="mtrl_picker_date_header_unselected">التاريخ المحدَّد</string>
+    <string name="mtrl_picker_day_of_week_column_header">عمود الأيام: %1$s</string>
+    <string name="mtrl_picker_invalid_format">التنسيق غير صالح</string>
+    <string name="mtrl_picker_invalid_format_example">مثال: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">استخدام: %1$s</string>
+    <string name="mtrl_picker_invalid_range">النطاق غير صالح</string>
+    <string name="mtrl_picker_navigate_to_year_description">التنقل إلى العام %1$s</string>
+    <string name="mtrl_picker_out_of_range">خارج النطاق: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">تاريخ البدء – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – تاريخ الانتهاء</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">يُرجى اختيار نطاق زمني.</string>
+    <string name="mtrl_picker_range_header_unselected">تاريخ البدء - تاريخ الانتهاء</string>
+    <string name="mtrl_picker_save">حفظ</string>
+    <string name="mtrl_picker_text_input_date_hint">التاريخ</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">تاريخ الانتهاء</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">تاريخ البدء</string>
+    <string name="mtrl_picker_text_input_day_abbr">ي</string>
+    <string name="mtrl_picker_text_input_month_abbr">ش</string>
+    <string name="mtrl_picker_text_input_year_abbr">س</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">التبديل إلى وضع \"الإدخال في التقويم\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">انقر للتبديل إلى اختيار يوم</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">التبديل إلى وضع \"إدخال النص\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">انقر للتبديل إلى اختيار عام</string>
+    <string name="mtrl_timepicker_cancel">إلغاء</string>
+    <string name="mtrl_timepicker_confirm">حسنًا</string>
+    <string name="no_connection">الاتصال بالشبكة لا يعمل</string>
+    <string name="no_connection_title">غير متصل</string>
+    <string name="no_file_manager">تعذر العثور على مدير ملفات لفتح الملف. يمكنك تثبيت مدير ملفات OI او أي مدير ملفات اخر لتجاوز هذا. هل تريد تثبيت OI؟</string>
+    <string name="no_file_manager_title">لا يوجد مدير ملفات مثبت</string>
+    <string name="no_hostname">اسم الموقع غير صالح!</string>
+    <string name="no_hostname_title">صيغة اسم المضيف غير صحيحية</string>
+    <string name="no_ip">IP غير صالح!</string>
+    <string name="no_ip_title">صيغة IP غير صحيحة</string>
+    <string name="no_private_file">لا يمكن إنشاء ملف خاص.</string>
+    <string name="no_private_file_status">فشل كتابة ملف مضيفين خاصين جدد</string>
+    <string name="no_private_file_title">فشل إنشاء ملف خاص</string>
+    <string name="no_text_editor">تعذر العثور على محرر نصوص لفتح ملف المضيف. يمكنك تثبيت محرر النصوص JOTA او اي محرر نصوص اخر لتجاوز هذا. هل تريد تثبيت JOTA ؟</string>
+    <string name="no_text_editor_title">لا يوجد محرر نصوص مثبت</string>
+    <string msgid="6573031135582639649" name="not_set">"لم يتمّ تحديد قيمة."</string>
+    <string name="notification_configuration_changed">تم تغيير التكوين الخاص بك. تحتاج إلى تطبيقه.</string>
+    <string name="notification_configuration_changed_action">تنفيذ</string>
+    <string name="notification_configuration_failed">فشل في تثبيت ملف المضيفات</string>
+    <string name="notification_configuration_installing">جارِ تثبيت ملف المضيف…</string>
+    <string name="notification_update_app_available_text">إصدار جديد من AdAway متاح للتنزيل.</string>
+    <string name="notification_update_app_available_title">تحديث التطبيق متاح</string>
+    <string name="notification_update_channel_description">إشعارات تحديث جديد</string>
+    <string name="notification_update_channel_name">تحديثات</string>
+    <string name="notification_update_host_available_text">أحدث الملفات المضيفة المتاحة للتنزيل.</string>
+    <string name="notification_update_host_available_title">يوجد تحديث متوفر</string>
+    <string name="notification_vpn_channel_description">إشعارات تشغيل VPN</string>
+    <string name="notification_vpn_channel_name">في بي إن</string>
+    <string name="open_drawer_button_description">إفتح قائمة التوجيه</string>
+    <string name="password_toggle_content_description">عرض كلمة المرور</string>
+    <string name="permission_group_api_description">السماح لـ AdAway بالوصول لـ</string>
+    <string name="permission_group_api_label">صلاحيات AdAway</string>
+    <string name="permission_send_command_description">السماح بإرسال أوامر إلى AdAway مثل تمكين أو تعطيل حظر الإعلانات على مستوى النظام</string>
+    <string name="permission_send_command_label">أرسل الأوامر لـ AdAway</string>
+    <string name="pref_ad_block_category">منع إعلانات</string>
+    <string name="pref_apply_method">مسار ملفات المضيف</string>
+    <string name="pref_apply_method_summary">قبل تغيير هذا الإعداد، يجب قراءة التعليمات حول هذه الوظيفة.</string>
+    <string name="pref_backup">النسخ الاحتياطي</string>
+    <string name="pref_backup_restore">قواعد حظر النسخ الاحتياطي / الاستعادة</string>
+    <string name="pref_backup_restore_title">النسخ الاحتياطي و الإستعادة</string>
+    <string name="pref_backup_summary">نسخ احتياطي إلى ذاكرة خارجية</string>
+    <string name="pref_custom_target">مسار مخصص</string>
+    <string name="pref_dark_theme">ثيم داكن</string>
+    <string name="pref_debug_category">التصحيح</string>
+    <string name="pref_edit_text_value">تحرير قيمة إعدادات النص</string>
+    <string name="pref_enable_debug">تسجيل التقارير المفصل</string>
+    <string name="pref_enable_debug_summary">إعادة التشغيل مطلوبة لتطبيق الإعدادات</string>
+    <string name="pref_enable_ipv6">تفعيل دعم IPv6</string>
+    <string name="pref_enable_telemetry">إرسال تقارير الأعطال</string>
+    <string name="pref_enable_telemetry_disabled_summary">غير مدعوم في هذا الإصدار</string>
+    <string name="pref_enable_telemetry_summary">إرسال تقارير الأعطال إلى Sentry (sentry.io)</string>
+    <string name="pref_general_category">عام</string>
+    <string name="pref_hosts_installation">تثبيت المضيفين</string>
+    <string name="pref_hosts_redirection">إعادة التوجيه</string>
+    <string name="pref_hosts_redirection_summary">حدد مكان إعادة توجيه المضيفين المحظورين</string>
+    <string name="pref_main_title">الخيارات</string>
+    <string name="pref_never_reboot">إخفاء مُحاور إعادة التشغيل</string>
+    <string name="pref_redirection_invalid">إعادة توجيه غير صالحة</string>
+    <string name="pref_redirection_ipv4">عنوان إعادة التوجيه IPv4</string>
+    <string name="pref_redirection_ipv6">عنوان إعادة التوجيه IPv6</string>
+    <string name="pref_restore">إستعادة</string>
+    <string name="pref_restore_summary">إستعادة نسخة إحتياطية من ملف</string>
+    <string name="pref_root_ad_blocker_configuration">مانع إعلانات يعتمد على الرووت</string>
+    <string name="pref_root_open_hosts">فتح ملفات المضيف</string>
+    <string name="pref_root_title">مانع إعلانات يعتمد على الرووت</string>
+    <string name="pref_update_app_category">تحديثات التطبيق</string>
+    <string name="pref_update_check">تحقق من التحديث عند بدء التشغيل</string>
+    <string name="pref_update_check_app_daily">تحقق بشكل دوري من التحديثات</string>
+    <string name="pref_update_check_app_startup">تحقق من التحديث عند بدء التشغيل</string>
+    <string name="pref_update_check_hosts_daily">تحقق بشكل دوري من التحديثات</string>
+    <string name="pref_update_configuration">تحديثات تلقائية</string>
+    <string name="pref_update_hosts_category">تحديثات المضيفين</string>
+    <string name="pref_update_include_beta_releases">تضمين إصدارات بيتا</string>
+    <string name="pref_update_sync_on_update">مزامنة عند التحديث</string>
+    <string name="pref_update_sync_unmetered_only">المزامنة على شبكة غير مقيَّدة فقط</string>
+    <string name="pref_update_title">تحديثات</string>
+    <string name="pref_vpn_ad_blocker_configuration">مانع إعلانات يعتمد على ال VPN</string>
+    <string name="pref_vpn_exclude_system_apps">استبعد تطبيقات النظام</string>
+    <string name="pref_vpn_exclude_user_apps">استبعد تطبيقات المستخدم</string>
+    <string name="pref_vpn_exclude_user_apps_activity">التطبيقات المستبعدة</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">إلغاء تحديد الكل</string>
+    <string name="pref_vpn_exclude_user_apps_icon">أيقونة التطبيق</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">تحديد الكل</string>
+    <string name="pref_vpn_excluded_apps">التطبيقات المستبعدة</string>
+    <string name="pref_vpn_excluded_apps_description">إعداد التطبيقات التي يجب ألا تستخدم VPN حتى لا يتم حظر أي اتصالات.</string>
+    <string name="pref_vpn_service_monitor">مراقبة الاتصال</string>
+    <string name="pref_vpn_service_monitor_description">تحقق بشكل دوري من حالة الشبكة لإعادة تشغيل VPN عند قطع الاتصال.</string>
+    <string name="pref_vpn_service_on_boot">التمكين عند بدء تشغيل الجهاز</string>
+    <string name="pref_vpn_title">مانع إعلانات يعتمد على ال VPN</string>
+    <string name="pref_webserver">خادم الويب المحلي</string>
+    <string name="pref_webserver_certificate">قم بتثبيت شهادة موقعة ذاتيًا</string>
+    <string name="pref_webserver_certificate_dialog_action">افتح إعدادات \"الأمان\"</string>
+    <string name="pref_webserver_certificate_dialog_content">بدءًا من أندرويد 11 (R)، لم يعد بإمكان التطبيق التثبيت التلقائي للمرجع المصدق (CA). 
+انتقل إلى إعدادات \"الأمان\" ، و \"بيانات الاعتماد والتشفير\" ثم \"تثبيت شهادة\". من هناك ، اختر \"شهادة CA\" وحدد ملف الشهادة الذي تم تصديره حديثًا.</string>
+    <string name="pref_webserver_certificate_dialog_title">التثبيت اليدوي للشهادة</string>
+    <string name="pref_webserver_enabled">تفعيل خادم الويب</string>
+    <string name="pref_webserver_icon">استبدل المساحة الإعلانية الفارغة بأيقونة التطبيق</string>
+    <string name="pref_webserver_state_checking">تدقيق…</string>
+    <string name="pref_webserver_state_not_running">لا يعمل</string>
+    <string name="pref_webserver_state_running_and_installed">قيد التشغيل والشهادة مثبتة</string>
+    <string name="pref_webserver_state_running_not_installed">قيد التشغيل ولكن الشهادة غير مثبتة</string>
+    <string name="pref_webserver_summary">يستمع خادم الويب المحلي إلى عناوين IP المحلية للرد على طلبات اسم المضيف المحظورة. قد يساعد في حالة تجمد التطبيق عند الاتصالات المحظورة.</string>
+    <string name="pref_webserver_test">اختبار خادم الويب</string>
+    <string msgid="6685851473431805375" name="preference_copied">"تم نسخ \"<ns1:g id="SUMMARY">%1$s</ns1:g>\" إلى الحافظة."</string>
+    <string name="preferences_drawer_item">الخيارات</string>
+    <string name="project_label">إفتح صفحة GitHub</string>
+    <string name="reboot_never_reboot">لا تـقـم بإعادة التشغيل وعدم إظهار هذا السؤال في المرة القادمة!</string>
+    <string name="redirect_hosts_label">معاد توجيهه</string>
+    <string name="revert_failed_status">غير قادر على إعادة ملف المضيفين</string>
+    <string name="revert_problem">الاسترجاع فشل لأسباب غير معروفة.</string>
+    <string name="revert_problem_title">فشل الاسترجاع!</string>
+    <string name="revert_successful">تم استرجاع ملف المضيف الإفتراضي. \nيستوجب إعادة تشغيل الجهاز الآن. \n\nهل تريد إعادة تشغيل جهازك؟ \n(يرجى التأكد من عدم وجود تطبيقات تستخدم بطاقة الذاكرة الآن لتجنّب فقدان أي معلومات!)</string>
+    <string name="revert_successful_title">تم الاسترجاع</string>
+    <string name="root_access_fail">الرجاء تفقد برنامج ادارة الرووت للتأكد من أن صلاحيات الرووت مسموحة.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string name="shortcut_dns_requests">طلبات DNS</string>
+    <string name="shortcut_preferences">الخيارات</string>
+    <string name="shortcut_your_lists">قوائمك</string>
+    <string name="show_log_button">أظهر الروابط التي تم طلبها</string>
+    <string name="status_apply_sources">تطبيق آحدث المصادر</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">التأكد من التحديثات</string>
+    <string name="status_check_copy">التأكد من نسخ ملف hosts</string>
+    <string name="status_check_source">جاري تفقد مصدر %sللبحث عن تحديثات</string>
+    <string name="status_copy_new_hosts">نسخ ملف hosts جديد</string>
+    <string name="status_create_new_hosts">تكوين ملف hosts جديد</string>
+    <string name="status_disabled">معطل</string>
+    <string name="status_disabled_subtitle">ملف المضيف الإفتراضي مُثبّت</string>
+    <string name="status_download_fail">الملقمات غير متوفرة</string>
+    <string name="status_download_fail_subtitle_new">لا يمكن الوصول إلى مصادر المضيف!</string>
+    <string name="status_download_source">تحميل المصدر %s</string>
+    <string name="status_enabled">مفعل</string>
+    <string name="status_enabled_subtitle">ملفات المضيف الحديثة مفعلة</string>
+    <string name="status_failure">حدث خطأٌ ما</string>
+    <string name="status_failure_subtitle">للمزيد من المعلومات يرجى التحقّق من الـ logcat</string>
+    <string name="status_hosts_updated">تم تحديث ملف hosts بنجاح</string>
+    <string name="status_no_connection">غير متصل بالشبكة</string>
+    <string name="status_no_connection_subtitle">لا يوجد اتصال بالشبكة متوفر</string>
+    <string name="status_no_update_found">لم يعثر على تحديث للمصدر</string>
+    <string name="status_parse_source">جاري نسخ المصدر %s</string>
+    <string name="status_read_source">جاري قراءة المصدر %s</string>
+    <string name="status_retrieve">جلب المصادر</string>
+    <string name="status_revert">إستعادة إعدادات ملف hosts الإفتراضية</string>
+    <string name="status_revert_done">إستعادة ملف hosts الإفتراضي اكتمل</string>
+    <string name="status_reverting_subtitle">إنشاء ملفات المضيف الأساسية</string>
+    <string name="status_root_access_denied">صلاحيات الرووت مرفوضة.</string>
+    <string name="status_root_access_denied_subtitle">اسمح لصلاحيات الرووت من البرنامج المسؤول عن الرووت؟</string>
+    <string name="status_sync_database">جاري مزامنة قاعدة البيانات</string>
+    <string name="status_update_available">يوجد تحديث متوفر</string>
+    <string name="status_update_available_subtitle">ملفات المضيف الجديدة متوفرة</string>
+    <string name="status_vpn_configuration_updated">تم تحديث تكوين في بي إن بنجاح</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>، <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">إدعم المشروع</string>
+    <string name="support_sponsorship_button">كن راعياً</string>
+    <string name="support_title">الدعم</string>
+    <string name="tcpdump_description">Tcpdump هي أداة لمراقبة طلبات DNS وحفظها في ملف سجل. يمكنكم تشغيله في الخلفية، ثم تشغيل التطبيقات التي تعرض الإعلانات على الشاشة، بعد ذلك سيتم تحليل طلبات DNS باستخدام ملف السجل.الأن يمكن إضافة مصدر الإعلانات إلى قائمتك السوداء.</string>
+    <string name="tcpdump_disable_monitoring">إيقاف المُراقبة</string>
+    <string name="tcpdump_enable_monitoring">تشغيل المُراقبة</string>
+    <string name="tcpdump_entry_add_blacklist">إضافة المُدخَل للقائمة السوداء</string>
+    <string name="tcpdump_entry_add_redirection_list">إضافة المُدخَل إلى قائمة إعادة التوجيه</string>
+    <string name="tcpdump_entry_add_whitelist">إضافة المُدخَل للقائمة البيضاء</string>
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_menu_clear">محي السّجلّ</string>
+    <string name="tcpdump_menu_sort">ترتيب الـ domains</string>
+    <string name="tcpdump_show_results">عرض النتائج</string>
+    <string name="text_help">AdAway هو تصميم برامج مجاني ومفتوح المصدر لمنع الإعلانات. إنه يجلب عناوين الشبكات الإعلانية لمنعها من الظهور على جهازك. \nهل تود معرفة المزيد؟ يرجى رؤية المساعدة أدناه!</string>
+    <string name="text_update">جميع ملفات المضيف ستحمل و ستدمج مع قوائمك و ستثبت في ملف واحد على نظامك.</string>
+    <string name="update_available">تحديث متوفر!</string>
+    <string name="update_button">تحديث الروابط المحظورة</string>
+    <string name="update_donate_button">التبرع</string>
+    <string name="update_hosts_description">تحديث ملفات المضيف</string>
+    <string name="update_last_changelog_title">التغييرات الأخيرة</string>
+    <string name="update_new_changelog_title">سجل التغييرات</string>
+    <string name="update_notification_description">جاري تنزيل أحدث إصدار من AdAway…</string>
+    <string name="update_progress_label">%1$s/%2$s</string>
+    <string name="update_sponsor_button">راعي</string>
+    <string name="update_support_title">دعم المشروع</string>
+    <string name="update_title">تحديث آدواي AdAway</string>
+    <string name="update_up_to_date_header">أنت لديك آخر إصدار</string>
+    <string name="update_update_available_header">يوجد تحديث متوفر</string>
+    <string name="update_update_button">حدث الآن</string>
+    <string name="update_updating_header">جاري تحديث آدواي AdAway</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"إيقاف"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"مفعّلة"</string>
+    <string name="vpn_notification_action_pause">إيقاف مؤقت</string>
+    <string name="vpn_notification_action_resume">إستئناف</string>
+    <string name="vpn_notification_paused">متوقف مؤقتا</string>
+    <string name="vpn_notification_reconnecting">إعادة الإتصال</string>
+    <string name="vpn_notification_reconnecting_error">خطأ بإعادة الإتصال</string>
+    <string name="vpn_notification_running">فعال</string>
+    <string name="vpn_notification_starting">تشغيل</string>
+    <string name="vpn_notification_stopped">متوقف</string>
+    <string name="vpn_notification_stopping">جاري الإيقاف</string>
+    <string name="vpn_notification_title">إيقاف إعلانات VPN %1$s</string>
+    <string name="vpn_notification_waiting_for_net">بإنتظار شبكة</string>
+    <string name="vpn_status_running">تشغيل</string>
+    <string name="vpn_status_stopped">توقفت</string>
+    <string name="vpn_toggle_text">تشغيل أو إيقاف VPN لتصفية الطلبات</string>
+    <string name="webserver_status_running">يعمل</string>
+    <string name="webserver_status_stopped">موقوف</string>
+    <string name="webserver_toggle_text">بدء أو إيقاف خادم الويب على المضيف المحلي للرد على طلبات أسماء المضيفين المحظورة.</string>
+    <string name="welcome_back_button">رجوع</string>
+    <string name="welcome_finish_button">إنتهاء</string>
+    <string name="welcome_first_step">أول خطوة لتحضير التطبيق</string>
+    <string name="welcome_last_step">آخر خطوة لتحضير التطبيق</string>
+    <string name="welcome_method_con_logo">عيوب</string>
+    <string name="welcome_method_header">مرحبًا بك في AdAway !</string>
+    <string name="welcome_method_pro_logo">إحترافي</string>
+    <string name="welcome_method_summary">AdAway يقدم لك طريقتين لمنع الإعلانات</string>
+    <string name="welcome_next_button">التالي</string>
+    <string name="welcome_root_method_logo">أيقونة الرووت</string>
+    <string name="welcome_root_method_text1">أسرع</string>
+    <string name="welcome_root_method_text2">صديق للبطارية</string>
+    <string name="welcome_root_method_text3">الرووت مطلوب</string>
+    <string name="welcome_root_method_title">منع إعلانات يعتمد على الرووت</string>
+    <string name="welcome_root_missile_description">إما أن su binary لا يمكن العثور عليه أو أنك لم تسمح بإذن الجذر لـ AdAway. يمكن أن يحدث هذا عندما لا يكون جهازك بدون رووت. يمكنك العثور على معلومات حول كيفية عمل رووت لجهازك على wiki.lineageos.org أو مواقع Android الأخرى.</string>
+    <string name="welcome_root_missing_title">مطلوب روت للهاتف</string>
+    <string name="welcome_second_step">ثاني خطوة لتحضير التطبيق</string>
+    <string name="welcome_support_button">تبرع على PayPal</string>
+    <string name="welcome_support_header">إدعمني!</string>
+    <string name="welcome_support_logo">الدعم</string>
+    <string name="welcome_support_summary">إنه تطبيق مجاني ومفتوح المصدر. أقوم بتطويره في وقت فراغي. لذلك إذا كنت تستمتع به ، فلا تتردد في إظهار دعمك:</string>
+    <string name="welcome_support_telemetry_button">قم بتفعيل إرسال تقارير مشاكل التطبيق</string>
+    <string name="welcome_support_telemetry_summary">هل وجدت مشاكل في التطبيق؟ ولا أنا.</string>
+    <string name="welcome_sync_done_logo">تمت المزامنة</string>
+    <string name="welcome_sync_error">فشل مزامنة
+%1$s
+أعد المحاولة الآن؟</string>
+    <string name="welcome_sync_error_logo">حصل خطأ أثناء المزامنة</string>
+    <string name="welcome_sync_header">جاري المزامنة</string>
+    <string name="welcome_sync_retry_logo">أعد محاولة المزامنة</string>
+    <string name="welcome_sync_summary">AdAway يقوم بتنزيل شبكات الإعلانات لمنعها من المصادر عبر الإنترنت. يمكنك تخصيصها لاحقًا في الإعدادات.</string>
+    <string name="welcome_synced_header">تمت المزامنة</string>
+    <string name="welcome_title">مرحبا </string>
+    <string name="welcome_vpn_method_logo">أيقونة ال VPN</string>
+    <string name="welcome_vpn_method_text1">أبطىْ</string>
+    <string name="welcome_vpn_method_text2">تشغيل في الخلفية</string>
+    <string name="welcome_vpn_method_text3">توافق</string>
+    <string name="welcome_vpn_method_title">مانع إعلانات يعتمد على ال VPN</string>
+</resources>

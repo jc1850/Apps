@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Beranda</item>
+        <item>Sumber host</item>
+        <item>Daftar pribadi</item>
+        <item>Buka berkas hosts</item>
+        <item>Catatan permintaan DNS</item>
+        <item>Pindai terhadap adware</item>
+        <item>Pengaturan</item>
+        <item>Bantuan</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Kustom target</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>Terang</item>
+        <item>Gelap</item>
+        <item>Bawaan sistem</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="other">%d jam</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="other">%d menit</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="other">%d bulan</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notifikasi baru</item>
+    <item quantity="other">%d notifikasi baru</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="other">%dsumber usang</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="other">%dsumber terbaru</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Tunjukkan jalan ke rumah"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Kembali ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spasi"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Telusuri kueri"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bagikan dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="adblock_pause_button_description">Jeda / lanjutkan pemblokiran iklan</string>
+    <string name="adware_description">Disini Anda dapat menemukan adware yang terpasang, aplikasi jelek yang tidak dapat diblok oleh AdAway. Aplikasi ini digunakan sebagai contoh, notifikasi Airpush yang muncul ketika aplikasi tidak berjalan ataupun mengganti ringtonemu. Satu-satunya penanggulangan yang tersedia adalah melepas aplikasi-aplikasi tersebut dengan mengklik pada daftar item.</string>
+    <string name="adware_empty">Adware tidak ditemukan!</string>
+    <string name="adware_header">Adware</string>
+    <string name="adware_scanning">Memindai…</string>
+    <string name="allowed_hosts_label">Diizinkan</string>
+    <string name="app_description">Ad blocker Open Source</string>
+    <string name="app_logo">logo AdAway</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Ad blocker</string>
+    <string name="apply_apn_proxy">Sebuah proksi APN terkonfigurasi pada Android mu!\nAdAway mungkin tidak berdungsi semestinya pada jaringan seperti 3G. Kamu bisa mematikan proksi pada APN terkonfigurasi (Pengaturan aplikasi: Jaringan &amp; Internet -> Jaringan Mobile -> Lanjutan -> Nama Akses Poin) dan hapus nilai pada kolom proksi.</string>
+    <string name="apply_apn_proxy_title">APN peladen pewali ditentukan!</string>
+    <string name="apply_copy_fail">Penyalinan file host gagal!</string>
+    <string name="apply_copy_fail_status">Gagal menyalin file host</string>
+    <string name="apply_copy_fail_title">Penyalinan gagal</string>
+    <string name="apply_dialog">Menerapkan perubahan…</string>
+    <string name="apply_dialog_apply">Menerapkan file host</string>
+    <string name="apply_dialog_hostnames">Mengakses dan menggabungkan file host</string>
+    <string name="apply_dialog_hosts">Menyusun file hosts</string>
+    <string name="apply_dialog_lists">Menerapkan daftar hitam dan putih</string>
+    <string name="apply_fail">Penerapan file host ke sistem anda gagal!\nCobalah untuk mengganti target file host di prefrensi ke /data/data/hosts.</string>
+    <string name="apply_fail_status">Gagal menerapkan file host baru</string>
+    <string name="apply_fail_title">Pemasangan gagal</string>
+    <string name="apply_help">Silahkan baca Help untuk informasi lebih lanjut.</string>
+    <string name="apply_not_enough_space">Tidak ada cukup ruang di partisi!\nCobalah mengganti target file host di prefrensi menjadi /data/data/hosts.</string>
+    <string name="apply_not_enough_space_title">Tidak cukup ruang</string>
+    <string name="apply_private_file_fail">Berkas terunduh tidak dapat dibaca.</string>
+    <string name="apply_private_file_fail_title">Berkas pribadi gagal</string>
+    <string name="apply_remount_fail">Mount ulang partisi sebagai read/write gagal!</string>
+    <string name="apply_remount_fail_title">remount gagal</string>
+    <string name="apply_success_dialog">Penerapan telah berhasil. Anda mungkin perlu melakukan reboot Android untuk perubahan berefek. Apakah Anda ingin reboot? (Untuk mencegah kehilangan data pastikan tidak ada aplikasi menggunakan sdcard saat ini!)</string>
+    <string name="apply_success_subtitle">Sumber host diterapan</string>
+    <string name="apply_success_title">Penerapan berhasil</string>
+    <string name="apply_symlink_fail">Symlink tidak dapat di buat oleh Android.\nKebanyakan ini gagal karena \'fitur\' yang disebut S-ON pada ponsel HTC!\n\nSolusi untuk masalah ini adalah dengan masuk ke mode recovery lalu buat symlink dengan perintah \'ln -s /data/data/hosts /system/etc/hosts\'.\n\nJika masih tidak mempan carilah di Internet cara untuk S-OFF ponselmu.</string>
+    <string name="apply_symlink_fail_title">Pembuatan symlink gagal</string>
+    <string name="apply_symlink_missing">Symlink dari target ke /system/etc/hosts tidak benar atau tidak ada! AdAway tidak akan bekerja jika hal itu tidak dibetulkan.\n\nApa anda ingin mencoba membuat symlink?</string>
+    <string name="apply_symlink_missing_status">Symlink ke target file host tidak di temukan</string>
+    <string name="apply_symlink_missing_title">Symlink tidak ditemukan</string>
+    <string name="apply_symlink_successful">Symlink telah berhasil dibuat.\nIni mungkin membutuhkan memuat ulang Android untuk mendapatkan hasil dari perubahan.\n\nApakah anda ingin memuat ulang?\n(Untuk mencegah adanya kehilangan data, pastikan tidak ada aplikasi yang menggunakan kartu SD pada saat ini!)</string>
+    <string name="apply_symlink_successful_title">Pembuatan symlink berhasil</string>
+    <string name="blocked_hosts_label">Diblokir</string>
+    <string name="bottomsheet_action_expand_halfway">Luaskan setengah</string>
+    <string name="button_add">Tambah</string>
+    <string name="button_cancel">Batal</string>
+    <string name="button_close">Tutup</string>
+    <string name="button_disable_hosts">Matikan pemblokir iklan</string>
+    <string name="button_disable_vpn">Matikan VPN</string>
+    <string name="button_disable_webserver">Matikan layanan perambah</string>
+    <string name="button_enable_hosts">Hidupkan pemblokir iklan</string>
+    <string name="button_enable_vpn">Hidupkan VPN</string>
+    <string name="button_enable_webserver">Aktifkan peladen web</string>
+    <string name="button_exit">Keluar</string>
+    <string name="button_help">Bantuan</string>
+    <string name="button_no">Tidak</string>
+    <string name="button_save">Simpan</string>
+    <string name="button_show_help">Tampilkan semua bantuan</string>
+    <string name="button_yes">Ya</string>
+    <string name="character_counter_content_description">Karakter yang dimasukkan %1$d dari %2$d</string>
+    <string name="character_counter_overflowed_content_description">Melebihi batas karakter %1$d dari %2$d</string>
+    <string name="check_hosts_update_description">Mengecek pembaruan host</string>
+    <string name="checkbox_list_context_apply">Terapkan</string>
+    <string name="checkbox_list_context_delete">Hapus</string>
+    <string name="checkbox_list_context_edit">Sunting</string>
+    <string name="checkbox_list_context_title">Ubah Masukan</string>
+    <string name="clear_text_end_icon_content_description">Menghapus teks</string>
+    <string name="clipboard_host_copied">Host terkopi ke papan klip</string>
+    <string msgid="6083905920877235314" name="copy">"Salin"</string>
+    <string name="disable_systemless_magisk">Matikan fitur systemless host dari Magisk Manager. Dari daftar modul, uninstall modul <cite>Systemless hosts</cite> lalu mulai ulang perangkatmu.</string>
+    <string name="disable_systemless_magisk_title">Menonaktifkan modul hosts Magisk</string>
+    <string name="disable_systemless_successful">Kamu mematikan mode systemless.\nlt perlu sekiranya untuk memulai ulang Android agar perubahan efektif.\n\nIngin memulai ulang?\n(Untuk mencegah kehilangan data pastikan tidak ada aplikasi yang menggunakan kartu SD saat ini!)</string>
+    <string name="disable_systemless_successful_title">Berhasil menonaktifkan</string>
+    <string name="disable_vpn_fail">Gagal mematikan VPN pem-blok iklan</string>
+    <string name="download_dialog">Sedang mendownload…</string>
+    <string name="download_fail_dialog">Tak satu pun dari sumber host yang Anda aktifkan bisa dijangkau! Apakah Anda terhubung dengan benar dengan internet?</string>
+    <string name="download_fail_title">Download gagal</string>
+    <string name="drawer_close">Tutup menu</string>
+    <string name="drawer_open">Buka menu</string>
+    <string name="enable_systemless_magisk">Aktifkan fitur systemless host dari Magisk Manager. Melalui pengaturan, aktifkan pilihan <cite>Systemless hosts</cite> lalu mulai ulang perangkatmu.</string>
+    <string name="enable_systemless_magisk_title">Mengaktifkan modul hosts Magisk</string>
+    <string name="enable_systemless_successful">Kamu mengaktifkan mode systemless.\nlt perlu sekiranya untuk memulai ulang Android agar perubahan efektif.\n\nIngin memulai ulang?\n(Untuk mencegah kehilangan data pastikan tidak ada aplikasi yang menggunakan kartu SD saat ini!)</string>
+    <string name="enable_systemless_successful_title">Aktivasi berhasil</string>
+    <string name="enable_vpn_fail">Gagal mengaktifkan VPN pem-blok iklan</string>
+    <string name="error_copy_failed_details">Tidak dapat menyalin file ke partisi /system, cek modul systemless Magisk, aktifkan, kemudian reboot. </string>
+    <string name="error_copy_failed_message">Gagal untuk memasang file hosts baru</string>
+    <string name="error_dialog_help">Silahkan baca Help untuk informasi lebih lanjut.</string>
+    <string name="error_disable_vpn_failed_details">Cek peraturan VPN untuk menonaktifkan secara manual</string>
+    <string name="error_disable_vpn_failed_message">Gagal mematikan VPN pem-blok iklan</string>
+    <string name="error_download_failed_details">Tidak ada satupun sumber hosts anda dapat terjangkau. Tolong cek bahwa anda sudah benar terkoneksi ke internet. </string>
+    <string name="error_download_failed_message">Gagal mengunduh sumber hosts</string>
+    <string name="error_enable_vpn_failed_details">Cek peraturan VPN untuk mengizinkan aplikasi memulai VPN</string>
+    <string name="error_enable_vpn_failed_message">Gagal mengaktifkan VPN pem-blok iklan</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="error_no_connection_details">Tidak bisa menyambung koneksi ke internet. Tolong cek koneksi perangkat anda. </string>
+    <string name="error_no_connection_message">Tidak ada koneksi internet</string>
+    <string name="error_not_enough_space_details">Tidak bisa menduplikasi file hosts ke partisi system anda. Tolong cek modul Magisk systemless diaktifkan dan mulai ulang. </string>
+    <string name="error_not_enough_space_message">Tidak cukup ruang</string>
+    <string name="error_private_file_failed_details">Gagal membuat file private untuk membangun sumber hosts baru. Tolong cek ruang penyimpanan yang tersedia di perangkat anda. </string>
+    <string name="error_private_file_failed_message">Gagal untuk membuat file private</string>
+    <string name="error_revert_failed_details">Gagal mengembalikan host ke aturan bawaan</string>
+    <string name="error_revert_failed_message">Gagal mengembalikan file host</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Lanjutan"</string>
+    <string name="export_dialog">Mengekspor …</string>
+    <string name="export_failed">Gagal untuk mengeksport file backup \'%s\'.</string>
+    <string name="export_success">File backup \'%s\' berhasil di export ke penyimpanan eksternal</string>
+    <string name="exposed_dropdown_menu_content_description">Tampilkan menu dropdown</string>
+    <string name="github_project_drawer_item">Proyek GitHub</string>
+    <string name="header_help">Selamat Datang</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Layanan perambah</string>
+    <string name="help_label">Tampilkan bantuan\ndan tips</string>
+    <string name="help_tab_faq">FAQ</string>
+    <string name="help_tab_problems">Masalah</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">Official AdAway host</string>
+    <string name="hosts_add_dialog">Masukan URL ke file hosts:</string>
+    <string name="hosts_add_dialog_title">Tambah sumber</string>
+    <string name="hosts_content">Membaca isi file host…</string>
+    <string name="hosts_count">%s hosts</string>
+    <string name="hosts_description">File host adalah File sistem yang memetakan antara nama host dengan alamat IP. Itu adalah file teks biasa yang konfigurasinya ditangani oleh Adaway. Berikut beberapa baris pertamanya:</string>
+    <string name="hosts_dialog_url">URL: (a https:// atau file:// sumber)</string>
+    <string name="hosts_dialog_url_hint">Alamat sumber daftar</string>
+    <string name="hosts_edit_dialog_title">Ubah sumber</string>
+    <string name="hosts_header">Daftar hosts</string>
+    <string name="hosts_not_available">Tidak tersedia</string>
+    <string name="hosts_open_button">Buka file host</string>
+    <string name="hosts_peterlowe_source">Hosts Pete Lowe blocklist</string>
+    <string name="hosts_source_disabled">Dimatikan</string>
+    <string name="hosts_source_few_minutes">beberapa menit</string>
+    <string name="hosts_source_installed">Terpasang %1$s yang lalu</string>
+    <string name="hosts_source_last_update">Pembaruan terakhir %1$s yang lalu</string>
+    <string name="hosts_source_need_update">Pembaruan dibutuhkan untuk %1$s</string>
+    <string name="hosts_source_unknown_status">Status pembaharuan tidak diketahui</string>
+    <string name="hosts_source_up_to_date">Pembaruan untuk %1$s</string>
+    <string name="hosts_stevenblack_source">Hosts StevenBlack Unified</string>
+    <string name="hosts_title">Sumber host</string>
+    <string name="hosts_user_source">User list</string>
+    <string name="icon_content_description">Ikon Dialog</string>
+    <string name="icon_update_status">Keterangan pembaharuan</string>
+    <string name="import_dialog">Mengimpor …</string>
+    <string name="import_failed">Cadangan gagal diimpor. Apakah formatnya benar? Lihat logcat untuk detail lebih.</string>
+    <string name="import_success">Cadangan sukses diimpor dari penyimpanan eksternal anda</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="list_add_dialog_black">Tambahkan pada daftar hitam</string>
+    <string name="list_add_dialog_redirect">Tambahkan pada daftar pengalihan</string>
+    <string name="list_add_dialog_white">Tambahkan pada daftar putih</string>
+    <string name="list_dialog_hostname">Hostname:</string>
+    <string name="list_dialog_hostname_hint">Alamat sumber daftar</string>
+    <string name="list_dialog_ip">IP (IPv4 atau IPv6):</string>
+    <string name="list_dialog_wildcard">(Karakter * dan ? diperbolehkan)</string>
+    <string name="list_edit_dialog_black">Sunting host daftar hitam</string>
+    <string name="list_edit_dialog_redirect">Kelola pengalihan</string>
+    <string name="list_edit_dialog_white">Sunting host daftar putih host</string>
+    <string name="lists_add">Tambah hosts</string>
+    <string name="lists_menu_filter">Filter host</string>
+    <string name="lists_menu_filter_hint">Cari hostname… </string>
+    <string name="lists_menu_toggle_sources">Beralih sumber</string>
+    <string name="lists_tab_allowed">Diizinkan</string>
+    <string name="lists_tab_blocked">Diblokir</string>
+    <string name="lists_tab_redirected">Dialihkan</string>
+    <string name="lists_title">Daftar pribadi</string>
+    <string name="loading">Memuat…</string>
+    <string name="log_blocked_requests_ignored">\n\nNonaktifkan ad-block dulu sebelum memuali log</string>
+    <string name="log_label">Perlihatkan log DNS requests</string>
+    <string name="log_redirect_dialog_title">Alihkan domain</string>
+    <string name="log_sort_alphabetical">Urutkan sesuai abjad</string>
+    <string name="log_sort_top_level_domain">Urutkan sesuai TLD</string>
+    <string name="log_start_recording">Tekan rekam untuk memulai log,  browsing atau gunakan aplikasi target, kemudian kembali atau refresh halaman ini</string>
+    <string name="log_toggle_recording_description">Tombol rekam log</string>
+    <string name="material_clock_toggle_content_description">Pilih AM atau PM</string>
+    <string name="material_hour_selection">Pilih jam</string>
+    <string name="material_hour_suffix">Pukul %1$s</string>
+    <string name="material_minute_selection">Pilih menit</string>
+    <string name="material_minute_suffix">%1$s menit</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Beralih ke mode jam untuk masukan waktu.</string>
+    <string name="material_timepicker_hour">Jam</string>
+    <string name="material_timepicker_minute">Menit</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Pilih waktu</string>
+    <string name="material_timepicker_text_input_mode_description">Beralih ke mode masukan teks untuk masukan waktu.</string>
+    <string name="menu_add">Tambah</string>
+    <string name="menu_export">Ekspor cadangan</string>
+    <string name="menu_help">Bantuan</string>
+    <string name="menu_import">Impor cadangan</string>
+    <string name="menu_refresh">Segarkan</string>
+    <string name="mtrl_badge_numberless_content_description">Notifikasi baru</string>
+    <string name="mtrl_chip_close_icon_content_description">Menghapus %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Lebih dari %1$d notifikasi baru</string>
+    <string name="mtrl_picker_a11y_next_month">Ubah ke bulan berikutnya</string>
+    <string name="mtrl_picker_a11y_prev_month">Ubah ke bulan sebelumnya</string>
+    <string name="mtrl_picker_announce_current_selection">Pilihan saat ini: %1$s</string>
+    <string name="mtrl_picker_cancel">Batal</string>
+    <string name="mtrl_picker_confirm">Oke</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pilih Tanggal</string>
+    <string name="mtrl_picker_date_header_unselected">Tanggal yang dipilih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom hari: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format tidak valid.</string>
+    <string name="mtrl_picker_invalid_format_example">Contoh: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gunakan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Rentang tidak valid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Buka tahun %1$s</string>
+    <string name="mtrl_picker_out_of_range">Di luar rentang: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tanggal mulai – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tanggal akhir</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Pilih Rentang</string>
+    <string name="mtrl_picker_range_header_unselected">Tanggal mulai – Tanggal akhir</string>
+    <string name="mtrl_picker_save">Simpan</string>
+    <string name="mtrl_picker_text_input_date_hint">Tanggal</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tanggal akhir</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tanggal mulai</string>
+    <string name="mtrl_picker_text_input_day_abbr">h</string>
+    <string name="mtrl_picker_text_input_month_abbr">b</string>
+    <string name="mtrl_picker_text_input_year_abbr">t</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih ke mode masukan kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Ketuk untuk beralih ke memilih hari</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Beralih ke mode masukan teks</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Ketuk untuk beralih ke memilih tahun</string>
+    <string name="mtrl_timepicker_cancel">Batal</string>
+    <string name="mtrl_timepicker_confirm">Oke</string>
+    <string name="no_connection">Koneksi internet tidak berfungsi.</string>
+    <string name="no_connection_title">Tidak ada koneksi</string>
+    <string name="no_file_manager">Tidak ada manajer file yang dapat ditemukan untuk membuka file. Anda bisa menginstal OI File Manager atau manajer file lain.\n\nApakah anda ingin menginstal OI File Manager?</string>
+    <string name="no_file_manager_title">Tidak ada manager file yang terpasang</string>
+    <string name="no_hostname">Ini bukan hostname yang benar!</string>
+    <string name="no_hostname_title">Hostname tidak diformat dengan benar</string>
+    <string name="no_ip">Ini bukan IP yang benar!</string>
+    <string name="no_ip_title">IP tidak diformat dengan benar</string>
+    <string name="no_private_file">Berkas pribadi tidak dapat dibuat.</string>
+    <string name="no_private_file_status">Gagal membuat file hosts pribadi</string>
+    <string name="no_private_file_title">Pembuatan berkas pribadi gagal</string>
+    <string name="no_text_editor">Tidak ada editor teks yang dapat ditemukan untuk membuka file host. Anda bisa menginstal Jota atau teks editor lain.\n\nApakah anda ingin menginstal Jota?</string>
+    <string name="no_text_editor_title">Tidak terinstal pengedit teks</string>
+    <string msgid="6573031135582639649" name="not_set">"Belum disetel"</string>
+    <string name="notification_configuration_changed">Konfigurasi anda berubah. Anda perlu menerapkannya.</string>
+    <string name="notification_configuration_changed_action">Terapkan</string>
+    <string name="notification_configuration_failed">Gagal menerapkan konfigurasi baru</string>
+    <string name="notification_configuration_installing">Menerapkan konfigurasi baru… </string>
+    <string name="notification_update_app_available_text">AdAway versi terbaru tersedia untuk di unduh. </string>
+    <string name="notification_update_app_available_title">Pembaruan app tersedia</string>
+    <string name="notification_update_channel_description">Notifikasi pembaruan</string>
+    <string name="notification_update_channel_name">Pembaruan</string>
+    <string name="notification_update_host_available_text">File host terbaru tersedia untuk di unduh</string>
+    <string name="notification_update_host_available_title">Sumber pembaruan tersedia</string>
+    <string name="notification_vpn_channel_description">Notifikasi VPN berjalan</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="open_drawer_button_description">Buka laci navigasi</string>
+    <string name="password_toggle_content_description">Tampilkan sandi</string>
+    <string name="permission_group_api_description">Izinkan untuk berinteraksi dengan AdAway</string>
+    <string name="permission_group_api_label">Izin AdAway</string>
+    <string name="permission_send_command_description">Izinkan untuk mengirim perintah ke AdAway, seperti mengaktifkan atau mematikan system-wide ad-blocking</string>
+    <string name="permission_send_command_label">Kirim perintah ke AdAway</string>
+    <string name="pref_ad_block_category">Pemblokir iklan</string>
+    <string name="pref_apply_method">Target file host</string>
+    <string name="pref_apply_method_summary">Sebelum mengganti pengaturan. Baca panduan untuk fungsi tersebut.</string>
+    <string name="pref_backup">Backup</string>
+    <string name="pref_backup_restore">Backup / memulihkan aturan blokir</string>
+    <string name="pref_backup_restore_title">Backup &amp; pulihkan</string>
+    <string name="pref_backup_summary">Backup aturan blokir ke penyimpanan eksternal </string>
+    <string name="pref_custom_target">Kustom target</string>
+    <string name="pref_dark_theme">Gunakan tema gelap</string>
+    <string name="pref_debug_category">Debug</string>
+    <string name="pref_edit_text_value">Ubah nilai preferensi teks</string>
+    <string name="pref_enable_debug">Nyalakan verbose logging</string>
+    <string name="pref_enable_debug_summary">Anda perlu memulai kembali AdAway agar pengaturan ini berlaku.</string>
+    <string name="pref_enable_ipv6">Aktifkan IPv6</string>
+    <string name="pref_enable_telemetry">Nyalakan laporan crash</string>
+    <string name="pref_enable_telemetry_disabled_summary">Tidak mendukung pada build ini</string>
+    <string name="pref_enable_telemetry_summary">Ijinkan aplikasi untuk mengirim laporan error dan crash ke Sentry (sentry.io)</string>
+    <string name="pref_general_category">Umum</string>
+    <string name="pref_hosts_installation">Install hosts</string>
+    <string name="pref_hosts_redirection">Pengalihan</string>
+    <string name="pref_hosts_redirection_summary">Masukkan kemana hosts akan dialihkan</string>
+    <string name="pref_main_title">Pengaturan</string>
+    <string name="pref_never_reboot">Sembunyikan pesan reboot</string>
+    <string name="pref_redirection_invalid">Pengalihan salah</string>
+    <string name="pref_redirection_ipv4">Redireksi IPv4</string>
+    <string name="pref_redirection_ipv6">Redireksi IPv6</string>
+    <string name="pref_restore">Pulihkan</string>
+    <string name="pref_restore_summary">Pulihkan aturan blookir dari berkas backup</string>
+    <string name="pref_root_ad_blocker_configuration">Mode root</string>
+    <string name="pref_root_open_hosts">Buka berkas hosts</string>
+    <string name="pref_root_title">pemblokir basis root</string>
+    <string name="pref_update_app_category">Update aplikasi</string>
+    <string name="pref_update_check">Periksa update tiap mulai</string>
+    <string name="pref_update_check_app_daily">Periksa pembaruan setiap hari</string>
+    <string name="pref_update_check_app_startup">Periksa update tiap mulai</string>
+    <string name="pref_update_check_hosts_daily">Periksa pembaruan setiap hari</string>
+    <string name="pref_update_configuration">Pembaruan otomatis</string>
+    <string name="pref_update_hosts_category">Update hosts</string>
+    <string name="pref_update_include_beta_releases">menyertakan rilisan beta</string>
+    <string name="pref_update_sync_on_update">Sinkronisasi saat update</string>
+    <string name="pref_update_sync_unmetered_only">Hanya singkronisasi pada koneksi tak dibatasi</string>
+    <string name="pref_update_title">Pembaruan</string>
+    <string name="pref_vpn_ad_blocker_configuration">Mode vpn</string>
+    <string name="pref_vpn_exclude_system_apps">Kecualikan aplikasi sisttem</string>
+    <string name="pref_vpn_exclude_user_apps">kecualikan aplikasi pengguna</string>
+    <string name="pref_vpn_exclude_user_apps_activity">Aplikasi yang dikecualikan</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Batal pilih semua</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Ikon aplikasi</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Pilih semua</string>
+    <string name="pref_vpn_excluded_apps">Aplikasi yang dikecualikan</string>
+    <string name="pref_vpn_excluded_apps_description">Atur aplikasi yang tidak menggunakan VPN agar koneksi tidak terblokir</string>
+    <string name="pref_vpn_service_monitor">Memonitor konneksi</string>
+    <string name="pref_vpn_service_monitor_description">Cek keadaan koneksi berkala untuk restart koneksi VPN</string>
+    <string name="pref_vpn_service_on_boot">Mengizinkan saat mulai</string>
+    <string name="pref_vpn_title">Mode vpn</string>
+    <string name="pref_webserver">Peladen Web lokal</string>
+    <string name="pref_webserver_certificate">Instal sertifikat self-signed</string>
+    <string name="pref_webserver_certificate_dialog_action">Buka \"Keamanan\" di setelan</string>
+    <string name="pref_webserver_certificate_dialog_content">Mulai dari Android 11 (R), aplikasi tidak bisa menginstall certificate authority (CA).\n\nBuka \"keamanaan\" pada setelan, \"Enkripsi &amp; kredensial\" kemudian \"menginstal sertifikat\". Setelah itu, pilih \"Sertifikat CA\" dan pilih file sertifikat yang baru dibuat.</string>
+    <string name="pref_webserver_certificate_dialog_title">Instal sertifikat manual</string>
+    <string name="pref_webserver_enabled">Aktifkan peladen web</string>
+    <string name="pref_webserver_icon">Mengganti iklan yang terblokir dengan ikon app</string>
+    <string name="pref_webserver_state_checking">Memeriksa…</string>
+    <string name="pref_webserver_state_not_running">Tidak berjalan</string>
+    <string name="pref_webserver_state_running_and_installed">Berjalan dan terinstal</string>
+    <string name="pref_webserver_state_running_not_installed">Berjalan tapi tidak terinstal</string>
+    <string name="pref_webserver_summary">Server web lokal mendengarkan alamat IP lokal untuk menjawab permintaan nama host yang diblokir. Ini dapat membantu dengan pembekuan aplikasi pada koneksi yang diblokir.</string>
+    <string name="pref_webserver_test">Tes server web</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" disalin ke papan klip."</string>
+    <string name="preferences_drawer_item">Pengaturan</string>
+    <string name="project_label">Buka GitHub Page</string>
+    <string name="reboot_never_reboot">Jangan pernah nyalakan ulang dan jangan tampilkan pertanyaan ini lain kali</string>
+    <string name="redirect_hosts_label">Dialihkan</string>
+    <string name="revert_failed_status">Tidak bisa mengembalikan file host</string>
+    <string name="revert_problem">Pengembalian gagal karena alasan yang tidak diketahui.</string>
+    <string name="revert_problem_title">Pengembalian gagal</string>
+    <string name="revert_successful">Anda mengembalikan ke file host bawaan.\nIni mungkin membutuhkan memuat ulang Android untuk mendapatkan hasil dari perubahan.\n\nApakah anda ingin memuat ulang?\n(Untuk mencegah adanya kehilangan data, pastikan tidak ada aplikasi yang menggunakan kartu SD pada saat ini!)</string>
+    <string name="revert_successful_title">Pengembalian berhasil</string>
+    <string name="root_access_fail">Mohon cek aplikasi manajemen root Anda untuk memastikan akses root telah diberikan.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Telusuri"</string>
+    <string name="shortcut_dns_requests">Aktifitas DNS</string>
+    <string name="shortcut_preferences">Pengaturan</string>
+    <string name="shortcut_your_lists">Daftar pribadi</string>
+    <string name="show_log_button">Tampilkan domain yang diminta</string>
+    <string name="status_apply_sources">Terapkan sumber terbaru</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">Memeriksa pembaruan</string>
+    <string name="status_check_copy">Memeriksa salinan file host</string>
+    <string name="status_check_source">Cek pembaruan sumber %s</string>
+    <string name="status_copy_new_hosts">Menyalin file host baru</string>
+    <string name="status_create_new_hosts">Membuat file host baru</string>
+    <string name="status_disabled">Dimatikan</string>
+    <string name="status_disabled_subtitle">File host bawaan dipasang</string>
+    <string name="status_download_fail">Sumber tidak tersedia</string>
+    <string name="status_download_fail_subtitle_new">Tidak ada sumber host yang terjangkau!</string>
+    <string name="status_download_source">Mengunduh sumber %s</string>
+    <string name="status_enabled">Dinyalakan</string>
+    <string name="status_enabled_subtitle">Berkas hosts terbaru dinyalakan</string>
+    <string name="status_failure">Terjadi kesalahan</string>
+    <string name="status_failure_subtitle">Periksa logcat untuk lebih jelasnya</string>
+    <string name="status_hosts_updated">Berhasil memperbarui file host</string>
+    <string name="status_no_connection">Tidak ada koneksi internet</string>
+    <string name="status_no_connection_subtitle">Tidak ada koneksi internet yang tersedia</string>
+    <string name="status_no_update_found">Tidak ada pembaruan</string>
+    <string name="status_parse_source">Mengurai %s sumber</string>
+    <string name="status_read_source">membaca sumber %s</string>
+    <string name="status_retrieve">menerima sumber</string>
+    <string name="status_revert">Mengembalikan ke file hosts standar</string>
+    <string name="status_revert_done">file hosts kembali ke standar</string>
+    <string name="status_reverting_subtitle">Membuat host file standar</string>
+    <string name="status_root_access_denied">Akses root ditolak</string>
+    <string name="status_root_access_denied_subtitle">Ijinkan akses root dari aplikasi root anda</string>
+    <string name="status_sync_database">Mensinkronasi peraturan database</string>
+    <string name="status_update_available">Sumber pembaruan tersedia</string>
+    <string name="status_update_available_subtitle">Berkas hosts terbaru tersedia</string>
+    <string name="status_vpn_configuration_updated">Berhasil memperbarui konfigurasi VPN</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Dukung proyek</string>
+    <string name="support_sponsorship_button">Menjadi sponsor</string>
+    <string name="support_title">Dukungan</string>
+    <string name="tcpdump_description">Tcpdump adalah alat untuk memonitor permintan DNS dan menyimpannya ke file. Anda bisa membuka aplikasi yang memunculkan iklan, dan selanjutnya menganalisai permintaan DNS. Server iklan bisa tisa di tambahkan ke daftar hitam anda.</string>
+    <string name="tcpdump_disable_monitoring">Matikan pemantauan</string>
+    <string name="tcpdump_enable_monitoring">Hidupkan pemantauan</string>
+    <string name="tcpdump_entry_add_blacklist">Tambahkan pada daftar hitam</string>
+    <string name="tcpdump_entry_add_redirection_list">Tambahkan pada daftar pengalihan</string>
+    <string name="tcpdump_entry_add_whitelist">Tambahkan pada daftar putih</string>
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_menu_clear">Bersihkan catatan</string>
+    <string name="tcpdump_menu_sort">Sortir domain</string>
+    <string name="tcpdump_show_results">Tampilkan hasil</string>
+    <string name="text_help">AdAway adalah perangkat lunak gratis dengan desain kode terbuka untuk memblokir iklan. AdAway menangkap alamat-alamat jaringan iklan untuk memblokirnya di perangkatmu.\nIngin tahu lebih? Lihat bantuan di bawah!</string>
+    <string name="text_update">Semua file hosts dari sumber yang ditentukan sudah didownload dan digabungkan dengan daftar anda dan dipasang menjadi satu file host dalam sistem anda.</string>
+    <string name="update_available">Pembaruan tersedia! </string>
+    <string name="update_button">Perbarui domain yang diblokir</string>
+    <string name="update_donate_button">Donasi</string>
+    <string name="update_hosts_description">Perbaharui daftar</string>
+    <string name="update_last_changelog_title">Perubahan terakhir</string>
+    <string name="update_new_changelog_title">Changelog</string>
+    <string name="update_notification_description">Mengunduh AdAway versi terbaru… </string>
+    <string name="update_progress_label">%1$s / %2$s</string>
+    <string name="update_sponsor_button">Sponsor</string>
+    <string name="update_support_title">Dukung pengembangan</string>
+    <string name="update_title">Pembaruan AdAway</string>
+    <string name="update_up_to_date_header">Kamu sudah up-to-date</string>
+    <string name="update_update_available_header">Pembaruan tersedia</string>
+    <string name="update_update_button">Perbarui sekarang</string>
+    <string name="update_updating_header">Memperbarui AdAway</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"NONAKTIF"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"AKTIF"</string>
+    <string name="vpn_notification_action_pause">Jeda</string>
+    <string name="vpn_notification_action_resume">Lanjutkan</string>
+    <string name="vpn_notification_paused">Jeda</string>
+    <string name="vpn_notification_reconnecting">menghubungkan</string>
+    <string name="vpn_notification_reconnecting_error">gagal menghubungkan</string>
+    <string name="vpn_notification_running">Aktif</string>
+    <string name="vpn_notification_starting">memulai</string>
+    <string name="vpn_notification_stopped">berhenti</string>
+    <string name="vpn_notification_stopping">menghentikan</string>
+    <string name="vpn_notification_title">VPN Pem-blok iklan %1$s</string>
+    <string name="vpn_notification_waiting_for_net">menunggu jaringan</string>
+    <string name="vpn_status_running">Berjalan</string>
+    <string name="vpn_status_stopped">Berhenti</string>
+    <string name="vpn_toggle_text">Mulai atau hentikan VPN untuk menyaring permintaan</string>
+    <string name="webserver_status_running">Berjalan</string>
+    <string name="webserver_status_stopped">Berhenti</string>
+    <string name="webserver_toggle_text">Mulai atau hentikan web server pada localhost untuk menjawab permintaan untuk memblok hostnames</string>
+    <string name="welcome_back_button">Kembali</string>
+    <string name="welcome_finish_button">Selesai</string>
+    <string name="welcome_first_step">Langkah pertama</string>
+    <string name="welcome_last_step">Langkah ketiga</string>
+    <string name="welcome_method_con_logo">Kekurangan</string>
+    <string name="welcome_method_header">Selamat datang di AdAway!</string>
+    <string name="welcome_method_pro_logo">Kelebihan</string>
+    <string name="welcome_method_summary">AdAway menyediakan dua metode pemblokiran iklan.
+Pilih salah satu yang kamu inginkan:</string>
+    <string name="welcome_next_button">Selanjutnya</string>
+    <string name="welcome_root_method_logo">Logo root</string>
+    <string name="welcome_root_method_text1">Lebih cepat</string>
+    <string name="welcome_root_method_text2">Hemat baterai</string>
+    <string name="welcome_root_method_text3">Membutuhkan mode root</string>
+    <string name="welcome_root_method_title">Pemblokiran iklan menggunakan root</string>
+    <string name="welcome_root_missile_description">Binary su tidak ditemukan atau anda tidak memberikan izin root untuk AdAway.\n\nIni dapat terjadi ketika perangkat anda tidak memiliki akses root. Anda dapat menemukan informasi mengenai cara root perangkat anda di wiki.lineageos.org atau webiste Android lainnya.</string>
+    <string name="welcome_root_missing_title">Dibutuhkan perangkat Android yang sudah di-root</string>
+    <string name="welcome_second_step">Langkah Kedua</string>
+    <string name="welcome_support_button">Donasi di PayPal</string>
+    <string name="welcome_support_header">Dukung saya!</string>
+    <string name="welcome_support_logo">Dukungan</string>
+    <string name="welcome_support_summary">Ini adalah aplikasi gratis dan open-source. Saya mengembangkannya pada waktu luang. Jika anda menyukainya, anda dapat mendukung melalui:</string>
+    <string name="welcome_support_telemetry_button">Izinkan penggunaan telemetri untuk mengirimkan laporan kesalahan kepada saya</string>
+    <string name="welcome_support_telemetry_summary">Anda menyukai bug? Saya juga tidak.</string>
+    <string name="welcome_sync_done_logo">Singkronisasi selesai</string>
+    <string name="welcome_sync_error">Gagal melakukan sinkronisasi: %1$s Ulangi sekarang?</string>
+    <string name="welcome_sync_error_logo">Kesalahan saat melakukan sinkronisasi</string>
+    <string name="welcome_sync_header">Sedang menyinkronkan</string>
+    <string name="welcome_sync_retry_logo">Mengulang sinkorinisasi</string>
+    <string name="welcome_sync_summary">AdAway mengunduh jaringan iklan untuk memblokir dari sumber-sumber online. Anda dapat menyesuaikannya nanti di pengaturan.</string>
+    <string name="welcome_synced_header">Sudah tersinkron!</string>
+    <string name="welcome_title">Selamat datang</string>
+    <string name="welcome_vpn_method_logo">logo VPN</string>
+    <string name="welcome_vpn_method_text1">Lebih lambat</string>
+    <string name="welcome_vpn_method_text2">Berjalan di latar belakang</string>
+    <string name="welcome_vpn_method_text3">Kompatibilitas</string>
+    <string name="welcome_vpn_method_title">Pemblokiran iklan menggunakan VPN</string>
+</resources>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Kodu</item>
+        <item>Hosts-allikad</item>
+        <item>Sinu loendid</item>
+        <item>Ava hosts-fail</item>
+        <item>Logi DNS-taotlusi</item>
+        <item>Skanni reklaamvara</item>
+        <item>Eelistused</item>
+        <item>Abi</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Muu asukoht</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="one">%d päev</item>
+        <item quantity="other">%d päeva</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="one">%d tund</item>
+        <item quantity="other">%d tundi</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="other">%d minutit</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="one">%d kuu</item>
+        <item quantity="other">%d kuud</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d uus märguanne</item>
+    <item quantity="other">%d uut märguannet</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d aegunud allikas</item>
+        <item quantity="other">%d aegunud allikat</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d kaasaegne allikas</item>
+        <item quantity="other">%d kaasaegset allikat</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Liigu avalehele"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Liigu üles"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Rohkem valikuid"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Kuva kõik"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Valige rakendus"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VÄLJAS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"SEES"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"kustuta"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"sisestusklahv"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktsiooniklahv +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Tõstuklahv +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"tühik"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menüü +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Otsige …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Päringu tühistamine"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Otsingupäring"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Otsing"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Päringu esitamine"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Häälotsing"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Jaga:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jagamine rakendusega <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ahendamine"</string>
+    <string name="adblock_pause_button_description">Peata/jätka reklaamiblokeerimist</string>
+    <string name="adware_empty">Reklaamvara ei leitud!</string>
+    <string name="adware_header">Reklaamvara</string>
+    <string name="adware_scanning">Skanneerimine…</string>
+    <string name="allowed_hosts_label">Lubatud</string>
+    <string name="app_description">Avatud lähtekoodiga reklaamiblokeerija</string>
+    <string name="app_logo">AdAway logo</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Reklaamide blokeerija</string>
+    <string name="apply_apn_proxy_title">APN-proksi määratud!</string>
+    <string name="apply_copy_fail">Hosts-faili kopeerimine ebaõnnestus!</string>
+    <string name="apply_copy_fail_title">Kopeerimine nurjus</string>
+    <string name="apply_dialog">Rakendamine…</string>
+    <string name="apply_dialog_apply">Hosts-faili rakendamine</string>
+    <string name="apply_dialog_hostnames">Hosts-failide töötlemine ja ühendamine</string>
+    <string name="apply_dialog_hosts">Hosts-faili koostamine</string>
+    <string name="apply_dialog_lists">Musta ja valge loendi rakendamine</string>
+    <string name="apply_fail_title">Rakendamine nurjus</string>
+    <string name="apply_help">Palun loe abi rohkema teabe saamiseks.</string>
+    <string name="apply_not_enough_space_title">Pole piisavalt ruumi</string>
+    <string name="apply_private_file_fail_title">Privaatse faili ebaõnnestumine</string>
+    <string name="apply_remount_fail_title">Taashaakimine ebaõnnestus</string>
+    <string name="apply_success_subtitle">Hosts-allikad rakendatud</string>
+    <string name="apply_success_title">Rakendamine edukas</string>
+    <string name="apply_symlink_fail_title">Sümlingi loomine nurjus</string>
+    <string name="apply_symlink_missing_title">Sümlink puudub</string>
+    <string name="apply_symlink_successful_title">Sümlingi loomine edukas</string>
+    <string name="blocked_hosts_label">Blokeeritud</string>
+    <string name="bottomsheet_action_expand_halfway">Laiendamine poolenisti</string>
+    <string name="button_add">Lisa</string>
+    <string name="button_cancel">Tühista</string>
+    <string name="button_close">Sulge</string>
+    <string name="button_disable_hosts">Keela reklaamiblokeering</string>
+    <string name="button_disable_vpn">Keela VPN</string>
+    <string name="button_disable_webserver">Keela veebiserver</string>
+    <string name="button_enable_hosts">Luba reklaamiblokeering</string>
+    <string name="button_enable_vpn">Luba VPN</string>
+    <string name="button_enable_webserver">Luba veebiserver</string>
+    <string name="button_exit">Välju</string>
+    <string name="button_help">Abi</string>
+    <string name="button_no">Ei</string>
+    <string name="button_save">Salvesta</string>
+    <string name="button_show_help">Kuva rohkem abi</string>
+    <string name="button_yes">Jah</string>
+    <string name="character_counter_content_description">Sisestatud tähemärgid: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">Tähemärgipiirang on ületatud: %1$d/%2$d</string>
+    <string name="checkbox_list_context_apply">Rakenda</string>
+    <string name="checkbox_list_context_delete">Kustuta</string>
+    <string name="checkbox_list_context_edit">Muuda</string>
+    <string name="checkbox_list_context_title">Muuda üksust</string>
+    <string name="clear_text_end_icon_content_description">Kustuta tekst</string>
+    <string msgid="6083905920877235314" name="copy">"Kopeerimine"</string>
+    <string name="disable_systemless_successful_title">Keelamine edukas</string>
+    <string name="download_dialog">Allalaadimine…</string>
+    <string name="download_fail_title">Allalaadimine nurjus</string>
+    <string name="drawer_close">Sulge menüü</string>
+    <string name="drawer_open">Ava menüü</string>
+    <string name="enable_systemless_successful_title">Lubamine edukas</string>
+    <string name="error_dialog_help">Palun loe abi rohkema teabe saamiseks.</string>
+    <string name="error_icon_content_description">Viga</string>
+    <string name="error_no_connection_message">Ühendus puudub</string>
+    <string name="error_not_enough_space_message">Pole piisavalt ruumi</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Täpsemad"</string>
+    <string name="export_dialog">Eksportimine…</string>
+    <string name="exposed_dropdown_menu_content_description">Kuva rippmenüü</string>
+    <string name="header_help">Tere tulemast!</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Veebiserver</string>
+    <string name="help_label">Kuva abi</string>
+    <string name="help_tab_faq">KKK</string>
+    <string name="help_tab_problems">Probleemid</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_add_dialog">Sisesta URL hosts-faili:</string>
+    <string name="hosts_add_dialog_title">Lisa allikas</string>
+    <string name="hosts_dialog_url">URL: (https:// või file:// ressurss)</string>
+    <string name="hosts_dialog_url_hint">Hosts-allika URL</string>
+    <string name="hosts_edit_dialog_title">Muuda allikat</string>
+    <string name="hosts_header">Hosts-fail</string>
+    <string name="hosts_not_available">pole saadaval</string>
+    <string name="hosts_open_button">Ava hosts-fail</string>
+    <string name="hosts_source_last_update">Viimane uuendus %1$s tagasi</string>
+    <string name="hosts_source_need_update">%1$s vajab uuendust</string>
+    <string name="hosts_source_unknown_status">Uuenduste olek teadmata</string>
+    <string name="hosts_source_up_to_date">%1$s on kaasaegne</string>
+    <string name="hosts_title">Hosts-allikad</string>
+    <string name="icon_content_description">Dialoogi ikoon</string>
+    <string name="icon_update_status">Uuenduse olek</string>
+    <string name="import_dialog">Importimine…</string>
+    <string name="item_view_role_description">Vaheleht</string>
+    <string name="list_add_dialog_black">Lisa host musta loendisse</string>
+    <string name="list_add_dialog_redirect">Lisa hosti suunamine</string>
+    <string name="list_add_dialog_white">Lisa host valgesse loendisse</string>
+    <string name="list_dialog_hostname">Hostinimi:</string>
+    <string name="list_dialog_hostname_hint">Hosts-allika URL</string>
+    <string name="list_dialog_ip">IP (IPv4 või IPv6):</string>
+    <string name="list_dialog_wildcard">(Lubatud on jokkermärgid * ja ?)</string>
+    <string name="list_edit_dialog_black">Muuda musta loendi hosti</string>
+    <string name="list_edit_dialog_redirect">Muuda suunamist</string>
+    <string name="list_edit_dialog_white">Muuda valge loendi hosti</string>
+    <string name="lists_tab_allowed">Lubatud</string>
+    <string name="lists_tab_blocked">Blokeeritud</string>
+    <string name="lists_tab_redirected">Ümbersuunatud</string>
+    <string name="lists_title">Sinu loendid</string>
+    <string name="loading">Laadimine…</string>
+    <string name="log_redirect_dialog_title">Suuna domeen</string>
+    <string name="log_sort_alphabetical">Tähestikuline järjekord</string>
+    <string name="log_sort_top_level_domain">TLD järjekord</string>
+    <string name="material_clock_toggle_content_description">Valige AM või PM</string>
+    <string name="material_hour_selection">Valige tund</string>
+    <string name="material_hour_suffix">Kell %1$s</string>
+    <string name="material_minute_selection">Minutite valimine</string>
+    <string name="material_minute_suffix">%1$s minutit</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Aktiveerige kellaaja sisestamiseks kellarežiim.</string>
+    <string name="material_timepicker_hour">Tunnid</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Aja valimine</string>
+    <string name="material_timepicker_text_input_mode_description">Aktiveerige kellaaja sisestamiseks tekstisisestusrežiim.</string>
+    <string name="menu_add">Lisa</string>
+    <string name="menu_export">Ekspordi varundus</string>
+    <string name="menu_help">Abi</string>
+    <string name="menu_import">Impordi varundus</string>
+    <string name="menu_refresh">Värskenda</string>
+    <string name="mtrl_badge_numberless_content_description">Uus märguanne</string>
+    <string name="mtrl_chip_close_icon_content_description">Üksuse %1$s eemaldamine</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Rohkem kui %1$d uut märguannet</string>
+    <string name="mtrl_picker_a11y_next_month">Vaheta järgmisele kuule</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaheta eelmisele kuule</string>
+    <string name="mtrl_picker_announce_current_selection">Praegune valik: %1$s</string>
+    <string name="mtrl_picker_cancel">Tühista</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valige kuupäev</string>
+    <string name="mtrl_picker_date_header_unselected">Valitud kuupäev</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päevade veerg: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Sobimatu vorming.</string>
+    <string name="mtrl_picker_invalid_format_example">Näide: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Kasutage: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Sobimatu vahemik.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Mine aastasse %1$s</string>
+    <string name="mtrl_picker_out_of_range">Vahemikust väljas: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alguskuupäev – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – lõppkuupäev</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Valige vahemik</string>
+    <string name="mtrl_picker_range_header_unselected">Alguskuupäev – lõppkuupäev</string>
+    <string name="mtrl_picker_save">Salvesta</string>
+    <string name="mtrl_picker_text_input_date_hint">Kuupäev</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Lõppkuupäev</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alguskuupäev</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Lülitu kalendrisisestusrežiimile</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Puudutage, et lülituda päeva valimisele</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Lülitu tekstisisestusrežiimile</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Puudutage, et lülituda aasta valimisele</string>
+    <string name="mtrl_timepicker_cancel">Tühista</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="no_connection_title">Ühendus puudub</string>
+    <string name="no_file_manager_title">Ühtegi failihaldurit pole installitud</string>
+    <string name="no_hostname">See ei ole kehtiv aadress!</string>
+    <string name="no_ip">See ei ole kehtiv IP!</string>
+    <string name="no_ip_title">Sobimatult vormistatud IP</string>
+    <string name="no_text_editor_title">Tekstitöötlejaid pole paigaldatud</string>
+    <string msgid="6573031135582639649" name="not_set">"Määramata"</string>
+    <string name="notification_configuration_changed_action">Rakenda</string>
+    <string name="notification_update_channel_name">Uuendused</string>
+    <string name="notification_update_host_available_title">Uuendus saadaval</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="password_toggle_content_description">Parooli kuvamine</string>
+    <string name="pref_apply_method">Hosts-faili asukoht</string>
+    <string name="pref_apply_method_summary">Enne muutmist loe abist selle funktsiooni kohta.</string>
+    <string name="pref_custom_target">Muu asukoht</string>
+    <string name="pref_dark_theme">Luba tume teema</string>
+    <string name="pref_debug_category">Silumine</string>
+    <string name="pref_enable_debug_summary">Logimise jõustumiseks on vajalik AdAway taaskäivitamine.</string>
+    <string name="pref_enable_ipv6">Luba IPv6</string>
+    <string name="pref_enable_telemetry">Luba krahhiaruanded</string>
+    <string name="pref_enable_telemetry_summary">Luba rakendusel saata vigu ja krahhiaruandeid Sentryle (sentry.io)</string>
+    <string name="pref_hosts_redirection">Suunamine</string>
+    <string name="pref_main_title">Eelistused</string>
+    <string name="pref_never_reboot">Taaskäivitamise dialoog peidetud</string>
+    <string name="pref_redirection_ipv4">Suunamise IPv4</string>
+    <string name="pref_redirection_ipv6">Suunamise IPv6</string>
+    <string name="pref_root_open_hosts">Ava hosts-fail</string>
+    <string name="pref_update_check_app_daily">Uuenduste kontroll iga päev</string>
+    <string name="pref_update_check_hosts_daily">Uuenduste kontroll iga päev</string>
+    <string name="pref_update_title">Uuendused</string>
+    <string name="pref_webserver">Kohalik veebiserver</string>
+    <string name="pref_webserver_enabled">Luba veebiserver</string>
+    <string msgid="6685851473431805375" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” on lõikelauale kopeeritud."</string>
+    <string name="preferences_drawer_item">Eelistused</string>
+    <string name="project_label">Ava GitHubi leht</string>
+    <string name="redirect_hosts_label">Ümbersuunatud</string>
+    <string name="revert_problem_title">Taastamine ebaõnnestus!</string>
+    <string name="revert_successful_title">Taastamine edukas</string>
+    <string name="root_access_fail">Palun kontrolli oma juurkasutaja haldusrakendust, et veenduda juurkasutaja ligipääsu andmises.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Otsing"</string>
+    <string name="shortcut_dns_requests">DNS-taotlused</string>
+    <string name="shortcut_preferences">Eelistused</string>
+    <string name="shortcut_your_lists">Sinu loendid</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_disabled">Keelatud</string>
+    <string name="status_disabled_subtitle">Vaikimisi hosts-fail paigaldatud</string>
+    <string name="status_download_fail">Allikad pole saadaval</string>
+    <string name="status_enabled">Lubatud</string>
+    <string name="status_enabled_subtitle">Uusimad hosts-failid kasutusel</string>
+    <string name="status_failure">Midagi läks valesti</string>
+    <string name="status_failure_subtitle">Rohkema teabe saamiseks vaata logcati</string>
+    <string name="status_no_connection">Ühendus puudub</string>
+    <string name="status_no_connection_subtitle">Internetiühendus ei ole saadaval</string>
+    <string name="status_root_access_denied">Juurkasutaja ligipääs keelatud</string>
+    <string name="status_root_access_denied_subtitle">Võimalda juurkasutajale ligipääs oma juurkasutaja rakendusest</string>
+    <string name="status_update_available">Uuendus saadaval</string>
+    <string name="status_update_available_subtitle">Uuemad hosts-failid saadaval</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Toeta projekti</string>
+    <string name="support_title">Tugi</string>
+    <string name="tcpdump_disable_monitoring">Keela monitoorimine</string>
+    <string name="tcpdump_enable_monitoring">Luba monitoorimine</string>
+    <string name="tcpdump_entry_add_blacklist">Lisa üksus musta loendisse</string>
+    <string name="tcpdump_entry_add_redirection_list">Lisa üksus suunamisloendisse</string>
+    <string name="tcpdump_entry_add_whitelist">Lisa üksus valgesse loendisse</string>
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_menu_clear">Tühjenda logi</string>
+    <string name="tcpdump_menu_sort">Sorteeri domeene</string>
+    <string name="tcpdump_show_results">Kuva tulemused</string>
+    <string name="text_help">AdAway on vaba ja avatud lähtekoodiga tarkvara reklaamide blokeerimiseks. See hangib reklaamide võrguaadressid, et need sinu seadmes blokeerida.\nSoovid rohkem teada? Vaata abimaterjali allpool!</string>
+    <string name="text_update">Kõik hosts-failid laetakse määratud allikatest, ühendatakse sinu loenditega ning paigaldatakse süsteemi ühe failina.</string>
+    <string name="update_update_available_header">Uuendus saadaval</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"VÄLJAS"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"SEES"</string>
+    <string name="vpn_status_running">Käimas</string>
+    <string name="vpn_status_stopped">Peatatud</string>
+    <string name="webserver_status_running">Käimas</string>
+    <string name="webserver_status_stopped">Peatatud</string>
+    <string name="welcome_back_button">Tagasi</string>
+    <string name="welcome_finish_button">Lõpeta</string>
+    <string name="welcome_first_step">Viisardi esimene samm</string>
+    <string name="welcome_last_step">Viisardi viimane samm</string>
+    <string name="welcome_method_con_logo">Puudus</string>
+    <string name="welcome_method_header">Tere tulemast AdAwaysse!</string>
+    <string name="welcome_method_pro_logo">Eelis</string>
+    <string name="welcome_method_summary">AdAway pakub kahte reklaamiblokeerimise viisi. Vali endale meeldiv:</string>
+    <string name="welcome_next_button">Edasi</string>
+    <string name="welcome_root_method_logo">Juurkasutaja logo</string>
+    <string name="welcome_root_method_text1">Kiirem</string>
+    <string name="welcome_root_method_text2">Akusõbralik</string>
+    <string name="welcome_root_method_text3">Juurkasutaja nõutud</string>
+    <string name="welcome_root_method_title">Juurkasutaja-põhine\nreklaamiblokeerimine</string>
+    <string name="welcome_root_missile_description">Täitmisfaili \"su\" ei leitud või sa ei lubanud AdAwayle juurkasutaja õigusi.\n\nSee võib juhtuda, kui su seade ei oma juurkasutaja õigusi. Oma seadme juurkasutaja õiguste avamise kohta saad rohkem lugeda wiki.lineageos.org või teistelt Androidi veebilehtedelt.</string>
+    <string name="welcome_root_missing_title">Vajalik juurkasutaja toega Android</string>
+    <string name="welcome_second_step">Viisardi teine samm</string>
+    <string name="welcome_support_button">Anneta PayPalis</string>
+    <string name="welcome_support_header">Toeta mind!</string>
+    <string name="welcome_support_logo">Tugi</string>
+    <string name="welcome_support_summary">See on tasuta ja avatud lähtekoodiga rakendus. Ma arendan seda oma vabast ajast. Seega, kui see sulle meeldib võid vabalt oma toetust näidata:</string>
+    <string name="welcome_support_telemetry_button">Luba krahhiaruannete saatmiseks telemeetria</string>
+    <string name="welcome_support_telemetry_summary">Kas sulle meeldivad vead? Mulle ka mitte.</string>
+    <string name="welcome_sync_done_logo">Sünkroonimine lõpetatud</string>
+    <string name="welcome_sync_error">Sünkroonimine ebaõnnestus: %1$s Proovid uuesti?</string>
+    <string name="welcome_sync_error_logo">Sünkroonimisel esines tõrge</string>
+    <string name="welcome_sync_header">Sünkroonimine</string>
+    <string name="welcome_sync_retry_logo">Proovi uuesti sünkroonida</string>
+    <string name="welcome_sync_summary">AdAway laadib võrguallikatest reklaamivõrgustike nimed, et neid blokeerida. Neid saab hiljem seadetes kohandada.</string>
+    <string name="welcome_synced_header">Sünkroonitud!</string>
+    <string name="welcome_title">Tere tulemast</string>
+    <string name="welcome_vpn_method_logo">VPNi logo</string>
+    <string name="welcome_vpn_method_text1">Aeglasem</string>
+    <string name="welcome_vpn_method_text2">Töötab taustal</string>
+    <string name="welcome_vpn_method_text3">Ühilduvus</string>
+    <string name="welcome_vpn_method_title">VPNi-põhine\nreklaamiblokeerimine</string>
+</resources>

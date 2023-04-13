@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Галоўная</item>
+        <item>Крыніцы hosts</item>
+        <item>Вашы спісы</item>
+        <item>Адкрыць файл hosts</item>
+        <item>Запісваць запыты DNS</item>
+        <item>Сканаванне Adware</item>
+        <item>Налады</item>
+        <item>Дапамога</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Карыстацкія налады</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>Светлая</item>
+        <item>Цёмная</item>
+        <item>Сістэмная</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>Няма</item>
+        <item>Усе, акрамя браўзэраў</item>
+        <item>Усе</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="one">%d дзень</item>
+        <item quantity="few">%d дні</item>
+        <item quantity="many">%d дзён</item>
+        <item quantity="other">%d дзён</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="one">%d гадзіна</item>
+        <item quantity="few">%d гадзіны</item>
+        <item quantity="many">%d гадзін</item>
+        <item quantity="other">%d гадзін</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="one">%d хвіліна</item>
+        <item quantity="few">%d хвіліны</item>
+        <item quantity="many">%d хвілін</item>
+        <item quantity="other">%d хвілін</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="one">%d месяц</item>
+        <item quantity="few">%d месяцы</item>
+        <item quantity="many">%d месяцаў</item>
+        <item quantity="other">%d месяцаў</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новае апавяшчэнне</item>
+    <item quantity="few">%d новыя апавяшчэнні</item>
+    <item quantity="many">%d новых апавяшчэнняў</item>
+    <item quantity="other">%d новага апавяшчэння</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d outdated source</item>
+        <item quantity="few">%d outdated sources</item>
+        <item quantity="many">%d outdated sources</item>
+        <item quantity="other">%d outdated sources</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d up-to-date source</item>
+        <item quantity="few">%d up-to-date sources</item>
+        <item quantity="many">%d up-to-date sources</item>
+        <item quantity="other">%d up-to-date sources</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перайсці на галоўную старонку"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перайсці ўверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Дадатковыя параметры"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Гатова"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Паказаць усе"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберыце праграму"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"УКЛ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Прабел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Пошук…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Выдаліць запыт"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Пошукавы запыт"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Адправіць запыт"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Галасавы пошук"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Абагуліць праз"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Абагуліць праз праграму \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Згарнуць"</string>
+    <string name="adblock_pause_button_description">Прыпыніць/працягнуць блакаванне рэкламы</string>
+    <string name="adware_description">Пошук праграм з рэкламай, званыя Adware, і якія AdAway не можа заблакаваць. Гэтыя праграмы выкарыстоўваюць, напрыклад, сістэму апавяшчэнняў Airpush, якая паказвае рэкламу нават тады, калі праграма не працуе, ці нават можа змяніць мелодыю вашага званка. Пазбавіцца ад такой рэкламы можна толькі выдаліўшы праграму, названыя ў выніках сканавання, шляхам націску на складнікі спісаў.</string>
+    <string name="adware_empty">Праграм з рэкламай не знойдзена!</string>
+    <string name="adware_header">Праграмы з рэкламай</string>
+    <string name="adware_scanning">Сканаванне…</string>
+    <string name="allowed_hosts_label">Дазволена</string>
+    <string name="app_description">Блакіроўшчык рэкламы з адкрытым зыходным кодам</string>
+    <string name="app_logo">Лагатып AdAway</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Блакавальнік рэкламы</string>
+    <string name="apply_apn_proxy">У наладах APN вашага Android паказаны проксі-сервер!\nAdAway не будзе працаваць у мабільных сетках, такіх як 3G. Вы можаце адключыць гэты сервер проксі у наладах выкарыстаннай APN (з праграмы Налад: Сетка і Інтэрнэт -> Мабільная сетка -> Дадаткова -> Кропкі доступу APN) і выдаліць значэнне ў полі Проксі.</string>
+    <string name="apply_apn_proxy_title">Выкарыстоўваная кропка доступу працуе праз проксі-сервер!</string>
+    <string name="apply_copy_fail">Капіяванне файла hosts не ўдалося!</string>
+    <string name="apply_copy_fail_status">Не атрымалася скапіяваць файл hosts</string>
+    <string name="apply_copy_fail_title">Капіяванне не ўдалося</string>
+    <string name="apply_dialog">Прымяненне…</string>
+    <string name="apply_dialog_apply">Прымяненне файла hosts</string>
+    <string name="apply_dialog_hostnames">Разбор і аб\'яднанне файлаў са спісамі hosts</string>
+    <string name="apply_dialog_hosts">Пабудова файла hosts</string>
+    <string name="apply_dialog_lists">Прымяніць чорны і белы спіс</string>
+    <string name="apply_fail">Не атрымалася прымяніць файл Hosts на вашай сістэме! 
+Паспрабуйце змяніць шлях да файла Hosts ў наладах на /data/data/hosts</string>
+    <string name="apply_fail_status">Не атрымалася прымяніць новы файл hosts.</string>
+    <string name="apply_fail_title">Прымяненне не ўдалося</string>
+    <string name="apply_help">Калі ласка, чытайце Даведку для атрымання большай інфармацыі.</string>
+    <string name="apply_not_enough_space">Не хапае месца на раздзеле! Паспрабуйце змяніць шлях да файла ў наладах на /data/data/hosts.</string>
+    <string name="apply_not_enough_space_title">Не хапае месца</string>
+    <string name="apply_private_file_fail">Спампаваны файл не можа быць прачытаны.</string>
+    <string name="apply_private_file_fail_title">Збой файла</string>
+    <string name="apply_remount_fail">Не атрымалася перамантаваць раздзел для чытання/запісу!</string>
+    <string name="apply_remount_fail_title">Перамантаваць не ўдалося</string>
+    <string name="apply_success_dialog">Прымяненне прайшло паспяхова.\nМагчыма, спатрэбіцца перазагрузіць Android, каб змены ўступілі ў сілу.\n\nВы хочаце перагрузіць Android?\n(Для прадухілення страты дадзеных пераканайцеся, што ніякія праграмы ў дадзены момант не выкарыстоўваюць карту памяці!)</string>
+    <string name="apply_success_subtitle">Выкарыстоўваюцца крыніцы hosts</string>
+    <string name="apply_success_title">Прымяненне прайшло паспяхова</string>
+    <string name="apply_symlink_fail">Android не змог стварыць спасылку.\nМагчыма гэта з-за асаблівасці тэлефонаў HTC, званай S-ON!\n\nРашэнне заключаецца ў загрузцы тэлефона ў рэжыме аднаўлення і стварэння спасылкі пры дапамозе \'ln -s /data/data/hosts /system/etc/hosts\'.\n\nКалі гэта не дапаможа, то трэба шукаць інфармацыю ў інтэрнэце па S-OFF і вашаму тэлефоне.</string>
+    <string name="apply_symlink_fail_title">Памылка стварэння спасылкі</string>
+    <string name="apply_symlink_missing">Спасылка на ваш /system/etc/hosts няправільная або не існуе! AdAway не будзе працаваць, калі не паказаць правільны файл. Вы хочаце паспрабаваць стварыць спасылку?</string>
+    <string name="apply_symlink_missing_status">Адсутнічае сімвалічная спасылка на мэтавай файл hosts</string>
+    <string name="apply_symlink_missing_title">Спасылка адсутнічае</string>
+    <string name="apply_symlink_successful">Спасылка створана паспяхова.\nМагчыма, спатрэбіцца перазагрузіць Android, каб змены ўступілі ў сілу.\n\nВы хочаце перагрузіць Android?\n(Для прадухілення страты дадзеных пераканайцеся, што ніякія праграмы ў дадзены момант не выкарыстоўваюць карту памяці!)</string>
+    <string name="apply_symlink_successful_title">Спасылка створана паспяхова</string>
+    <string name="blocked_hosts_label">Заблакавана</string>
+    <string name="bottomsheet_action_expand_halfway">Разгарнуць напалову</string>
+    <string name="button_add">Дадаць</string>
+    <string name="button_cancel">Скасаваць</string>
+    <string name="button_close">Закрыць</string>
+    <string name="button_disable_hosts">Адключыць блакаванне рэкламы</string>
+    <string name="button_disable_vpn">Адключыць VPN</string>
+    <string name="button_disable_webserver">Адключыць вэб-сервер</string>
+    <string name="button_enable_hosts">Уключыць блакаванне рэкламы</string>
+    <string name="button_enable_vpn">Уключыць VPN</string>
+    <string name="button_enable_webserver">Уключыць вэб-сервер</string>
+    <string name="button_exit">Выйсці</string>
+    <string name="button_help">Дапамога</string>
+    <string name="button_no">Не</string>
+    <string name="button_save">Захаваць</string>
+    <string name="button_show_help">Паказаць дадатковую дапамогу</string>
+    <string name="button_yes">Так</string>
+    <string name="character_counter_content_description">Уведзена сімвалаў: %1$d з %2$d</string>
+    <string name="character_counter_overflowed_content_description">Абмежаванне колькасці сімвалаў перавышана: %1$d з %2$d</string>
+    <string name="check_hosts_update_description">Праверка наяўнасці абнаўленняў hosts</string>
+    <string name="checkbox_list_context_apply">Прымяніць</string>
+    <string name="checkbox_list_context_delete">Выдаліць</string>
+    <string name="checkbox_list_context_edit">Рэдагаваць</string>
+    <string name="checkbox_list_context_title">Рэдагаваць запіс</string>
+    <string name="clear_text_end_icon_content_description">Ачысціць тэкст</string>
+    <string msgid="6083905920877235314" name="copy">"Капіраваць"</string>
+    <string name="disable_systemless_magisk">Адключыць бессістэмную функцыю hosts з мэнэджара Magisk. Сярод яго налад выдаліце ​​модуль <cite>Бессістемны hosts</cite>, затым перазагрузіце вашу прыладу.</string>
+    <string name="disable_systemless_magisk_title">Адключыць модуль Magisk hosts</string>
+    <string name="disable_systemless_successful">Вы адключылі бессістэмны рэжым.\nМагчыма, спатрэбіцца перазагрузіць Android, каб змены ўступілі ў сілу.\n\nВы хочаце перагрузіць Android?\n(Для прадухілення страты дадзеных пераканайцеся, што ніякія праграмы ў дадзены момант не выкарыстоўваюць карту памяці!)</string>
+    <string name="disable_systemless_successful_title">Паспяхова адключана</string>
+    <string name="disable_vpn_fail">Не атрымалася адключыць VPN блакаванне рэкламы.</string>
+    <string name="download_dialog">Спампоўка…</string>
+    <string name="download_fail_dialog">Ніводная з вашых актыўных крыніц host недаступная! Вы правільна падлучаныя да інтэрнэту?</string>
+    <string name="download_fail_title">Памылка спампоўкі</string>
+    <string name="drawer_close">Закрыць меню</string>
+    <string name="drawer_open">Адкрыць меню</string>
+    <string name="enable_systemless_magisk">Уключыць бессістэмную функцыю hosts з мэнэджара Magisk. Сярод яго налад уключыце параметр <cite>Бессістемны hosts</cite>, затым перазагрузіце вашу прыладу.</string>
+    <string name="enable_systemless_magisk_title">Уключыць модуль hosts Magisk</string>
+    <string name="enable_systemless_successful">Вы актывавалі бессістэмны рэжым.\nМагчыма, спатрэбіцца перазагрузіць Android, каб змены ўступілі ў сілу.\n\nВы хочаце перагрузіць Android?\n(Для прадухілення страты дадзеных пераканайцеся, што ніякія праграмы ў дадзены момант не выкарыстоўваюць карту памяці!)</string>
+    <string name="enable_systemless_successful_title">Актывацыя прайшла паспяхова</string>
+    <string name="enable_vpn_fail">Не атрымалася ўключыць VPN блакаванне рэкламы.</string>
+    <string name="error_copy_failed_details">Не ўдалося скапіяваць файл hosts ў раздзел /system. Пераканайцеся, што ў сістэмным модулі Magisk ўключана перазагрузка.</string>
+    <string name="error_copy_failed_message">Не атрымалася ўсталяваць новы файл hosts.</string>
+    <string name="error_dialog_help">Калі ласка, чытайце Даведку для атрымання большай інфармацыі.</string>
+    <string name="error_disable_vpn_failed_details">Калі ласка, праверце налады VPN, каб адключыць яго ўручную.</string>
+    <string name="error_disable_vpn_failed_message">Не атрымалася адключыць VPN блакаванне рэкламы.</string>
+    <string name="error_download_failed_details">Ні водная з вашых уключаных крыніц hosts недаступна. Калі ласка, праверце падлучэнне да інтэрнэту.</string>
+    <string name="error_download_failed_message">Не атрымалася загрузіць крыніцу hosts</string>
+    <string name="error_enable_vpn_failed_details">Калі ласка, праверце налады VPN, каб аўтарызаваць праграму VPN для запуску.</string>
+    <string name="error_enable_vpn_failed_message">Не атрымалася ўключыць VPN блакаванне рэкламы.</string>
+    <string name="error_icon_content_description">Памылка</string>
+    <string name="error_no_connection_details">Немагчыма ўсталяваць злучэнне з інтэрнэтам. Калі ласка, праверце падлучэнне вашай прылады.</string>
+    <string name="error_no_connection_message">Няма злучэння з інтэрнэтам</string>
+    <string name="error_not_enough_space_details">Не ўдалося капіраваць файл hosts ў сістэмны падзел. Калі ласка, праверце, ці ўключаны сістэмны модуль Magisk, затым перазагрузіце смартфон.</string>
+    <string name="error_not_enough_space_message">Не хапае месца</string>
+    <string name="error_private_file_failed_details">Не атрымалася стварыць прыватны файл для генерацыі hosts. Пераканайцеся, што на вашай прыладзе ёсць месца.</string>
+    <string name="error_private_file_failed_message">Не атрымалася стварыць прыватны файл</string>
+    <string name="error_revert_failed_details">Немагчыма аднавіць канфігурацыю файла host па змаўчанні.</string>
+    <string name="error_revert_failed_message">Не атрымалася аднавіць файл hosts</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Пашыраныя налады"</string>
+    <string name="export_dialog">Экспарт…</string>
+    <string name="export_failed">Не атрымалася экспартаваць файл рэзервовай копіі \'%s\'.</string>
+    <string name="export_success">Рэзервовае капіраванне паспяхова экспартавана ў файл \'%s\' на вашым знешнім сховішчы.</string>
+    <string name="exposed_dropdown_menu_content_description">Паказаць выпадное меню</string>
+    <string name="github_project_drawer_item">GitHub праект</string>
+    <string name="header_help">Сярдэчна запрашаем!</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Вэб-сервер</string>
+    <string name="help_label">Паказаць падказкі</string>
+    <string name="help_tab_faq">FAQ</string>
+    <string name="help_tab_problems">Праблемы</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">AdAway афіцыйны hosts</string>
+    <string name="hosts_add_dialog">Устаўце URL у файл hosts:</string>
+    <string name="hosts_add_dialog_title">Дадаць крыніцу</string>
+    <string name="hosts_content">Загрузка змесціва файла hosts</string>
+    <string name="hosts_count">%s hosts</string>
+    <string name="hosts_description">Файл hosts - гэта сістэмны файл, супастаўляючы імёны вузлоў з IP-адрасамі. Гэта звычайны тэкставы файл, змесціва якога апрацоўвае AdAway. Вось яго першыя радкі:</string>
+    <string name="hosts_dialog_url">URL: (рэсурс https:// ці file://)</string>
+    <string name="hosts_dialog_url_hint">URL крыніцы hosts</string>
+    <string name="hosts_edit_dialog_title">Рэдагаваць крыніцу</string>
+    <string name="hosts_header">Файл hosts</string>
+    <string name="hosts_not_available">недаступны</string>
+    <string name="hosts_open_button">Адкрыць файл hosts</string>
+    <string name="hosts_peterlowe_source">Pete Lowe blocklist hosts</string>
+    <string name="hosts_source_few_minutes">некалькі хвілін</string>
+    <string name="hosts_source_installed">Усталявана %1$s назад</string>
+    <string name="hosts_source_last_update">Апошняе абнаўленне %1$s таму</string>
+    <string name="hosts_source_need_update">Патрабуецца абнаўленне %1$s</string>
+    <string name="hosts_source_unknown_status">Невядомы статус абнаўлення</string>
+    <string name="hosts_source_up_to_date">Актуальна %1$s</string>
+    <string name="hosts_stevenblack_source">StevenBlack уніфікаваны hosts</string>
+    <string name="hosts_title">Крыніцы hosts</string>
+    <string name="hosts_user_source">Спіс карыстальнікаў</string>
+    <string name="icon_content_description">Значок дыялогавага акна</string>
+    <string name="icon_update_status">Статус абнаўленняў</string>
+    <string name="import_dialog">Імпарт…</string>
+    <string name="import_failed">Не ўдалося імпартаваць рэзервовую копію. Магчыма яе фармат не дакладны? Праверце logcat для падрабязнасцяў.</string>
+    <string name="import_success">Рэзервовая копія паспяхова імпартавана з вашага знешняга сховішча.</string>
+    <string name="item_view_role_description">Укладка</string>
+    <string name="list_add_dialog_black">Дадаць host у чорны спіс</string>
+    <string name="list_add_dialog_redirect">Дадаць перанакіраванне host</string>
+    <string name="list_add_dialog_white">Дадаць host у белы спіс</string>
+    <string name="list_dialog_hostname">Назва крыніцы:</string>
+    <string name="list_dialog_hostname_hint">URL крыніцы hosts</string>
+    <string name="list_dialog_ip">IP (IPv4 ці IPv6):</string>
+    <string name="list_dialog_wildcard">(Дапускаюцца падстаноўныя сімвалы * і ?)</string>
+    <string name="list_edit_dialog_black">Рэдагаваць чорны спіс host</string>
+    <string name="list_edit_dialog_redirect">Змяніць перанакіраванне</string>
+    <string name="list_edit_dialog_white">Рэдагаваць белы спіс host</string>
+    <string name="lists_menu_filter">Фільтраваць hosts</string>
+    <string name="lists_menu_filter_hint">Пошук назвы host…</string>
+    <string name="lists_menu_toggle_sources">Пераключыць крыніцы</string>
+    <string name="lists_tab_allowed">Дазволена</string>
+    <string name="lists_tab_blocked">Заблакавана</string>
+    <string name="lists_tab_redirected">Перанакіравана</string>
+    <string name="lists_title">Вашы спісы</string>
+    <string name="loading">Загрузка…</string>
+    <string name="log_label">Паказаць журнал запытаў DNS</string>
+    <string name="log_redirect_dialog_title">Перанакіраваць дамен</string>
+    <string name="log_sort_alphabetical">Сартаваць па алфавіту</string>
+    <string name="log_sort_top_level_domain">Сартаванне па найвышэйшаму ўзроўню дамена</string>
+    <string name="material_clock_toggle_content_description">Выберыце AM (да паўдня) або PM (пасля паўдня)</string>
+    <string name="material_hour_selection">Выберыце гадзіну</string>
+    <string name="material_hour_suffix">%1$s гадз</string>
+    <string name="material_minute_selection">Выберыце хвіліны</string>
+    <string name="material_minute_suffix">%1$s хв</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Пераключыцца на рэжым гадзінніка пры ўводзе часу.</string>
+    <string name="material_timepicker_hour">Гадзіна</string>
+    <string name="material_timepicker_minute">Хвіліна</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выберыце час</string>
+    <string name="material_timepicker_text_input_mode_description">Пераключыцца на рэжым тэксту пры ўводзе часу.</string>
+    <string name="menu_add">Дадаць</string>
+    <string name="menu_export">Экспарт рэзервовай копіі</string>
+    <string name="menu_help">Дапамога</string>
+    <string name="menu_import">Імпартаваць рэзервовую копію</string>
+    <string name="menu_refresh">Абнавіць</string>
+    <string name="mtrl_badge_numberless_content_description">Новае апавяшчэнне</string>
+    <string name="mtrl_chip_close_icon_content_description">Выдаліць %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Колькасць новых апавяшчэнняў перавысіла %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перайсці да наступнага месяца</string>
+    <string name="mtrl_picker_a11y_prev_month">Перайсці да папярэдняга месяца</string>
+    <string name="mtrl_picker_announce_current_selection">Бягучае вылучэнне: %1$s</string>
+    <string name="mtrl_picker_cancel">Скасаваць</string>
+    <string name="mtrl_picker_confirm">ОК</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберыце дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбраная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Слупок дзён: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Няправільны фармат.</string>
+    <string name="mtrl_picker_invalid_format_example">Прыклад: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Неабходны фармат: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Няправільны дыяпазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перайсці ў %1$s год</string>
+    <string name="mtrl_picker_out_of_range">Па-за межамі дыяпазону: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата пачатку – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата заканчэння</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберыце дыяпазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата пачатку – дата заканчэння</string>
+    <string name="mtrl_picker_save">Захаваць</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата заканчэння</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата пачатку</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Пераключыцца ў рэжым уводу \"Каляндар\"</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Дакраніцеся, каб пераключыцца на выбар дня</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Пераключыцца ў рэжым уводу \"Тэкст\"</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Дакраніцеся, каб пераключыцца на выбар года</string>
+    <string name="mtrl_timepicker_cancel">Скасаваць</string>
+    <string name="mtrl_timepicker_confirm">ОК</string>
+    <string name="no_connection">Адсутнічае падключэнне да інтэрнэту.</string>
+    <string name="no_connection_title">Няма злучэння</string>
+    <string name="no_file_manager">Няма файлавага мэнэджара для адкрыцця файла. Вы можаце ўсталяваць OI File Manager ці іншы файлавы менеджэр, каб гэта выправіць.\n\nВы жадаеце ўсталяваць OI File Manager?</string>
+    <string name="no_file_manager_title">Не ўсталяваны файлавы менеджэр</string>
+    <string name="no_hostname">Гэта недапушчальнае імя крыніцы!</string>
+    <string name="no_hostname_title">Няправільна адфарматаванае імя host</string>
+    <string name="no_ip">Гэта недапушчальны IP-адрас!</string>
+    <string name="no_ip_title">Няправільна адфарматаваны IP-адрас</string>
+    <string name="no_private_file">Файл не можа быць створаны.</string>
+    <string name="no_private_file_status">Не атрымалася запісаць новы файл hosts</string>
+    <string name="no_private_file_title">Не атрымалася стварыць файл</string>
+    <string name="no_text_editor">Не знойдзены тэкставы рэдактар ​​для адкрыцця файла hosts. Вы можаце ўсталяваць рэдактар ​​Jota ці іншай тэкставы рэдактар, каб гэта выправіць.\n\nВы жадаеце ўсталяваць рэдактар ​​Jota?</string>
+    <string name="no_text_editor_title">Не ўсталяваны тэкставы рэдактар</string>
+    <string msgid="6573031135582639649" name="not_set">"Не зададзена"</string>
+    <string name="notification_configuration_changed">Канфігурацыя зменена. Вам трэба ўжыць яе.</string>
+    <string name="notification_configuration_changed_action">Прымяніць</string>
+    <string name="notification_configuration_failed">Не атрымалася прымяніць новую канфігурацыю.</string>
+    <string name="notification_configuration_installing">Прымяненне новай канфігурацыі</string>
+    <string name="notification_update_app_available_text">Новая версія AdAway даступна для спампоўкі</string>
+    <string name="notification_update_app_available_title">Даступна абнаўленне праграмы</string>
+    <string name="notification_update_channel_description">Новыя апавяшчэнні аб абнаўленні</string>
+    <string name="notification_update_channel_name">Абнаўленне</string>
+    <string name="notification_update_host_available_text">Для спампоўкі даступны новыя файлы hosts.</string>
+    <string name="notification_update_host_available_title">Даступна абнаўленне</string>
+    <string name="notification_vpn_channel_description">Апавяшчэнне VPN запушчана</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="open_drawer_button_description">Адкрыць навігацыйную шторку</string>
+    <string name="password_toggle_content_description">Паказаць пароль</string>
+    <string name="permission_group_api_description">Дазволіць узаемадзеянне з AdAway</string>
+    <string name="permission_group_api_label">Дазволы AdAway</string>
+    <string name="permission_send_command_description">Дазволіць адпраўку каманд у AdAway, напрыклад, уключэнне або адключэнне сістэмнай блакіроўкі рэкламы</string>
+    <string name="permission_send_command_label">Адпраўляць каманды на AdAway</string>
+    <string name="pref_ad_block_category">Блакіроўка рэкламы</string>
+    <string name="pref_apply_method">Шлях да файла hosts</string>
+    <string name="pref_apply_method_summary">Прачытайце даведку перад выкарыстаннем гэтай магчымасці</string>
+    <string name="pref_backup">Рэзервовая копія</string>
+    <string name="pref_backup_restore">Рэзервовая копія / аднаўленне правілаў блакавання</string>
+    <string name="pref_backup_restore_title">Рэзервовая копія і аднаўленне</string>
+    <string name="pref_backup_summary">Захаваць рэзервовую копію вашых правілаў блакавання на знешні носьбіт</string>
+    <string name="pref_custom_target">Карыстацкае мэтавае размяшчэнне</string>
+    <string name="pref_dark_theme">Цёмная тэма</string>
+    <string name="pref_debug_category">Рэжым адладкі</string>
+    <string name="pref_edit_text_value">Рэдагаваць значэнне тэкставай перавагі</string>
+    <string name="pref_enable_debug">Журнал адладкі</string>
+    <string name="pref_enable_debug_summary">Для прымянення патрабуецца перазапуск праграмы</string>
+    <string name="pref_enable_ipv6">Уключыць падтрымку IPv6</string>
+    <string name="pref_enable_telemetry">Адпраўляць справаздачы аб памылках</string>
+    <string name="pref_enable_telemetry_disabled_summary">Не падтрымліваецца ў гэтай зборцы</string>
+    <string name="pref_enable_telemetry_summary">Адпраўляць у Sentry (sentry.io)</string>
+    <string name="pref_general_category">Галоўные</string>
+    <string name="pref_hosts_installation">Усталёўка hosts</string>
+    <string name="pref_hosts_redirection">Перанакіраванне</string>
+    <string name="pref_hosts_redirection_summary">Вызначыць куды пераадрасоўваць заблакаваныя hosts</string>
+    <string name="pref_main_title">Налады</string>
+    <string name="pref_never_reboot">Схаваць дыялог перазагрузкі пасля прымянення</string>
+    <string name="pref_redirection_invalid">Няправільнае перанакіраванне</string>
+    <string name="pref_redirection_ipv4">Перанакіраванне IPv4</string>
+    <string name="pref_redirection_ipv6">Перанакіраванне IPv6</string>
+    <string name="pref_restore">Аднаўленне</string>
+    <string name="pref_restore_summary">Аднавіць вашыя правілы блакавання з файла рэзервовай копіі</string>
+    <string name="pref_root_ad_blocker_configuration">Блакавальнік рэкламы на аснове root</string>
+    <string name="pref_root_open_hosts">Адкрыць файл hosts</string>
+    <string name="pref_root_title">Блакавальнік рэкламы на аснове root</string>
+    <string name="pref_update_app_category">Абнаўленне праграмы</string>
+    <string name="pref_update_check">Праверце наяўнасць абнаўленняў пры запуску</string>
+    <string name="pref_update_check_app_daily">Перыядычная праверка абнаўленняў</string>
+    <string name="pref_update_check_app_startup">Праверце наяўнасць абнаўленняў пры запуску</string>
+    <string name="pref_update_check_hosts_daily">Перыядычная праверка абнаўленняў</string>
+    <string name="pref_update_configuration">Аўтаматычнае абнаўленне</string>
+    <string name="pref_update_hosts_category">Абнаўленне hosts</string>
+    <string name="pref_update_include_beta_releases">Шукаць бэта-версіі</string>
+    <string name="pref_update_sync_on_update">Сінхранізацыя пры абнаўленні</string>
+    <string name="pref_update_sync_unmetered_only">Сінхранізацыя толькі ў неабароненай сеткі</string>
+    <string name="pref_update_title">Абнаўленне</string>
+    <string name="pref_vpn_ad_blocker_configuration">Блакавальнік рэкламы на аснове VPN</string>
+    <string name="pref_vpn_exclude_system_apps">Выключыць сістэмныя праграмы</string>
+    <string name="pref_vpn_exclude_user_apps">Выключыце карыстацкія праграмы</string>
+    <string name="pref_vpn_exclude_user_apps_activity">Выключаныя праграмы</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Зняць выбар усіх</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Значок праграмы</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Выбраць усе</string>
+    <string name="pref_vpn_excluded_apps">Выключаныя праграмы</string>
+    <string name="pref_vpn_excluded_apps_description">Наладзьце, якія праграмы не павінны выкарыстоўваць VPN, каб злучэнні не былі заблакаваныя.</string>
+    <string name="pref_vpn_service_monitor">Праверка злучэнне</string>
+    <string name="pref_vpn_service_monitor_description">Перыядычна правярайце стан сеткі, каб перазапусціць VPN пры адключэнні.</string>
+    <string name="pref_vpn_service_on_boot">Уключыць пры запуску</string>
+    <string name="pref_vpn_title">Блакавальнік рэкламы на аснове VPN</string>
+    <string name="pref_webserver">Лакальны вэб-сервер</string>
+    <string name="pref_webserver_certificate">Усталяваць самападпісаны сертыфікат</string>
+    <string name="pref_webserver_certificate_dialog_action">Адкрыйце налады «Бяспека».</string>
+    <string name="pref_webserver_certificate_dialog_content">Пачынаючы з Android 11 (R), праграма больш не можа аўтаматычна ўсталёўваць цэнтр сертыфікацыі (CA).\n\nПерайдзіце ў налады «Бяспека», «Шыфраванне і ўліковыя даныя», затым «Усталяваць сертыфікат». Адтуль выберыце «Сертыфікат ЦС» і абярыце новы экспартаваны файл сертыфіката.</string>
+    <string name="pref_webserver_certificate_dialog_title">Ручная ўсталёўка сертыфіката</string>
+    <string name="pref_webserver_enabled">Уключыць вэб-сервер</string>
+    <string name="pref_webserver_icon">Замяніць пустое рэкламнае месца на значок праграмы</string>
+    <string name="pref_webserver_state_checking">Праверка…</string>
+    <string name="pref_webserver_state_not_running">Не запушчана</string>
+    <string name="pref_webserver_state_running_and_installed">Запушчаны, сертыфікат усталяваны</string>
+    <string name="pref_webserver_state_running_not_installed">Запушчаны, але сертыфікат не ўсталяваны</string>
+    <string name="pref_webserver_summary">Лакальны вэб-сервер праслухоўвае лакальныя IP адрасы і адказвае на запыты да заблакаваных hosts. Гэта дапаможа пазбягаць завісанняў пры блакаванні падключэнняў.</string>
+    <string name="pref_webserver_test">Тэставы вэб-сервер</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\": скапіравана ў буфер абмену."</string>
+    <string name="preferences_drawer_item">Налады</string>
+    <string name="project_label">Адкрыць старонку GitHub</string>
+    <string name="reboot_never_reboot">Ня перазагружаць і не паказваць гэтае пытанне ў далейшым</string>
+    <string name="redirect_hosts_label">Перанакіравана</string>
+    <string name="revert_failed_status">Не атрымалася аднавіць файл hosts</string>
+    <string name="revert_problem">Аднаўленне не атрымалася па невядомых прычынах.</string>
+    <string name="revert_problem_title">Аднаўленне не атрымалася!</string>
+    <string name="revert_successful">Вы вярнуліся да файла Hosts па змаўчанні.\nМагчыма, спатрэбіцца перазагрузіць Android, каб змены ўступілі ў сілу.\n\nВы хочаце перагрузіць Android?\n(Для прадухілення страты дадзеных пераканайцеся, што ніякія праграмы ў дадзены момант не выкарыстоўваюць карту памяці!)</string>
+    <string name="revert_successful_title">Вяртанне адбылося паспяхова</string>
+    <string name="root_access_fail">Калі ласка, праверце, вашу праграму, якая прадастаўляе root-доступ.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Пошук"</string>
+    <string name="shortcut_dns_requests">Запыты DNS</string>
+    <string name="shortcut_preferences">Налады</string>
+    <string name="shortcut_your_lists">Вашы спісы</string>
+    <string name="show_log_button">Паказаць запытаныя дамены</string>
+    <string name="status_apply_sources">Прымяніць свежыя крыніцы</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">Праверка абнаўленняў</string>
+    <string name="status_check_copy">Праверка копіі файла hosts</string>
+    <string name="status_check_source">Праверка%s на абнаўленне</string>
+    <string name="status_copy_new_hosts">Капіяванне новага файла hosts</string>
+    <string name="status_create_new_hosts">Стварэнне новага файла hosts</string>
+    <string name="status_disabled">Выключана</string>
+    <string name="status_disabled_subtitle">Усталяваны стандартны файл hosts</string>
+    <string name="status_download_fail">Недаступныя крыніцы</string>
+    <string name="status_download_fail_subtitle_new">Няма даступных крыніц host!</string>
+    <string name="status_download_source">Спампоўка крыніцы %s</string>
+    <string name="status_enabled">Уключана</string>
+    <string name="status_enabled_subtitle">Выкарыстоўваюцца новыя спісы host</string>
+    <string name="status_failure">Нешта пайшло не так</string>
+    <string name="status_failure_subtitle">Праверце logcat для атрымання больш падрабязнай інфармацыі</string>
+    <string name="status_hosts_updated">Файл hosts паспяхова абноўлены</string>
+    <string name="status_no_connection">Няма злучэння з інтэрнэтам</string>
+    <string name="status_no_connection_subtitle">Няма падлучэння да Інтэрнэту</string>
+    <string name="status_no_update_found">Абнаўленняў крыніц не знойдзены</string>
+    <string name="status_parse_source">Разбор крыніцы %s</string>
+    <string name="status_read_source">Чытанне крыніцы%s</string>
+    <string name="status_retrieve">Атрыманне крыніц</string>
+    <string name="status_revert">Аднаўленне стандартнага файла hosts</string>
+    <string name="status_revert_done">Стандартны файл hosts адноўлены</string>
+    <string name="status_reverting_subtitle">Стварэнне стандартнага файла hosts</string>
+    <string name="status_root_access_denied">Доступ root быў адхілены</string>
+    <string name="status_root_access_denied_subtitle">Дазвольце root-доступ з вашай праграмы для root</string>
+    <string name="status_sync_database">Сінхранізацыя базы дадзеных з правіламі</string>
+    <string name="status_update_available">Даступна абнаўленне</string>
+    <string name="status_update_available_subtitle">Даступны новыя файлы host</string>
+    <string name="status_vpn_configuration_updated">Канфігурацыя VPN паспяхова абноўлена</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Падтрымаць праект</string>
+    <string name="support_sponsorship_button">Стань спонсарам</string>
+    <string name="support_title">Падтрымаць</string>
+    <string name="tcpdump_description">Tcpdump гэта інструмент для маніторынгу запытаў DNS і іх захавання ў файле журнала. Запусціце Tcpdump, ён будзе працаваць у фонавым рэжыме да перазагрузкі прылады - запусціце праграму, у якой на экране паказваецца рэклама - прааналізуйце запыты DNS, выкарыстоўваючы файл журнала. Знойдзеныя ў ім падазроныя сервера, магчымыя як крыніцы рэкламы, могуць быць унесены ў чорны спіс.</string>
+    <string name="tcpdump_disable_monitoring">Адключыць маніторынг</string>
+    <string name="tcpdump_enable_monitoring">Уключыць маніторынг</string>
+    <string name="tcpdump_entry_add_blacklist">Дадаць запіс у Чорны спіс</string>
+    <string name="tcpdump_entry_add_redirection_list">Дадаць запіс у спіс перанакіраванняў</string>
+    <string name="tcpdump_entry_add_whitelist">Дадаць запіс у Белы спіс</string>
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_menu_clear">Ачысціць журнал</string>
+    <string name="tcpdump_menu_sort">Сартаваць дамены</string>
+    <string name="tcpdump_show_results">Паказаць вынікі</string>
+    <string name="text_help">AdAway - гэта бясплатная праграма з адкрытым зыходным кодам для блакіроўкі рэкламы. Яна збірае адрасы з рэкламнай сеткі і блакуе іх на вашай прыладзе.\nХочаце даведацца больш? Чытайце даведку!</string>
+    <string name="text_update">Усе файлы hosts, спампаваных з пэўных крыніц, зліваюцца з вашым уласным спісам і ўсталёўваюцца ў вашай сістэме ў выглядзе аднаго файла host</string>
+    <string name="update_available">Даступна абнаўленне!</string>
+    <string name="update_button">Абнавіць заблакаваныя дамены</string>
+    <string name="update_donate_button">Ахвяраваць</string>
+    <string name="update_hosts_description">Абнаўленне hosts</string>
+    <string name="update_last_changelog_title">Апошнія змены</string>
+    <string name="update_new_changelog_title">Спіс змен</string>
+    <string name="update_notification_description">Ідзе спампоўка апошняй версіі AdAway …</string>
+    <string name="update_progress_label">%1$s / %2$s</string>
+    <string name="update_sponsor_button">Спонсар</string>
+    <string name="update_support_title">Падтрымаць распрацоўку</string>
+    <string name="update_title">Абнавіць AdAway</string>
+    <string name="update_up_to_date_header">У вас актуальная версія</string>
+    <string name="update_update_available_header">Даступна абнаўленне</string>
+    <string name="update_update_button">Абнавіць зараз</string>
+    <string name="update_updating_header">Абнаўленне AdAway</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"ВЫКЛ."</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"УКЛ."</string>
+    <string name="vpn_notification_action_pause">Паўза</string>
+    <string name="vpn_notification_action_resume">Аднавіць</string>
+    <string name="vpn_notification_paused">прыпынена</string>
+    <string name="vpn_notification_reconnecting">перападключэнне</string>
+    <string name="vpn_notification_reconnecting_error">памылка перападключэнне</string>
+    <string name="vpn_notification_running">актыўна</string>
+    <string name="vpn_notification_starting">пачынаецца</string>
+    <string name="vpn_notification_stopped">спынена</string>
+    <string name="vpn_notification_stopping">спынена</string>
+    <string name="vpn_notification_title">VPN блакіроўшчыка %1$s</string>
+    <string name="vpn_notification_waiting_for_net">чаканне сеткі</string>
+    <string name="vpn_status_running">Запушчана</string>
+    <string name="vpn_status_stopped">Спынена</string>
+    <string name="vpn_toggle_text">Запусціць або спыніць VPN для фільтрацыі запытаў.</string>
+    <string name="webserver_status_running">Працуе</string>
+    <string name="webserver_status_stopped">Прыпынена</string>
+    <string name="webserver_toggle_text">Запусціце або спыніце вэб-сервер у лакальнай сеткі, каб адказваць на запыты на заблакаваныя імёны host.</string>
+    <string name="welcome_back_button">Назад</string>
+    <string name="welcome_finish_button">Завершыць</string>
+    <string name="welcome_first_step">Першы крок</string>
+    <string name="welcome_last_step">Апошні крок</string>
+    <string name="welcome_method_con_logo">Мінусы</string>
+    <string name="welcome_method_header">Сардэчна запрашаем у AdAway!</string>
+    <string name="welcome_method_pro_logo">Плюсы</string>
+    <string name="welcome_method_summary">AdAway падае два метаду блакавання рэкламы.  Выберыце той, які вам пасуе:</string>
+    <string name="welcome_next_button">Далей</string>
+    <string name="welcome_root_method_logo">Лагатып root</string>
+    <string name="welcome_root_method_text1">Хутчэй</string>
+    <string name="welcome_root_method_text2">Эканоміць батарэю</string>
+    <string name="welcome_root_method_text3">Патрабуюцца рут правы</string>
+    <string name="welcome_root_method_title">Root\n блакіроўка рэкламы</string>
+    <string name="welcome_root_missile_description">Альбо двайковы файл su не знойдзены, альбо вы не далі права root для AdAway.\n\nГэта можа здарыцца, калі ваша прылада не мае root-правоў.  Вы можаце знайсці інфармацыю аб тым, як атрымаць root правы на вашай прыладзе, на wiki.lineageos.org або іншых сайтах Android.</string>
+    <string name="welcome_root_missing_title">Для Android патрабуюцца правы Root</string>
+    <string name="welcome_second_step">Другі крок</string>
+    <string name="welcome_support_button">Ахвяраваць на PayPal</string>
+    <string name="welcome_support_header">Падтрымай мяне!</string>
+    <string name="welcome_support_logo">Падтрымаць</string>
+    <string name="welcome_support_summary">Гэта бясплатная праграма з адкрытым зыходным кодам.  Я займаюся гэтым у вольны час.  Так што, калі вам гэта падабаецца, не саромейцеся паказаць сваю падтрымку:</string>
+    <string name="welcome_support_telemetry_button">Уключыць тэлеметрыю для адпраўкі мне справаздач аб збоях</string>
+    <string name="welcome_support_telemetry_summary">Вам не падабаюцца памылкі? Мне таксама.</string>
+    <string name="welcome_sync_done_logo">Сінхранізацыя завершана</string>
+    <string name="welcome_sync_error">Сінхранізацыя не ўдалася: %1$s nПаўтарыць зараз?</string>
+    <string name="welcome_sync_error_logo">Памылка пры сінхранізацыі</string>
+    <string name="welcome_sync_header">Сінхранізацыя</string>
+    <string name="welcome_sync_retry_logo">Паўтарыць сінхранізацыю</string>
+    <string name="welcome_sync_summary">AdAway загружае спісы блакавання з анлайн-крыніц. Вы можаце змяніць іх пазней у наладах.</string>
+    <string name="welcome_synced_header">Сінхранізавана!</string>
+    <string name="welcome_title">Сардэчна запрашаем</string>
+    <string name="welcome_vpn_method_logo">Лагатып VPN</string>
+    <string name="welcome_vpn_method_text1">Павольней</string>
+    <string name="welcome_vpn_method_text2">Працуе ў фоне</string>
+    <string name="welcome_vpn_method_text3">Сумяшчальны</string>
+    <string name="welcome_vpn_method_title">VPN\nблакіроўка рэкламы</string>
+</resources>

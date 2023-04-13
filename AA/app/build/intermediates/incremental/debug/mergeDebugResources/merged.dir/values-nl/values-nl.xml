@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Startpagina</item>
+        <item>Hosts-bronnen</item>
+        <item>Mijn lijsten</item>
+        <item>Hosts-bestand openen</item>
+        <item>Log DNS verzoeken</item>
+        <item>Scan op Adware</item>
+        <item>Voorkeuren</item>
+        <item>Help</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Aangepaste locatie</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>Licht</item>
+        <item>Donker</item>
+        <item>Systeem default</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="one">%d dagen</item>
+        <item quantity="other">%d dagen</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="one">%duren</item>
+        <item quantity="other">%duren</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="one">%d minuten</item>
+        <item quantity="other">%d minuten</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="one">%dmaanden</item>
+        <item quantity="other">%dmaanden</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nieuwe melding</item>
+    <item quantity="other">%d nieuwe meldingen</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d verouderde bron</item>
+        <item quantity="other">%d verouderde bronnen</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d up-to-date bron</item>
+        <item quantity="other">%d up-to-date bronnen</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klaar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alles tonen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"UIT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AAN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Functie +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spatie"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Delen met <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="adblock_pause_button_description">Advertentieblokkering onderbreken/hervatten</string>
+    <string name="adware_description">Hier kunt u scannen naar slechte Adware applicaties, welke niet door AdAway geblokkeerd kunnen worden. Deze applicaties gebruiken bijvoorbeeld Airpush notificaties, welke zelfs opkomen als de applicatie niet draait, of veranderen zelfs uw ringtone. De enige beschikbare oplossing is deze applicaties te deïnstalleren door op de lijst elementen te klikken!</string>
+    <string name="adware_empty">Geen slechte Adware apps gevonden!</string>
+    <string name="adware_header">Adware</string>
+    <string name="adware_scanning">Scannen…</string>
+    <string name="allowed_hosts_label">Toegestaan</string>
+    <string name="app_description">Open source advertentieblokkeerder</string>
+    <string name="app_logo">AdAway logo</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Adblocker</string>
+    <string name="apply_apn_proxy">Een APN proxy is ingesteld op jouw Android! AdAway zal niet betrouwbaar werken als er gebruik gemaakt wordt van mobiele netwerken zoals 3G/4G. Je kan je proxy uitschakelen door naar je geselecteerde APN te gaan. (Op Android 4: draadloos en netwerken -> meer… -> Mobiele netwerken -> namen toegangspunten) en de waarde in het proxy veld te verwijderen.</string>
+    <string name="apply_apn_proxy_title">APN-proxy ingesteld!</string>
+    <string name="apply_copy_fail">Kopiëren van hosts-bestand is mislukt!</string>
+    <string name="apply_copy_fail_status">Het hosts-bestand kan niet worden gekopieerd</string>
+    <string name="apply_copy_fail_title">Kopiëren mislukt</string>
+    <string name="apply_dialog">Toepassen…</string>
+    <string name="apply_dialog_apply">Hosts-bestand plaatsen</string>
+    <string name="apply_dialog_hostnames">Lezen en samenvoegen van hosts-bestanden</string>
+    <string name="apply_dialog_hosts">Hosts-bestand opbouwen</string>
+    <string name="apply_dialog_lists">Black en whitelist toepassen</string>
+    <string name="apply_fail">Het plaatsen van het hosts-bestand is mislukt!\nVerander de locatie van het hosts-bestand naar /data/data/hosts in de voorkeuren.</string>
+    <string name="apply_fail_status">Het nieuwe hosts-bestand kan niet worden toegepast.</string>
+    <string name="apply_fail_title">Hosts-bestand plaatsen mislukt</string>
+    <string name="apply_help">Bekijk de hulpsectie voor meer informatie.</string>
+    <string name="apply_not_enough_space">Onvoldoende ruimte op de systeempartitie!
+Verander de locatie van het hosts-bestand naar /data/data/hosts in de voorkeuren.</string>
+    <string name="apply_not_enough_space_title">Onvoldoende ruimte</string>
+    <string name="apply_private_file_fail">Gedownload bestand kan niet worden gelezen.</string>
+    <string name="apply_private_file_fail_title">Privébestandsfout</string>
+    <string name="apply_remount_fail">Het opnieuw koppelen van de partitie als lezen/schrijven is mislukt!</string>
+    <string name="apply_remount_fail_title">Opnieuw koppelen mislukt</string>
+    <string name="apply_success_dialog">Toepassen voltooid.
+Android moet mogelijk worden herstart om de wijzigingen door te voeren.
+
+Wilt u herstarten?
+(Om gegevensverlies te voorkomen moet u zorgen dat geen enkele app op dit moment de SD-kaart gebruikt!)</string>
+    <string name="apply_success_subtitle">Hosts-bronnen toegepast</string>
+    <string name="apply_success_title">Toepassen voltooid</string>
+    <string name="apply_symlink_fail">De symlink kon niet door Android worden aangemaakt. Dit mislukt meestal door een \'feature\' genaamd S-ON op HTC telefoons! Een oplossing is uw telefoon in recoverymodus opstarten en hier de symlink aanmaken met \'ln -s /data/data/hosts /system/etc/hosts\'. Als dit niet werkt, zoek dan op internet naar S-OFF en uw telefoon.</string>
+    <string name="apply_symlink_fail_title">Symlink aanmaken mislukt</string>
+    <string name="apply_symlink_missing">Symlink van de gekozen locatie naar /system/etc/hosts bestaat niet, of verwijst niet naar het juiste bestand! AdAway werkt niet als de symlink niet naar het juiste bestand verwijst. Wilt u proberen een symlink te maken?</string>
+    <string name="apply_symlink_missing_status">De symlink naar het hosts-bestand ontbreekt</string>
+    <string name="apply_symlink_missing_title">Symlink ontbreekt</string>
+    <string name="apply_symlink_successful">Symlink aangemaakt.
+Android moet mogelijk worden herstart om de wijzigingen door te voeren.
+
+Wilt u herstarten?
+(Om gegevensverlies te voorkomen moet u zorgen dat geen enkele app op dit moment de SD-kaart gebruikt!)</string>
+    <string name="apply_symlink_successful_title">Symlink aangemaakt</string>
+    <string name="blocked_hosts_label">Geblokkeerd</string>
+    <string name="bottomsheet_action_expand_halfway">Half uitvouwen</string>
+    <string name="button_add">Toevoegen</string>
+    <string name="button_cancel">Annuleren</string>
+    <string name="button_close">Sluiten</string>
+    <string name="button_disable_hosts">Advertentieblokkering uitschakelen</string>
+    <string name="button_disable_vpn">Geen VPN gebruiken</string>
+    <string name="button_disable_webserver">Webserver uitschakelen</string>
+    <string name="button_enable_hosts">Advertentieblokkering inschakelen</string>
+    <string name="button_enable_vpn">VPN gebruiken</string>
+    <string name="button_enable_webserver">Webserver inschakelen</string>
+    <string name="button_exit">Afsluiten</string>
+    <string name="button_help">Help</string>
+    <string name="button_no">Nee</string>
+    <string name="button_save">Bewaren</string>
+    <string name="button_show_help">Meer help tonen</string>
+    <string name="button_yes">Ja</string>
+    <string name="character_counter_content_description">%1$d van %2$d tekens opgegeven</string>
+    <string name="character_counter_overflowed_content_description">Tekenlimiet heeft %1$d van %2$d overschreden</string>
+    <string name="check_hosts_update_description">Controleer op host updates</string>
+    <string name="checkbox_list_context_apply">Toepassen</string>
+    <string name="checkbox_list_context_delete">Verwijder</string>
+    <string name="checkbox_list_context_edit">Bewerken</string>
+    <string name="checkbox_list_context_title">Invoer bewerken</string>
+    <string name="clear_text_end_icon_content_description">Tekst wissen</string>
+    <string name="clipboard_host_copied">Host gekopieerd  naar het klembord.</string>
+    <string msgid="6083905920877235314" name="copy">"Kopiëren"</string>
+    <string name="disable_systemless_magisk">De-activeer systemless hosts van Magisk manager. De-installeer uit de module lijst<cite>Systemless hosts</cite> en start de telefoon opnieuw op.</string>
+    <string name="disable_systemless_magisk_title">De-activeer Magisk module</string>
+    <string name="disable_systemless_successful">U heeft systemless mode uitgeschakeld. Het kan nodig zijn om Android opnieuw op te starten om de wijzigingen effect te laten hebben. Wilt u nu herstarten? (Om dataverlies te voorkomen, moet u zorgen dat geen enkele app op dit moment de SD-kaart gebruikt.)</string>
+    <string name="disable_systemless_successful_title">Uitschakelen gelukt</string>
+    <string name="disable_vpn_fail">De VPN kan niet worden uitgeschakeld.</string>
+    <string name="download_dialog">Downloaden…</string>
+    <string name="download_fail_dialog">Geen van uw geselecteerde hosts-bronnen zijn bereikbaar! Bent u verbonden met het internet?</string>
+    <string name="download_fail_title">Downloaden mislukt</string>
+    <string name="drawer_close">Menu sluiten</string>
+    <string name="drawer_open">Menu openen</string>
+    <string name="enable_systemless_magisk">Activeer systemless hosts van Magisk manager. Activeer in de instellingen <cite>Systemless hosts</cite> optie en start de telefoon opnieuw op.</string>
+    <string name="enable_systemless_magisk_title">Activeer Magisk module</string>
+    <string name="enable_systemless_successful">U heeft de systeemloze modus ingeschakeld. Het kan nodig zijn om Android opnieuw op te starten om de wijzigingen effect te laten hebben. Wilt u nu opnieuw opstarten? (Om dataverlies te voorkomen, moet u zorgen dat geen enkele app op dit moment de SD-kaart gebruikt.)
+</string>
+    <string name="enable_systemless_successful_title">Inschakelen gelukt</string>
+    <string name="enable_vpn_fail">De VPN kan niet worden ingeschakeld.</string>
+    <string name="error_copy_failed_details">Het hosts-bestand kan niet worden gekopieerd naar de /system-partitie. Controleer of de systeemloze module van Magisk is geactiveerd en herstart uw apparaat.</string>
+    <string name="error_copy_failed_message">Het nieuwe hosts-bestand kan niet worden toegepast</string>
+    <string name="error_dialog_help">Bekijk de hulpsectie voor meer informatie.</string>
+    <string name="error_disable_vpn_failed_details">Controleer uw VPN-instellingen en schakel deze handmatig uit.</string>
+    <string name="error_disable_vpn_failed_message">De VPN kan niet worden uitgeschakeld.</string>
+    <string name="error_download_failed_details">Geen van de geselecteerde hosts-bronnen zijn bereikbaar. Controleer uw internetverbinding.</string>
+    <string name="error_download_failed_message">De hosts-bron kan niet worden opgehaald</string>
+    <string name="error_enable_vpn_failed_details">Controleer uw VPN-instellingen en geef toestemming om de VPN applicatie te mogen starten.</string>
+    <string name="error_enable_vpn_failed_message">De VPN kan niet worden ingeschakeld.</string>
+    <string name="error_icon_content_description">Fout</string>
+    <string name="error_no_connection_details">Er kan geen verbinding worden gemaakt met het internet. Controleer uw internetverbinding.</string>
+    <string name="error_no_connection_message">Geen internetverbinding</string>
+    <string name="error_not_enough_space_details">Het hosts-bestand kan niet worden gekopieerd naar de systeempartitie. Controleer of de systeemloze module van Magisk is geactiveerd en herstart uw apparaat.</string>
+    <string name="error_not_enough_space_message">Onvoldoende ruimte</string>
+    <string name="error_private_file_failed_details">Het privébestand, dat nodig is voor de nieuwe hosts-bron, kan niet worden aangemaakt. Controleer of u beschikt over voldoende schijfruimte.</string>
+    <string name="error_private_file_failed_message">Het privébestand kan niet worden aangemaakt</string>
+    <string name="error_revert_failed_details">Het standaard hosts-bestand kan niet worden teruggezet.</string>
+    <string name="error_revert_failed_message">Het hosts-bestand kan niet worden teruggezet</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Geavanceerd"</string>
+    <string name="export_dialog">Bezig met exporteren…</string>
+    <string name="export_failed">Het exporteren van backup file \'%s\' is mislukt.</string>
+    <string name="export_success">De back-up is succesvol geëxporteerd naar \'%s\' op uw externe opslag.</string>
+    <string name="exposed_dropdown_menu_content_description">Dropdownmenu tonen</string>
+    <string name="github_project_drawer_item">GitHub project</string>
+    <string name="header_help">Welkom!</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Webserver</string>
+    <string name="help_label">Toon help\nand tips</string>
+    <string name="help_tab_faq">VGV</string>
+    <string name="help_tab_problems">Problemen</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">AdAway official hosts</string>
+    <string name="hosts_add_dialog">Voer URL naar het hosts-bestand in:</string>
+    <string name="hosts_add_dialog_title">Bron toevoegen</string>
+    <string name="hosts_content">Bezig met laden van inhoud van hosts-bestand…</string>
+    <string name="hosts_count">%s hosts</string>
+    <string name="hosts_description">Het hosts-bestand is een systeembestand dat ip-adressen toewijst aan hostnamen. Het is een tekstbestand waarvan de configuratie door AdAway wordt afgehandeld. Hier zijn de eerste regels:</string>
+    <string name="hosts_dialog_url">URL: (een bron beginnend met https:// of file://)</string>
+    <string name="hosts_dialog_url_hint">De url van de hosts-bron</string>
+    <string name="hosts_edit_dialog_title">Bron aanpassen</string>
+    <string name="hosts_header">Het hosts-bestand</string>
+    <string name="hosts_not_available">niet beschikbaar</string>
+    <string name="hosts_open_button">Hosts-bestand openen</string>
+    <string name="hosts_peterlowe_source">Pete Lowe blocklist hosts</string>
+    <string name="hosts_source_disabled">Uitgeschakeld</string>
+    <string name="hosts_source_few_minutes">enkele minuten</string>
+    <string name="hosts_source_installed">%1$s geleden toegepast</string>
+    <string name="hosts_source_last_update">Laatste update %1$s geleden</string>
+    <string name="hosts_source_need_update">Update nodig van%1$s</string>
+    <string name="hosts_source_unknown_status">Onbekende update status</string>
+    <string name="hosts_source_up_to_date">Up-to-date van %1$s</string>
+    <string name="hosts_stevenblack_source">StevenBlack Unified hosts</string>
+    <string name="hosts_title">Hosts-bronnen</string>
+    <string name="hosts_user_source">Gebruikerslijst</string>
+    <string name="icon_content_description">Icoon voor dialoogvenster</string>
+    <string name="icon_update_status">Status bijwerken</string>
+    <string name="import_dialog">Bezig met importeren…</string>
+    <string name="import_failed">Het importeren is mislukt. Is het formaat juist? Bekijk de logcat voor meer informatie.</string>
+    <string name="import_success">De back-up is geïmporteerd van uw externe opslag.</string>
+    <string name="item_view_role_description">Tabblad</string>
+    <string name="list_add_dialog_black">Host toevoegen aan zwarte lijst</string>
+    <string name="list_add_dialog_redirect">Hostdoorschakeling toevoegen</string>
+    <string name="list_add_dialog_white">Host toevoegen aan witte lijst</string>
+    <string name="list_dialog_hostname">Hostnaam:</string>
+    <string name="list_dialog_hostname_hint">De url van de hosts-bron</string>
+    <string name="list_dialog_ip">IP-adres (IPv4 of IPv6):</string>
+    <string name="list_dialog_wildcard">(jokertekens * en ? zijn toegestaan)</string>
+    <string name="list_edit_dialog_black">Host op zwarte lijst bewerken</string>
+    <string name="list_edit_dialog_redirect">Doorverwijzing bewerken</string>
+    <string name="list_edit_dialog_white">Host op witte lijst bewerken</string>
+    <string name="lists_add">Host toevoegen</string>
+    <string name="lists_menu_filter">Hosts filteren</string>
+    <string name="lists_menu_filter_hint">Zoek hostnaam…</string>
+    <string name="lists_menu_toggle_sources">Wissel van bronnen</string>
+    <string name="lists_tab_allowed">Toegestaan</string>
+    <string name="lists_tab_blocked">Geblokkeerd</string>
+    <string name="lists_tab_redirected">Doorverwezen</string>
+    <string name="lists_title">Mijn lijsten</string>
+    <string name="loading">Bezig met laden…</string>
+    <string name="log_blocked_requests_ignored">\n\nBlocked aanvragen worden niet gelogd. Schakel advertentieblokkering eerst uit als je deze ook wilt gaan loggen.</string>
+    <string name="log_label">Toon DNS request log</string>
+    <string name="log_redirect_dialog_title">Doorverwijzingsdomein</string>
+    <string name="log_sort_alphabetical">Sorteer alfabetisch</string>
+    <string name="log_sort_top_level_domain">Bovenste niveau domein sortering</string>
+    <string name="log_start_recording">Druk op \"record\" om de aanvragen te loggen, surf het web of gebruik apps, kom dan terug of swipe om de logs te vernieuwen.</string>
+    <string name="log_toggle_recording_description">Schakelaar Log opslaan</string>
+    <string name="material_clock_toggle_content_description">Selecteer a.m. of p.m.</string>
+    <string name="material_hour_selection">Selecteer uur</string>
+    <string name="material_hour_suffix">%1$s uur</string>
+    <string name="material_minute_selection">Minuten selecteren</string>
+    <string name="material_minute_suffix">%1$s minuten</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Schakel naar de klokmodus om de tijd in te voeren.</string>
+    <string name="material_timepicker_hour">Uur</string>
+    <string name="material_timepicker_minute">Minuut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Tijd selecteren</string>
+    <string name="material_timepicker_text_input_mode_description">Schakel naar de tekstinvoermodus om de tijd in te voeren.</string>
+    <string name="menu_add">Toevoegen</string>
+    <string name="menu_export">Back-up exporteren</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_import">Back-up importeren</string>
+    <string name="menu_refresh">Verversen</string>
+    <string name="mtrl_badge_numberless_content_description">Nieuwe melding</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s verwijderen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Meer dan %1$d nieuwe meldingen</string>
+    <string name="mtrl_picker_a11y_next_month">Naar volgende maand gaan</string>
+    <string name="mtrl_picker_a11y_prev_month">Naar vorige maand gaan</string>
+    <string name="mtrl_picker_announce_current_selection">Huidige selectie: %1$s</string>
+    <string name="mtrl_picker_cancel">Annuleren</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecteer een datum</string>
+    <string name="mtrl_picker_date_header_unselected">Geselecteerde datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom met dagen: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ongeldige indeling.</string>
+    <string name="mtrl_picker_invalid_format_example">Voorbeeld: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gebruik: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ongeldig bereik.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Naar jaar %1$s navigeren</string>
+    <string name="mtrl_picker_out_of_range">Valt buiten bereik: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum - %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – einddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selecteer een periode</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum - einddatum</string>
+    <string name="mtrl_picker_save">Opslaan</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Einddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">j</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Overschakelen naar agenda-invoermodus</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tik om naar dagselectie te schakelen</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Overschakelen naar tekstinvoermodus</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tik om naar jaarselectie te schakelen</string>
+    <string name="mtrl_timepicker_cancel">Annuleren</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="no_connection">De internetverbinding werkt niet.</string>
+    <string name="no_connection_title">Geen verbinding</string>
+    <string name="no_file_manager">Geen bestandsbeheerder gevonden om bestanden te openen. U kunt OI Bestandsbeheer of een andere bestandsbeheerder installeren om dit af te handelen.\n\nWilt u OI Bestandsbeheer installeren?</string>
+    <string name="no_file_manager_title">Geen bestandsbeheerder aangetroffen</string>
+    <string name="no_hostname">Dit is geen correcte hostnaam!</string>
+    <string name="no_hostname_title">Host-naam onjuist geformatteerd</string>
+    <string name="no_ip">Dit is geen correct IP-adres!</string>
+    <string name="no_ip_title">IP-adres is verkeerd opgemaakt</string>
+    <string name="no_private_file">Privébestanden kunnen niet worden aangemaakt.</string>
+    <string name="no_private_file_status">Het nieuwe privéhosts-bestand kan niet worden toegepast</string>
+    <string name="no_private_file_title">Aanmaken privébestand mislukt</string>
+    <string name="no_text_editor">Geen tekstverwerker gevonden om het hosts-bestand mee te openen. U kunt Jota of een andere tekstverwerker installeren om dit te verhelpen.\n\nWilt u Jota installeren?</string>
+    <string name="no_text_editor_title">Geen tekstverwerker geïnstalleerd</string>
+    <string msgid="6573031135582639649" name="not_set">"Niet ingesteld"</string>
+    <string name="notification_configuration_changed">Je configuratie is gewijzigd. Je moet het toepassen.</string>
+    <string name="notification_configuration_changed_action">Toepassen</string>
+    <string name="notification_configuration_failed">Toepassen van nieuwe configuratie is mislukt.</string>
+    <string name="notification_configuration_installing">Toepassen van nieuwe configuratie…</string>
+    <string name="notification_update_app_available_text">Er is een nieuwe versie van AdAway beschikbaar.</string>
+    <string name="notification_update_app_available_title">Er is een app-update beschikbaar</string>
+    <string name="notification_update_channel_description">Updatemeldingen</string>
+    <string name="notification_update_channel_name">Updates</string>
+    <string name="notification_update_host_available_text">Er zijn nieuwere hosts-bestanden beschikbaar.</string>
+    <string name="notification_update_host_available_title">Er is een bronupdate beschikbaar</string>
+    <string name="notification_vpn_channel_description">VPN-meldingen</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="open_drawer_button_description">Navigatiemenu openen</string>
+    <string name="password_toggle_content_description">Wachtwoord tonen</string>
+    <string name="permission_group_api_description">Toestaan om samen te werken met AdAway</string>
+    <string name="permission_group_api_label">AdAway rechten</string>
+    <string name="permission_send_command_description">Toestaan om opdrachten te verzenden naar AdAway zoals het aan- of uitzetten van de advertentieblokkering</string>
+    <string name="permission_send_command_label">Zend opdrachten naar AdAway</string>
+    <string name="pref_ad_block_category">Advertentieblokkering</string>
+    <string name="pref_apply_method">Locatie van hosts-bestand</string>
+    <string name="pref_apply_method_summary">Lees Help voordat je deze functie gebruikt</string>
+    <string name="pref_backup">Backup</string>
+    <string name="pref_backup_restore">Backup/herstel blokkaderegels</string>
+    <string name="pref_backup_restore_title">Backup &amp; restore</string>
+    <string name="pref_backup_summary">Backup je blokkeerregels naar een externe locatie</string>
+    <string name="pref_custom_target">Aangepaste doellocatie</string>
+    <string name="pref_dark_theme">Donker thema</string>
+    <string name="pref_debug_category">Foutopsporing</string>
+    <string name="pref_edit_text_value">Wijzig tekst voorkeurswaarde</string>
+    <string name="pref_enable_debug">Uitgebreid logboek</string>
+    <string name="pref_enable_debug_summary">Herstart de app om toe te passen</string>
+    <string name="pref_enable_ipv6">IPv6-ondersteuning inschakelen</string>
+    <string name="pref_enable_telemetry">Crashverslagen versturen</string>
+    <string name="pref_enable_telemetry_disabled_summary">Niet ondersteund in deze bouwversie</string>
+    <string name="pref_enable_telemetry_summary">Melden aan Sentry (sentry.io)</string>
+    <string name="pref_general_category">Algemeen</string>
+    <string name="pref_hosts_installation">Host installeren</string>
+    <string name="pref_hosts_redirection">Doorverwijzing</string>
+    <string name="pref_hosts_redirection_summary">Bepaal waar de geblokkeerde hosts naar moeten worden omgeleid</string>
+    <string name="pref_main_title">Instellingen</string>
+    <string name="pref_never_reboot">Verberg herstart dialoogscherm</string>
+    <string name="pref_redirection_invalid">Ongeldige doorverwijzing</string>
+    <string name="pref_redirection_ipv4">IPv4 doorverwijzing</string>
+    <string name="pref_redirection_ipv6">IPv6 doorverwijzing</string>
+    <string name="pref_restore">Restore</string>
+    <string name="pref_restore_summary">Restore je blokkeerregels vanuit een backup bestand</string>
+    <string name="pref_root_ad_blocker_configuration">Advertentieblokkeerder voor geroote apparaten</string>
+    <string name="pref_root_open_hosts">Hosts-bestand openen</string>
+    <string name="pref_root_title">Advertentieblokkeerder voor geroote apparaten</string>
+    <string name="pref_update_app_category">App-updates</string>
+    <string name="pref_update_check">Controleer voor updates tijdens opstarten</string>
+    <string name="pref_update_check_app_daily">Regelmatig controleren op updates</string>
+    <string name="pref_update_check_app_startup">Controleer voor updates tijdens opstarten</string>
+    <string name="pref_update_check_hosts_daily">Regelmatig controleren op updates</string>
+    <string name="pref_update_configuration">Automatisch bijwerken</string>
+    <string name="pref_update_hosts_category">Hosts-updates</string>
+    <string name="pref_update_include_beta_releases">Inclusief beta releases</string>
+    <string name="pref_update_sync_on_update">Synchroniseren na updates</string>
+    <string name="pref_update_sync_unmetered_only">Alleen synchroniseren via Wi-Fi</string>
+    <string name="pref_update_title">Updates</string>
+    <string name="pref_vpn_ad_blocker_configuration">Advertentieblokkering op basis van VPN</string>
+    <string name="pref_vpn_exclude_system_apps">Uitgesloten systeem applicaties</string>
+    <string name="pref_vpn_exclude_user_apps">Uitgesloten gebruiker applicaties</string>
+    <string name="pref_vpn_exclude_user_apps_activity">Uitgesloten applicaties</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Deselecteer alles</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Applicatie icon</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Selecteer alles</string>
+    <string name="pref_vpn_excluded_apps">Uitgesloten applicaties</string>
+    <string name="pref_vpn_excluded_apps_description">Geef aan welke applicaties niet VPN mogen gebruiken zodat er geen connecties zullen worden geblokkeerd.</string>
+    <string name="pref_vpn_service_monitor">Controleer verbinding</string>
+    <string name="pref_vpn_service_monitor_description">Controleer periodiek de netwerkstatus om VPN te herstarten bij disconnectie</string>
+    <string name="pref_vpn_service_on_boot">Inschakelen bij opstarten</string>
+    <string name="pref_vpn_title">Advertentieblokkering op basis van VPN</string>
+    <string name="pref_webserver">Lokale webserver</string>
+    <string name="pref_webserver_certificate">Installeer zelf ondertekend certificaat</string>
+    <string name="pref_webserver_certificate_dialog_action">Open \"Beveiliging\" in settings</string>
+    <string name="pref_webserver_certificate_dialog_content">Vanaf Android 11 (R), applicaties kunnen niet meer automatisch geautoriseerde certificaten (CA) installeren.\n\nGa naar \"Beveiliging\" in settings, \"Encrypty &amp; credentials\" en dan \"Installeer een certificaat\". Vanaf daar kies voor \"CA certificaat\" en selecteer het nieuwe geëxporteerde certificaat bestand.</string>
+    <string name="pref_webserver_certificate_dialog_title">Installeer certificaten handmatig</string>
+    <string name="pref_webserver_enabled">Webserver inschakelen</string>
+    <string name="pref_webserver_icon">Vervang lege advertentieruimte met app incon</string>
+    <string name="pref_webserver_state_checking">Controleer…</string>
+    <string name="pref_webserver_state_not_running">Niet actief</string>
+    <string name="pref_webserver_state_running_and_installed">Actief en certificaat is geinstalleerd</string>
+    <string name="pref_webserver_state_running_not_installed">Actief maar certificaat is niet geinstalleerd</string>
+    <string name="pref_webserver_summary">De lokale webserver luistert naar lokale ip-adressen om aanvragen van geblokkeerde hostnamen te beantwoorden. indien de connectie blokkeert kan app freezing helpen.</string>
+    <string name="pref_webserver_test">Test webserver</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\'<ns1:g id="SUMMARY">%1$s</ns1:g>\' is gekopieerd naar het klembord."</string>
+    <string name="preferences_drawer_item">Instellingen</string>
+    <string name="project_label">GitHub-pagina openen</string>
+    <string name="reboot_never_reboot">Herstart nooit en laat deze vraag niet meer zien.</string>
+    <string name="redirect_hosts_label">Doorverwezen</string>
+    <string name="revert_failed_status">Het hosts-bestand kan niet worden teruggezet</string>
+    <string name="revert_problem">Terugzetten is door onbekende redenen mislukt.</string>
+    <string name="revert_problem_title">Terugzetten mislukt!</string>
+    <string name="revert_successful">U hebt het standaard hosts bestand teruggezet. Het kan nodig zijn om Android te herstarten om de wijzigingen effect te laten hebben. Wilt u herstarten? (Om data verlies te voorkomen moet u zorgen dat geen enkele applicatie op dit moment de sdkaart gebruikt)</string>
+    <string name="revert_successful_title">Terugzetten voltooid</string>
+    <string name="root_access_fail">Controleer uw Root app om zeker te zijn dat Root toegang is toegestaan.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Zoeken"</string>
+    <string name="shortcut_dns_requests">DNS verzoeken</string>
+    <string name="shortcut_preferences">Voorkeuren</string>
+    <string name="shortcut_your_lists">Mijn lijsten</string>
+    <string name="show_log_button">Domeinaanvragen tonen</string>
+    <string name="status_apply_sources">Nieuwste bronnen toepassen</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">Bezig met controleren op updates</string>
+    <string name="status_check_copy">Bezig met controleren van hosts-kopie</string>
+    <string name="status_check_source">Controleer %s bron om te updaten</string>
+    <string name="status_copy_new_hosts">Bezig met kopiëren van nieuw hosts-bestand</string>
+    <string name="status_create_new_hosts">Bezig met aanmaken van nieuw hosts-bestand</string>
+    <string name="status_disabled">Uitgeschakeld</string>
+    <string name="status_disabled_subtitle">Standaard hosts-bestand geïnstalleerd</string>
+    <string name="status_download_fail">Bronnen zijn niet beschikbaar</string>
+    <string name="status_download_fail_subtitle_new">Er zijn geen hosts-bronnen bereikbaar!</string>
+    <string name="status_download_source">Bezig met ophalen van bron \'%s\'</string>
+    <string name="status_enabled">Ingeschakeld</string>
+    <string name="status_enabled_subtitle">Nieuwste hosts-bestanden ingeschakeld</string>
+    <string name="status_failure">Er ging iets mis</string>
+    <string name="status_failure_subtitle">Bekijk de logcat voor details</string>
+    <string name="status_hosts_updated">Het hosts-bestand is bijgewerkt</string>
+    <string name="status_no_connection">Geen internetverbinding</string>
+    <string name="status_no_connection_subtitle">Geen internetverbinding beschikbaar</string>
+    <string name="status_no_update_found">Geen bronupdates gevonden</string>
+    <string name="status_parse_source">Verwerken %s bron</string>
+    <string name="status_read_source">Lezen bron %s</string>
+    <string name="status_retrieve">Bezig met ophalen van bronnen</string>
+    <string name="status_revert">Bezig met terugzetten van standaard hosts-bestand</string>
+    <string name="status_revert_done">Het standaard hosts-bestand is teruggezet</string>
+    <string name="status_reverting_subtitle">Bezig met aanmaken van nieuw hosts-bestand</string>
+    <string name="status_root_access_denied">Root toegang geweigerd</string>
+    <string name="status_root_access_denied_subtitle">Root toegang toestaan</string>
+    <string name="status_sync_database">Database synchroniseren</string>
+    <string name="status_update_available">Er is een bronupdate beschikbaar</string>
+    <string name="status_update_available_subtitle">Er zijn nieuwere hosts-bestanden beschikbaar.</string>
+    <string name="status_vpn_configuration_updated">VPN configuratie succesvol bijgewerkt</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Project steunen</string>
+    <string name="support_sponsorship_button">Wordt sponsor</string>
+    <string name="support_title">Ondersteuning</string>
+    <string name="tcpdump_description">Tcpdump is een hulpmiddel om DNS-verzoeken te bekijken en deze op te slaan in een logbestand. U kunt het in de achtergrond starten, een app met reclames gebruiken, en achteraf de DNS-verzoeken analyseren middels het logbestand. Mogelijke reclameservers kunnen dan aan uw zwarte lijst worden toegevoegd.</string>
+    <string name="tcpdump_disable_monitoring">Monitoring uitschakelen</string>
+    <string name="tcpdump_enable_monitoring">Monitoring inschakelen</string>
+    <string name="tcpdump_entry_add_blacklist">Host toevoegen aan blacklist</string>
+    <string name="tcpdump_entry_add_redirection_list">Hostdoorschakeling toevoegen</string>
+    <string name="tcpdump_entry_add_whitelist">Host toevoegen aan whitelist</string>
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_menu_clear">Wis log</string>
+    <string name="tcpdump_menu_sort">Sorteer domeinen</string>
+    <string name="tcpdump_show_results">Laat resultaat zien</string>
+    <string name="text_help">AdAway is vrije software, ontworpen om advertenties te blokkeren. Het haalt de adressen van reclamenetwerken en blokkeert deze op uw apparaat.\nWilt u meer weten? Bekijk de hulpsectie hieronder.</string>
+    <string name="text_update">Alle hosts-bestanden van de gedefinieerde bronnen worden gedownload, samengevoegd met uw eigen lijsten en als één hosts-bestand op uw systeem geïnstalleerd.</string>
+    <string name="update_available">Update beschikbaar!</string>
+    <string name="update_button">Geblokkeerde domeinen bijwerken</string>
+    <string name="update_donate_button">Doneren</string>
+    <string name="update_hosts_description">Hosts bijwerken</string>
+    <string name="update_last_changelog_title">Laatste wijzigingen</string>
+    <string name="update_new_changelog_title">Wijzigingslog</string>
+    <string name="update_notification_description">Downloading nieuwste AdAway versie…</string>
+    <string name="update_progress_label">%1$s / %2$s</string>
+    <string name="update_sponsor_button">Sponsor</string>
+    <string name="update_support_title">Steun de ontwikkeling</string>
+    <string name="update_title">AdAway update</string>
+    <string name="update_up_to_date_header">Je bent up-to-date</string>
+    <string name="update_update_available_header">Er is een update beschikbaar</string>
+    <string name="update_update_button">Update nu</string>
+    <string name="update_updating_header">Updating AdAway</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"UIT"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"AAN"</string>
+    <string name="vpn_notification_action_pause">Onderbreken</string>
+    <string name="vpn_notification_action_resume">Hervat</string>
+    <string name="vpn_notification_paused">onderbroken</string>
+    <string name="vpn_notification_reconnecting">bezig met herverbinden</string>
+    <string name="vpn_notification_reconnecting_error">fout tijdens herverbinden</string>
+    <string name="vpn_notification_running">actief</string>
+    <string name="vpn_notification_starting">bezig met starten</string>
+    <string name="vpn_notification_stopped">gestopt</string>
+    <string name="vpn_notification_stopping">bezig met stoppen</string>
+    <string name="vpn_notification_title">Advertentieblokkering-VPN %1$s</string>
+    <string name="vpn_notification_waiting_for_net">wachten op een netwerk</string>
+    <string name="vpn_status_running">Actief</string>
+    <string name="vpn_status_stopped">Gestopt</string>
+    <string name="vpn_toggle_text">Start of stop de VPN die verzoeken filtert.</string>
+    <string name="webserver_status_running">Actief</string>
+    <string name="webserver_status_stopped">Gestopt</string>
+    <string name="webserver_toggle_text">Start of stop de webserver op localhost om verzoeken aan geblokkeerde hostnamen te beantwoorden.</string>
+    <string name="welcome_back_button">Vorige</string>
+    <string name="welcome_finish_button">Afronden</string>
+    <string name="welcome_first_step">Wizard 1e stap</string>
+    <string name="welcome_last_step">Wizard 3e stap</string>
+    <string name="welcome_method_con_logo">Nadeel</string>
+    <string name="welcome_method_header">Welkom bij AdAway!</string>
+    <string name="welcome_method_pro_logo">Voordeel</string>
+    <string name="welcome_method_summary">AdAway biedt twee blokkeermethoden aan. Kies de gewenste methode:</string>
+    <string name="welcome_next_button">Volgende</string>
+    <string name="welcome_root_method_logo">Rootlogo</string>
+    <string name="welcome_root_method_text1">Sneller</string>
+    <string name="welcome_root_method_text2">Bespaart accu</string>
+    <string name="welcome_root_method_text3">Root vereist</string>
+    <string name="welcome_root_method_title">Blokkering op basis van root</string>
+    <string name="welcome_root_missile_description">De su-binary is niet aangetroffen of u heeft AdAway geen roottoegang verleend.\n\nDit komt voor als uw apparaat niet geroot is. Informatie over het rooten van uw apparaat vindt u op wiki.lineageos.org of andere Android-websites.</string>
+    <string name="welcome_root_missing_title">Geroote Android vereist</string>
+    <string name="welcome_second_step">Wizard 2e stap</string>
+    <string name="welcome_support_button">Doneren via PayPal</string>
+    <string name="welcome_support_header">Ondersteun mij!</string>
+    <string name="welcome_support_logo">Ondersteuning</string>
+    <string name="welcome_support_summary">Het is een gratis en open-source app. Ik ontwikkel dit in mijn vrije tijd. Als je het dus leuk vindt, voel je vrij om je support te laten zien:</string>
+    <string name="welcome_support_telemetry_button">Schakel telemetrie in om crashverslagen te sturen</string>
+    <string name="welcome_support_telemetry_summary">Houdt u van bugs? Nee, ik ook niet.</string>
+    <string name="welcome_sync_done_logo">Synchroniseren voltooid</string>
+    <string name="welcome_sync_error">Het synchroniseren is mislukt: %1$s Wilt u het opnieuw proberen?</string>
+    <string name="welcome_sync_error_logo">Fout tijdens synchronisatie</string>
+    <string name="welcome_sync_header">Bezig met synchroniseren</string>
+    <string name="welcome_sync_retry_logo">Opnieuw proberen</string>
+    <string name="welcome_sync_summary">AdAway haalt reclamenetwerken op uit online-bronnen. U kunt deze later aanpassen in de instellingen.</string>
+    <string name="welcome_synced_header">Gesynchroniseerd!</string>
+    <string name="welcome_title">Welkom</string>
+    <string name="welcome_vpn_method_logo">VPN-logo</string>
+    <string name="welcome_vpn_method_text1">Langzamer</string>
+    <string name="welcome_vpn_method_text2">Actief op de achtergrond</string>
+    <string name="welcome_vpn_method_text3">Comptabiliteit</string>
+    <string name="welcome_vpn_method_title">Blokkering op basis van VPN</string>
+</resources>

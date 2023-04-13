@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.adaway.model.git.GitHostsSourceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-13T13:37:50" hostname="DESKTOP-P1HHUKE" time="1.73">
+  <properties/>
+  <testcase name="testIsHostedOnGit[0]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.005"/>
+  <testcase name="testLastUpdateFetch[0]" classname="org.adaway.model.git.GitHostsSourceTest" time="1.045"/>
+  <testcase name="testIsHostedOnGit[1]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.0"/>
+  <testcase name="testLastUpdateFetch[1]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.326"/>
+  <testcase name="testIsHostedOnGit[2]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.0"/>
+  <testcase name="testLastUpdateFetch[2]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.353"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

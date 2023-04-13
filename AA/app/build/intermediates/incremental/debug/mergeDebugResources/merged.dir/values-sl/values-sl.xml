@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Home</item>
+        <item>Hosts viri</item>
+        <item>Your lists</item>
+        <item>Odpri hosts datoteko</item>
+        <item>Log DNS requests</item>
+        <item>Scan for adware</item>
+        <item>Nastavitve</item>
+        <item>Pomoč</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Pot do uporabljene hosts datoteke po meri</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d novo obvestilo</item>
+    <item quantity="two">%d novi obvestili</item>
+    <item quantity="few">%d nova obvestila</item>
+    <item quantity="other">%d novih obvestil</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d outdated source</item>
+        <item quantity="two">%d outdated sources</item>
+        <item quantity="few">%d outdated sources</item>
+        <item quantity="other">%d outdated sources</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d up-to-date source</item>
+        <item quantity="two">%d up-to-date sources</item>
+        <item quantity="few">%d up-to-date sources</item>
+        <item quantity="other">%d up-to-date sources</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Krmarjenje na začetek"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Pomik navzgor"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Več možnosti"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Končano"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaži vse"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Izbira aplikacije"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IZKLOP"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"VKLOP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"preslednica"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meni +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Iskanje …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Izbris poizvedbe"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Iskalna poizvedba"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Iskanje"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pošiljanje poizvedbe"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Glasovno iskanje"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Deljenje z:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Deljenje z drugimi prek aplikacije <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Strnitev"</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Ad blocker</string>
+    <string name="apply_apn_proxy_title">APN proxy nastavljen!</string>
+    <string name="apply_copy_fail">Kopiranje hosts datoteke spodletelo!</string>
+    <string name="apply_copy_fail_title">Kopiranje spodletelo</string>
+    <string name="apply_dialog">Uporabljanje…</string>
+    <string name="apply_dialog_apply">Uporabljanje hosts datotek</string>
+    <string name="apply_dialog_hostnames">Združevanje hosts datotek</string>
+    <string name="apply_dialog_hosts">Izgradnja hosts datotek</string>
+    <string name="apply_dialog_lists">Uporabljanje seznama blokiranih in dovoljenih virov</string>
+    <string name="apply_fail">Uporaba hosts datotek na vašem sistemu je spodletela!\nPoizkusite spremeniti pot hosts datoteke na /data/data/hosts v nastavitvah.</string>
+    <string name="apply_fail_title">Uporaba neuspešna</string>
+    <string name="apply_help">Prosimo, preberite pomoč za več informacij.</string>
+    <string name="apply_not_enough_space">Na particiji ni dovolj prostora!\nPoizkusite spremeniti pot hosts datoteke na /data/data/hosts v nastavitvah.</string>
+    <string name="apply_not_enough_space_title">Ni dovolj prostora</string>
+    <string name="apply_private_file_fail">Prenešene datoteke ni mogoče brati.</string>
+    <string name="apply_private_file_fail_title">Privatna datoteka spodletela</string>
+    <string name="apply_remount_fail">Ponovno montiranje particije z read/write dovoljenjem je spodletelo!</string>
+    <string name="apply_remount_fail_title">Ponovno montiranje spodletelo</string>
+    <string name="apply_success_title">Uporaba uspešna</string>
+    <string name="apply_symlink_fail_title">Ustvarjanje symlink-a je spodletelo</string>
+    <string name="apply_symlink_missing">Symlink vaše tarče /system/etc/hosts ne obstaja ali ni pravilen! AdAway ne bo deloval, če ne bo kazal na pravo datoteko.\n\nAli želite poizkusiti ustvariti symlink?</string>
+    <string name="apply_symlink_missing_title">Symlink ne obstaja</string>
+    <string name="apply_symlink_successful_title">Symlink je bil uspešno ustvarjen</string>
+    <string name="bottomsheet_action_expand_halfway">Razširjanje na pol višine</string>
+    <string name="button_add">Dodaj</string>
+    <string name="button_cancel">Prekini</string>
+    <string name="button_close">Zapri</string>
+    <string name="button_exit">Izhod</string>
+    <string name="button_help">Pomoč</string>
+    <string name="button_no">Ne</string>
+    <string name="button_save">Shrani</string>
+    <string name="button_yes">Da</string>
+    <string name="character_counter_content_description">Število vnesenih znakov je %1$d od %2$d</string>
+    <string name="character_counter_overflowed_content_description">Omejitev števila znakov je presegla %1$d od %2$d</string>
+    <string name="checkbox_list_context_delete">Odstrani</string>
+    <string name="checkbox_list_context_edit">Uredi</string>
+    <string name="checkbox_list_context_title">Uredi vnos</string>
+    <string name="clear_text_end_icon_content_description">Izbris besedila</string>
+    <string msgid="6083905920877235314" name="copy">"Kopiraj"</string>
+    <string name="disable_systemless_successful_title">Uspešno onemogočeno</string>
+    <string name="download_dialog">Prenašanje…</string>
+    <string name="download_fail_dialog">Noben od vaših uporabljenih hosts virov ni dosegljiv! Ali ste pravilno povezani na omrežje?</string>
+    <string name="download_fail_title">Prenos spodletel</string>
+    <string name="enable_systemless_successful_title">Uspešno omogočeno</string>
+    <string name="error_dialog_help">Prosimo, preberite pomoč za več informacij.</string>
+    <string name="error_icon_content_description">Napaka</string>
+    <string name="error_no_connection_message">Ni omrežne povezave</string>
+    <string name="error_not_enough_space_message">Ni dovolj prostora</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Dodatno"</string>
+    <string name="export_dialog">Izvažanje…</string>
+    <string name="exposed_dropdown_menu_content_description">Prikaz spustnega menija</string>
+    <string name="help_tab_faq">Pogosto postavljena vprašanja</string>
+    <string name="help_tab_problems">Težave</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_add_dialog">Vnesi URL do hosts datoteke:</string>
+    <string name="hosts_not_available">ni na voljo</string>
+    <string name="hosts_title">Hosts viri</string>
+    <string name="icon_content_description">Ikona pogovornega okna</string>
+    <string name="import_dialog">Uvažanje…</string>
+    <string name="item_view_role_description">Zavihek</string>
+    <string name="list_dialog_hostname">Domena:</string>
+    <string name="list_dialog_ip">IP (IPv4 ali IPv6):</string>
+    <string name="lists_title">Your lists</string>
+    <string name="loading">Nalaganje…</string>
+    <string name="material_clock_toggle_content_description">Izberite dopoldanski ali popoldanski čas.</string>
+    <string name="material_hour_selection">Izberite uro</string>
+    <string name="material_hour_suffix">%1$s</string>
+    <string name="material_minute_selection">Izberite minute</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">dop.</string>
+    <string name="material_timepicker_clock_mode_description">Preklopite na način ure, da vnesete čas.</string>
+    <string name="material_timepicker_hour">Ura</string>
+    <string name="material_timepicker_minute">Minuta</string>
+    <string name="material_timepicker_pm">pop.</string>
+    <string name="material_timepicker_select_time">Izberite uro</string>
+    <string name="material_timepicker_text_input_mode_description">Preklopite na način za vnašanje besedila, da vnesete čas.</string>
+    <string name="menu_add">Dodaj</string>
+    <string name="menu_help">Pomoč</string>
+    <string name="menu_refresh">Osveži</string>
+    <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
+    <string name="mtrl_chip_close_icon_content_description">Odstranite %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Več kot toliko novih obvestil: %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Spremeni na naslednji mesec</string>
+    <string name="mtrl_picker_a11y_prev_month">Spremeni na prejšnji mesec</string>
+    <string name="mtrl_picker_announce_current_selection">Trenutna izbira: %1$s</string>
+    <string name="mtrl_picker_cancel">Prekliči</string>
+    <string name="mtrl_picker_confirm">V redu</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Izberite datum</string>
+    <string name="mtrl_picker_date_header_unselected">Izbrani datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Stolpec dni: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Neveljavna oblika.</string>
+    <string name="mtrl_picker_invalid_format_example">Primer: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Uporabite: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Neveljaven razpon.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Pomik na leto %1$s</string>
+    <string name="mtrl_picker_out_of_range">Zunaj razpona: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Začetni datum–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–končni datum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Izberite obseg</string>
+    <string name="mtrl_picker_range_header_unselected">Začetni datum–končni datum</string>
+    <string name="mtrl_picker_save">Shrani</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Končni datum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Začetni datum</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">l</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Preklop na način vnosa v koledar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Dotik za preklop na izbiro dneva</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Preklop na način vnosa besedila</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Dotik za preklop na izbiro leta</string>
+    <string name="mtrl_timepicker_cancel">Prekliči</string>
+    <string name="mtrl_timepicker_confirm">V redu</string>
+    <string name="no_connection">Omrežna povezava ni vzpostavljena.</string>
+    <string name="no_connection_title">Ni povezave</string>
+    <string name="no_file_manager">Noben raziskovalec ni nameščen. Namestite lahko aplikacijo OI File Manager ali katerikoli drug raziskovalec.\n\nAli želite namestiti OI File Manager?</string>
+    <string name="no_file_manager_title">Noben raziskovalec ni nameščen</string>
+    <string name="no_hostname">Neveljavno domensko ime!</string>
+    <string name="no_hostname_title">Nepravilno oblikovano domensko ime</string>
+    <string name="no_ip">Neveljaven IP!</string>
+    <string name="no_ip_title">Nepravilno oblikovan IP</string>
+    <string name="no_private_file">Privatne datoteke ni bilo mogoče ustvariti.</string>
+    <string name="no_private_file_title">Privatne datoteke ni bilo mogoče ustvariti.</string>
+    <string name="no_text_editor">Nameščen ni noben urejevalec teksta. Namestite lahko aplikacijo Jota ali katerikoli drug urejevalnik teksta.\n\nAli želite namestiti Jota?</string>
+    <string name="no_text_editor_title">Nameščen ni noben urejevalec teksta</string>
+    <string msgid="6573031135582639649" name="not_set">"Ni nastavljeno"</string>
+    <string name="password_toggle_content_description">Prikaz gesla</string>
+    <string name="pref_apply_method">Uporabljena hosts datoteka</string>
+    <string name="pref_debug_category">Debug</string>
+    <string name="pref_hosts_redirection">Preusmeritev</string>
+    <string name="pref_main_title">Nastavitve</string>
+    <string name="pref_root_open_hosts">Odpri hosts datoteko</string>
+    <string msgid="6685851473431805375" name="preference_copied">"»<ns1:g id="SUMMARY">%1$s</ns1:g>« je bilo kopirano v odložišče."</string>
+    <string name="preferences_drawer_item">Nastavitve</string>
+    <string name="revert_problem">Povrnitev spodletela zaradi neznanega razloga.</string>
+    <string name="revert_problem_title">Povrnitev neuspešna!</string>
+    <string name="revert_successful_title">Povrnitev uspešna</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Iskanje"</string>
+    <string name="shortcut_preferences">Nastavitve</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_disabled">Onemogočeno</string>
+    <string name="status_download_fail">Nedosegljivi viri</string>
+    <string name="status_download_fail_subtitle_new">Noben hosts vir ni dosegljiv!</string>
+    <string name="status_enabled">Omogočeno</string>
+    <string name="status_enabled_subtitle">Uporabljene so najnovejše hosts datoteke</string>
+    <string name="status_no_connection">Ni omrežne povezave</string>
+    <string name="status_no_connection_subtitle">Omrežna povezava ni na voljo</string>
+    <string name="status_reverting_subtitle">Ustvarjanje privzete hosts datoteke</string>
+    <string name="status_update_available_subtitle">Na voljo so posodobljene hosts datoteke</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="tcpdump_description">Tcpdump je orodje za nadziranje DNS zahtev in njihovo shranjevanje v log datoteko. Zaženete jo lahko v ozadju, zaženete aplikacijo, ki prikazuje oglase, ter analizirate DNS zahteve preko log datoteke. Morebitne oglaševalne strežnike lahko potem dodate na vašo blacklist-o.</string>
+    <string name="text_update">Vse hosts datoteke danih virov so prenešene, združene z vašimi osebnimi seznami in nameščene kot ena hosts datoteka na vašem sistemu.</string>
+    <string name="update_update_available_header">Na voljo je nova posodobitev</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"IZKLOPLJENO"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"VKLOPLJENO"</string>
+    <string name="welcome_root_missing_title">Potreben je root dostop</string>
+</resources>

@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Home</item>
+        <item>Sursele (hosts)</item>
+        <item>Listele dvs.</item>
+        <item>Deschide fișierul \'hosts\'</item>
+        <item>Log DNS requests</item>
+        <item>Scan for adware</item>
+        <item>Preferințe</item>
+        <item>Ajutor</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Locație personalizată</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>Luminoasă</item>
+        <item>Întunecată</item>
+        <item>Valoare implicită sistem</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>Niciuna</item>
+        <item>Toate cu excepția navigatoarelor web</item>
+        <item>Toate</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="one">%d zi</item>
+        <item quantity="few">%d zile</item>
+        <item quantity="other">%d zile</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="one">%d oră</item>
+        <item quantity="few">%d ore</item>
+        <item quantity="other">%d ore</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="other">%d minute</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="one">%d lună</item>
+        <item quantity="few">%d luni</item>
+        <item quantity="other">%d luni</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notificare nouă</item>
+    <item quantity="few">%d notificări noi</item>
+    <item quantity="other">%d de notificări noi</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d sursă învechită</item>
+        <item quantity="few">%d surse învechite</item>
+        <item quantity="other">%d surse învechite</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d sursă la zi</item>
+        <item quantity="few">%d surse la zi</item>
+        <item quantity="other">%d surse la zi</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigați la ecranul de pornire"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigați în sus"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mai multe opțiuni"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gata"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Afișați tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Alegeți o aplicație"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DEZACTIVAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVAT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meniu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Căutați…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ștergeți interogarea"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Termen de căutare"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Căutați"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Trimiteți interogarea"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Căutare vocală"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Trimiteți la"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Trimiteți folosind <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Restrângeți"</string>
+    <string name="adblock_pause_button_description">Pauză/reluare blocare anunțuri</string>
+    <string name="adware_description">Aici se regăsesc aplicațiile ce conțin reclame, aplicații pe care AdAway nu le poate bloca. Aceste aplicații pot de exemplu să trimită notificări chiar dacă aplicația nu rulează sau pot chiar modifica tonul de apel. Singura măsură împotriva acestora este dezinstalarea prin atingerea lor în această listă.</string>
+    <string name="adware_empty">Niciun Adware găsit!</string>
+    <string name="adware_header">Aplicație cu reclame</string>
+    <string name="adware_scanning">Scanare…</string>
+    <string name="allowed_hosts_label">Permise</string>
+    <string name="app_description">Software cu sursă deschisă pentru blocarea reclamelor</string>
+    <string name="app_logo">Logo AdAway</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Program care blocheaza reclame</string>
+    <string name="apply_apn_proxy">Un proxy de la furnizorul mobil de tip APN este activat pe Android!nAdAway nu va funcționa corespunzător când se află pe rețele de date mobile 3G/4G/5G. Poți dezactiva acel proxy din lista de APN (Aplicația de Setări: Conexiuni &amp; Internet -> Rețele Mobile -> Avansat->Nume puncte de acces) prin ștergea valorii introduse în câmpul de proxy.</string>
+    <string name="apply_apn_proxy_title">Punctul de acces APN proxy a fost setat!</string>
+    <string name="apply_copy_fail">Copierea fișierelor \"hosts\" nereușită!</string>
+    <string name="apply_copy_fail_status">Imposibil de copiat fișierul hosts</string>
+    <string name="apply_copy_fail_title">Copiere nereușită</string>
+    <string name="apply_dialog">Aplicare modificări…</string>
+    <string name="apply_dialog_apply">Sistemul aplică fișierul hosts</string>
+    <string name="apply_dialog_hostnames">Analizează și combină nodurile în fișierul hosts</string>
+    <string name="apply_dialog_hosts">Sistemul generează fișierul hosts</string>
+    <string name="apply_dialog_lists">Sistemul aplică atributele listelor permise și restricționate</string>
+    <string name="apply_fail">Aplicarea fișierului hosts pe sistemul dumneavoastră a eșuat!\nÎncercați să schimbați fișierul hosts țintă din preferințe în /data/data/hosts. </string>
+    <string name="apply_fail_status">Imposibil de aplicat noul fișier hosts.</string>
+    <string name="apply_fail_title">Aplicare nereușită</string>
+    <string name="apply_help">Citește secțiunea \"Ajutor\" pentru mai multe informații.</string>
+    <string name="apply_not_enough_space">Spațiu insuficient pe partiție! \nÎncercați să schimbați din setări fișierul hosts  către /data/data/hosts. </string>
+    <string name="apply_not_enough_space_title">Spațiu insuficient</string>
+    <string name="apply_private_file_fail">Fișierul descărcat nu poate fi citit</string>
+    <string name="apply_private_file_fail_title">Lansare nereusita a fisierul cu atribute speciale (private)</string>
+    <string name="apply_remount_fail">Reactivarea partiției pentru citire/scriere nereușită!</string>
+    <string name="apply_remount_fail_title">Remontare partiție nereușită</string>
+    <string name="apply_success_dialog">Aplicarea modificărilor nu a reușit.\nPoate fi necesară repornirea Android pentru ca modificările să aibă efect.\n\nContinuați cu repornirea?\n(Pentru a preveni pierderi de date asigurați-vă  că nicio aplicație nu utilizează stocarea SD în prezent!)</string>
+    <string name="apply_success_subtitle">Surse aplicate pe hosts</string>
+    <string name="apply_success_title">Aplicare reușită</string>
+    <string name="apply_symlink_fail">Legătura simbolică nu a putut fi creată de către Android.\nAcest lucru se întâmplă de obicei datorită \'funcției\' S-ON pe dispozitivele HTC!\n\nO soluție ar putea fi repornirea în modul de recuperare și realizarea arborelui legăturii simbolice de acolo prin \'ln -s /data/data/hosts /system/etc/hosts\'.\n\nDacă nici această soluție nu funcționează căutați pe Internet despre S-OFF pentru dispozitivul curent.</string>
+    <string name="apply_symlink_fail_title">Crearea legăturii simbolice a eșuat</string>
+    <string name="apply_symlink_missing">Legătura simbolică de la ținta dumneavoastră către /system/etc/hosts nu există sau este incorectă! AdAway nu va funcționa dacă nu este direcționat către fișierul corect.\n\nVreți să încercați să creați o nouă legătură simbolică?</string>
+    <string name="apply_symlink_missing_status">Legătura simbolică către fișierul hosts lipsește</string>
+    <string name="apply_symlink_missing_title">Legătura simbolică lipsește</string>
+    <string name="apply_symlink_successful">Legătura simbolică a fost creată cu succes.\nPoate fi necesară repornirea Android pentru ca modificările să aibă efect.\n\nContinuați cu repornirea?\n(Pentru a preveni pierderi de date asigurați-vă că nicio aplicație nu utilizează stocarea SD în prezent!)</string>
+    <string name="apply_symlink_successful_title">Legătura simbolică a fost creată cu succes</string>
+    <string name="blocked_hosts_label">Blocate</string>
+    <string name="bottomsheet_action_expand_halfway">Extinde pe ecran complet</string>
+    <string name="button_add">Adaugă</string>
+    <string name="button_cancel">Anulează</string>
+    <string name="button_close">Închide</string>
+    <string name="button_disable_hosts">Dezactivare blocare reclame</string>
+    <string name="button_disable_vpn">Oprire VPN</string>
+    <string name="button_disable_webserver">Dezactivează server web</string>
+    <string name="button_enable_hosts">Activare blocare reclame</string>
+    <string name="button_enable_vpn">Pornire VPN</string>
+    <string name="button_enable_webserver">Activează server web</string>
+    <string name="button_exit">Ieșire</string>
+    <string name="button_help">Ajutor</string>
+    <string name="button_no">Nu</string>
+    <string name="button_save">Salvează</string>
+    <string name="button_show_help">Afișează mai multe sfaturi</string>
+    <string name="button_yes">Da</string>
+    <string name="character_counter_content_description">Caractere introduse: %1$d din %2$d</string>
+    <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
+    <string name="checkbox_list_context_apply">Aplică</string>
+    <string name="checkbox_list_context_delete">Ștergere</string>
+    <string name="checkbox_list_context_edit">Editare</string>
+    <string name="checkbox_list_context_title">Editare intrare</string>
+    <string name="clear_text_end_icon_content_description">Ștergeți textul</string>
+    <string name="clipboard_host_copied">Adresă copiată</string>
+    <string msgid="6083905920877235314" name="copy">"Copiați"</string>
+    <string name="disable_systemless_magisk">Dezactivați funcția de hosting fără suport de sistem din Magisk manager. Din lista de module a managerului, dezinstalați modulul <cite>Systemless hosts</cite> apoi reporniți dispozitivul.</string>
+    <string name="disable_systemless_magisk_title">Dezactivare modul Magisk pentru hosts</string>
+    <string name="disable_systemless_successful">Ați dezactivat modul systemless.\nPoate fi necesară repornirea Android pentru ca modificările să aibă efect.\n\nContinuați cu repornirea?\n(Pentru a preveni pierderi de date asigurați-vă că nicio aplicație nu utilizează stocarea SD în prezent!)</string>
+    <string name="disable_systemless_successful_title">Dezactivarea a fost reușită</string>
+    <string name="disable_vpn_fail">Imposibil de dezactivat VPN pentru îndepărtarea reclamelor.</string>
+    <string name="download_dialog">Descărcare…</string>
+    <string name="download_fail_dialog">Nici una din sursele active pentru fisierele \"hosts\" nu pot fi accesate! Exista conexiune internet?</string>
+    <string name="download_fail_title">Descărcare nereușită</string>
+    <string name="drawer_close">Închideți meniul</string>
+    <string name="drawer_open">Deschideți meniul</string>
+    <string name="enable_systemless_magisk">Activați funcția de hosting fără suport de sistem din Magisk manager. Din setările managerului, activați <cite>Systemless hosts</cite> apoi reporniți dispozitivul.</string>
+    <string name="enable_systemless_magisk_title">Activare modul Magisk pentru hosts</string>
+    <string name="enable_systemless_successful">Ați activat modul systemless.\nPoate fi necesară repornirea Android pentru ca modificările să aibă efect.\n\nContinuați cu repornirea?\n(Pentru a preveni pierderi de date asigurați-vă că nicio aplicație nu utilizează stocarea SD în prezent!)</string>
+    <string name="enable_systemless_successful_title">Activarea a fost reușită</string>
+    <string name="enable_vpn_fail">Imposibil de activat VPN pentru îndepărtarea reclamelor.</string>
+    <string name="error_copy_failed_details">Imposibil de copiat fișierul hosts pe partiția de sistem. Verifică dacă modulul Magisk systemless este activ apoi repornește dispozitivul.</string>
+    <string name="error_copy_failed_message">Imposibil de instalat noul fișier hosts.</string>
+    <string name="error_dialog_help">Citește secțiunea de Ajutor pentru mai multe informații!</string>
+    <string name="error_disable_vpn_failed_details">Verifică setările pentru VPN și dezactivează-l manual.</string>
+    <string name="error_disable_vpn_failed_message">Imposibil de dezactivat VPN pentru îndepărtare reclame.</string>
+    <string name="error_download_failed_details">Nici una din sursele active pentru fisierele \"hosts\" nu pot fi accesate! Exista conexiune internet?</string>
+    <string name="error_download_failed_message">Imposibil de descărcat sursele hosts</string>
+    <string name="error_enable_vpn_failed_details">Verifică setările VPN și permite accesul aplicației pentru a porni serverul VPN.</string>
+    <string name="error_enable_vpn_failed_message">Imposibil de activat VPN pentru îndepărtare reclame.</string>
+    <string name="error_icon_content_description">Eroare</string>
+    <string name="error_no_connection_details">Imposibil de conectat la internet. Verificați conexiunea dispozitivului.</string>
+    <string name="error_no_connection_message">Nu există conexiune la internet</string>
+    <string name="error_not_enough_space_details">Imposibil de copiat fișierul hosts pe partiția de sistem. Verifică dacă modulul Magisk systemless este activ apoi repornește dispozitivul.</string>
+    <string name="error_not_enough_space_message">Spațiu insuficient</string>
+    <string name="error_private_file_failed_details">Imposibil de creat fișierul hosts privat pentru generarea unei noi surse. Verifică dacă există spațiu de stocare disponibil pe dispozitiv.</string>
+    <string name="error_private_file_failed_message">Imposibil de creat fișierul hosts</string>
+    <string name="error_revert_failed_details">Imposibil de restaurat fișierul hosts la starea inițială</string>
+    <string name="error_revert_failed_message">Imposibil de restaurat fișierul hosts la starea precedentă </string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Avansat"</string>
+    <string name="export_dialog">Exportă…</string>
+    <string name="export_failed">Exportul a eșuat, fișierul %s nu a fost scris.</string>
+    <string name="export_success">Exportul s-a realizat cu succes, fișierul %s a fost scris în memoria externă.</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
+    <string name="header_help">Bine ați venit!</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Server web</string>
+    <string name="help_label">Arată ajutor</string>
+    <string name="help_tab_faq">Listă cu întrebări frecvente</string>
+    <string name="help_tab_problems">Probleme</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">AdAway - surse oficiale</string>
+    <string name="hosts_add_dialog">Adăugare adresă (URL) la fișierul \'hosts\':</string>
+    <string name="hosts_add_dialog_title">Adăugare sursă</string>
+    <string name="hosts_content">Încărcare conținut din fișierul hosts…</string>
+    <string name="hosts_count">%s surse</string>
+    <string name="hosts_description">Fișierul hosts este un fișier de sistem care mapează numele serverelor la adrese IP. Este pur și simplu un fișier text a cărui configurație este gestionată de către  AdAway. Iată câteva linii din începutul fișierului:</string>
+    <string name="hosts_dialog_url">URL: (sursă https:// sau file://)</string>
+    <string name="hosts_dialog_url_hint">Sursa pt fisier \'host\'</string>
+    <string name="hosts_edit_dialog_title">Editare sursă</string>
+    <string name="hosts_header">Fișierul \'hosts\'</string>
+    <string name="hosts_not_available">Indisponibil</string>
+    <string name="hosts_open_button">Deschidere fișier hosts</string>
+    <string name="hosts_peterlowe_source">Pete Lowe blocklist hosts</string>
+    <string name="hosts_source_disabled">Dezactivat</string>
+    <string name="hosts_source_few_minutes">câteva minute</string>
+    <string name="hosts_source_installed">Instalat de  %1$s</string>
+    <string name="hosts_source_last_update">Actualizat acum %1$s </string>
+    <string name="hosts_source_need_update">Actualizare necesară de acum %1$s</string>
+    <string name="hosts_source_unknown_status">Status de actualizare necunoscut</string>
+    <string name="hosts_source_up_to_date">Actualizat de %1$s</string>
+    <string name="hosts_stevenblack_source">StevenBlack Unified hosts</string>
+    <string name="hosts_title">Sursele (hosts)</string>
+    <string name="hosts_user_source">Listă personală</string>
+    <string name="icon_content_description">Pictogramă de dialog</string>
+    <string name="icon_update_status">Starea actualizărilor</string>
+    <string name="import_dialog">Importă…</string>
+    <string name="import_failed">Imposibil de importat copia de rezervă. Ați verificat corectitudinea formatului? Analizează logcat-ul pentru mai multe detalii.</string>
+    <string name="import_success">Copie de rezervă importată cu succes din stocarea externă.</string>
+    <string name="item_view_role_description">Filă</string>
+    <string name="list_add_dialog_black">Adăugare domeniu în lista neagră</string>
+    <string name="list_add_dialog_redirect">Adăugare redirecționare</string>
+    <string name="list_add_dialog_white">Adăugare domeniu în lista albă</string>
+    <string name="list_dialog_hostname">Nume domeniu:</string>
+    <string name="list_dialog_hostname_hint">URL domeniu</string>
+    <string name="list_dialog_ip">Adresă IP (IPv4 sau IPv6):</string>
+    <string name="list_dialog_wildcard">(Sunt permise caracterele generice * și ?)</string>
+    <string name="list_edit_dialog_black">Editare domeniu blocat</string>
+    <string name="list_edit_dialog_redirect">Editare redirecționare</string>
+    <string name="list_edit_dialog_white">Editare domeniu permis</string>
+    <string name="lists_menu_filter">Filtrare domenii</string>
+    <string name="lists_menu_filter_hint">Căutare nume domeniu…</string>
+    <string name="lists_menu_toggle_sources">Comutare surse</string>
+    <string name="lists_tab_allowed">Permise</string>
+    <string name="lists_tab_blocked">Blocate</string>
+    <string name="lists_tab_redirected">Redirecționate</string>
+    <string name="lists_title">Liste personale</string>
+    <string name="loading">Se încarcă…</string>
+    <string name="log_redirect_dialog_title">Redirecționare domeniu</string>
+    <string name="log_sort_alphabetical">Sortare alfabetică</string>
+    <string name="log_sort_top_level_domain">Sortare domeniu pe nivel superior</string>
+    <string name="material_clock_toggle_content_description">Selectați ora</string>
+    <string name="material_hour_selection">Selectați ora</string>
+    <string name="material_hour_suffix">Ora %1$s</string>
+    <string name="material_minute_selection">Selectați minutele</string>
+    <string name="material_minute_suffix">%1$s minute</string>
+    <string name="material_timepicker_am">a.m.</string>
+    <string name="material_timepicker_clock_mode_description">Pentru a introduce ora, comutați la modul ceas.</string>
+    <string name="material_timepicker_hour">Ora</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">p.m.</string>
+    <string name="material_timepicker_select_time">Selectați ora</string>
+    <string name="material_timepicker_text_input_mode_description">Pentru a introduce ora, comutați la modul de introducere a textului.</string>
+    <string name="menu_add">Adaugă</string>
+    <string name="menu_export">Exportare fișier de rezervă</string>
+    <string name="menu_help">Ajutor</string>
+    <string name="menu_import">Importare fișier de rezervă</string>
+    <string name="menu_refresh">Regenerare</string>
+    <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Peste %1$d notificări noi</string>
+    <string name="mtrl_picker_a11y_next_month">Treceți la luna următoare</string>
+    <string name="mtrl_picker_a11y_prev_month">Treceți la luna anterioară</string>
+    <string name="mtrl_picker_announce_current_selection">Selecția actuală: %1$s</string>
+    <string name="mtrl_picker_cancel">Anulați</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Selectați data</string>
+    <string name="mtrl_picker_date_header_unselected">Data selectată</string>
+    <string name="mtrl_picker_day_of_week_column_header">Coloana cu zile: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format nevalid.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemplu: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Folosiți: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Interval nevalid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigați la anul %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fără acoperire: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Data de începere – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – data de încheiere</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Selectați intervalul</string>
+    <string name="mtrl_picker_range_header_unselected">Data de începere – data de încheiere</string>
+    <string name="mtrl_picker_save">Salvați</string>
+    <string name="mtrl_picker_text_input_date_hint">Dată</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Data de încheiere</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Data de începere</string>
+    <string name="mtrl_picker_text_input_day_abbr">z</string>
+    <string name="mtrl_picker_text_input_month_abbr">l</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Comutați la modul introducere în calendar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Atingeți pentru a comuta la selectarea unei zile</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul de introducere a textului</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
+    <string name="mtrl_timepicker_cancel">Anulați</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="no_connection">Conexiunea la Internet nu funcționează.</string>
+    <string name="no_connection_title">Nu există conexiune!</string>
+    <string name="no_file_manager">Nici un manager de fișiere nu a putut fi găsit pentru a deschide fișiere. Puteți sa instalați OI File Manager sau alți manageri de fișiere pentru a face asta.\n\nVreți să instalați OI File Manager? </string>
+    <string name="no_file_manager_title">Nu exista un manager de fisiere instalat in sistem</string>
+    <string name="no_hostname">Nume invalid pentru fisierul \"host\"</string>
+    <string name="no_hostname_title">Hostname formatat incorect</string>
+    <string name="no_ip">IP incorect!</string>
+    <string name="no_ip_title">IP formatat incorect</string>
+    <string name="no_private_file">Fisierul cu atribute speciale nu poate fi creat</string>
+    <string name="no_private_file_status">Imposibil de scris noul fișier hosts cu atribut privat</string>
+    <string name="no_private_file_title">Incercare nereusita de creeare a fisierului cu atribute speciale.</string>
+    <string name="no_text_editor">Niciun editor de text nu a fost găsit pentru a deschide fișierul hosts. Puteți instala Jota sau alte editoare text pentru a face asta.\n\nVreți să instalați Jota?</string>
+    <string name="no_text_editor_title">Nu există instalat un editor text</string>
+    <string msgid="6573031135582639649" name="not_set">"Nesetată"</string>
+    <string name="notification_configuration_changed">Configurația a fost modificată. Modificările necesită aplicare.</string>
+    <string name="notification_configuration_changed_action">Aplică</string>
+    <string name="notification_configuration_failed">Imposibil de aplicat noua configurație.</string>
+    <string name="notification_configuration_installing">Aplicare configurație nouă…</string>
+    <string name="notification_update_app_available_text">O nouă versiune AdAway este disponibilă pentru descărcare.</string>
+    <string name="notification_update_app_available_title">Este disponibilă o actualizare aplicației</string>
+    <string name="notification_update_channel_description">Notificări pentru actualizări noi</string>
+    <string name="notification_update_channel_name">Actualizări</string>
+    <string name="notification_update_host_available_text">Sunt disponibile fișiere noi hosts pentru descărcare.</string>
+    <string name="notification_update_host_available_title">Sursele au actualizări disponibile</string>
+    <string name="notification_vpn_channel_description">Notificări în timpul rulării VPN</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="open_drawer_button_description">Deschide meniul cu aplicații</string>
+    <string name="password_toggle_content_description">Afișați parola</string>
+    <string name="permission_group_api_description">Permite interacțiune cu AdAway</string>
+    <string name="permission_group_api_label">Permisiuni AdAway</string>
+    <string name="permission_send_command_description">Permite trimiterea comenzilor către AdAway, precum activarea/dezactivarea protecției globale AdAway.</string>
+    <string name="permission_send_command_label">Activare sau dezactivare sistem de blocare al reclamelor</string>
+    <string name="pref_ad_block_category">Blocarea reclamelor</string>
+    <string name="pref_apply_method">Locația fișierului hosts</string>
+    <string name="pref_apply_method_summary">Citiți sfaturile de ajutor înainte de a utiliza funcția</string>
+    <string name="pref_backup">Salvare</string>
+    <string name="pref_backup_restore">Salvare / restabilire copie de rezervă pentru regulile de blocare</string>
+    <string name="pref_backup_restore_title">Salvare &amp; restabilire</string>
+    <string name="pref_backup_summary">Salvează pe memoria externă regulile de blocare</string>
+    <string name="pref_custom_target">Locație personalizată hosts</string>
+    <string name="pref_dark_theme">Temă întunecată</string>
+    <string name="pref_debug_category">Depanare</string>
+    <string name="pref_edit_text_value">Editare valori text din fișierul de preferințe</string>
+    <string name="pref_enable_debug">Depanare cu jurnal în timp real</string>
+    <string name="pref_enable_debug_summary">Este necesară repornirea aplicației pentru aplicare</string>
+    <string name="pref_enable_ipv6">Activare suport IPv6</string>
+    <string name="pref_enable_telemetry">Trimitere raport erori</string>
+    <string name="pref_enable_telemetry_disabled_summary">Nesuportat în această versiune</string>
+    <string name="pref_enable_telemetry_summary">Raportează către Sentry (sentry.io)</string>
+    <string name="pref_general_category">Generale</string>
+    <string name="pref_hosts_installation">Instalare hosts</string>
+    <string name="pref_hosts_redirection">Redirecționare</string>
+    <string name="pref_hosts_redirection_summary">Definire domeniu de redirecționare pentru domeniile blocate din hosts</string>
+    <string name="pref_main_title">Setări</string>
+    <string name="pref_never_reboot">Ascunde dialogul de repornire după aplicare</string>
+    <string name="pref_redirection_ipv4">Redirecționare IPv4</string>
+    <string name="pref_redirection_ipv6">Redirecționare IPv6</string>
+    <string name="pref_restore">Restabilire</string>
+    <string name="pref_restore_summary">Restaurare reguli de blocare din fișier</string>
+    <string name="pref_root_ad_blocker_configuration">Blocarea prin root a reclamelor</string>
+    <string name="pref_root_open_hosts">Deschide fișierul hosts</string>
+    <string name="pref_root_title">Blocarea prin root\na reclamelor</string>
+    <string name="pref_update_app_category">Actualizări aplicație</string>
+    <string name="pref_update_check">Verificare actualizări la pornire</string>
+    <string name="pref_update_check_app_daily">Verificare periodică</string>
+    <string name="pref_update_check_app_startup">Verificare actualizări la pornire</string>
+    <string name="pref_update_check_hosts_daily">Verificare periodică</string>
+    <string name="pref_update_configuration">Actualizări automate</string>
+    <string name="pref_update_hosts_category">Actualizări fișier hosts</string>
+    <string name="pref_update_include_beta_releases">Include versiuni in stadiul \"beta\"</string>
+    <string name="pref_update_sync_on_update">Sincronizare la actualizare</string>
+    <string name="pref_update_sync_unmetered_only">Sincronizare doar pe rețea necontorizată</string>
+    <string name="pref_update_title">Actualizări</string>
+    <string name="pref_vpn_ad_blocker_configuration">Blocarea prin server VPN a reclamelor</string>
+    <string name="pref_vpn_exclude_system_apps">Excludere aplicații de sistem</string>
+    <string name="pref_vpn_exclude_user_apps">Excludere aplicații instalate de utilizator</string>
+    <string name="pref_vpn_exclude_user_apps_activity">Aplicații excluse</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Anulare selecție</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Pictograma aplicației</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Selectare toate</string>
+    <string name="pref_vpn_excluded_apps">Aplicații excluse</string>
+    <string name="pref_vpn_excluded_apps_description">Alegeți aplicațiile care nu ar trebui să fie blocate de către VPN deci conexiunea lor va rămâne nerestricționată</string>
+    <string name="pref_vpn_service_monitor">Monitorizare conexiune</string>
+    <string name="pref_vpn_service_monitor_description">Verificare periodică a stării internetului pentru repornirea VPN la deconectare</string>
+    <string name="pref_vpn_service_on_boot">Activare la pornire</string>
+    <string name="pref_vpn_title">Blocarea prin server VPN a reclamelor</string>
+    <string name="pref_webserver">Server web local</string>
+    <string name="pref_webserver_certificate">Instalare certificat subsemnat</string>
+    <string name="pref_webserver_certificate_dialog_action">Accesați setarea \"Securitate\" (Security)<br/></string>
+    <string name="pref_webserver_certificate_dialog_content">Începând cu versiunea 11 a Android (R), nu se mai pot instala automat certificate de autoritate (CA).\n\nAccesați setarea \"Securitate\", \"Criptare și date de conectare\" apoi \"Instalați de pe stocare\". Alegeți \"Certificat CA\" și instalați certificatul exportat de aplicație.</string>
+    <string name="pref_webserver_certificate_dialog_title">Instalare manuală certificat</string>
+    <string name="pref_webserver_enabled">Activare server web</string>
+    <string name="pref_webserver_icon">Înlocuiește spațiul liber destinat reclamelor cu pictograma aplicației</string>
+    <string name="pref_webserver_state_checking">Verificare…</string>
+    <string name="pref_webserver_state_not_running">Nu rulează</string>
+    <string name="pref_webserver_state_running_and_installed">Rulează cu certificat instalat</string>
+    <string name="pref_webserver_state_running_not_installed">Rulează fără certificat instalat</string>
+    <string name="pref_webserver_summary">Serverul web local ascultă pe adresa IP locală pentru a răspunde cererilor făcute de către domeniile blocate. Poate fi de ajutor dacă aplicația nu funcționează fără conexiune.</string>
+    <string name="pref_webserver_test">Testare server web</string>
+    <string msgid="6685851473431805375" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” a fost copiat în clipboard."</string>
+    <string name="preferences_drawer_item">Setări</string>
+    <string name="project_label">Deschide pagina GitHub</string>
+    <string name="reboot_never_reboot">Nu reporni și nu mă mai întreba data viitoare!</string>
+    <string name="redirect_hosts_label">Redirecționate</string>
+    <string name="revert_failed_status">Imposibil de restaurat fișierul hosts la starea precedentă </string>
+    <string name="revert_problem">Restaurare nereușită din cauze necunoscute.</string>
+    <string name="revert_problem_title">Restaurare nereușită!</string>
+    <string name="revert_successful">A fost restaurat foșierul hosts inițial.\nPoate fi necesară repornirea Android pentru ca modificările să aibă efect.\n\nContinuați cu repornirea?\n(Pentru a preveni pierderi de date asigurați-vă că nicio aplicație nu utilizează stocarea SD în prezent!)</string>
+    <string name="revert_successful_title">Restaurare reușită</string>
+    <string name="root_access_fail">Verifică te rog aplicația de rooting pentru asigurarea faptului că accesul este permis acestei aplicații.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Căutați"</string>
+    <string name="shortcut_dns_requests">Solicitări pe DNS</string>
+    <string name="shortcut_preferences">Preferințe</string>
+    <string name="shortcut_your_lists">Listele dvs.</string>
+    <string name="show_log_button">Afișează cererile domeniilor</string>
+    <string name="status_apply_sources">Aplicați ultimele actualizări ale surselor</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">Verificare pentru actualizări</string>
+    <string name="status_check_copy">Verificare copie fișier hosts</string>
+    <string name="status_check_source">Verificare sursă %s pentru actualizări</string>
+    <string name="status_copy_new_hosts">Copiere fișier hosts nou</string>
+    <string name="status_create_new_hosts">Creare fișier hosts nou</string>
+    <string name="status_disabled">Dezactivat</string>
+    <string name="status_disabled_subtitle">Fișier implicit de hosts instalat</string>
+    <string name="status_download_fail">Surse indisponibile</string>
+    <string name="status_download_fail_subtitle_new">N-au fost gasite surse pentru fisierele \"hosts\"</string>
+    <string name="status_download_source">Descărcare sursă %s</string>
+    <string name="status_enabled">Activat</string>
+    <string name="status_enabled_subtitle">Cele mai noi versiuni ale fisierelor \"host\" au fost activate</string>
+    <string name="status_failure">Ceva nu a funcționat corespunzător</string>
+    <string name="status_failure_subtitle">Analizați logcat pentru mai multe detalii</string>
+    <string name="status_hosts_updated">Fișierul hosts a fost actualizat cu succes</string>
+    <string name="status_no_connection">Nu există conexiune internet</string>
+    <string name="status_no_connection_subtitle">Nu este disponibilă o conexiune internet</string>
+    <string name="status_no_update_found">Nu au fost găsite actualizări pentru surse</string>
+    <string name="status_parse_source">Analizare sursă %s</string>
+    <string name="status_read_source">Se citește sursa %s</string>
+    <string name="status_retrieve">Regăsire surse</string>
+    <string name="status_revert">Restaurare valori implicite pentru fișierul hosts</string>
+    <string name="status_revert_done">Valorile implicite pentru fișierul hosts au fost restaurate</string>
+    <string name="status_reverting_subtitle">Sistemul creaza fisiere \"hosts\" standard.</string>
+    <string name="status_root_access_denied">Acces root refuzat</string>
+    <string name="status_root_access_denied_subtitle">Permiteți mai întâi accesul root din aplicația de rooting</string>
+    <string name="status_sync_database">Sincronizare bază de date cu reguli</string>
+    <string name="status_update_available">Sursă actualizată disponibilă</string>
+    <string name="status_update_available_subtitle">Noi fisiere \"host\" sunt disponibile</string>
+    <string name="status_vpn_configuration_updated">Configurația VPN a fost actualizată cu succes</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Susține proiectul</string>
+    <string name="support_sponsorship_button">Devino sponsor</string>
+    <string name="support_title">Suport</string>
+    <string name="tcpdump_description">Tcpdump este un utilitar care monitorizeaza si salveaza cererile DNS intr-un fisier dedicat (log). Pentru a-l folosi, lanseaza utilitarul in \"background\", lanseaza aplicatiile care contin reclame, dupa care poti analiza cererile DNS folosing fisierul generat.  </string>
+    <string name="tcpdump_disable_monitoring">Dezactivare monitorizare</string>
+    <string name="tcpdump_enable_monitoring">Activare monitorizare</string>
+    <string name="tcpdump_entry_add_blacklist">Adăugare intrare în lista neagră</string>
+    <string name="tcpdump_entry_add_redirection_list">Adăugare înregistrare pe lista de redirecționare</string>
+    <string name="tcpdump_entry_add_whitelist">Adăugare intrare în lista albă</string>
+    <string name="tcpdump_header">Dumping din TCP</string>
+    <string name="tcpdump_menu_clear">Șterge log-uri</string>
+    <string name="tcpdump_menu_sort">Sortare domenii</string>
+    <string name="tcpdump_show_results">Afișare rezultate</string>
+    <string name="text_help">AdAway este un software gratuit cu sursă deschisă proiectat pentru blocarea anunțurilor. Acesta preia adresele reclamelor pentru a le restricționa pe dispozitivul tău.\nVrei să aflii mai multe? Vezi secțiunea de ajutor de mai jos!</string>
+    <string name="text_update">Toate fișierele \"host\" din sursa definită vor fi descărcate, combinate cu lista personală și apoi instalate ca un fișier \"hosts\" unitar.  </string>
+    <string name="update_available">Actualizare disponibilă!</string>
+    <string name="update_button">Actualizează domeniile blocate</string>
+    <string name="update_last_changelog_title">Modificări recente:</string>
+    <string name="update_new_changelog_title">Modificări:</string>
+    <string name="update_notification_description">Se descarcă ultima versiune a AdAway…</string>
+    <string name="update_progress_label">%1$s / %2$s</string>
+    <string name="update_title">Actualizare AdAway</string>
+    <string name="update_up_to_date_header">Aveți ultimele actualizări</string>
+    <string name="update_update_available_header">Actualizare disponibilă</string>
+    <string name="update_update_button">Actualizează acum</string>
+    <string name="update_updating_header">AdAway se actualizează</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DEZACTIVAT"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVAT"</string>
+    <string name="vpn_notification_action_pause">Pauză</string>
+    <string name="vpn_notification_action_resume">Atingeți pentru continuare</string>
+    <string name="vpn_notification_paused">în pauză</string>
+    <string name="vpn_notification_reconnecting">reconectare</string>
+    <string name="vpn_notification_reconnecting_error">eroare la reconectare</string>
+    <string name="vpn_notification_running">activ</string>
+    <string name="vpn_notification_starting">se activează</string>
+    <string name="vpn_notification_stopped">oprit</string>
+    <string name="vpn_notification_stopping">se oprește</string>
+    <string name="vpn_notification_title">VPN %1$s cu blocare de anunțuri</string>
+    <string name="vpn_notification_waiting_for_net">se așteaptă rețeaua</string>
+    <string name="vpn_status_running">Rulează</string>
+    <string name="vpn_status_stopped">Oprit</string>
+    <string name="vpn_toggle_text">Pornire sau oprire VPN pentru filtrare cereri.</string>
+    <string name="webserver_status_running">Pornit</string>
+    <string name="webserver_status_stopped">Oprit</string>
+    <string name="webserver_toggle_text">Pornire sau oprire server web local pentru a răspunde cererilor pe domeniile restricționate.</string>
+    <string name="welcome_back_button">Înapoi</string>
+    <string name="welcome_finish_button">Finalizare</string>
+    <string name="welcome_first_step">Configurator - primul pas</string>
+    <string name="welcome_last_step">Configurator - utlimul pas</string>
+    <string name="welcome_method_con_logo">Contra</string>
+    <string name="welcome_method_header">Bun venit la AdAway!</string>
+    <string name="welcome_method_pro_logo">Pro</string>
+    <string name="welcome_method_summary">AdAway dispune de două metode pentru a bloca reclamele. Alege-o pe cea potrivită:</string>
+    <string name="welcome_next_button">Următorul</string>
+    <string name="welcome_root_method_logo">Logo rooting</string>
+    <string name="welcome_root_method_text1">Rapidă</string>
+    <string name="welcome_root_method_text2">Consum redus al bateriei</string>
+    <string name="welcome_root_method_text3">Acces root necesar</string>
+    <string name="welcome_root_method_title">Blocarea prin root\na reclamelor</string>
+    <string name="welcome_root_missile_description">Este posibil ca fișierul binar SU să nu fie găsit sau nu ai acordat permisiunea de acces root pentru AdAway.\n\nAcest lucru se poate întâmpla dacă dispozitivul tău nu este root-at. Poți afla mai multe informații despre cum să obții acces root pe dispozitivul tău pe wiki.lineageos.org sau alte site-uri despre Android.</string>
+    <string name="welcome_root_missing_title">Necesită acces root pe Android</string>
+    <string name="welcome_second_step">Configurator - Pasul 2</string>
+    <string name="welcome_support_button">Donează pe PayPal</string>
+    <string name="welcome_support_header">Susține-mă!</string>
+    <string name="welcome_support_logo">Suport</string>
+    <string name="welcome_support_summary">Este un program cu sursă deschisă. Îl programez în timpul meu liber.
+Dacă ți-a plăcut, îți poți arăta recunoștința astfel:</string>
+    <string name="welcome_support_telemetry_button">Activare serviciu de urmărire pentru trimiterea de rapoarte cu erori.</string>
+    <string name="welcome_support_telemetry_summary">Îți plac erorile? Nici mie.</string>
+    <string name="welcome_sync_done_logo">Sincronizare finalizată</string>
+    <string name="welcome_sync_error">Imposibil de sincronizat: %1$s Reîncercați acum?</string>
+    <string name="welcome_sync_error_logo">Eroare în timpul sincronizării</string>
+    <string name="welcome_sync_header">Sincronizare</string>
+    <string name="welcome_sync_retry_logo">Reîncearcă sincronizarea</string>
+    <string name="welcome_sync_summary">AdAway descarcă conținut online din serverele cu reclame pentru a le restricționa. Poți alege ulterior conținutul blocat din setări.</string>
+    <string name="welcome_synced_header">Sincronizat!</string>
+    <string name="welcome_title">Bun venit</string>
+    <string name="welcome_vpn_method_logo">Logo VPN</string>
+    <string name="welcome_vpn_method_text1">Lentă</string>
+    <string name="welcome_vpn_method_text2">Rulează în fundal</string>
+    <string name="welcome_vpn_method_text3">Compatibilitate</string>
+    <string name="welcome_vpn_method_title">Blocarea prin server VPN\na reclamelor</string>
+</resources>

@@ -1,0 +1,1282 @@
+[
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ur_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ur/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_sd_storage_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_sd_storage_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-en-rUS_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-en-rUS/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ar_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ar/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sk_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sk/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-vi_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-vi/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pl_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pl/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sr_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sr/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ur_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ur/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ku_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ku/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-el_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-el/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_home_content.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/home_content.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_hosts_sources_fragment.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/hosts_sources_fragment.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_welcome_method_layout.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/welcome_method_layout.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_reboot_dialog.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/reboot_dialog.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_lists_redirected_dialog.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/lists_redirected_dialog.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ms_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ms/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pt-rBR_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pt-rBR/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_settings_backup_restore_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_settings_backup_restore_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-da_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-da/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-bg_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-bg/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_shortcuts.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hi_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hi/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-vi_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-vi/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-af_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-af/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ro_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ro/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_log_menu.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/log_menu.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hi_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hi/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pa_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pa/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xxxhdpi/icon_round.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sq_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sq/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-nl_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-nl/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-et_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-et/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-mdpi_icon.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-hdpi_icon.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-es_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-es/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ku_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ku/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-es_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-es/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-zh-rTW_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-zh-rTW/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-tl_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-tl/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sr_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sr/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-nb-rNO_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-nb-rNO/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_check_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_check_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ja_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ja/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sv_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sv/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-be_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-be/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sv_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sv/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fi_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fi/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_lists_fragment.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/lists_fragment.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_lists_allowed_dialog.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/lists_allowed_dialog.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/animator_fragment_open_enter.xml.flat",
+        "source": "org.adaway.app-main-48:/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-uz_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-uz/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_lists_blocked_dialog.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/lists_blocked_dialog.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_lists_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/lists_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-si_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-si/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_adaptive_logo_outline.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/adaptive_logo_outline.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-km_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-km/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-tr_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-tr/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/animator_fragment_open_exit.xml.flat",
+        "source": "org.adaway.app-main-48:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ru_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ru/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xxhdpi_icon_round.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xxhdpi/icon_round.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xxxhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-no_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-no/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_preferences_vpn.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/preferences_vpn.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_dot.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/dot.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_menu_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_menu_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ps_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ps/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fil_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fil/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-zh_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-zh/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_preferences_backup_restore.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/preferences_backup_restore.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fil_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fil/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ur_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ur/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-nb-rNO_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-nb-rNO/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-anydpi_shortcut_your_lists.xml.flat",
+        "source": "org.adaway.app-main-48:/mipmap-anydpi/shortcut_your_lists.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ta_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ta/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_outline_cloud_upload_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/outline_cloud_upload_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-bn_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-bn/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_error_outline_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_error_outline_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-tr_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-tr/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-be_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-be/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-tl_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-tl/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xxhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ar_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ar/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xxxhdpi_icon.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pt_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pt/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_paypal.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/paypal.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sl_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sl/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ast_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ast/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hi_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hi/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_notifications_off_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/notifications_off_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fi_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fi/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ca_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ca/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ne_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ne/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_cloud_off_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_cloud_off_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_sync_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_sync_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_playlist_add_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_playlist_add_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-zh_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-zh/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ru_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ru/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xxhdpi_icon.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-az_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-az/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-it_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-it/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-et_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-et/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_add_black_24px.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_add_black_24px.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-bg_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-bg/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ms_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ms/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-anydpi_icon.xml.flat",
+        "source": "org.adaway.app-main-48:/mipmap-anydpi/icon.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_add_circle_outline_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_add_circle_outline_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_sort_by_alpha_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_sort_by_alpha_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_pause_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_pause_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_help_fragment.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/help_fragment.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sv_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sv/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_vpn_key_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_vpn_key_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ms_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ms/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_outline_create_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/outline_create_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-km_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-km/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sl_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sl/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_log_redirect_dialog.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/log_redirect_dialog.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ko_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ko/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ko_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ko/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_compare_arrows_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_compare_arrows_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_hosts_sources_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/hosts_sources_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-uz_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-uz/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-anydpi_shortcut_preferences.xml.flat",
+        "source": "org.adaway.app-main-48:/mipmap-anydpi/shortcut_preferences.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-is_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-is/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-th_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-th/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ml_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ml/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_pref_edittext_dialog.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/pref_edittext_dialog.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xhdpi_icon.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_hosts_content_fragment.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/hosts_content_fragment.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_help_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/help_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ko_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ko/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pt_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pt/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_help_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_help_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xhdpi/icon_foreground.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-tl_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-tl/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_next_actions.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/next_actions.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_hosts_lists_fragment.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/hosts_lists_fragment.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_dot_outline.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/dot_outline.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_list_menu.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/list_menu.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-be_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-be/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-zh-rTW_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-zh-rTW/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_welcome_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/welcome_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-my_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-my/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_ipv6_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_ipv6_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-bg_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-bg/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-af_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-af/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_preferences_update.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/preferences_update.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_github_32dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_github_32dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ku_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ku/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ps_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ps/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-gl_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-gl/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-cs_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-cs/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-eu_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-eu/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ast_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ast/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-in_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-in/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_support_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/support_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_log_entry.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/log_entry.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-is_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-is/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_source_edit_menu.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/source_edit_menu.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fa_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fa/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-el_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-el/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-en-rUS_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-en-rUS/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_list_two_entries.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/list_two_entries.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-de_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-de/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_block_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_block_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-si_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-si/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ro_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ro/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-uk_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-uk/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pl_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pl/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_home_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/home_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_prefs_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/prefs_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fi_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fi/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-iw_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-iw/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_settings_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_settings_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-lt_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-lt/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hu_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hu/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_outline_delete_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/outline_delete_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-hdpi_icon_foreground.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-hdpi/icon_foreground.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_source_edit_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/source_edit_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ps_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ps/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_hosts_sources_card.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/hosts_sources_card.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_home_drawer.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/home_drawer.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_log_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/log_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pl_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pl/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-cs_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-cs/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-tr_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-tr/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_network_security_config.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ta_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ta/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sq_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sq/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-de_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-de/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fa_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fa/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pt-rBR_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pt-rBR/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-az_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-az/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-eo_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-eo/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-eu_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-eu/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pa_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pa/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sr_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sr/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_checkbox_list_context.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/checkbox_list_context.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/animator_fragment_close_exit.xml.flat",
+        "source": "org.adaway.app-main-48:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-uz_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-uz/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_preferences_main.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/preferences_main.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_welcome_support_layout.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/welcome_support_layout.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-xhdpi_icon_round.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-xhdpi/icon_round.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-zh_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-zh/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_vpn_excluded_app_activity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/vpn_excluded_app_activity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-km_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-km/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-anydpi_shortcut_dns_requests.xml.flat",
+        "source": "org.adaway.app-main-48:/mipmap-anydpi/shortcut_dns_requests.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-lt_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-lt/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-en-rUS_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-en-rUS/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ar_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ar/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pt_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pt/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_settings_red.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_settings_red.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fa_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fa/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ca_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ca/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fil_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fil/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-iw_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-iw/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ne_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ne/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_update_actity.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/update_actity.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-es-rMX_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-es-rMX/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-eu_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-eu/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_superuser_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_superuser_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-az_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-az/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-da_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-da/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-af_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-af/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-iw_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-iw/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_vpn_excluded_app_entry.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/vpn_excluded_app_entry.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-cs_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-cs/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_checkbox_list_two_entries.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/checkbox_list_two_entries.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_preferences_root.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/preferences_root.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_shadow.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/shadow.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ml_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ml/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-in_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-in/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_favorite_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_favorite_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-es_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-es/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/animator_fragment_close_enter.xml.flat",
+        "source": "org.adaway.app-main-48:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-th_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-th/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-da_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-da/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ast_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ast/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_github_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_github_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_save_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_save_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_get_app_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_get_app_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ro_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ro/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-et_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-et/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fr_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fr/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ja_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ja/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hu_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hu/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_search_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-de_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-de/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sk_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sk/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ru_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ru/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ta_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ta/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_logo.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/logo.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hu_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hu/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ca_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ca/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-es-rMX_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-es-rMX/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-is_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-is/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-lt_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-lt/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pt-rBR_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pt-rBR/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-eo_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-eo/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_hosts_sources_dialog.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/hosts_sources_dialog.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ml_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ml/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_language_red.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_language_red.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-vi_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-vi/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-in_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-in/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-bn_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-bn/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-nb-rNO_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-nb-rNO/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-no_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-no/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ja_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ja/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_list_red.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_list_red.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fr_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fr/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_brightness_medium_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_brightness_medium_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sl_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sl/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-nl_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-nl/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-th_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-th/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-anydpi_icon_round.xml.flat",
+        "source": "org.adaway.app-main-48:/mipmap-anydpi/icon_round.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_record_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_record_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-mdpi_icon_foreground.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-mdpi/icon_foreground.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-my_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-my/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sq_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sq/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_edit_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_edit_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-uk_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-uk/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-my_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-my/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-no_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-no/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-zh-rTW_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-zh-rTW/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-es-rMX_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-es-rMX/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-fr_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-fr/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_vpn_excluded_app_menu.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/vpn_excluded_app_menu.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-ne_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-ne/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-bn_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-bn/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_welcome_sync_layout.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/welcome_sync_layout.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-it_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-it/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_adware_fragment.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/adware_fragment.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_collections_bookmark_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_collections_bookmark_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hr_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hr/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_baseline_clear_all_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/baseline_clear_all_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hr_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hr/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-eo_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-eo/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-hdpi_icon_round.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-hdpi/icon_round.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-hr_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-hr/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-el_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-el/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_language_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_language_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/mipmap-mdpi_icon_round.png.flat",
+        "source": "org.adaway.app-main-48:/mipmap-mdpi/icon_round.png"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_checkbox_list_entry.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/checkbox_list_entry.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-pa_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-pa/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-si_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-si/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-it_help_s_on_s_off.html.flat",
+        "source": "org.adaway.app-main-48:/raw-it/help_s_on_s_off.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-uk_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-uk/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/menu_lists_navigation.xml.flat",
+        "source": "org.adaway.app-main-48:/menu/lists_navigation.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-sk_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-sk/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_outline_rule_24.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_outline_rule_24.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_remove_circle_outline_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_remove_circle_outline_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-nl_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-nl/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-gl_help_faq.html.flat",
+        "source": "org.adaway.app-main-48:/raw-gl/help_faq.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/drawable_ic_bug_report_24dp.xml.flat",
+        "source": "org.adaway.app-main-48:/drawable/ic_bug_report_24dp.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/raw-gl_help_problems.html.flat",
+        "source": "org.adaway.app-main-48:/raw-gl/help_problems.html"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/xml_list_searchable.xml.flat",
+        "source": "org.adaway.app-main-48:/xml/list_searchable.xml"
+    },
+    {
+        "merged": "org.adaway.app-merged_res-46:/layout_drawer_list_item.xml.flat",
+        "source": "org.adaway.app-main-48:/layout/drawer_list_item.xml"
+    }
+]

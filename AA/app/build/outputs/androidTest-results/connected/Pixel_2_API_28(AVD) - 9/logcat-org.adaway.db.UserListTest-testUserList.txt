@@ -1,0 +1,2 @@
+04-04 16:10:44.947  7667  7697 I TestRunner: started: testUserList(org.adaway.db.UserListTest)
+04-04 16:10:45.004  7667  7697 I TestRunner: finished: testUserList(org.adaway.db.UserListTest)

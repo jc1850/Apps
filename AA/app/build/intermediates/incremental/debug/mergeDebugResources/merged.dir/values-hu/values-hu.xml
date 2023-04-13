@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>Kezdőlap</item>
+        <item>Hosts források</item>
+        <item>Saját listák</item>
+        <item>Hosts fájl megnyitása</item>
+        <item>A DNS kérések naplózása</item>
+        <item>Adware keresése</item>
+        <item>Beállítások</item>
+        <item>Súgó</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>Egyéni cél</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>Világos</item>
+        <item>Sötét</item>
+        <item>Rendszer alapértelmezett</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="one">%d nap</item>
+        <item quantity="other">%d nap</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="one">%d óra</item>
+        <item quantity="other">%d óra</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="one">%d perc</item>
+        <item quantity="other">%d perc</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="one">%d hónap</item>
+        <item quantity="other">%d hónap</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d új értesítés</item>
+    <item quantity="other">%d új értesítés</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="one">%d outdated source</item>
+        <item quantity="other">%d elavult forrás</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="one">%d up-to-date source</item>
+        <item quantity="other">%d naprakész forrás</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Fel"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Az összes megtekintése"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Válasszon alkalmazást"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BE"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="adblock_pause_button_description">Reklámblokkolás szünet/folytat</string>
+    <string name="adware_description">Itt megtalálhatja a telepített adware-eket, a rossz alkalmazásokat, amelyeket az AdAway nem blokkolhat. Ezek az alkalmazások például Airpush értesítéseket használnak, amelyek akkor is megjelennek, ha az alkalmazás nem fut, vagy akár csengőhangot is megváltoztathatnak. Az egyetlen használható megoldás az, hogy ezeket az alkalmazásokat a listaelemekre kattintva eltávolítja.</string>
+    <string name="adware_empty">Nem található adware!</string>
+    <string name="adware_header">Adware</string>
+    <string name="adware_scanning">Keresés…</string>
+    <string name="allowed_hosts_label">Megengedve</string>
+    <string name="app_description">Nyílt forráskódú hirdetésblokkoló</string>
+    <string name="app_logo">AdAway logo</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">Hirdetésblokkoló</string>
+    <string name="apply_apn_proxy">Egy APN proxy van beállítva az készülékén!\nAz AdAway nem fog megbízhatóan működni az olyan mobilhálózatokon, mint pl. a 3G. Ezt a proxy-t deaktiválhatod, ha a kiválasztott APN-hez lépsz (A Beállításokban: Hálózat &amp; Internet -> Mobil hálózat -> Haladó -> Hozzáférési pontok nevei) ás távolítsd el az értéket a proxy mezőből.</string>
+    <string name="apply_apn_proxy_title">APN proxy beállítva!</string>
+    <string name="apply_copy_fail">Nem sikerült a hosts fájl másolása!</string>
+    <string name="apply_copy_fail_status">A hosts fájl másolása nem sikerült</string>
+    <string name="apply_copy_fail_title">Sikertelen másolás</string>
+    <string name="apply_dialog">Alkalmazás…</string>
+    <string name="apply_dialog_apply">Hosts fájl alkalmazása</string>
+    <string name="apply_dialog_hostnames">Hosts fájlok feldolgozása és összefésülése</string>
+    <string name="apply_dialog_hosts">Hosts fájl felépítése</string>
+    <string name="apply_dialog_lists">Fekete- és fehérlista alkalmazása</string>
+    <string name="apply_fail">Nem sikerült a hosts fájl alkalmazása rendszeren!\nPróbálja meg /data/data/hosts-ra módosítani a cél hosts fájlt a beállításokban.</string>
+    <string name="apply_fail_status">Az új hosts fájl alkalmazása nem sikerült</string>
+    <string name="apply_fail_title">Az alkalmazás nem sikerült</string>
+    <string name="apply_help">Kérlek olvassa el a Súgót további információkért!</string>
+    <string name="apply_not_enough_space">Nincs elég hely a partíción!\nPróbáld meg módosítani a cél hosts fájlt /data/data/hosts -ra a beállításokban !</string>
+    <string name="apply_not_enough_space_title">Nincs elég hely</string>
+    <string name="apply_private_file_fail">A letöltött fájlt nem lehet beolvasni.</string>
+    <string name="apply_private_file_fail_title">Privát fájl hiba</string>
+    <string name="apply_remount_fail">Nem sikerült a partíciót írhatóként újracsatolni!</string>
+    <string name="apply_remount_fail_title">Sikertelen újracsatolás</string>
+    <string name="apply_success_dialog">Sikeresen alkalmazva.\nElőfordulhat, hogy a módosítások érvényesítéséhez újra kell indítani az Androidot.\n\nSzeretnéd most újraindítani?\n(Az adatvesztés elkerülése érdekében győződj meg róla, hogy egyetlen alkalmazás sem használja az SD kártyát!)</string>
+    <string name="apply_success_subtitle">A hosts források beállítása sikerült</string>
+    <string name="apply_success_title">Sikeresen alkalmazva</string>
+    <string name="apply_symlink_fail">Nem tudta létrehozni a symlink-et az Android.\nEz elsősorban a HTC telefonok S-ON \"funkciójának\" köszönhető.\n\nA megoldás az, hogy telefonját recovery módba kapcsolja és létrehozza ott a symlink-et \'ln -s /data/data/hosts /system/etc/hosts\' paranccsal.\n\nHa ez sem működik keressen rá az interneten, arra a szövegre, hogy \"S-OFF + a telefonja\".</string>
+    <string name="apply_symlink_fail_title">Szimbolikus link létrehozása sikertelen</string>
+    <string name="apply_symlink_missing">A /system/etc/hosts fájlra mutató szimbolikus link nem létezik vagy hibás! Az AdAway nem fog működni, amíg ez nem mutat a megfelelő fájlra.
+
+Szeretnéd megpróbálni létrehozni a szimbolikus linket?</string>
+    <string name="apply_symlink_missing_status">Hiányzik a hosts fájl symlink</string>
+    <string name="apply_symlink_missing_title">Hiányzó symlink</string>
+    <string name="apply_symlink_successful">A symlink sikeresen létrehozva.\nElőfordulhat, hogy a módosítások érvényesítéséhez újra kell indítani az Androidot.\n\nSzeretnéd most újraindítani?\n(Az adatvesztés elkerülése érdekében győződj meg róla, hogy egyetlen alkalmazás sem használja az SD kártyát!)</string>
+    <string name="apply_symlink_successful_title">A symlink létrehozása sikeres</string>
+    <string name="blocked_hosts_label">Blokkolt</string>
+    <string name="bottomsheet_action_expand_halfway">Kibontás félig</string>
+    <string name="button_add">Hozzáadás</string>
+    <string name="button_cancel">Mégse</string>
+    <string name="button_close">Bezárás</string>
+    <string name="button_disable_hosts">Hirdetésblokkolás letiltása</string>
+    <string name="button_disable_vpn">VPN Kikapcsolása</string>
+    <string name="button_disable_webserver">Webszerver letiltása</string>
+    <string name="button_enable_hosts">Hirdetésblokkolás engedélyezése</string>
+    <string name="button_enable_vpn">VPN Bekapcsolása</string>
+    <string name="button_enable_webserver">Webszerver engedélyezése</string>
+    <string name="button_exit">Kilépés</string>
+    <string name="button_help">Súgó</string>
+    <string name="button_no">Nem</string>
+    <string name="button_save">Mentés</string>
+    <string name="button_show_help">További információ megjelenítése</string>
+    <string name="button_yes">Igen</string>
+    <string name="character_counter_content_description">Begépelt karakterszám: %2$d/%1$d</string>
+    <string name="character_counter_overflowed_content_description">Maximális karakterszám túllépve: %2$d/%1$d</string>
+    <string name="check_hosts_update_description">Hosts frissítések ellenőrzése</string>
+    <string name="checkbox_list_context_apply">Alkalmaz</string>
+    <string name="checkbox_list_context_delete">Törlés</string>
+    <string name="checkbox_list_context_edit">Szerkesztés</string>
+    <string name="checkbox_list_context_title">Bejegyzés szerkesztése</string>
+    <string name="clear_text_end_icon_content_description">Szöveg törlése</string>
+    <string name="clipboard_host_copied">Host a vágólapra másolva</string>
+    <string msgid="6083905920877235314" name="copy">"Másolás"</string>
+    <string name="disable_systemless_magisk">Systemless hosts funkció kikapcsolása a Magisk managerben. A modul listából távolítssa el a <cite>Systemless hosts</cite> modult majd indítsa újra az eszközt.</string>
+    <string name="disable_systemless_magisk_title">Magisk hosts modul letiltása</string>
+    <string name="disable_systemless_successful">Kikapcsolta a systemless módot.\nElőfordulhat, hogy a módosítások érvényesítéséhez újra kell indítani az Androidot.\n\nSzeretné most újraindítani?\n(Az adatvesztés elkerülése érdekében győződj meg róla, hogy egyetlen alkalmazás sem használja az SD kártyát!)</string>
+    <string name="disable_systemless_successful_title">Sikerült a letiltás</string>
+    <string name="disable_vpn_fail">Nem sikerült letiltani a VPN reklámblokkolást.</string>
+    <string name="download_dialog">Letöltés…</string>
+    <string name="download_fail_dialog">Egyik engedélyezett hosts fájl sem érhető el! Megfelelő az internetkapcsolat?</string>
+    <string name="download_fail_title">Sikertelen letöltés</string>
+    <string name="drawer_close">Menü bezárása</string>
+    <string name="drawer_open">Menü megnyitása</string>
+    <string name="enable_systemless_magisk">Systemless hosts funkció bekapcsolása a Magisk managerben. A beállításokban kapcsolja be a <cite>Systemless hosts</cite> lehetőséget, majd indítsa újra a készüléket.</string>
+    <string name="enable_systemless_magisk_title">Magisk hosts modul engedélyezése</string>
+    <string name="enable_systemless_successful">Engedélyezte a systemless módot.\nElőfordulhat, hogy a módosítások érvényesítéséhez újra kell indítani az Androidot.\n\nSzeretné most újraindítani?\n(Az adatvesztés elkerülése érdekében győződj meg róla, hogy egyetlen alkalmazás sem használja az SD kártyát!)</string>
+    <string name="enable_systemless_successful_title">Engedélyezés sikeres</string>
+    <string name="enable_vpn_fail">Nem sikerült a VPN reklámblokkolás engedélyezése.</string>
+    <string name="error_copy_failed_details">A hosts fájl nem másolható a /system partícióra. Ellenőrizd, hogy a Magisk systemless modul engedélyezve van-e, majd indítsd újra.</string>
+    <string name="error_copy_failed_message">Nem sikerült az új hosts fájl telepítése</string>
+    <string name="error_dialog_help">Kérlek olvassa el a Súgót további információkért!</string>
+    <string name="error_disable_vpn_failed_details">Ellenőrizd a VPN beállításokat a manuális letiltáshoz.</string>
+    <string name="error_disable_vpn_failed_message">Nem sikerült letiltani a VPN reklámblokkolást.</string>
+    <string name="error_download_failed_details">Egyik engedélyezett hosts forrás sem érhető el. Ellenőrizze, megfelelően csatlakozik-e az internethez.</string>
+    <string name="error_download_failed_message">Nem sikerült letölteni a host forrást</string>
+    <string name="error_enable_vpn_failed_details">Jelöld be a VPN beállításoknál, hogy engedélyezze az app VPN indítását.</string>
+    <string name="error_enable_vpn_failed_message">Nem sikerült engedélyezni a VPN reklámblokkolást.</string>
+    <string name="error_icon_content_description">Hiba</string>
+    <string name="error_no_connection_details">Nem sikerült kapcsolatot létesíteni az internettel. Ellenőrizze az eszköz csatlakozását.</string>
+    <string name="error_no_connection_message">Nincs internetkapcsolat</string>
+    <string name="error_not_enough_space_details">Nem lehet a hosts fájlt a rendszerpartícióra másolni. Ellenőrizze, hogy a Magisk systemless modul engedélyezve van-e, majd indítsa újra.</string>
+    <string name="error_not_enough_space_message">Nincs elég hely</string>
+    <string name="error_private_file_failed_details">Nem lehet privát fájlt létrehozni új hosts forrás létrehozásához. Ellenőrizze a készüléken a szabad tárhelyet.</string>
+    <string name="error_private_file_failed_message">Nem sikerült létrehozni a privát fájlt</string>
+    <string name="error_revert_failed_details">Nem sikerült visszaállítani az alapért. hosts fájl konfigurációt.</string>
+    <string name="error_revert_failed_message">A hosts fájl visszaállítása nem sikerült</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Speciális"</string>
+    <string name="export_dialog">Exportálás…</string>
+    <string name="export_failed">Sikertelen a bizt.mentés exportja \'%s\' fájlba.</string>
+    <string name="export_success">A bizt.mentés sikeresen exportálva \'%s\' néven a külső tárhelyre.</string>
+    <string name="exposed_dropdown_menu_content_description">Legördülő menü megjelenítése</string>
+    <string name="github_project_drawer_item">GitHub projekt</string>
+    <string name="header_help">Üdv!</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">Webszerver</string>
+    <string name="help_label">Mutassa a súgó\nand tippeket</string>
+    <string name="help_tab_faq">GYIK</string>
+    <string name="help_tab_problems">Problémák</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">AdAway official hosts</string>
+    <string name="hosts_add_dialog">Adja meg a host fájl URL címét:</string>
+    <string name="hosts_add_dialog_title">Forrás hozzáadása</string>
+    <string name="hosts_content">Hosts fájl tartalmának betöltése…</string>
+    <string name="hosts_count">%shoszt</string>
+    <string name="hosts_description">A hosts fájl egy olyan rendszerfájl, amely a hosztneveket IP címekhez társítja. Ez egy egyszerű szöveges fájl, melyet az AdAway kezeli. Íme a néhány első sora:</string>
+    <string name="hosts_dialog_url">URL: (https:// vagy file:// erőforrás)</string>
+    <string name="hosts_dialog_url_hint">Hosts fájl forrása (URL)</string>
+    <string name="hosts_edit_dialog_title">Forrás szerkesztése</string>
+    <string name="hosts_header">A hosts fájl</string>
+    <string name="hosts_not_available">nem érhető el</string>
+    <string name="hosts_open_button">Hosts fájl megnyitása</string>
+    <string name="hosts_peterlowe_source">Pete Lowe blocklist hosts</string>
+    <string name="hosts_source_disabled">Letiltva</string>
+    <string name="hosts_source_few_minutes">néhány perce</string>
+    <string name="hosts_source_installed">Telepítve %1$sezelőtt</string>
+    <string name="hosts_source_last_update">Utolsó frissítés %1$s ezelőtt</string>
+    <string name="hosts_source_need_update">%1$sfrissítése szükséges</string>
+    <string name="hosts_source_unknown_status">Ismeretlen frissítési státusz</string>
+    <string name="hosts_source_up_to_date">Friss (frissítve %1$s ezelőtt)</string>
+    <string name="hosts_stevenblack_source">StevenBlack Unified hosts</string>
+    <string name="hosts_title">Hosts források</string>
+    <string name="hosts_user_source">Felhasználói lista</string>
+    <string name="icon_content_description">Párbeszédpanel ikonja</string>
+    <string name="icon_update_status">Státusz frissítése</string>
+    <string name="import_dialog">Importálás…</string>
+    <string name="import_failed">A biztonsági másolat importálás nem sikerült. Megfelelő a formátuma? További részletekért ellenőrizd a logcat-et.</string>
+    <string name="import_success">A biztonsági mentés importja a külső tárolóból sikeres.</string>
+    <string name="item_view_role_description">Lap</string>
+    <string name="list_add_dialog_black">Hoszt hozzáadása a feketelistához</string>
+    <string name="list_add_dialog_redirect">Hoszt átirányítás hozzáadása</string>
+    <string name="list_add_dialog_white">Hoszt hozzáadása a fehérlistához</string>
+    <string name="list_dialog_hostname">Hosztnév:</string>
+    <string name="list_dialog_hostname_hint">Hosts fájl forrása (URL)</string>
+    <string name="list_dialog_ip">IP (IPv4 vagy IPv6):</string>
+    <string name="list_dialog_wildcard">(Helyettesítő karakterek * és ? használata is engedélyezett!)</string>
+    <string name="list_edit_dialog_black">Feketelistás hostok szerkesztése</string>
+    <string name="list_edit_dialog_redirect">Átirányítás szerkesztése</string>
+    <string name="list_edit_dialog_white">Fehérlista szerkesztése</string>
+    <string name="lists_add">Host hozzáadása</string>
+    <string name="lists_menu_filter">Hosztok szűrése</string>
+    <string name="lists_menu_filter_hint">Hosztnevek keresése</string>
+    <string name="lists_menu_toggle_sources">Források váltása</string>
+    <string name="lists_tab_allowed">Megengedett</string>
+    <string name="lists_tab_blocked">Blokkolt</string>
+    <string name="lists_tab_redirected">Átirányítva</string>
+    <string name="lists_title">Saját listák</string>
+    <string name="loading">Betöltés…</string>
+    <string name="log_label">Mutassa a DNS kérések naplót</string>
+    <string name="log_redirect_dialog_title">Domain átirányítása</string>
+    <string name="log_sort_alphabetical">Rendezés ABC sorrendben</string>
+    <string name="log_sort_top_level_domain">Rendezés TLD szerint</string>
+    <string name="material_clock_toggle_content_description">Válassza ki, hogy délelőtt vagy délután</string>
+    <string name="material_hour_selection">Óra kiválasztása</string>
+    <string name="material_hour_suffix">%1$s óra</string>
+    <string name="material_minute_selection">Perc kiválasztása</string>
+    <string name="material_minute_suffix">%1$s perc</string>
+    <string name="material_timepicker_am">de.</string>
+    <string name="material_timepicker_clock_mode_description">Időbevitelhez váltson óramódba.</string>
+    <string name="material_timepicker_hour">Óra</string>
+    <string name="material_timepicker_minute">Perc</string>
+    <string name="material_timepicker_pm">du.</string>
+    <string name="material_timepicker_select_time">Időpont kiválasztása</string>
+    <string name="material_timepicker_text_input_mode_description">Időbevitelhez váltson szövegbeviteli módba.</string>
+    <string name="menu_add">Hozzáadás</string>
+    <string name="menu_export">Bizt.mentés export</string>
+    <string name="menu_help">Súgó</string>
+    <string name="menu_import">Bizt.mentés import</string>
+    <string name="menu_refresh">Frissítés</string>
+    <string name="mtrl_badge_numberless_content_description">Új értesítés</string>
+    <string name="mtrl_chip_close_icon_content_description">Eltávolítás (%1$s)</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Több mint %1$d új értesítés</string>
+    <string name="mtrl_picker_a11y_next_month">Váltás a következő hónapra</string>
+    <string name="mtrl_picker_a11y_prev_month">Váltás az előző hónapra</string>
+    <string name="mtrl_picker_announce_current_selection">Jelenleg kiválasztva: %1$s</string>
+    <string name="mtrl_picker_cancel">Mégse</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Válasszon dátumot</string>
+    <string name="mtrl_picker_date_header_unselected">Kiválasztott dátum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Napok oszlopa: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Érvénytelen formátum.</string>
+    <string name="mtrl_picker_invalid_format_example">Példa: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Használja ezt: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Érvénytelen tartomány.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ugrás ehhez az évhez: %1$s</string>
+    <string name="mtrl_picker_out_of_range">Tartományon kívül: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Kezdés dátuma – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Befejezés dátuma</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Válasszon dátumtartományt</string>
+    <string name="mtrl_picker_range_header_unselected">Kezdés dátuma – Befejezés dátuma</string>
+    <string name="mtrl_picker_save">Mentés</string>
+    <string name="mtrl_picker_text_input_date_hint">Dátum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Befejezés dátuma</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Kezdés dátuma</string>
+    <string name="mtrl_picker_text_input_day_abbr">N</string>
+    <string name="mtrl_picker_text_input_month_abbr">H</string>
+    <string name="mtrl_picker_text_input_year_abbr">É</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Váltás naptárbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Koppintson a nap kiválasztásához</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Váltás szövegbeviteli módra</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Koppintson az év kiválasztásához</string>
+    <string name="mtrl_timepicker_cancel">Mégse</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="no_connection">Az internetkapcsolat nem működik.</string>
+    <string name="no_connection_title">Nincs kapcsolat</string>
+    <string name="no_file_manager">Nincs olyan fájlkezelő telepítve, amely megnyithatná a fájlt. A fájl kezeléséhez telepítheti az OI File Manager-t, vagy bármilyen más fájlkezelőt. Szeretné telepíteni az OI File Manager-t?</string>
+    <string name="no_file_manager_title">Nincs telepítve fájlkezelő</string>
+    <string name="no_hostname">Ez nem egy érvényes hosztnév!</string>
+    <string name="no_hostname_title">Helytelenül formázott hosztnév</string>
+    <string name="no_ip">Ez nem érvényes IP!</string>
+    <string name="no_ip_title">Helytelenül formázott IP cím</string>
+    <string name="no_private_file">Privát fájl nem hozható létre.</string>
+    <string name="no_private_file_status">A privát hosts fájl írása nem sikerült</string>
+    <string name="no_private_file_title">Privát fájl létrehozása sikertelen.</string>
+    <string name="no_text_editor">Nem találni olyan szövegszerkesztőt, amely megnyitná a hosts fájlt. A fájl kezeléséhez feltelepítheti a Jota-t vagy más szövegszerkesztőt. Szeretné telepíteni a Jota-t?</string>
+    <string name="no_text_editor_title">Nincs telepítve szövegszerkesztő</string>
+    <string msgid="6573031135582639649" name="not_set">"Nincs beállítva"</string>
+    <string name="notification_configuration_changed">A konfiguráció megváltozott. Alkalmaznod kell.</string>
+    <string name="notification_configuration_changed_action">Alkalmaz</string>
+    <string name="notification_configuration_failed">Nem sikerült alkalmazni az új konfigurációt.</string>
+    <string name="notification_configuration_installing">Új konfiguráció alkalmazása…</string>
+    <string name="notification_update_app_available_text">Az AdAway új verziója letölthető.</string>
+    <string name="notification_update_app_available_title">Alkalmazás frissítés elérhető</string>
+    <string name="notification_update_channel_description">Új frissítés értesítések</string>
+    <string name="notification_update_channel_name">Frissítések</string>
+    <string name="notification_update_host_available_text">Újabb hosts fájl elérhető.</string>
+    <string name="notification_update_host_available_title">Frissítés érhető el</string>
+    <string name="notification_vpn_channel_description">VPN futása értesítések</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="open_drawer_button_description">Navigációs fiók megnyitása</string>
+    <string name="password_toggle_content_description">Jelszó megjelenítése</string>
+    <string name="permission_group_api_description">Engedélyezd az AdAway-interakciót</string>
+    <string name="permission_group_api_label">AdAway engedélyek</string>
+    <string name="permission_send_command_description">Parancsküldés engedélyezése az AdAway számára, pl. a rendszerszintű hirdetésblokkolás engedélyezése vagy letiltása</string>
+    <string name="permission_send_command_label">Parancsok küldése az AdAway-nek</string>
+    <string name="pref_ad_block_category">Hirdetésblokkolás</string>
+    <string name="pref_apply_method">Cél hosts fájl</string>
+    <string name="pref_apply_method_summary">Ezen beállítás módosítása előtt olvassa el a Súgó vonatkozó fejezetét!</string>
+    <string name="pref_backup">Biztonsági mentés</string>
+    <string name="pref_backup_restore">Blokkszabályok mentése / visszaállítása</string>
+    <string name="pref_backup_restore_title">Mentés &amp; visszaállítás</string>
+    <string name="pref_backup_summary">Blokkszabályok biztonsági mentése külső tárhelyre</string>
+    <string name="pref_custom_target">Egyéni cél</string>
+    <string name="pref_dark_theme">Sötét téma</string>
+    <string name="pref_debug_category">Hibakeresés</string>
+    <string name="pref_edit_text_value">Szöveges beállítási érték szerkesztése</string>
+    <string name="pref_enable_debug">Részletes naplózás bekapcsolása</string>
+    <string name="pref_enable_debug_summary">Újra kell indítani az AdAway-t a beállítás életbe léptetéséhez.</string>
+    <string name="pref_enable_ipv6">IPv6 engedélyezése</string>
+    <string name="pref_enable_telemetry">Összeomlási jelentések BE</string>
+    <string name="pref_enable_telemetry_disabled_summary">Nem támogatott ezen a verzión</string>
+    <string name="pref_enable_telemetry_summary">Az alkalmazás hibaüzenet- és összeomlási jelentést küld a Sentry-nek (sentry.io).</string>
+    <string name="pref_general_category">Általános</string>
+    <string name="pref_hosts_installation">Hosts telepítése</string>
+    <string name="pref_hosts_redirection">Átirányítás</string>
+    <string name="pref_hosts_redirection_summary">Adja meg hova irányítsa a letiltott hosztokat</string>
+    <string name="pref_main_title">Beállítások</string>
+    <string name="pref_never_reboot">Újraindítási ablak elrejtése</string>
+    <string name="pref_redirection_invalid">Érvénytelen átirányítás</string>
+    <string name="pref_redirection_ipv4">IPv4 átirányítás</string>
+    <string name="pref_redirection_ipv6">IPv6 átirányítás</string>
+    <string name="pref_restore">Visszaállítás</string>
+    <string name="pref_restore_summary">Blokkszabályok visszaállítása a biztonsági mentés fájlból</string>
+    <string name="pref_root_ad_blocker_configuration">Root alapú hirdetésblokkolás</string>
+    <string name="pref_root_open_hosts">Hosts fájl megnyitása</string>
+    <string name="pref_root_title">Root alapú hirdetésblokkolás</string>
+    <string name="pref_update_app_category">Alkalmazás frissítések</string>
+    <string name="pref_update_check">Indításkor a frissítések ellenőrizése</string>
+    <string name="pref_update_check_app_daily">Frissítések keresése naponta</string>
+    <string name="pref_update_check_app_startup">Indításkor a frissítések ellenőrizése</string>
+    <string name="pref_update_check_hosts_daily">Frissítések keresése naponta</string>
+    <string name="pref_update_configuration">Automatikus frissítések</string>
+    <string name="pref_update_hosts_category">Hosts frissítések</string>
+    <string name="pref_update_include_beta_releases">Tartalmazza a béta verziókat</string>
+    <string name="pref_update_sync_on_update">Szinkronizálás frissítéskor</string>
+    <string name="pref_update_sync_unmetered_only">Szinkronizálás csak nem mért hálózaton</string>
+    <string name="pref_update_title">Frissítések</string>
+    <string name="pref_vpn_ad_blocker_configuration">VPN alapú hirdetésblokkolás</string>
+    <string name="pref_vpn_exclude_system_apps">Rendszeralkalmazások kizárása</string>
+    <string name="pref_vpn_exclude_user_apps">Felhasználói alkalmazások kizárása</string>
+    <string name="pref_vpn_exclude_user_apps_activity">Kizárt alkalmazások</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Összes kijelölésének törlése</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Application icon</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Összes kijelölése</string>
+    <string name="pref_vpn_excluded_apps">Kizárt alkalmazások</string>
+    <string name="pref_vpn_excluded_apps_description">Állítsa be, mely alkalmazások ne használják a VPN-t. Így egyetlen kapcsolat sem lesz blokkolva.</string>
+    <string name="pref_vpn_service_monitor">Kapcsolat figyelő</string>
+    <string name="pref_vpn_service_monitor_description">Rendszeresen ellenőrzi a hálózat állapotát a VPN újraindításához a szétkapcsoláskor.</string>
+    <string name="pref_vpn_service_on_boot">Engedélyezés indításkor</string>
+    <string name="pref_vpn_title">VPN alapú hirdetésblokkolás</string>
+    <string name="pref_webserver">Helyi webszerver</string>
+    <string name="pref_webserver_certificate">Önaláírt tanusítvány telepítése</string>
+    <string name="pref_webserver_certificate_dialog_action">\"Biztonsági\" beállítások megnyitása</string>
+    <string name="pref_webserver_certificate_dialog_content">Az Android 11 (R) verziótól kezdve az alkalmazás már nem tudja automatikusan telepíteni a tanusítványt (CA).\n\nLépjen a \"biztonsági\" beállítások menübe, majd \"Titkosítás és hitelesítő adatok\", azután a \"Tanusítvány telepítése\" opcióba. Ott válassza a \"CA tanusítványt\" és jelölje ki az újonnan exportált fájlt.</string>
+    <string name="pref_webserver_certificate_dialog_title">Tanusítvány manuális telepítése</string>
+    <string name="pref_webserver_enabled">Webszerver engedélyezése</string>
+    <string name="pref_webserver_icon">Üres hirdetési felület cseréje az alkalmazás ikonra</string>
+    <string name="pref_webserver_state_checking">Ellenőrzés…</string>
+    <string name="pref_webserver_state_not_running">Nem fut</string>
+    <string name="pref_webserver_state_running_and_installed">Fut és a tanusítvány telepítve van</string>
+    <string name="pref_webserver_state_running_not_installed">Fut, de a tanusítvány nincs telepítve</string>
+    <string name="pref_webserver_summary">A helyi webszerver meghallgatja a helyi IP-címeket, hogy válaszoljon a blokkolt gazdagép-kérelmekre. Segítheti az alkalmazás lefagyasztását blokkolt kapcsolat esetén.</string>
+    <string name="pref_webserver_test">Webszerver tesztelése</string>
+    <string msgid="6685851473431805375" name="preference_copied">"„<ns1:g id="SUMMARY">%1$s</ns1:g>” a vágólapra lett másolva."</string>
+    <string name="preferences_drawer_item">Beállítások</string>
+    <string name="project_label">GitHub oldal megnyitása</string>
+    <string name="reboot_never_reboot">Soha ne indítsa újra és ne jelenítse meg ezt a kérdést legközelebb!</string>
+    <string name="redirect_hosts_label">Átirányítva</string>
+    <string name="revert_failed_status">A hosts fájl visszaállítása nem sikerült</string>
+    <string name="revert_problem">A visszaállítás ismeretlen ok miatt nem sikerült.</string>
+    <string name="revert_problem_title">Sikertelen visszaállítás!</string>
+    <string name="revert_successful">Visszaállította az alapértelmezett hosts fájlt.\nElőfordulhat, hogy a módosítások érvényesítéséhez újra kell indítani az Androidot.\n\nSzeretné most újraindítani?\n(Az adatvesztés elkerülése érdekében győződjön meg róla, hogy egyetlen alkalmazás sem használja az SD kártyát!) </string>
+    <string name="revert_successful_title">Sikeres visszaállítás</string>
+    <string name="root_access_fail">Ellenőrizze a root kezelő alkalmazásban a root hozzáférés megadását.</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Keresés"</string>
+    <string name="shortcut_dns_requests">DNS kérések</string>
+    <string name="shortcut_preferences">Beállítások</string>
+    <string name="shortcut_your_lists">Saját listák</string>
+    <string name="show_log_button">A kért domainek megjelenítése</string>
+    <string name="status_apply_sources">Legújabb források alkalmazása</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">Frissítés ellenőrzése…</string>
+    <string name="status_check_copy">Hosts fájl másolásának ellenőrzése</string>
+    <string name="status_check_source">%s forrás frissítésének ellenőrzése</string>
+    <string name="status_copy_new_hosts">Hosts fájl másolása</string>
+    <string name="status_create_new_hosts">Új hosts fájl készítése</string>
+    <string name="status_disabled">Letiltva</string>
+    <string name="status_disabled_subtitle">Az alapértelmezett hosts fájl van telepítve</string>
+    <string name="status_download_fail">Elérhetetlen források</string>
+    <string name="status_download_fail_subtitle_new">Nincs elérhető hosts-fájl forrás!</string>
+    <string name="status_download_source">Források letöltése %s</string>
+    <string name="status_enabled">Engedélyezett</string>
+    <string name="status_enabled_subtitle">A legújabb hosts fájlok vannak engedélyezve</string>
+    <string name="status_failure">Valami nem stimmel</string>
+    <string name="status_failure_subtitle">Ellenőrizd a logcatet további részletekért</string>
+    <string name="status_hosts_updated">Hosts fájl sikeresen frissítve</string>
+    <string name="status_no_connection">Nincs internetkapcsolat</string>
+    <string name="status_no_connection_subtitle">Nincs elérhető internetkapcsolat</string>
+    <string name="status_no_update_found">Nem található forrásfrissítés</string>
+    <string name="status_parse_source">%s forrás elemzése</string>
+    <string name="status_read_source">Források olvasása %s</string>
+    <string name="status_retrieve">Források lekérése</string>
+    <string name="status_revert">Alapértelmezett host fájl visszaállítása</string>
+    <string name="status_revert_done">Alapértelmezett host fájl visszaállítva</string>
+    <string name="status_reverting_subtitle">Alapértelmezett hosts fájl létrehozása</string>
+    <string name="status_root_access_denied">Root hozzáférés megtagadva</string>
+    <string name="status_root_access_denied_subtitle">Engedélyezd a root hozzáférést a root alkalmazásból</string>
+    <string name="status_sync_database">Szabály-adatbázis szinkronizálása</string>
+    <string name="status_update_available">Frissítés érhető el</string>
+    <string name="status_update_available_subtitle">Újabb hosts fájlok érhetők el</string>
+    <string name="status_vpn_configuration_updated">VPN konfiguráció sikeresen frissítve</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">Projekt támogatása</string>
+    <string name="support_sponsorship_button">Legyél szponzor</string>
+    <string name="support_title">Támogatás</string>
+    <string name="tcpdump_description">A tcpdump olyan eszköz, amely monitorozza és elmenti egy naplófájlba a DNS kéréseket. Futtassa a háttérben, majd a reklámokat megjelenítő alkalmazások elindítását követően után elemezze a DNS kérések a napló alapján. A lehetséges reklámkiszolgáló-szerverek ezután hozzáadhatóak a feketelistához.</string>
+    <string name="tcpdump_disable_monitoring">Monitorozás tiltása</string>
+    <string name="tcpdump_enable_monitoring">Monitorozás engedélyezése</string>
+    <string name="tcpdump_entry_add_blacklist">Elem hozzáadása feketelistához</string>
+    <string name="tcpdump_entry_add_redirection_list">Elem hozzáadása az átirányítási listához</string>
+    <string name="tcpdump_entry_add_whitelist">Elem hozzáadása fehérlistához</string>
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_menu_clear">Napló törlése</string>
+    <string name="tcpdump_menu_sort">Domainek rendezése</string>
+    <string name="tcpdump_show_results">Eredmények megjelenítése</string>
+    <string name="text_help">Az AdAway egy ingyenes és nyílt forráskódú szoftver, amely blokkolja a hirdetéseket. A hirdetési hálózatok címeit letiltja, hogy blokkolja őket a készüléken.\nSzeretnél többet tudni? Nézd meg az alábbi súgót!</string>
+    <string name="text_update">A kijelölt hosts fájlok letöltése, összefűzése a saját listákkal, majd aktiválás a rendszeren közös hosts fájlként.</string>
+    <string name="update_available">Frissítés elérhető!</string>
+    <string name="update_button">Blokkolt domainek frissítése</string>
+    <string name="update_donate_button">Adományozás</string>
+    <string name="update_hosts_description">Hosztok frissítése</string>
+    <string name="update_last_changelog_title">Utolsó változtatások</string>
+    <string name="update_new_changelog_title">Változásnapló</string>
+    <string name="update_notification_description">Legutóbbi AdAway verzió letöltése…</string>
+    <string name="update_progress_label">%1$s / %2$s</string>
+    <string name="update_sponsor_button">Támogató</string>
+    <string name="update_support_title">Fejlesztés támogatása</string>
+    <string name="update_title">AdAway frissítés</string>
+    <string name="update_up_to_date_header">Naprakész vagy</string>
+    <string name="update_update_available_header">Frissítés érhető el</string>
+    <string name="update_update_button">Frissítés most</string>
+    <string name="update_updating_header">AdAway frissítése</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"KI"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"BE"</string>
+    <string name="vpn_notification_action_pause">Szüneteltetés</string>
+    <string name="vpn_notification_action_resume">Folytat</string>
+    <string name="vpn_notification_paused">szüneteltetve</string>
+    <string name="vpn_notification_reconnecting">újracsatlakozás</string>
+    <string name="vpn_notification_reconnecting_error">újracsatlakozási hiba</string>
+    <string name="vpn_notification_running">aktív</string>
+    <string name="vpn_notification_starting">elindítás</string>
+    <string name="vpn_notification_stopped">megállítva</string>
+    <string name="vpn_notification_stopping">megállítás</string>
+    <string name="vpn_notification_title">Hirdetésblokkoló VPN %1$s</string>
+    <string name="vpn_notification_waiting_for_net">várakozás a hálózatra</string>
+    <string name="vpn_status_running">Fut</string>
+    <string name="vpn_status_stopped">Megállítva</string>
+    <string name="vpn_toggle_text">Indítsa el vagy állítsa le a VPN-t a kérelmek szűréséhez</string>
+    <string name="webserver_status_running">Fut</string>
+    <string name="webserver_status_stopped">Megállítva</string>
+    <string name="webserver_toggle_text">Webszerver indítása vagy leállítása a localhost-on, amely válaszol a letiltott hostoknak küldött lekérésekre.</string>
+    <string name="welcome_back_button">Vissza</string>
+    <string name="welcome_finish_button">Befejezés</string>
+    <string name="welcome_first_step">A varázsló első lépése</string>
+    <string name="welcome_last_step">A varázsló utolsó lépése</string>
+    <string name="welcome_method_con_logo">Hátrány</string>
+    <string name="welcome_method_header">Üdv az AdAway alkalmazásban!</string>
+    <string name="welcome_method_pro_logo">Előny</string>
+    <string name="welcome_method_summary">Az AdAway két hirdetésblokkoló módot kínál. Válassza ki azt, amelyik tetszik:</string>
+    <string name="welcome_next_button">Következő</string>
+    <string name="welcome_root_method_logo">Root logo</string>
+    <string name="welcome_root_method_text1">Gyorsabb</string>
+    <string name="welcome_root_method_text2">Akkumulátor-barát</string>
+    <string name="welcome_root_method_text3">Root szükséges</string>
+    <string name="welcome_root_method_title">Root alapú\nhirdetésblokkolás</string>
+    <string name="welcome_root_missile_description">Vagy nem található a su bináris, vagy nem engedélyezte a root hozzáférést az AdAway számára.\n\nEz akkor fordulhat elő, ha az eszköt nem rendelkezik root jogosultságokkal. A készülék rootolásáról további információkat a wiki.lineageos.org vagy más Android weboldalon talál. </string>
+    <string name="welcome_root_missing_title">Rootolt Android szükséges</string>
+    <string name="welcome_second_step">A varázsló második lépése</string>
+    <string name="welcome_support_button">Támogatás PayPal-on keresztül</string>
+    <string name="welcome_support_header">Támogass engem!</string>
+    <string name="welcome_support_logo">Támogatás</string>
+    <string name="welcome_support_summary">Ez egy ingyenes és nyílt forráskódú alkalmazás. A szabadidőmben fejlesztem, ezért ha tetszik a projekt, és megteheted, támogass:</string>
+    <string name="welcome_support_telemetry_button">Telemetria engedélyezése összeomlási jelentések küldéséhez</string>
+    <string name="welcome_support_telemetry_summary">Szereted a bugokat? Én se.</string>
+    <string name="welcome_sync_done_logo">Szinkronizálás kész</string>
+    <string name="welcome_sync_error">Nem sikerült a szinkronizálás: %1$s Újrapróbálkozás?</string>
+    <string name="welcome_sync_error_logo">Hiba történt a szinkronizálás közben</string>
+    <string name="welcome_sync_header">Szinkronizálás</string>
+    <string name="welcome_sync_retry_logo">Szinkronizálás újrapróbálása</string>
+    <string name="welcome_sync_summary">Az AdAway letölti a hirdetési hálózatokat, hogy blokkolja az online forrásokat. A beállításokban később testreszabhatja őket.</string>
+    <string name="welcome_synced_header">Szinkronizálva!</string>
+    <string name="welcome_title">Üdv</string>
+    <string name="welcome_vpn_method_logo">VPN logo</string>
+    <string name="welcome_vpn_method_text1">Lassabb</string>
+    <string name="welcome_vpn_method_text2">Fut a háttérben</string>
+    <string name="welcome_vpn_method_text3">Kompatibilitás</string>
+    <string name="welcome_vpn_method_title">VPN alapú\nhirdetésblokkolás</string>
+</resources>

@@ -1,0 +1,4 @@
+04-04 16:10:44.692  7667  7697 I TestRunner: started: testDuplicateRedirectedHosts(org.adaway.db.HostDbTest)
+04-04 16:10:44.696  2941  7643 D SharedPreferencesImpl: Time required to fsync /data/user/0/com.google.android.gms/shared_prefs/usage_stats_manager_prefs.xml: [<1: 0, <2: 0, <4: 0, <8: 0, <16: 0, <32: 0, <64: 0, <128: 0, <256: 0, <512: 2, <1024: 23, <2048: 0, <4096: 0, <8192: 0, <16384: 0, >=16384: 0]
+04-04 16:10:44.698  2941  7643 I Icing   : Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0
+04-04 16:10:44.718  7667  7697 I TestRunner: finished: testDuplicateRedirectedHosts(org.adaway.db.HostDbTest)

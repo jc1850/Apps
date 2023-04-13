@@ -1,0 +1,2 @@
+04-04 16:10:44.866  7667  7697 I TestRunner: started: testAllowedHostsFromDisabledSource(org.adaway.db.SourceDbTest)
+04-04 16:10:44.912  7667  7697 I TestRunner: finished: testAllowedHostsFromDisabledSource(org.adaway.db.SourceDbTest)

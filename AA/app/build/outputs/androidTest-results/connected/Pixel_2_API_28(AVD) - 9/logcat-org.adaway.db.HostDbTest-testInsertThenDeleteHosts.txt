@@ -1,0 +1,2 @@
+04-04 16:10:44.641  7667  7697 I TestRunner: started: testInsertThenDeleteHosts(org.adaway.db.HostDbTest)
+04-04 16:10:44.669  7667  7697 I TestRunner: finished: testInsertThenDeleteHosts(org.adaway.db.HostDbTest)

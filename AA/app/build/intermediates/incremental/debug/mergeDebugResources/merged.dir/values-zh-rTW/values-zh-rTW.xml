@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="drawer_items">
+        <item>主畫面</item>
+        <item>Hosts 來源</item>
+        <item>你的清單</item>
+        <item>開啟 hosts 檔案</item>
+        <item>記錄 DNS 請求</item>
+        <item>掃描廣告軟體</item>
+        <item>設定</item>
+        <item>說明</item>
+    </string-array>
+    <string-array name="pref_apply_method_entries">
+        <item>/system/etc/hosts</item>
+        <item>/data/hosts</item>
+        <item>/data/data/hosts</item>
+        <item>自訂目標</item>
+    </string-array>
+    <string-array name="pref_dark_theme_modes">
+        <item>淺色</item>
+        <item>深色</item>
+        <item>系統預設</item>
+    </string-array>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>None</item>
+        <item>All except browsers</item>
+        <item>All</item>
+    </string-array>
+    <plurals name="hosts_source_days">
+        <item quantity="other">%d 天</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="other">%d 小時</item>
+    </plurals>
+    <plurals name="hosts_source_minutes">
+        <item quantity="other">%d 分鐘</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="other">%d 個月</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d 則新通知</item>
+    <item quantity="other">%d 則新通知</item>
+  </plurals>
+    <plurals name="outdated_source_label">
+        <item quantity="other">%d 個過時來源</item>
+    </plurals>
+    <plurals name="up_to_date_source_label">
+        <item quantity="other">%d 個最新來源</item>
+    </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"關閉"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"開啟"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="adblock_pause_button_description">暫停/恢復廣告阻擋</string>
+    <string name="adware_description">你可以在這裡找到已安裝的廣告軟體，這些惡意的應用程式無法被 Adaway 阻擋。舉例來說，這些應用程式使用推播技術 (Airpush notifications) ，即使當軟體沒有在執行時也會彈跳出廣告訊息，甚至改變您的鈴聲。對付這些惡意軟體最有效的方法就是輕觸清單項目來移除它們。</string>
+    <string name="adware_empty">沒有發現任何廣告軟體！</string>
+    <string name="adware_header">廣告軟體</string>
+    <string name="adware_scanning">掃描中…</string>
+    <string name="allowed_hosts_label">已允許</string>
+    <string name="app_description">開源的廣告阻擋器</string>
+    <string name="app_logo">AdAway logo</string>
+    <string name="app_name">AdAway</string>
+    <string name="app_subtitle">廣告阻擋器</string>
+    <string name="apply_apn_proxy">你的 Android 設定了 APN 代理伺服器！\nAdAway 無法保證在行動網路如 3G 下正常的運作。你可以在 APN 設定中關閉代理伺服器設定（從設定程式：在無線與網路 -> 行動網路 -> 進階 -> 存取點名稱）移除代理伺服器設定。</string>
+    <string name="apply_apn_proxy_title">設定了 APN 代理伺服器！</string>
+    <string name="apply_copy_fail">複製 hosts 檔案失敗！</string>
+    <string name="apply_copy_fail_status">複製 hosts 檔案失敗</string>
+    <string name="apply_copy_fail_title">複製失敗</string>
+    <string name="apply_dialog">套用中…</string>
+    <string name="apply_dialog_apply">合併 hosts 檔案</string>
+    <string name="apply_dialog_hostnames">解析及合併 hosts 檔案</string>
+    <string name="apply_dialog_hosts">建立 hosts 檔案</string>
+    <string name="apply_dialog_lists">套用白名單和黑名單</string>
+    <string name="apply_fail">hosts 檔案修改失敗！\n請將設定中的 hosts 檔案目標修改為 /data/data/hosts。</string>
+    <string name="apply_fail_status">無法套用新的 hosts 檔案。</string>
+    <string name="apply_fail_title">建立失敗</string>
+    <string name="apply_help">請閱讀說明以獲得更多訊息。</string>
+    <string name="apply_not_enough_space">分割區上沒有足夠的空間！\n請試著在設定裡面將目標 hosts 檔案變更為 /data/data/hosts。</string>
+    <string name="apply_not_enough_space_title">空間不足</string>
+    <string name="apply_private_file_fail">無法讀取已下載的檔案。</string>
+    <string name="apply_private_file_fail_title">私人檔案失敗</string>
+    <string name="apply_remount_fail">重新掛載分區為讀寫模式失敗！</string>
+    <string name="apply_remount_fail_title">重新掛載失敗</string>
+    <string name="apply_success_dialog">套用成功。\n變更需要重新啟動才能生效。\n\n您要重新啟動嗎？\n（為了防止檔案遺失，請確保沒有程式正在使用 SD 卡）</string>
+    <string name="apply_success_subtitle">已套用 hosts 來源</string>
+    <string name="apply_success_title">建立成功</string>
+    <string name="apply_symlink_fail">符號連結建立失敗。\n這很有可能是因為 HTC 上一個叫 S-ON 的「功能」！\n\n一個解決方法是啟動你的手機到還原模式並使用命令 \'ln -s /data/data/hosts /system/etc/hosts\' 來建立符號連結。\n\n如果沒有用，請上網搜尋 S-OFF 與你的手機。</string>
+    <string name="apply_symlink_fail_title">符號連結建立失敗</string>
+    <string name="apply_symlink_missing">你設定的目標不存在或者不是正確的 /system/etc/hosts 符號連結！沒有正確的符號連結AdAway不能執行。 你需要建立符號連結嗎？</string>
+    <string name="apply_symlink_missing_status">hosts 檔案目標的符號連結遺失</string>
+    <string name="apply_symlink_missing_title">符號連結遺失</string>
+    <string name="apply_symlink_successful">符號連結建立成功。\n變更需要重新啟動才能生效。\n\n您要重新啟動嗎？\n（為了防止檔案遺失，請確保沒有程式正在使用 SD 卡）</string>
+    <string name="apply_symlink_successful_title">符號連結建立成功</string>
+    <string name="blocked_hosts_label">已阻擋</string>
+    <string name="bottomsheet_action_expand_halfway">展開一半</string>
+    <string name="button_add">加入</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_close">關閉</string>
+    <string name="button_disable_hosts">停用廣告封鎖</string>
+    <string name="button_disable_vpn">停用 VPN</string>
+    <string name="button_disable_webserver">停用網頁伺服器</string>
+    <string name="button_enable_hosts">啟用廣告封鎖</string>
+    <string name="button_enable_vpn">啟動 VPN</string>
+    <string name="button_enable_webserver">啟用網頁伺服器</string>
+    <string name="button_exit">離開</string>
+    <string name="button_help">說明</string>
+    <string name="button_no">否</string>
+    <string name="button_save">儲存</string>
+    <string name="button_show_help">顯示更多說明</string>
+    <string name="button_yes">是</string>
+    <string name="character_counter_content_description">已輸入 %1$d 個字元 (上限為 %2$d 個字元)</string>
+    <string name="character_counter_overflowed_content_description">超過字元限制 (共 %1$d 字元，上限 %2$d 字元)</string>
+    <string name="check_hosts_update_description">檢查 hosts 更新</string>
+    <string name="checkbox_list_context_apply">套用</string>
+    <string name="checkbox_list_context_delete">刪除</string>
+    <string name="checkbox_list_context_edit">編輯</string>
+    <string name="checkbox_list_context_title">編輯項目</string>
+    <string name="clear_text_end_icon_content_description">清除文字</string>
+    <string name="clipboard_host_copied">主機已複製到剪貼簿</string>
+    <string msgid="6083905920877235314" name="copy">"複製"</string>
+    <string name="disable_systemless_magisk">在 Magisk Manager 中停用 systemless hosts 功能。請在該軟體的模組清單中，移除<cite>Systemless hosts</cite>模組並重啟您的裝置。</string>
+    <string name="disable_systemless_magisk_title">停用 Magisk hosts 模組</string>
+    <string name="disable_systemless_successful">您停用了 systemless 模式。\n變更需要重新啟動才能生效。\n\n您要重新啟動嗎？\n（為了防止檔案遺失，請確保沒有程式正在使用 SD 卡）</string>
+    <string name="disable_systemless_successful_title">取消成功</string>
+    <string name="disable_vpn_fail">無法停用 VPN 廣告阻擋。</string>
+    <string name="download_dialog">下載中…</string>
+    <string name="download_fail_dialog">所有啟用的 hosts 來源都無法連結！您是否正確連上網際網路？</string>
+    <string name="download_fail_title">下載失敗</string>
+    <string name="drawer_close">關閉選單</string>
+    <string name="drawer_open">開啟選單</string>
+    <string name="enable_systemless_magisk">在 Magisk Manager 中啟用 systemless hosts 功能。請在該軟體的設定中，啟用<cite>Systemless hosts</cite>選項並重啟您的裝置。</string>
+    <string name="enable_systemless_magisk_title">啟用 Magisk hosts 模組</string>
+    <string name="enable_systemless_successful">您啟用了 systemless 模式。\n變更需要重新啟動才能生效。\n您要重新啟動嗎？\n（為了防止檔案遺失，請確保沒有程式正在使用 SD 卡）</string>
+    <string name="enable_systemless_successful_title">啟用成功</string>
+    <string name="enable_vpn_fail">無法啟用 VPN 廣告阻擋。</string>
+    <string name="error_copy_failed_details">無法將主機文件複製到/系統分區。請檢查 Magisk sytemless 模組是否啟用，然後重新啟動。</string>
+    <string name="error_copy_failed_message">無法安裝新的 hosts 檔案</string>
+    <string name="error_dialog_help">請閱讀說明以獲得更多訊息。</string>
+    <string name="error_disable_vpn_failed_details">請檢查您的 VPN 設定來手動停用它。</string>
+    <string name="error_disable_vpn_failed_message">無法停用 VPN 廣告阻擋。</string>
+    <string name="error_download_failed_details">無法存取已啟用的 hosts 來源。請檢查您是否正確連線到網際網路。</string>
+    <string name="error_download_failed_message">無法下載 hosts 來源</string>
+    <string name="error_enable_vpn_failed_details">請檢查您的 VPN 設定以授權應用程式 VPN 啟動。</string>
+    <string name="error_enable_vpn_failed_message">無法啟用 VPN 廣告阻擋。</string>
+    <string name="error_icon_content_description">錯誤</string>
+    <string name="error_no_connection_details">無法建立網路連接。請檢查您的設備連線。</string>
+    <string name="error_no_connection_message">沒有網路連線</string>
+    <string name="error_not_enough_space_details">無法將 hosts 檔案複製到系統分割區。請檢查 Magisk 的 systemless 模組是否已啟用，然後重新啟動。</string>
+    <string name="error_not_enough_space_message">空間不足</string>
+    <string name="error_private_file_failed_details">無法建立私人檔案以生成新的 hosts 來源。請檢查裝置上的可用空間。</string>
+    <string name="error_private_file_failed_message">無法建立私人的檔案</string>
+    <string name="error_revert_failed_details">無法還原默認 hosts 檔案設定。</string>
+    <string name="error_revert_failed_message">無法還原 hosts 檔案</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"進階"</string>
+    <string name="export_dialog">匯出中…</string>
+    <string name="export_failed">無法匯出備份檔案「%s」。</string>
+    <string name="export_success">備份成功匯出到外部儲存空間的「%s」檔案。</string>
+    <string name="exposed_dropdown_menu_content_description">顯示下拉式選單</string>
+    <string name="github_project_drawer_item">GitHub 專案</string>
+    <string name="header_help">歡迎！</string>
+    <string name="header_vpn">VPN</string>
+    <string name="header_webserver">網頁伺服器</string>
+    <string name="help_label">顯示說明\n與提示</string>
+    <string name="help_tab_faq">常見問題</string>
+    <string name="help_tab_problems">問題</string>
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="hosts_adaway_source">AdAway官方hosts</string>
+    <string name="hosts_add_dialog">輸入 hosts 檔案的 URL：</string>
+    <string name="hosts_add_dialog_title">加入來源</string>
+    <string name="hosts_content">正在載入 hosts 檔案內容…</string>
+    <string name="hosts_count">第%shosts</string>
+    <string name="hosts_description">hosts 檔案是一個將主機名稱對應到 IP 位置的系統檔案。它是一個由 AdAway 配置的純文字檔案。這是這個檔案的前幾行：</string>
+    <string name="hosts_dialog_url">網址：（一個 https:// 或 file:// 資源）</string>
+    <string name="hosts_dialog_url_hint">Hosts 來源 URL</string>
+    <string name="hosts_edit_dialog_title">編輯來源</string>
+    <string name="hosts_header">hosts 檔案</string>
+    <string name="hosts_not_available">無法使用</string>
+    <string name="hosts_open_button">開啟 hosts 檔案</string>
+    <string name="hosts_peterlowe_source">Pete Lowe的阻擋hosts</string>
+    <string name="hosts_source_disabled">停用</string>
+    <string name="hosts_source_few_minutes">幾分鐘</string>
+    <string name="hosts_source_installed">%1$s 前安裝</string>
+    <string name="hosts_source_last_update">上次更新 %1$s 前</string>
+    <string name="hosts_source_need_update">%1$s 需要更新</string>
+    <string name="hosts_source_unknown_status">未知更新狀態</string>
+    <string name="hosts_source_up_to_date">%1$s 是最新的</string>
+    <string name="hosts_stevenblack_source">StevenBlack的統一化hosts</string>
+    <string name="hosts_title">Hosts 來源</string>
+    <string name="hosts_user_source">用戶自訂清單</string>
+    <string name="icon_content_description">對話方塊圖示</string>
+    <string name="icon_update_status">更新狀態</string>
+    <string name="import_dialog">匯入中…</string>
+    <string name="import_failed">無法匯入備份。它的格式正確嗎？檢查 logcat 以獲得更多詳細資訊。</string>
+    <string name="import_success">備份成功從您的外部儲存空間匯入。</string>
+    <string name="item_view_role_description">分頁標籤</string>
+    <string name="list_add_dialog_black">將主機加入至黑名單</string>
+    <string name="list_add_dialog_redirect">加入主機重新導向</string>
+    <string name="list_add_dialog_white">將主機至白名單</string>
+    <string name="list_dialog_hostname">主機名稱：</string>
+    <string name="list_dialog_hostname_hint">Hosts 來源 URL</string>
+    <string name="list_dialog_ip">IP 位址 (IPv4 或 IPv6)：</string>
+    <string name="list_dialog_wildcard">（可使用萬用字元 * 和 ?）</string>
+    <string name="list_edit_dialog_black">編輯黑名單主機</string>
+    <string name="list_edit_dialog_redirect">編輯重新導向</string>
+    <string name="list_edit_dialog_white">編輯白名單主機</string>
+    <string name="lists_add">加入主機</string>
+    <string name="lists_menu_filter">過濾 hosts</string>
+    <string name="lists_menu_filter_hint">搜尋主機名……</string>
+    <string name="lists_menu_toggle_sources">切換來源</string>
+    <string name="lists_tab_allowed">已允許</string>
+    <string name="lists_tab_blocked">已阻擋</string>
+    <string name="lists_tab_redirected">重新導向</string>
+    <string name="lists_title">你的清單</string>
+    <string name="loading">讀取中 …</string>
+    <string name="log_blocked_requests_ignored">\n\n被封鎖的請求不会被記錄。如果你也想記錄它們，請先停用廣告攔截功能。</string>
+    <string name="log_label">顯示 DNS 請求記錄</string>
+    <string name="log_redirect_dialog_title">重新導向網域</string>
+    <string name="log_sort_alphabetical">依照字母順序排序</string>
+    <string name="log_sort_top_level_domain">頂級網域排序</string>
+    <string name="log_start_recording">按下記錄開始記錄請求，瀏覽網頁或使用應用程式，然後返回或滑動以重新整理紀錄。</string>
+    <string name="log_toggle_recording_description">切換日誌記錄開啟狀態</string>
+    <string name="material_clock_toggle_content_description">選取上午或下午</string>
+    <string name="material_hour_selection">請選取時段</string>
+    <string name="material_hour_suffix">%1$s 點</string>
+    <string name="material_minute_selection">選取分鐘數</string>
+    <string name="material_minute_suffix">%1$s 分</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">切換至時鐘模式來輸入時間。</string>
+    <string name="material_timepicker_hour">小時</string>
+    <string name="material_timepicker_minute">分鐘</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">選取時間</string>
+    <string name="material_timepicker_text_input_mode_description">切換至文字輸入模式來輸入時間。</string>
+    <string name="menu_add">加入</string>
+    <string name="menu_export">匯出備份</string>
+    <string name="menu_help">說明</string>
+    <string name="menu_import">匯入備份</string>
+    <string name="menu_refresh">重新整理</string>
+    <string name="mtrl_badge_numberless_content_description">新通知</string>
+    <string name="mtrl_chip_close_icon_content_description">移除 %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">超過 %1$d 則新通知</string>
+    <string name="mtrl_picker_a11y_next_month">變更至下個月</string>
+    <string name="mtrl_picker_a11y_prev_month">變更至上個月</string>
+    <string name="mtrl_picker_announce_current_selection">目前選取：%1$s</string>
+    <string name="mtrl_picker_cancel">取消</string>
+    <string name="mtrl_picker_confirm">確定</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">選取日期</string>
+    <string name="mtrl_picker_date_header_unselected">所選日期</string>
+    <string name="mtrl_picker_day_of_week_column_header">星期幾資料欄：%1$s</string>
+    <string name="mtrl_picker_invalid_format">格式無效。</string>
+    <string name="mtrl_picker_invalid_format_example">範例：%1$s</string>
+    <string name="mtrl_picker_invalid_format_use">使用：%1$s</string>
+    <string name="mtrl_picker_invalid_range">日期範圍無效。</string>
+    <string name="mtrl_picker_navigate_to_year_description">前往 %1$s 年</string>
+    <string name="mtrl_picker_out_of_range">超出日期範圍：%1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">開始日期 – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – 結束日期</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">選取範圍</string>
+    <string name="mtrl_picker_range_header_unselected">開始日期 - 結束日期</string>
+    <string name="mtrl_picker_save">儲存</string>
+    <string name="mtrl_picker_text_input_date_hint">日期</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">結束日期</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">開始日期</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">切換至日曆輸入模式</string>
+    <string name="mtrl_picker_toggle_to_day_selection">輕觸即可切換為選取星期幾</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">切換至文字輸入模式</string>
+    <string name="mtrl_picker_toggle_to_year_selection">輕觸即可切換為選取年份</string>
+    <string name="mtrl_timepicker_cancel">取消</string>
+    <string name="mtrl_timepicker_confirm">確定</string>
+    <string name="no_connection">網際網路連線無法正常連線</string>
+    <string name="no_connection_title">無法連線</string>
+    <string name="no_file_manager">沒有找到檔案管理器來打開檔案。你可以安裝 OI File Manager 或者其他檔案管理器來解決。\n\n你需要安裝 OI File Manager 嗎？</string>
+    <string name="no_file_manager_title">沒有安裝檔案管理器</string>
+    <string name="no_hostname">主機名稱無效！</string>
+    <string name="no_hostname_title">主機名稱格式錯誤</string>
+    <string name="no_ip">IP 位址無效！</string>
+    <string name="no_ip_title">IP 格式錯誤</string>
+    <string name="no_private_file">不能建立私人檔案。</string>
+    <string name="no_private_file_status">無法寫入新的私人 hosts 檔案</string>
+    <string name="no_private_file_title">私人檔案建立失敗</string>
+    <string name="no_text_editor">沒有找到文字編輯器來打開 hosts 檔案。你可以安裝 Jota 或者其他文字編輯器來解決。\n\n你需要安裝Jota嗎？</string>
+    <string name="no_text_editor_title">沒有安裝文字編輯器</string>
+    <string msgid="6573031135582639649" name="not_set">"未設定"</string>
+    <string name="notification_configuration_changed">您的配置已更改，你需要套用它。</string>
+    <string name="notification_configuration_changed_action">套用</string>
+    <string name="notification_configuration_failed">無法套用新配置。</string>
+    <string name="notification_configuration_installing">正在套用新配置……</string>
+    <string name="notification_update_app_available_text">可以下載新版本的 AdAway。</string>
+    <string name="notification_update_app_available_title">應用程式更新可用</string>
+    <string name="notification_update_channel_description">新的更新通知</string>
+    <string name="notification_update_channel_name">更新</string>
+    <string name="notification_update_host_available_text">較新的 hosts 檔案可供下載。</string>
+    <string name="notification_update_host_available_title">有更新</string>
+    <string name="notification_vpn_channel_description">VPN 運作通知</string>
+    <string name="notification_vpn_channel_name">VPN</string>
+    <string name="open_drawer_button_description">打開導覽抽屜</string>
+    <string name="password_toggle_content_description">顯示密碼</string>
+    <string name="permission_group_api_description">允許與 AdAway 互動</string>
+    <string name="permission_group_api_label">AdAway 權限</string>
+    <string name="permission_send_command_description">允許向 AdAway 發送指令，如啟用或禁用系統級廣告攔截</string>
+    <string name="permission_send_command_label">傳送指令到 AdAway</string>
+    <string name="pref_ad_block_category">廣告阻擋</string>
+    <string name="pref_apply_method">目標 hosts 檔案</string>
+    <string name="pref_apply_method_summary">使用此功能前，請先閱讀「幫助」</string>
+    <string name="pref_backup">備份</string>
+    <string name="pref_backup_restore">備份 / 還原阻擋規則</string>
+    <string name="pref_backup_restore_title">備份和恢復</string>
+    <string name="pref_backup_summary">將阻擋規則備份到外部存儲</string>
+    <string name="pref_custom_target">自定義目標位置</string>
+    <string name="pref_dark_theme">深色主題</string>
+    <string name="pref_debug_category">除錯</string>
+    <string name="pref_edit_text_value">編輯文字設定值</string>
+    <string name="pref_enable_debug">詳細的日誌</string>
+    <string name="pref_enable_debug_summary">需要重新啟動應用程式才能應用</string>
+    <string name="pref_enable_ipv6">啟用 IPv6 支援</string>
+    <string name="pref_enable_telemetry">傳送崩潰報告</string>
+    <string name="pref_enable_telemetry_disabled_summary">此版本不支援</string>
+    <string name="pref_enable_telemetry_summary">向 Sentry (sentry.io) 報告</string>
+    <string name="pref_general_category">一般</string>
+    <string name="pref_hosts_installation">Hosts 安裝</string>
+    <string name="pref_hosts_redirection">重新導向</string>
+    <string name="pref_hosts_redirection_summary">定義重新導向被阻止的 hosts 位置</string>
+    <string name="pref_main_title">設定</string>
+    <string name="pref_never_reboot">應用後隱藏重新啟動的對話框</string>
+    <string name="pref_redirection_invalid">無效的重新導向</string>
+    <string name="pref_redirection_ipv4">IPv4 重新導向</string>
+    <string name="pref_redirection_ipv6">IPv6 重新導向</string>
+    <string name="pref_restore">恢復</string>
+    <string name="pref_restore_summary">從備份檔案恢復阻擋規則</string>
+    <string name="pref_root_ad_blocker_configuration">基於 Root 的廣告阻擋器</string>
+    <string name="pref_root_open_hosts">開啟 hosts 檔案</string>
+    <string name="pref_root_title">基於 Root 的廣告阻擋器</string>
+    <string name="pref_update_app_category">應用程式更新</string>
+    <string name="pref_update_check">啟動時檢查更新</string>
+    <string name="pref_update_check_app_daily">定期檢查更新</string>
+    <string name="pref_update_check_app_startup">啟動時檢查更新</string>
+    <string name="pref_update_check_hosts_daily">定期檢查更新</string>
+    <string name="pref_update_configuration">自動更新</string>
+    <string name="pref_update_hosts_category">Hosts 更新</string>
+    <string name="pref_update_include_beta_releases">包含 beta 版本</string>
+    <string name="pref_update_sync_on_update">同步更新</string>
+    <string name="pref_update_sync_unmetered_only">僅在不限流量的網路上同步</string>
+    <string name="pref_update_title">更新</string>
+    <string name="pref_vpn_ad_blocker_configuration">基於 VPN 的廣告阻擋器</string>
+    <string name="pref_vpn_exclude_system_apps">排除系統應用程式</string>
+    <string name="pref_vpn_exclude_user_apps">排除使用者應用程式</string>
+    <string name="pref_vpn_exclude_user_apps_activity">排除的應用程式</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">全部取消選擇</string>
+    <string name="pref_vpn_exclude_user_apps_icon">應用程式圖示</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">選擇全部</string>
+    <string name="pref_vpn_excluded_apps">排除的應用程式</string>
+    <string name="pref_vpn_excluded_apps_description">設定哪些應用程式不應使用 VPN，這樣就不會阻擋任何連線。</string>
+    <string name="pref_vpn_service_monitor">監視連線</string>
+    <string name="pref_vpn_service_monitor_description">定期檢查網路狀態，以在連線中斷時重新啟動 VPN</string>
+    <string name="pref_vpn_service_on_boot">啟動時啟用</string>
+    <string name="pref_vpn_title">基於 VPN 的廣告阻擋器</string>
+    <string name="pref_webserver">本地網頁伺服器</string>
+    <string name="pref_webserver_certificate">安裝自簽憑證</string>
+    <string name="pref_webserver_certificate_dialog_action">開啟「安全性」設定</string>
+    <string name="pref_webserver_certificate_dialog_content">從 Android 11 (R) 開始，應用程式無法再自動安裝憑證認證機構 (CA)。\n\n請前往「安全性」設定，「加密和憑證」，然後「安裝憑證」。從那裡，選擇「CA 憑證」並選擇新匯出的憑證檔案。</string>
+    <string name="pref_webserver_certificate_dialog_title">憑證手動安裝</string>
+    <string name="pref_webserver_enabled">啟用網頁伺服器</string>
+    <string name="pref_webserver_icon">用應用程式圖示替換空白的廣告區塊</string>
+    <string name="pref_webserver_state_checking">檢查中……</string>
+    <string name="pref_webserver_state_not_running">沒有運作</string>
+    <string name="pref_webserver_state_running_and_installed">運作中並且憑證已安裝</string>
+    <string name="pref_webserver_state_running_not_installed">正在運作，但未安裝憑證</string>
+    <string name="pref_webserver_summary">本地網頁伺服器偵聽本地 IP 位址以響應阻止的主機名請求。它可以幫助你在被封鎖的連線上凍結應用程式。</string>
+    <string name="pref_webserver_test">測試網頁伺服器</string>
+    <string msgid="6685851473431805375" name="preference_copied">"已將「<ns1:g id="SUMMARY">%1$s</ns1:g>」複製到剪貼簿。"</string>
+    <string name="preferences_drawer_item">偏好設定</string>
+    <string name="project_label">打開 GitHub 頁面</string>
+    <string name="reboot_never_reboot">不要重新啟動並且不再顯示！</string>
+    <string name="redirect_hosts_label">重新導向</string>
+    <string name="revert_failed_status">無法還原 hosts 檔案</string>
+    <string name="revert_problem">因未知原因還原失敗。</string>
+    <string name="revert_problem_title">還原失敗！</string>
+    <string name="revert_successful">已經還原為預設的 hosts 檔案了。\n變更需要重新啟動才能生效。\n\n您要重新啟動嗎？\n（為了防止檔案遺失，請確保沒有程式正在使用 SD 卡）</string>
+    <string name="revert_successful_title">還原成功</string>
+    <string name="root_access_fail">請檢查您的 root 管理應用程式以確保已授予 root 權限。</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜尋"</string>
+    <string name="shortcut_dns_requests">DNS 請求</string>
+    <string name="shortcut_preferences">設定</string>
+    <string name="shortcut_your_lists">你的清單</string>
+    <string name="show_log_button">顯示要求的網域</string>
+    <string name="status_apply_sources">套用最新來源</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_check">檢查更新</string>
+    <string name="status_check_copy">正在檢查 hosts 檔案副本</string>
+    <string name="status_check_source">正在檢查 %s 來源的更新</string>
+    <string name="status_copy_new_hosts">複製一個新的 hosts 檔案</string>
+    <string name="status_create_new_hosts">建立一個新的 hosts 檔案</string>
+    <string name="status_disabled">停用</string>
+    <string name="status_disabled_subtitle">預設 hosts 檔案已安裝</string>
+    <string name="status_download_fail">不可用的來源</string>
+    <string name="status_download_fail_subtitle_new">無法連接遠端 hosts 來源伺服器！</string>
+    <string name="status_download_source">下載來源 %s</string>
+    <string name="status_enabled">啟用</string>
+    <string name="status_enabled_subtitle">已啟用最新的 hosts 檔案</string>
+    <string name="status_failure">發生一些錯誤</string>
+    <string name="status_failure_subtitle">檢視 logcat 以獲得更多詳細資料</string>
+    <string name="status_hosts_updated">hosts 檔案已更新成功</string>
+    <string name="status_no_connection">沒有網路連線</string>
+    <string name="status_no_connection_subtitle">沒有可用的網路連線</string>
+    <string name="status_no_update_found">找不到來源更新</string>
+    <string name="status_parse_source">正在分析來源%s</string>
+    <string name="status_read_source">讀取來源%s</string>
+    <string name="status_retrieve">搜尋來源中</string>
+    <string name="status_revert">恢復到預設 hosts 檔案</string>
+    <string name="status_revert_done">預設 hosts 檔案已恢復</string>
+    <string name="status_reverting_subtitle">建立標準的 hosts 檔案</string>
+    <string name="status_root_access_denied">Root 權限被拒絕</string>
+    <string name="status_root_access_denied_subtitle">從 root 應用程式允許 root 權限</string>
+    <string name="status_sync_database">正在同步規則資料庫</string>
+    <string name="status_update_available">有更新</string>
+    <string name="status_update_available_subtitle">有更新的 hosts 檔案</string>
+    <string name="status_vpn_configuration_updated">VPN 配置更新成功</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>、<ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="support_label">支援專案</string>
+    <string name="support_sponsorship_button">成為贊助者</string>
+    <string name="support_title">支持</string>
+    <string name="tcpdump_description">Tcpdump 是一個用來監視 DNS 請求並儲存為記錄檔的工具，可以在背景執行。當前景執行有廣告的程式，利用用記錄檔來分析 DNS 請求。把找到的廣告伺服器加入到您的黑名單中。</string>
+    <string name="tcpdump_disable_monitoring">停用監視</string>
+    <string name="tcpdump_enable_monitoring">啟用監視</string>
+    <string name="tcpdump_entry_add_blacklist">加入項目至黑名單</string>
+    <string name="tcpdump_entry_add_redirection_list">加入項目至重新導向清單</string>
+    <string name="tcpdump_entry_add_whitelist">加入項目至白名單</string>
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_menu_clear">清除記錄</string>
+    <string name="tcpdump_menu_sort">排序網域</string>
+    <string name="tcpdump_show_results">顯示結果</string>
+    <string name="text_help">AdAway 是一個自由及開放原始碼的軟體，設計來阻擋廣告。這個軟體會在您的裝置上獲取廣告網路位置來阻擋它們。\n想要了解更多嗎？看看下面的說明！</string>
+    <string name="text_update">所有來自已定義來源的 hosts 檔案已下載、與您的自訂清單整合，並以一個 hosts 檔案安裝至系統中。</string>
+    <string name="update_available">更新可用！</string>
+    <string name="update_button">更新阻擋網域</string>
+    <string name="update_donate_button">資助</string>
+    <string name="update_hosts_description">更新 hosts</string>
+    <string name="update_last_changelog_title">最近更改</string>
+    <string name="update_new_changelog_title">更新紀錄</string>
+    <string name="update_notification_description">正在下載最新的 AdAway 版本…</string>
+    <string name="update_progress_label">%1$s / %2$s</string>
+    <string name="update_sponsor_button">贊助者</string>
+    <string name="update_support_title">支援開發</string>
+    <string name="update_title">AdAway 更新</string>
+    <string name="update_up_to_date_header">您已是最新的</string>
+    <string name="update_update_available_header">有更新</string>
+    <string name="update_update_button">現在更新</string>
+    <string name="update_updating_header">正在更新 AdAway</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"關閉"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"開啟"</string>
+    <string name="vpn_notification_action_pause">暫停</string>
+    <string name="vpn_notification_action_resume">恢復</string>
+    <string name="vpn_notification_paused">已暫停</string>
+    <string name="vpn_notification_reconnecting">重新連接</string>
+    <string name="vpn_notification_reconnecting_error">重新連接錯誤</string>
+    <string name="vpn_notification_running">有效的</string>
+    <string name="vpn_notification_starting">開始</string>
+    <string name="vpn_notification_stopped">已停止</string>
+    <string name="vpn_notification_stopping">停止</string>
+    <string name="vpn_notification_title">廣告攔截器 VPN %1$s</string>
+    <string name="vpn_notification_waiting_for_net">等待網路</string>
+    <string name="vpn_status_running">運行中</string>
+    <string name="vpn_status_stopped">已停止</string>
+    <string name="vpn_toggle_text">啟動或停止 VPN 來過濾請求。</string>
+    <string name="webserver_status_running">執行中</string>
+    <string name="webserver_status_stopped">已停止</string>
+    <string name="webserver_toggle_text">啟動或停止本地主機上的網頁伺服器以響應對被阻止主機名的請求。</string>
+    <string name="welcome_back_button">上一步</string>
+    <string name="welcome_finish_button">完成</string>
+    <string name="welcome_first_step">精靈第一步</string>
+    <string name="welcome_last_step">精靈最後一步</string>
+    <string name="welcome_method_con_logo">Con</string>
+    <string name="welcome_method_header">歡迎來到 AdAway！</string>
+    <string name="welcome_method_pro_logo">Pro</string>
+    <string name="welcome_method_summary">AdAway 提供了兩種廣告阻擋方法，選擇一個您喜歡的：</string>
+    <string name="welcome_next_button">下一步</string>
+    <string name="welcome_root_method_logo">Root logo</string>
+    <string name="welcome_root_method_text1">較快</string>
+    <string name="welcome_root_method_text2">省電</string>
+    <string name="welcome_root_method_text3">需要 Root</string>
+    <string name="welcome_root_method_title">基於 Root\n 廣告阻擋</string>
+    <string name="welcome_root_missile_description">找不到 su 二進位制檔案，或者您沒有允許 AdAway root 權限。\n\n 當您的裝置沒有 root 權限時，可能會發生這種情況。您可以在 wiki.lineageos.org 或其他 Android 網站上找到有關如何 root 裝置的資訊。</string>
+    <string name="welcome_root_missing_title">需要 root 權限</string>
+    <string name="welcome_second_step">精靈第二步</string>
+    <string name="welcome_support_button">在 PayPal 上捐贈</string>
+    <string name="welcome_support_header">支持我們！</string>
+    <string name="welcome_support_logo">支持</string>
+    <string name="welcome_support_summary">這是一個免費的開源應用程式。我利用工作以外的時間開發他。因此，如果你喜歡，請隨時表示支持：</string>
+    <string name="welcome_support_telemetry_button">啟用自動傳送崩潰報告</string>
+    <string name="welcome_support_telemetry_summary">你喜歡臭蟲嗎？我也不喜歡。</string>
+    <string name="welcome_sync_done_logo">同步完成</string>
+    <string name="welcome_sync_error">無法同步：%1$s 是否立即重試？</string>
+    <string name="welcome_sync_error_logo">同步時出錯</string>
+    <string name="welcome_sync_header">同步中</string>
+    <string name="welcome_sync_retry_logo">重新同步</string>
+    <string name="welcome_sync_summary">AdAway 從線上來源下載要阻擋的廣告網路，您可以稍後在設定中設定它們。</string>
+    <string name="welcome_synced_header">已同步！</string>
+    <string name="welcome_title">歡迎</string>
+    <string name="welcome_vpn_method_logo">VPN logo</string>
+    <string name="welcome_vpn_method_text1">較慢</string>
+    <string name="welcome_vpn_method_text2">在背景運作</string>
+    <string name="welcome_vpn_method_text3">相容性</string>
+    <string name="welcome_vpn_method_title">基於 VPN\n 廣告阻擋</string>
+</resources>

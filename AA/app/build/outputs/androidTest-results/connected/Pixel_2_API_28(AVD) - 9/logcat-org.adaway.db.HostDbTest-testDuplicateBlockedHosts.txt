@@ -1,0 +1,3 @@
+04-04 16:10:44.596  7667  7697 I TestRunner: started: testDuplicateBlockedHosts(org.adaway.db.HostDbTest)
+04-04 16:10:44.596  6722  7459 I Finsky  : [486] mzi.run(2): Wrote row to frosting DB: 195
+04-04 16:10:44.638  7667  7697 I TestRunner: finished: testDuplicateBlockedHosts(org.adaway.db.HostDbTest)
