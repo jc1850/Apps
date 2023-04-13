@@ -4,71 +4,56 @@
             "outputFile": "org.adaway.app-mergeDebugResources-44:/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_update.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_prefs_root.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "188,123,57",
+                        "endLines": "9,3,2",
+                        "endColumns": "19,63,64",
+                        "endOffsets": "405,182,117"
+                    },
+                    "to": {
+                        "startLines": "12,150,153",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "471,10725,10902",
+                        "endLines": "17,150,153",
+                        "endColumns": "19,63,64",
+                        "endOffsets": "683,10784,10962"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_app.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "57",
-                        "endColumns": "77",
-                        "endOffsets": "130"
+                        "endColumns": "43",
+                        "endOffsets": "96"
                     },
                     "to": {
-                        "startLines": "168",
+                        "startLines": "54",
                         "startColumns": "4",
-                        "startOffsets": "12166",
-                        "endColumns": "77",
-                        "endOffsets": "12239"
+                        "startOffsets": "3721",
+                        "endColumns": "43",
+                        "endOffsets": "3760"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_notification.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_home.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "87",
-                        "endOffsets": "140"
-                    },
-                    "to": {
-                        "startLines": "148",
-                        "startColumns": "4",
-                        "startOffsets": "10554",
-                        "endColumns": "87",
-                        "endOffsets": "10637"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_welcome.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "78",
-                        "endOffsets": "131"
-                    },
-                    "to": {
-                        "startLines": "171",
-                        "startColumns": "4",
-                        "startOffsets": "12401",
-                        "endColumns": "78",
-                        "endOffsets": "12475"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_errors.xml",
-                    "from": {
-                        "startLines": "3,4",
+                        "startLines": "6,3",
                         "startColumns": "4,4",
-                        "startOffsets": "91,174",
-                        "endColumns": "81,87",
-                        "endOffsets": "168,257"
+                        "startOffsets": "150,59",
+                        "endColumns": "82,60",
+                        "endOffsets": "228,115"
                     },
                     "to": {
-                        "startLines": "83,84",
+                        "startLines": "81,155",
                         "startColumns": "4,4",
-                        "startOffsets": "5599,5681",
-                        "endColumns": "81,87",
-                        "endOffsets": "5676,5764"
+                        "startOffsets": "5451,11100",
+                        "endColumns": "82,60",
+                        "endOffsets": "5529,11156"
                     }
                 },
                 {
@@ -91,23 +76,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_app.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "43",
-                        "endOffsets": "96"
-                    },
-                    "to": {
-                        "startLines": "54",
-                        "startColumns": "4",
-                        "startOffsets": "3721",
-                        "endColumns": "43",
-                        "endOffsets": "3760"
-                    }
-                },
-                {
                     "source": "C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\165caa968f8b63f109d084f3a496d3d0\\transformed\\preference-1.2.0\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
@@ -125,41 +93,58 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_home.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_errors.xml",
                     "from": {
-                        "startLines": "6,3",
+                        "startLines": "3,4",
                         "startColumns": "4,4",
-                        "startOffsets": "150,59",
-                        "endColumns": "82,60",
-                        "endOffsets": "228,115"
+                        "startOffsets": "91,174",
+                        "endColumns": "81,87",
+                        "endOffsets": "168,257"
                     },
                     "to": {
-                        "startLines": "81,155",
+                        "startLines": "83,84",
                         "startColumns": "4,4",
-                        "startOffsets": "5451,11100",
-                        "endColumns": "82,60",
-                        "endOffsets": "5529,11156"
+                        "startOffsets": "5599,5681",
+                        "endColumns": "81,87",
+                        "endOffsets": "5676,5764"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_hosts.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_prefs_main.xml",
                     "from": {
                         "startLines": "4,2",
                         "startColumns": "4,4",
-                        "startOffsets": "131,57",
-                        "endColumns": "59,53",
-                        "endOffsets": "186,106"
+                        "startOffsets": "140,57",
+                        "endColumns": "59,52",
+                        "endOffsets": "195,105"
                     },
                     "to": {
-                        "startLines": "88,89",
+                        "startLines": "151,152",
                         "startColumns": "4,4",
-                        "startOffsets": "6012,6072",
-                        "endColumns": "59,53",
-                        "endOffsets": "6067,6121"
+                        "startOffsets": "10789,10849",
+                        "endColumns": "59,52",
+                        "endOffsets": "10844,10897"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_welcome.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "78",
+                        "endOffsets": "131"
+                    },
+                    "to": {
+                        "startLines": "171",
+                        "startColumns": "4",
+                        "startOffsets": "12401",
+                        "endColumns": "78",
+                        "endOffsets": "12475"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings.xml",
                     "from": {
                         "startLines": "44,41,24,21,29,28,27,30,23,20,22,7,8,4,3,10,6,9,5,12,11,33,39,34,36,37,25,26,42,32,31,54,19,17,18,15,16,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -178,7 +163,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_prefs_vpn.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_prefs_vpn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -197,39 +182,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_prefs_root.xml",
-                    "from": {
-                        "startLines": "4,3,2",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "188,123,57",
-                        "endLines": "9,3,2",
-                        "endColumns": "19,63,64",
-                        "endOffsets": "405,182,117"
-                    },
-                    "to": {
-                        "startLines": "12,150,153",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "471,10725,10902",
-                        "endLines": "17,150,153",
-                        "endColumns": "19,63,64",
-                        "endOffsets": "683,10784,10962"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_prefs_main.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_hosts.xml",
                     "from": {
                         "startLines": "4,2",
                         "startColumns": "4,4",
-                        "startOffsets": "140,57",
-                        "endColumns": "59,52",
-                        "endOffsets": "195,105"
+                        "startOffsets": "131,57",
+                        "endColumns": "59,53",
+                        "endOffsets": "186,106"
                     },
                     "to": {
-                        "startLines": "151,152",
+                        "startLines": "88,89",
                         "startColumns": "4,4",
-                        "startOffsets": "10789,10849",
-                        "endColumns": "59,52",
-                        "endOffsets": "10844,10897"
+                        "startOffsets": "6012,6072",
+                        "endColumns": "59,53",
+                        "endOffsets": "6067,6121"
                     }
                 },
                 {
@@ -250,7 +216,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-km\\strings_lists.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_lists.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -264,6 +230,40 @@
                         "startOffsets": "6258",
                         "endColumns": "50",
                         "endOffsets": "6304"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_notification.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "87",
+                        "endOffsets": "140"
+                    },
+                    "to": {
+                        "startLines": "148",
+                        "startColumns": "4",
+                        "startOffsets": "10554",
+                        "endColumns": "87",
+                        "endOffsets": "10637"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-km\\strings_update.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "77",
+                        "endOffsets": "130"
+                    },
+                    "to": {
+                        "startLines": "168",
+                        "startColumns": "4",
+                        "startOffsets": "12166",
+                        "endColumns": "77",
+                        "endOffsets": "12239"
                     }
                 },
                 {

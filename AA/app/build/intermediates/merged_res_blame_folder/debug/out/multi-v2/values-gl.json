@@ -4,54 +4,22 @@
             "outputFile": "org.adaway.app-mergeDebugResources-44:/values-gl/values-gl.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_lists.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_prefs_root.xml",
                     "from": {
-                        "startLines": "10,12,11,8,5,4,6,2",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "412,569,490,322,185,128,242,57",
-                        "endColumns": "76,80,77,59,55,55,59,51",
-                        "endOffsets": "484,645,563,377,236,179,297,104"
+                        "startLines": "3,2,9",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "123,57,346",
+                        "endLines": "8,2,9",
+                        "endColumns": "19,64,71",
+                        "endOffsets": "340,117,413"
                     },
                     "to": {
-                        "startLines": "119,120,121,122,123,124,125,126",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "8713,8790,8871,8949,9009,9065,9121,9181",
-                        "endColumns": "76,80,77,59,55,55,59,51",
-                        "endOffsets": "8785,8866,8944,9004,9060,9116,9176,9228"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_prefs_main.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "57,114",
-                        "endColumns": "55,102",
-                        "endOffsets": "108,212"
-                    },
-                    "to": {
-                        "startLines": "187,190",
-                        "startColumns": "4,4",
-                        "startOffsets": "14162,14388",
-                        "endColumns": "55,102",
-                        "endOffsets": "14213,14486"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_prefs_update.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "104",
-                        "endOffsets": "157"
-                    },
-                    "to": {
-                        "startLines": "189",
-                        "startColumns": "4",
-                        "startOffsets": "14283",
-                        "endColumns": "104",
-                        "endOffsets": "14383"
+                        "startLines": "12,188,201",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "474,14218,15399",
+                        "endLines": "17,188,201",
+                        "endColumns": "19,64,71",
+                        "endOffsets": "686,14278,15466"
                     }
                 },
                 {
@@ -72,20 +40,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_app.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_prefs_main.xml",
                     "from": {
-                        "startLines": "3,2",
+                        "startLines": "2,3",
                         "startColumns": "4,4",
-                        "startOffsets": "102,57",
-                        "endColumns": "86,43",
-                        "endOffsets": "184,96"
+                        "startOffsets": "57,114",
+                        "endColumns": "55,102",
+                        "endOffsets": "108,212"
                     },
                     "to": {
-                        "startLines": "58,59",
+                        "startLines": "187,190",
                         "startColumns": "4,4",
-                        "startOffsets": "4022,4109",
-                        "endColumns": "86,43",
-                        "endOffsets": "4104,4148"
+                        "startOffsets": "14162,14388",
+                        "endColumns": "55,102",
+                        "endOffsets": "14213,14486"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_notification.xml",
+                    "from": {
+                        "startLines": "7,6,3,5,4,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "491,390,91,272,168,649",
+                        "endColumns": "125,99,75,116,102,61",
+                        "endOffsets": "612,485,162,384,266,706"
+                    },
+                    "to": {
+                        "startLines": "180,181,182,183,184,185",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "13493,13619,13719,13795,13912,14015",
+                        "endColumns": "125,99,75,116,102,61",
+                        "endOffsets": "13614,13714,13790,13907,14010,14072"
                     }
                 },
                 {
@@ -106,60 +91,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_notification.xml",
-                    "from": {
-                        "startLines": "7,6,3,5,4,9",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "491,390,91,272,168,649",
-                        "endColumns": "125,99,75,116,102,61",
-                        "endOffsets": "612,485,162,384,266,706"
-                    },
-                    "to": {
-                        "startLines": "180,181,182,183,184,185",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "13493,13619,13719,13795,13912,14015",
-                        "endColumns": "125,99,75,116,102,61",
-                        "endOffsets": "13614,13714,13790,13907,14010,14072"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_prefs_root.xml",
-                    "from": {
-                        "startLines": "3,2,9",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "123,57,346",
-                        "endLines": "8,2,9",
-                        "endColumns": "19,64,71",
-                        "endOffsets": "340,117,413"
-                    },
-                    "to": {
-                        "startLines": "12,188,201",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "474,14218,15399",
-                        "endLines": "17,188,201",
-                        "endColumns": "19,64,71",
-                        "endOffsets": "686,14278,15466"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_hosts.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_prefs_update.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "57",
-                        "endColumns": "53",
-                        "endOffsets": "106"
+                        "endColumns": "104",
+                        "endOffsets": "157"
                     },
                     "to": {
-                        "startLines": "113",
+                        "startLines": "189",
                         "startColumns": "4",
-                        "startOffsets": "8263",
-                        "endColumns": "53",
-                        "endOffsets": "8312"
+                        "startOffsets": "14283",
+                        "endColumns": "104",
+                        "endOffsets": "14383"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_prefs_vpn.xml",
+                    "from": {
+                        "startLines": "8,9,12,14,15,13,6,7,4,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "525,614,744,915,1009,831,290,364,178,57",
+                        "endColumns": "87,85,85,92,79,82,72,159,74,83",
+                        "endOffsets": "608,695,825,1003,1084,909,358,519,248,136"
+                    },
+                    "to": {
+                        "startLines": "191,192,193,194,195,196,197,198,199,200",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "14491,14579,14665,14751,14844,14924,15007,15080,15240,15315",
+                        "endColumns": "87,85,85,92,79,82,72,159,74,83",
+                        "endOffsets": "14574,14660,14746,14839,14919,15002,15075,15235,15310,15394"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings.xml",
                     "from": {
                         "startLines": "69,63,61,59,60,7,8,4,17,27,22,16,26,21,3,10,6,9,14,5,29,31,30,65,62,64,36,13,23,18,39,38,40,15,34,35,66,67,56,57,79,54,50,51,42,53,55,48,49,43,44,45,52,46,47,24,25,19,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -178,24 +144,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_welcome.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_app.xml",
                     "from": {
-                        "startLines": "3,5,8,9,21,11,17,16,4,19,20,2,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "108,258,360,429,1354,539,846,761,183,1189,1256,57,609,689",
-                        "endColumns": "73,74,67,106,56,66,339,83,73,65,96,49,78,68",
-                        "endOffsets": "177,328,423,531,1406,601,1181,840,252,1250,1348,102,683,753"
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,57",
+                        "endColumns": "86,43",
+                        "endOffsets": "184,96"
                     },
                     "to": {
-                        "startLines": "232,233,234,235,236,237,238,239,240,241,242,243,244,245",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "17890,17964,18039,18107,18214,18271,18338,18678,18762,18836,18902,18999,19049,19128",
-                        "endColumns": "73,74,67,106,56,66,339,83,73,65,96,49,78,68",
-                        "endOffsets": "17959,18034,18102,18209,18266,18333,18673,18757,18831,18897,18994,19044,19123,19192"
+                        "startLines": "58,59",
+                        "startColumns": "4,4",
+                        "startOffsets": "4022,4109",
+                        "endColumns": "86,43",
+                        "endOffsets": "4104,4148"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_home.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_hosts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "53",
+                        "endOffsets": "106"
+                    },
+                    "to": {
+                        "startLines": "113",
+                        "startColumns": "4",
+                        "startOffsets": "8263",
+                        "endColumns": "53",
+                        "endOffsets": "8312"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_home.xml",
                     "from": {
                         "startLines": "13,9,5,4,30,19,24,22,6,27,26",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -214,37 +197,37 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_prefs_vpn.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_lists.xml",
                     "from": {
-                        "startLines": "8,9,12,14,15,13,6,7,4,2",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "525,614,744,915,1009,831,290,364,178,57",
-                        "endColumns": "87,85,85,92,79,82,72,159,74,83",
-                        "endOffsets": "608,695,825,1003,1084,909,358,519,248,136"
+                        "startLines": "10,12,11,8,5,4,6,2",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "412,569,490,322,185,128,242,57",
+                        "endColumns": "76,80,77,59,55,55,59,51",
+                        "endOffsets": "484,645,563,377,236,179,297,104"
                     },
                     "to": {
-                        "startLines": "191,192,193,194,195,196,197,198,199,200",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "14491,14579,14665,14751,14844,14924,15007,15080,15240,15315",
-                        "endColumns": "87,85,85,92,79,82,72,159,74,83",
-                        "endOffsets": "14574,14660,14746,14839,14919,15002,15075,15235,15310,15394"
+                        "startLines": "119,120,121,122,123,124,125,126",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "8713,8790,8871,8949,9009,9065,9121,9181",
+                        "endColumns": "76,80,77,59,55,55,59,51",
+                        "endOffsets": "8785,8866,8944,9004,9060,9116,9176,9228"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-gl\\strings_errors.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_welcome.xml",
                     "from": {
-                        "startLines": "8,7,14,13,12,3,6,5,10,9",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "483,392,1152,1039,930,91,309,216,765,675",
-                        "endColumns": "190,89,134,111,107,83,81,91,133,88",
-                        "endOffsets": "669,477,1282,1146,1033,170,386,303,894,759"
+                        "startLines": "3,5,8,9,21,11,17,16,4,19,20,2,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "108,258,360,429,1354,539,846,761,183,1189,1256,57,609,689",
+                        "endColumns": "73,74,67,106,56,66,339,83,73,65,96,49,78,68",
+                        "endOffsets": "177,328,423,531,1406,601,1181,840,252,1250,1348,102,683,753"
                     },
                     "to": {
-                        "startLines": "91,92,94,95,96,98,99,100,101,102",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "6317,6508,6687,6822,6934,7120,7204,7286,7378,7512",
-                        "endColumns": "190,89,134,111,107,83,81,91,133,88",
-                        "endOffsets": "6503,6593,6817,6929,7037,7199,7281,7373,7507,7596"
+                        "startLines": "232,233,234,235,236,237,238,239,240,241,242,243,244,245",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17890,17964,18039,18107,18214,18271,18338,18678,18762,18836,18902,18999,19049,19128",
+                        "endColumns": "73,74,67,106,56,66,339,83,73,65,96,49,78,68",
+                        "endOffsets": "17959,18034,18102,18209,18266,18333,18673,18757,18831,18897,18994,19044,19123,19192"
                     }
                 },
                 {
@@ -281,6 +264,23 @@
                         "endLines": "21,65,81,82,86,97,105,114,118,127,128,129,130,131,132,133,134,135,136,137,138,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,186",
                         "endColumns": "12,84,104,132,79,77,95,78,62,94,68,62,73,63,55,120,57,61,55,76,138,87,79,139,79,79,89,55,55,65,78,80,87,78,76,81,88,83,91,92,100,73,91,101,51,65,91,87,61,63,62,110,101,105,102,59,59,84",
                         "endOffsets": "861,4603,5583,5716,5988,7115,7854,8391,8708,9323,9392,9455,9529,9593,9649,9770,9828,9890,9946,10023,10162,10339,10419,10559,10639,10719,10809,10865,10921,10987,11066,11147,11235,11314,11391,11473,11562,11646,11738,11831,11932,12006,12098,12200,12252,12318,12410,12498,12560,12624,12687,12798,12900,13006,13109,13169,13229,14157"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-gl\\strings_errors.xml",
+                    "from": {
+                        "startLines": "8,7,14,13,12,3,6,5,10,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "483,392,1152,1039,930,91,309,216,765,675",
+                        "endColumns": "190,89,134,111,107,83,81,91,133,88",
+                        "endOffsets": "669,477,1282,1146,1033,170,386,303,894,759"
+                    },
+                    "to": {
+                        "startLines": "91,92,94,95,96,98,99,100,101,102",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6317,6508,6687,6822,6934,7120,7204,7286,7378,7512",
+                        "endColumns": "190,89,134,111,107,83,81,91,133,88",
+                        "endOffsets": "6503,6593,6817,6929,7037,7199,7281,7373,7507,7596"
                     }
                 }
             ]

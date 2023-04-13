@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.adaway.model.git.GitHostsSourceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-13T13:37:50" hostname="DESKTOP-P1HHUKE" time="1.73">
+<testsuite name="org.adaway.model.git.GitHostsSourceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-04-13T14:11:22" hostname="DESKTOP-P1HHUKE" time="1.985">
   <properties/>
-  <testcase name="testIsHostedOnGit[0]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.005"/>
-  <testcase name="testLastUpdateFetch[0]" classname="org.adaway.model.git.GitHostsSourceTest" time="1.045"/>
+  <testcase name="testIsHostedOnGit[0]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.006"/>
+  <testcase name="testLastUpdateFetch[0]" classname="org.adaway.model.git.GitHostsSourceTest" time="1.172"/>
   <testcase name="testIsHostedOnGit[1]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.0"/>
-  <testcase name="testLastUpdateFetch[1]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.326"/>
-  <testcase name="testIsHostedOnGit[2]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.0"/>
-  <testcase name="testLastUpdateFetch[2]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.353"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="testLastUpdateFetch[1]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.389"/>
+  <testcase name="testIsHostedOnGit[2]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.001"/>
+  <testcase name="testLastUpdateFetch[2]" classname="org.adaway.model.git.GitHostsSourceTest" time="0.416"/>
+  <system-out><![CDATA[
+Gin Memory: 21476944
+
+Gin Memory: 14899488
+
+Gin Memory: 14901536
+
+Gin Memory: 16934984
+
+Gin Memory: 16996640
+
+Gin Memory: 19026200
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -4,75 +4,7 @@
             "outputFile": "org.adaway.app-mergeDebugResources-44:/values-ast/values-ast.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_prefs_main.xml",
-                    "from": {
-                        "startLines": "5,7,4,2",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "205,293,146,57",
-                        "endColumns": "57,58,57,56",
-                        "endOffsets": "258,347,199,109"
-                    },
-                    "to": {
-                        "startLines": "136,137,138,140",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "8797,8855,8914,9037",
-                        "endColumns": "57,58,57,56",
-                        "endOffsets": "8850,8909,8967,9089"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_update.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "81",
-                        "endOffsets": "134"
-                    },
-                    "to": {
-                        "startLines": "166",
-                        "startColumns": "4",
-                        "startOffsets": "11606",
-                        "endColumns": "81",
-                        "endOffsets": "11683"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_welcome.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "78",
-                        "endOffsets": "131"
-                    },
-                    "to": {
-                        "startLines": "169",
-                        "startColumns": "4",
-                        "startOffsets": "11817",
-                        "endColumns": "78",
-                        "endOffsets": "11891"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_app.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "43",
-                        "endOffsets": "96"
-                    },
-                    "to": {
-                        "startLines": "49",
-                        "startColumns": "4",
-                        "startOffsets": "2162",
-                        "endColumns": "43",
-                        "endOffsets": "2201"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_hosts.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_hosts.xml",
                     "from": {
                         "startLines": "5,4,2",
                         "startColumns": "4,4,4",
@@ -89,43 +21,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_lists.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_log.xml",
                     "from": {
-                        "startLines": "4,5,8,9,6,7,2",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "141,233,507,574,325,416,57",
-                        "endColumns": "90,90,65,60,89,89,53",
-                        "endOffsets": "227,319,568,630,410,501,106"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "76",
+                        "endColumns": "65",
+                        "endOffsets": "137"
                     },
                     "to": {
-                        "startLines": "107,108,109,110,111,112,113",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "6538,6629,6720,6786,6847,6937,7027",
-                        "endColumns": "90,90,65,60,89,89,53",
-                        "endOffsets": "6624,6715,6781,6842,6932,7022,7076"
+                        "startLines": "115",
+                        "startColumns": "4",
+                        "startOffsets": "7127",
+                        "endColumns": "65",
+                        "endOffsets": "7188"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_prefs_vpn.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_prefs_main.xml",
                     "from": {
-                        "startLines": "3,2",
-                        "startColumns": "4,4",
-                        "startOffsets": "212,57",
-                        "endLines": "7,2",
-                        "endColumns": "19,153",
-                        "endOffsets": "387,206"
+                        "startLines": "5,7,4,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "205,293,146,57",
+                        "endColumns": "57,58,57,56",
+                        "endOffsets": "258,347,199,109"
                     },
                     "to": {
-                        "startLines": "18,142",
-                        "startColumns": "4,4",
-                        "startOffsets": "612,9157",
-                        "endLines": "22,142",
-                        "endColumns": "19,153",
-                        "endOffsets": "783,9306"
+                        "startLines": "136,137,138,140",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "8797,8855,8914,9037",
+                        "endColumns": "57,58,57,56",
+                        "endOffsets": "8850,8909,8967,9089"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_notification.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_notification.xml",
                     "from": {
                         "startLines": "2,4",
                         "startColumns": "4,4",
@@ -142,24 +72,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_errors.xml",
-                    "from": {
-                        "startLines": "3,4",
-                        "startColumns": "4,4",
-                        "startOffsets": "91,174",
-                        "endColumns": "81,81",
-                        "endOffsets": "168,251"
-                    },
-                    "to": {
-                        "startLines": "89,90",
-                        "startColumns": "4,4",
-                        "startOffsets": "5367,5449",
-                        "endColumns": "81,81",
-                        "endOffsets": "5444,5526"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings.xml",
                     "from": {
                         "startLines": "113,135,131,127,139,98,97,100,58,52,53,62,66,64,65,63,67,68,57,46,47,48,49,50,51,54,56,44,45,55,7,8,4,16,3,10,6,9,5,24,23,22,61,72,73,28,13,20,17,93,94,92,77,31,30,32,126,27,82,86,89,87,88,85,59,60,104,103,78,79,80,81,74,75,102,101,70,71,69,124,123,43,39,40,41,42,37,38,34,35,36,108,109,110,107,111,14,15,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -178,24 +91,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_log.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_welcome.xml",
                     "from": {
-                        "startLines": "3",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "76",
-                        "endColumns": "65",
-                        "endOffsets": "137"
+                        "startOffsets": "57",
+                        "endColumns": "78",
+                        "endOffsets": "131"
                     },
                     "to": {
-                        "startLines": "115",
+                        "startLines": "169",
                         "startColumns": "4",
-                        "startOffsets": "7127",
-                        "endColumns": "65",
-                        "endOffsets": "7188"
+                        "startOffsets": "11817",
+                        "endColumns": "78",
+                        "endOffsets": "11891"
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_prefs_root.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_update.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "81",
+                        "endOffsets": "134"
+                    },
+                    "to": {
+                        "startLines": "166",
+                        "startColumns": "4",
+                        "startOffsets": "11606",
+                        "endColumns": "81",
+                        "endOffsets": "11683"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_prefs_root.xml",
                     "from": {
                         "startLines": "4,3,11,2",
                         "startColumns": "4,4,4,4",
@@ -214,7 +144,60 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\app\\src\\main\\res\\values-ast\\strings_home.xml",
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_app.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "43",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "49",
+                        "startColumns": "4",
+                        "startOffsets": "2162",
+                        "endColumns": "43",
+                        "endOffsets": "2201"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_lists.xml",
+                    "from": {
+                        "startLines": "4,5,8,9,6,7,2",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "141,233,507,574,325,416,57",
+                        "endColumns": "90,90,65,60,89,89,53",
+                        "endOffsets": "227,319,568,630,410,501,106"
+                    },
+                    "to": {
+                        "startLines": "107,108,109,110,111,112,113",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "6538,6629,6720,6786,6847,6937,7027",
+                        "endColumns": "90,90,65,60,89,89,53",
+                        "endOffsets": "6624,6715,6781,6842,6932,7022,7076"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_prefs_vpn.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "212,57",
+                        "endLines": "7,2",
+                        "endColumns": "19,153",
+                        "endOffsets": "387,206"
+                    },
+                    "to": {
+                        "startLines": "18,142",
+                        "startColumns": "4,4",
+                        "startOffsets": "612,9157",
+                        "endLines": "22,142",
+                        "endColumns": "19,153",
+                        "endOffsets": "783,9306"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_home.xml",
                     "from": {
                         "startLines": "8,4,16,13",
                         "startColumns": "4,4,4,4",
@@ -230,6 +213,23 @@
                         "endLines": "42,46,88,143",
                         "endColumns": "14,14,90,64",
                         "endOffsets": "1541,1718,5362,9371"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jcall\\Apps\\AA\\app\\src\\main\\res\\values-ast\\strings_errors.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "91,174",
+                        "endColumns": "81,81",
+                        "endOffsets": "168,251"
+                    },
+                    "to": {
+                        "startLines": "89,90",
+                        "startColumns": "4,4",
+                        "startOffsets": "5367,5449",
+                        "endColumns": "81,81",
+                        "endOffsets": "5444,5526"
                     }
                 }
             ]
