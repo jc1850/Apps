@@ -1,0 +1,1 @@
+F-Droid'in yapı durumunu gösterir ve takip eder

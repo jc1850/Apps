@@ -1,0 +1,2 @@
+- load update.json to indicate disabled apps and apps which needs update
+- changed "open with" with "share" icon

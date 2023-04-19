@@ -1,0 +1,6 @@
+Initial release
+
+- Shows failed and successfull builds
+- Shows build error logs in detail screen
+- Mark apps as favourite for sorting
+- Notify about new build status, optionally only of your favourite apps

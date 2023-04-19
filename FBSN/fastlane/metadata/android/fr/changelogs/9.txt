@@ -1,0 +1,3 @@
+- Correction : affiche "None" quand currentVersionCode est null
+- Nouveau : affiche la sous-commande en cours d'exécution si autre que "build".
+- Nouveau : ajouter un lien vers les métadonnées de construction dans la vue détails

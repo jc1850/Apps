@@ -1,0 +1,5 @@
+- Übersetzung Tschetschenisch hinzugefügt
+- Übersetzungen aktualisiert
+- gradle wurde aktualisiert
+- Fix #42: Begrenzung des Ladens von Logdateien, um OutOfMemory-Absturz zu verhindern
+- Scrollbalken wurden verbessert

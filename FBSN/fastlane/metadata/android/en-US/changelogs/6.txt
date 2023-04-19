@@ -1,0 +1,1 @@
+Type of build cycle to load on main view is now selectable

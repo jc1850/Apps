@@ -1,0 +1,3 @@
+- Fix: Benachrichtigung beim Start über Launcher löschen
+- neu: Russische Übersetzung, Dank an Tri-fan
+- Neu: Deutsche Übersetzung Deutsche Übersetzung

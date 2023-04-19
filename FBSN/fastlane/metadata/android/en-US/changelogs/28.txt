@@ -1,0 +1,4 @@
+- New: add an option to view the raw yml metadata
+- New: download build logs as .log.gz or as .log
+- Fix: 24h date/time format
+- Updated translations

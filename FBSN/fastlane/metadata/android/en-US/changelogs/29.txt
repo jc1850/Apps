@@ -1,0 +1,3 @@
+- Fix loading log from database error, #57
+- Update dependencies
+- Update translations

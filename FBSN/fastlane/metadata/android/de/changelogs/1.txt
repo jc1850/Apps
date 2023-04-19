@@ -1,0 +1,6 @@
+Erstes Release
+
+- Zeigt fehlgeschlagene und erfolgreiche Builds an
+- Zeigt Build-Fehlerprotokolle im Detailbildschirm an
+- Markieren Sie Apps als Favoriten für die Sortierung
+- Benachrichtigung über einen neuen Build-Status, optional nur für Ihre bevorzugten Anwendungen

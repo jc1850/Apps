@@ -1,0 +1,3 @@
+- Nouveau : Refactored UI pour garder les builds d'une application ensemble
+- Nouveau : Mise à jour des traductions
+- Correction : notifier les nouvelles versions d'une application favorite une seule fois par version

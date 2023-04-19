@@ -1,0 +1,2 @@
+- memuat update.json untuk menunjukkan aplikasi yang dinonaktifkan dan aplikasi yang perlu diperbarui
+- mengubah "open with" dengan ikon "share"

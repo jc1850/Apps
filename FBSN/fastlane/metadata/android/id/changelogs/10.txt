@@ -1,0 +1,2 @@
+- Muat SourceCode URI dari API dan berikan tautan dalam tampilan detail
+- Turunkan nama aplikasi dari SourceCode URI jika AutoName dan Name tidak menyediakan nama yang berguna

@@ -1,0 +1,3 @@
+- Nouvelles traductions : Vietnamien, italien, finnois, suédois, français et basque
+- Traductions mises à jour
+- Correction : afficher les favoris sans la version actuelle

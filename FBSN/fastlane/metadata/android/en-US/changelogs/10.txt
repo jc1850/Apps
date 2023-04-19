@@ -1,0 +1,2 @@
+- Load SourceCode URI from API and provide link in details view
+- Derive app name from SourceCode URI if AutoName and Name don't provide a useful name

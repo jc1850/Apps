@@ -1,0 +1,2 @@
+- Fix #29 Suchergebnisse in "unknown build" mit kleinem Suchstring
+- Fix #17 Suchsymbol verschwindet

@@ -1,0 +1,3 @@
+- Nouveau : charger les métadonnées de Gitlab pour montrer la dernière version reconnue d'une application
+- Nouveau : traduction en chinois
+- Traductions mises à jour

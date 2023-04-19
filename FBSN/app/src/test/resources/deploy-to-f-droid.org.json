@@ -1,0 +1,13 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 11",
+  "commandLine": [
+    "/home/fdroid/deploy-to-f-droid.org"
+  ],
+  "fdroid-website": {
+    "commitId": ""
+  },
+  "hostOsCpuCount": 8,
+  "hostProcMeminfoMemTotal": "16291548 kB",
+  "startTimestamp": 1671715726000,
+  "endTimestamp": 1671663330000
+}

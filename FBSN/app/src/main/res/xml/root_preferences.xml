@@ -1,0 +1,73 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/general_settings_category_title">
+
+        <ListPreference
+            android:defaultValue="@string/night_mode_default"
+            android:entries="@array/night_mode_options"
+            android:entryValues="@array/night_mode_values"
+            android:key="@string/night_mode_key"
+            android:title="@string/settings_night_mode_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="1000"
+            app:entries="@array/max_log_lines"
+            app:entryValues="@array/max_log_lines"
+            app:key="PREF_MAX_LOG_LINES"
+            app:title="@string/max_log_lines_to_load"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="ASK"
+            app:entries="@array/metadata_link_types"
+            app:entryValues="@array/metadata_link_type_values"
+            app:key="PREF_METADATA_LINK_TYPE"
+            app:title="@string/metadata_link_type"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="ASK"
+            app:entries="@array/buildlog_types"
+            app:entryValues="@array/buildlog_type_values"
+            app:key="PREF_BUILDLOG_TYPE"
+            app:title="@string/buildlog_type"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/update_background_check_category_title">
+
+        <ListPreference
+            app:defaultValue="FINISHED"
+            app:entries="@array/notify_build_cycle"
+            app:entryValues="@array/notify_build_cycle_values"
+            app:key="PREF_BUILD_CYCLE_CHECK"
+            app:title="@string/build_check_type"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="PREF_UPDATE_CHECK"
+            app:defaultValue="true"
+            app:title="@string/update_check_title" />
+
+        <ListPreference
+            app:defaultValue="7200000"
+            app:entries="@array/update_interval_entries"
+            app:entryValues="@array/update_interval_values"
+            app:dependency="PREF_UPDATE_CHECK"
+            app:key="PREF_UPDATE_INTERVAL"
+            app:title="@string/update_interval_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:dependency="PREF_UPDATE_CHECK"
+            app:key="PREF_NOTIFY_FAVOURITES_ONLY"
+            app:defaultValue="false"
+            app:summaryOff="@string/notify_favourites_summary_off"
+            app:summaryOn="@string/notify_favourites_summary_on"
+            app:title="@string/notify_favourites_title" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

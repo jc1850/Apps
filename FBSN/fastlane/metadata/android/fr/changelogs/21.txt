@@ -1,0 +1,2 @@
+- Nouveau : possibilité de télécharger l'index du repo F-Droid pour améliorer les résultats de recherche et les noms des applications
+- Correction : lien vers le code source depuis la page de détails d'une application sans build actuel

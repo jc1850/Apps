@@ -1,0 +1,27 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 11",
+  "commandLine": [
+    "/home/fdroid/fdroidserver/fdroid deploy",
+    "--verbose",
+    "--no-checksum"
+  ],
+  "endTimestamp": 1665895914221,
+  "fdroiddata": {
+    "commitId": "49c4a127bb64e8f22ec35dc7b6006586e6a25786",
+    "isDirty": true,
+    "modifiedFiles": [
+      "stats/known_apks.txt"
+    ],
+    "untrackedFiles": []
+  },
+  "fdroidserver": {
+    "commitId": "e62a2a86fcdc5fb2497907e663399eb6705fda18",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      ".vagrant/rgloader/loader.rb"
+    ]
+  },
+  "startTimestamp": 1665894966000,
+  "subcommand": "deploy"
+}

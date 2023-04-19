@@ -1,0 +1,1 @@
+- Correction : préservation de la position de défilement

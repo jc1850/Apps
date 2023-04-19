@@ -1,0 +1,4 @@
+- Update dependencies
+- Update translations
+- Fix #144: catch NoSuchMethodError in class InsetDrawable
+- Fix #145: NoSuchMethodError: getParameterCount() in class Method

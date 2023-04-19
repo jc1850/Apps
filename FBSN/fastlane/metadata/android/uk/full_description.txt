@@ -1,0 +1,24 @@
+Додаток для Android для API статусу збірки F-Droid.
+
+Особливості
+
+- Показує невдалі та успішні збірки
+- Відображає детальний екран журналу побудови
+- Показує опубліковані версії програми
+- Показує, чи потребує додаток оновлення або вимкнений
+- Позначте програми як улюблені для сортування
+- Сповіщення про статус нової збірки, за бажанням - тільки для ваших улюблених додатків
+
+Використано API F-Droid:
+
+Додаток використовує наступні кінцеві точки F-Droid API:
+
+- running.json: поточний запущений процес сервера збірки F-Droid, https://f-droid.org/repo/status/running.json.
+- build.json: останній завершений цикл збірки сервера F-Droid build, https://f-droid.org/repo/status/build.json.
+- update.json: остання перевірка оновлення сервера збірок F-Droid, https://f-droid.org/repo/status/update.json.
+- build.log: https://f-droid.org/repo/{id}_{versionCode}.log.gz
+- опублікована інформація про пакет: https://f-droid.org/api/v1/packages/{id}, приклад https://f-droid.org/api/v1/packages/org.fdroid.fdroid
+
+Художнє оформлення
+
+Логотип взято з сайту F-Droid: https://gitlab.com/fdroid/artwork

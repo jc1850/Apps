@@ -1,0 +1,3 @@
+- Scrolling on the main page including headline
+- Support for landscape format on details page
+- Prevent reloading on screen rotation on details page

@@ -1,0 +1,4 @@
+集成 https://f-droid.org/repo/status/running.json
+
+接下来加载最后一次构建运行的build.json，它也加载F-Droid构建服务器当前运行的构建的running.json。
+监视哪个文件可以在设置界面中配置。

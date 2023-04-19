@@ -1,0 +1,1 @@
+Le type de cycle de construction à charger sur la vue principale est maintenant sélectionnable

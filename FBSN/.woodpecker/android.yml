@@ -1,0 +1,5 @@
+pipeline:
+  build:
+    image: androidsdk/android-31
+    commands:
+      - ./gradlew testDebug --stacktrace

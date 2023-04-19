@@ -1,0 +1,3 @@
+- update translations
+- raise minSdk to 24 and modernize Java code
+- don't load logs of failed builds in build.json and running.json to prevent OutOfMemory Exception

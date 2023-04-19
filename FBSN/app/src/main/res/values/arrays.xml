@@ -1,0 +1,114 @@
+<resources>
+    <string-array name="notify_build_cycle">
+        <item>@string/build_run_type_finished</item>
+        <item>@string/build_run_type_running</item>
+    </string-array>
+
+    <string-array name="notify_build_cycle_values">
+        <item>FINISHED</item>
+        <item>RUNNING</item>
+    </string-array>
+
+    <!-- Update interval preference -->
+    <string-array name="update_interval_entries">
+        <item>@string/update_interval_1_hour</item>
+        <item>@string/update_interval_2_hours</item>
+        <item>@string/update_interval_5_hours</item>
+        <item>@string/update_interval_12_hours</item>
+        <item>@string/update_interval_24_hours</item>
+        <item>@string/update_interval_48_hours</item>
+    </string-array>
+
+    <string-array name="update_interval_values">
+        <item>3600000</item>
+        <item>7200000</item>
+        <item>18000000</item>
+        <item>43200000</item>
+        <item>86400000</item>
+        <item>172800000</item>
+    </string-array>
+
+    <string-array name="max_log_lines">
+        <item>100</item>
+        <item>1000</item>
+        <item>10000</item>
+    </string-array>
+
+    <string-array name="metadata_link_types">
+        <item>@string/metadata_link_ask</item>
+        <item>@string/metadata_link_yaml</item>
+        <item>@string/metadata_link_gitlab</item>
+    </string-array>
+
+    <string-array name="metadata_link_type_values">
+        <item>ASK</item>
+        <item>YAML</item>
+        <item>GITLAB</item>
+    </string-array>
+
+    <string-array name="buildlog_types">
+        <item>@string/buildlog_type_ask</item>
+        <item>@string/buildlog_type_log</item>
+        <item>@string/buildlog_type_gz</item>
+    </string-array>
+
+    <string-array name="buildlog_type_values">
+        <item>ASK</item>
+        <item>LOG</item>
+        <item>GZ</item>
+    </string-array>
+
+    <string-array name="icons">
+        <item>ic_check_24px</item>
+        <item>ic_error_outline_24px</item>
+        <item>ic_questionmark_outline_24px</item>
+        <item>ic_directions_run_24px</item>
+        <item>ic_build_24</item>
+        <item>ic_no_favourite_24px</item>
+        <item>ic_favourite_24px</item>
+        <item>ic_share_black_24dp</item>
+        <item>ic_source_24px</item>
+        <item>ic_code_24px</item>
+        <item>ic_disabled_24dp</item>
+        <item>ic_upgrade_black_24dp</item>
+        <item>ic_archive_24</item>
+        <item>ic_no_packages_24</item>
+        <item>ic_no_update_check_24</item>
+    </string-array>
+
+    <string-array name="icon_labels">
+        <item>@string/ic_check_24px_label</item>
+        <item>@string/ic_error_outline_24px_label</item>
+        <item>@string/ic_questionmark_outline_24px_label</item>
+        <item>@string/ic_directions_run_24px_label</item>
+        <item>@string/ic_build_24_label</item>
+        <item>@string/ic_star_24px_label</item>
+        <item>@string/ic_star_border_24px_label</item>
+        <item>@string/ic_share_black_24dp_label</item>
+        <item>@string/ic_source_24px_label</item>
+        <item>@string/ic_code_24px_label</item>
+        <item>@string/ic_disabled_by_default_black_24dp_label</item>
+        <item>@string/ic_upgrade_black_24dp_label</item>
+        <item>@string/ic_archive_24_label</item>
+        <item>@string/ic_no_packages_24_label</item>
+        <item>@string/ic_no_update_check_24_label</item>
+    </string-array>
+
+    <!-- androidx.appcompat.app.AppCompatDelegate.setDefaultNightMode() -->
+    <string name="night_mode_key" translatable="false">nightMode</string>
+    <string name="night_mode_default" translatable="false">@string/night_mode_system_value</string>
+    <string name="night_mode_no_value" translatable="false">1</string>
+    <string name="night_mode_yes_value" translatable="false">2</string>
+    <string name="night_mode_system_value" translatable="false">-1</string>
+    <string-array name="night_mode_values">
+        <item>@string/night_mode_system_value</item>
+        <item>@string/night_mode_no_value</item>
+        <item>@string/night_mode_yes_value</item>
+    </string-array>
+    <string-array name="night_mode_options">
+        <item>@string/settings_night_mode_option_system</item>
+        <item>@string/settings_night_mode_option_day</item>
+        <item>@string/settings_night_mode_option_night</item>
+    </string-array>
+
+</resources>

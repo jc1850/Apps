@@ -1,0 +1,3 @@
+- 修复：当currentVersionCode为null时显示 "None"。
+- 新功能：如果不是 "build "就显示正在运行的子命令
+- 新功能：在细节视图中添加链接到构建元数据

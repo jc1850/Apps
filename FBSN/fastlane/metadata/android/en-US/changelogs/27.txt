@@ -1,0 +1,5 @@
+- Extracted Legend from About dialog
+- Hide buildlog link when build is unknown
+- Target API 31
+- Updated translations, by linsui and mondstern
+- Upgrade gradle

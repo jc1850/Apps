@@ -1,0 +1,5 @@
+- Meningkatkan penanganan kesalahan pada tampilan detail
+- Tampilkan "not found" jika panggilan versi yang dipublikasikan mengembalikan 404
+- Perbaiki (coba): warna yang dapat digambar pada tombol siklus pembuatan
+- Perbaikan: ingat pencarian saat dimuat ulang
+- Tampilkan aplikasi yang tidak dikenal pada tampilan detail, mungkin ada di repo

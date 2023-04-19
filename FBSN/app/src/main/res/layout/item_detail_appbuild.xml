@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/list_item_vertical_margin"
+    android:paddingLeft="@dimen/list_item_horizontal_margin"
+    android:paddingRight="@dimen/list_item_horizontal_margin"
+    android:paddingTop="@dimen/list_item_vertical_margin"
+    android:background="@drawable/background_appbuild_item"
+    tools:context="de.storchp.fdroidbuildstatus.MainActivity">
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/statusIcon"
+        android:src="@drawable/ic_error_outline_24px"
+        android:layout_alignParentEnd="true"
+        android:contentDescription="@string/status_icon" />
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/buildRunTypeFinished"
+        android:src="@drawable/ic_build_24"
+        android:layout_toStartOf="@+id/statusIcon"
+        android:contentDescription="@string/build_run_type_finished" />
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/buildRunTypeUpdate"
+        android:src="@drawable/ic_upgrade_black_24dp"
+        android:layout_toStartOf="@+id/buildRunTypeFinished"
+        android:contentDescription="@string/build_run_type_update" />
+
+    <ImageView
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:id="@+id/buildRunTypeRunning"
+        android:src="@drawable/ic_directions_run_24px"
+        android:layout_toStartOf="@+id/buildRunTypeUpdate"
+        android:contentDescription="@string/build_run_type_running" />
+
+
+    <TextView
+        android:id="@+id/version"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textStyle="bold"
+        android:textColor="@color/colorOnSecondary"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/buildRunTypeRunning"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>
+
+

@@ -1,0 +1,2 @@
+- lädt update.json, um deaktivierte Anwendungen und Anwendungen, die aktualisiert werden müssen, anzuzeigen
+- "Öffnen mit"-Icon wurde durch "Teilen"-Icon ersetzt

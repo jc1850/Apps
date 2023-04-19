@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">F-Droid Build Status</string>
+
+    <string name="PREF_UPDATE_INTERVAL" translatable="false">PREF_UPDATE_INTERVAL</string>
+    <string name="PREF_UPDATE_CHECK" translatable="false">PREF_UPDATE_CHECK</string>
+    <string name="PREF_NOTIFY_FAVOURITES_ONLY" translatable="false">PREF_NOTIFY_FAVOURITES_ONLY</string>
+    <string name="PREF_SHOW_UNKNWON_FAVOURITE_BUILDS" translatable="false">PREF_SHOW_UNKNWON_FAVOURITE_BUILDS</string>
+    <string name="PREF_BUILD_CYCLE_FILTER" translatable="false">PREF_BUILD_RUN_TYPE_FILTER</string>
+    <string name="PREF_BUILD_CYCLE_CHECK" translatable="false">PREF_BUILD_RUN_TYPE_CHECK</string>
+    <string name="PREF_STATUS_FILTER" translatable="false">PREF_STATUS_FILTER</string>
+    <string name="PREF_LAST_UPDATE_LOADED" translatable="false">PREF_LAST_UPDATE_LOADED</string>
+    <string name="PREF_REPO_INDEX_LOADED" translatable="false">PREF_REPO_INDEX_LOADED</string>
+    <string name="PREF_MAX_LOG_LINES" translatable="false">PREF_MAX_LOG_LINES</string>
+    <string name="PREF_METADATA_LINK_TYPE" translatable="false">PREF_METADATA_LINK_TYPE</string>
+    <string name="PREF_BUILDLOG_TYPE" translatable="false">PREF_BUILDLOG_TYPE</string>
+
+    <string name="report_issue_link" translatable="false">https://codeberg.org/pstorch/F-Droid_Build_Status/issues/new?labels=bug&amp;body=%1$s</string>
+
+</resources>

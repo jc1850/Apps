@@ -1,0 +1,4 @@
+- Neu: Legende für verwendete Icons hinzugefügt
+- Fix: MonitorJobService wird neu eingeplant, wenn Einstellungen geändert werden
+- Fix: SQLiteConstraintException, wenn Build dieselbe App-Version enthält wie erfolgreicher und fehlgeschlagener Build
+- Fix: Rückwärtsnavigation von den Seiten Einstellungen und Details

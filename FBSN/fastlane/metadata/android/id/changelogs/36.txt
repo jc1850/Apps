@@ -1,0 +1,3 @@
+- memperbarui terjemahan
+- perbarui dependensi
+- Perbaiki #88: dukungan untuk perubahan API di running.json ketika perintah pembaruan sedang berjalan

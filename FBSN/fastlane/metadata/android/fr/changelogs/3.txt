@@ -1,0 +1,4 @@
+- Nouveau : ajout d'une légende pour les icônes utilisées
+- Correction : reprogrammer MonitorJobService lorsque les paramètres sont modifiés
+- Correction : SQLiteConstraintException quand le build contient la même version de l'application que le build réussi et échoué
+- Correction : navigation arrière à partir des pages Paramètres et Détails

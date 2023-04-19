@@ -1,0 +1,2 @@
+- Neu: Möglichkeit, den F-Droid Repo Index herunterzuladen, um Suchergebnisse und App-Namen zu verbessern
+- Fix: Link zum Quellcode von der Detailseite einer App ohne aktuellen Build

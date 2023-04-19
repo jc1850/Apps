@@ -1,0 +1,1 @@
+- Baru: tampilkan nama aplikasi favorit di notifikasi

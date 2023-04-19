@@ -1,0 +1,55 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 11",
+  "buildserver": {
+    "commitId": "44eab1d5d259ab6cd62115502d3da8e098461571"
+  },
+  "commandLine": [
+    "/home/fdroid/fdroidserver/fdroid build",
+    "--all",
+    "--server",
+    "--verbose"
+  ],
+  "endTimestamp": 1665833139602,
+  "failedBuilds": [
+    [
+      "org.epstudios.epmobile",
+      76,
+      "buildlog"
+    ],
+    [
+      "org.btcmap",
+      22,
+      "buildlog"
+    ]
+  ],
+  "fdroiddata": {
+    "commitId": "c9a65de6896e0f9320187a2aa1ead680bcc0f4c6",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": []
+  },
+  "fdroidserver": {
+    "commitId": "380403cb54435626f54eae218ce533da30325a2c",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      ".vagrant/rgloader/loader.rb"
+    ]
+  },
+  "guestVagrantVmCpus": "20",
+  "guestVagrantVmMemory": "32768",
+  "hostOsCpuCount": 24,
+  "hostProcMeminfoMemTotal": "57696420 kB",
+  "startTimestamp": 1665726365000,
+  "subcommand": "build",
+  "successfulBuildIds": [
+    [
+      "org.epstudios.epmobile",
+      "77"
+    ],
+    [
+      "org.btcmap",
+      "17"
+    ]
+  ]
+}

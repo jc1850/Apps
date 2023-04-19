@@ -1,0 +1,3 @@
+- Neue Übersetzungen: Vietnamesisch, Italienisch, Finnisch, Schwedisch, Französisch und Baskisch
+- Aktualisierte Übersetzungen
+- Fix: Favoriten ohne aktuellen Build anzeigen

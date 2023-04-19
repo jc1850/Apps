@@ -1,0 +1,3 @@
+- Update dependencies
+- Read name and sourceCode from Metadata (fdroiddata repo)
+- Better readability of the bottom filter bar

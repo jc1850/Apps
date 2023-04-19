@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:isScrollContainer="false"
+    tools:context="de.storchp.fdroidbuildstatus.DetailActivity"
+    tools:showIn="@layout/activity_detail"
+    android:orientation="horizontal"
+    android:baselineAligned="false">
+
+    <ScrollView
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="1.5">
+
+        <RelativeLayout
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginEnd="@dimen/list_item_horizontal_margin">
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:indeterminate="true"
+                android:visibility="gone" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:id="@+id/favouriteIcon"
+                android:src="@drawable/ic_no_favourite_24px"
+                android:layout_marginTop="4dp"
+                android:layout_alignParentEnd="true"
+                android:layout_below="@+id/progressBar"
+                android:contentDescription="@string/favourite_icon" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginTop="4dp"
+                android:id="@+id/disabledIcon"
+                android:src="@drawable/ic_disabled_24dp"
+                android:visibility="gone"
+                android:layout_toStartOf="@id/favouriteIcon"
+                android:layout_below="@+id/progressBar"
+                android:contentDescription="@string/disabled_icon" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginTop="4dp"
+                android:id="@+id/needsUpdateIcon"
+                android:src="@drawable/ic_upgrade_black_24dp"
+                android:visibility="gone"
+                android:layout_below="@+id/progressBar"
+                android:layout_toStartOf="@id/disabledIcon"
+                android:contentDescription="@string/needs_update_icon" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginTop="4dp"
+                android:id="@+id/archivedIcon"
+                android:src="@drawable/ic_archive_24"
+                android:visibility="gone"
+                android:layout_below="@+id/progressBar"
+                android:layout_toStartOf="@id/needsUpdateIcon"
+                android:contentDescription="@string/archived_icon" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginTop="4dp"
+                android:id="@+id/noPackagesIcon"
+                android:src="@drawable/ic_no_packages_24"
+                android:visibility="gone"
+                android:layout_below="@+id/progressBar"
+                android:layout_toStartOf="@id/archivedIcon"
+                android:contentDescription="@string/no_packages_icon" />
+
+            <ImageView
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_marginTop="4dp"
+                android:id="@+id/noUpdateCheckIcon"
+                android:src="@drawable/ic_no_update_check_24"
+                android:visibility="gone"
+                android:layout_below="@+id/progressBar"
+                android:layout_toStartOf="@id/noPackagesIcon"
+                android:contentDescription="@string/no_update_check_icon" />
+
+            <TextView
+                android:id="@+id/app_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textIsSelectable="true"
+                android:layout_alignParentStart="true"
+                android:layout_toStartOf="@+id/noUpdateCheckIcon"
+                android:layout_below="@+id/progressBar"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <TextView
+                android:id="@+id/app_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@id/app_name"
+                android:layout_alignParentStart="true"
+                android:layout_toStartOf="@+id/favouriteIcon" />
+
+            <TextView
+                android:id="@+id/published_versions"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@id/app_id"
+                android:layout_alignParentStart="true"
+                android:text="@string/published_versions_unknown" />
+
+            <TextView
+                android:id="@+id/metadata_version"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textIsSelectable="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@id/published_versions"
+                android:layout_alignParentStart="true"
+                android:text="@string/metadata_version_unknown" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/builds"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>

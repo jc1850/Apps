@@ -1,0 +1,3 @@
+- Übersetzungen wurden aktualisiert
+- minSdk auf 24 angehoben und Java Code modernisiert
+- Logs von fehlgeschlagenen Builds werden nicht mehr aus build.json und running.json gelesen, um OutOfMemory Fehler zu verhindern

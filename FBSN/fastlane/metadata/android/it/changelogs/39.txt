@@ -1,0 +1,3 @@
+- Ridisegno della schermata principale: sostituire la barra inferiore con i chip dei filtri, unire le stesse build
+- Riprogettazione della schermata dei dettagli: unire le stesse build
+- Traduzioni nuove e aggiornate

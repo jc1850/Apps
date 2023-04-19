@@ -1,0 +1,3 @@
+- Menggulir pada halaman utama termasuk judul
+- Dukungan untuk format lanskap pada halaman detail
+- Mencegah pemuatan ulang pada rotasi layar pada halaman detail

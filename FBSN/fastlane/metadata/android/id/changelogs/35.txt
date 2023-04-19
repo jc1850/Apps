@@ -1,0 +1,2 @@
+- Perbarui dependensi
+- Memperkenalkan Bottom Bar untuk memfilter build

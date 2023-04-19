@@ -1,0 +1,24 @@
+Android App for the F-Droid build status API.
+
+Features
+
+- Shows failed and successfull builds
+- Shows build log in detail screen
+- Shows published versions of an app
+- Shows if an app needs an update or is disabled
+- Mark apps as favourite for sorting
+- Notify about new build status, optionally only of your favourite apps
+
+F-Droid API used:
+
+The App uses the following F-Droid API endpoints:
+
+- running.json: the current running F-Droid buildserver process, https://f-droid.org/repo/status/running.json
+- build.json: the last completed F-Droid buildserver build cycle, https://f-droid.org/repo/status/build.json
+- update.json: the last update check of the F-Droid buildserver, https://f-droid.org/repo/status/update.json
+- build.log: https://f-droid.org/repo/{id}_{versionCode}.log.gz
+- published package info: https://f-droid.org/api/v1/packages/{id}, example https://f-droid.org/api/v1/packages/org.fdroid.fdroid
+
+Artwork
+
+Logo derived from F-Droid: https://gitlab.com/fdroid/artwork

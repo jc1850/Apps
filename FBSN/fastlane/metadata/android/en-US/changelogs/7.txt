@@ -1,0 +1,2 @@
+- Layout improvements
+- New: show published versions on detail view

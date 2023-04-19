@@ -1,0 +1,2 @@
+- Charger l'URI SourceCode de l'API et fournir un lien dans la vue détaillée
+- Déterminer le nom de l'application à partir de l'URI SourceCode si AutoName et Name ne fournissent pas un nom utile

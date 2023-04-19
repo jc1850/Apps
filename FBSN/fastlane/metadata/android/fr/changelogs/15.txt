@@ -1,0 +1,3 @@
+- charge le nouveau tableau successfulBuildIds pour déterminer le code de version correct des builds réussis
+- optimisation de l'affichage des logs de construction dans l'écran de détails
+- mémorise la position de la liste de l'écran principal

@@ -1,0 +1,6 @@
+Version initiale
+
+- Affiche les échecs et les succès de construction
+- Affichage des journaux d'erreurs de construction dans l'écran détaillé
+- Marquer les applications comme favorites pour les trier
+- Notification de l'état de la nouvelle version, éventuellement uniquement pour vos applications favorites

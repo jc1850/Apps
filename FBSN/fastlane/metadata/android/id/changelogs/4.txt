@@ -1,0 +1,3 @@
+- Perbaikan: pengaturan default preferensi yang dikoreksi, pemantauan diaktifkan, hanya favorit = false
+- Perbaiki: Tentang ikon dialog
+- Baru: nonaktifkan HTTP caching untuk mendapatkan data terbaru

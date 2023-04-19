@@ -1,0 +1,3 @@
+- 更新翻译
+- 提高最低SDK版本到24，优化 Java 代码
+- 不在 build.json 和 running.json 中加载失败构建的日志防止 OutOfMemory 异常

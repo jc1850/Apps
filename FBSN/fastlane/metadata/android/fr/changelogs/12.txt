@@ -1,0 +1,2 @@
+- Correction #29 résultats de recherche dans l'élément "construction inconnue" avec chaîne de recherche en minuscules
+- Correction #17 l'icône de recherche disparaît

@@ -1,0 +1,9 @@
+- Perbaikan: kesalahan deduplikasi
+- Tata letak: lebih banyak ruang vertikal di antara ikon
+- Perbaikan: tidak ada http caching untuk mendapatkan data terbaru
+- Baru: menunjukkan siklus build yang tidak lengkap
+- Perbaikan: menggulir dalam tampilan detail
+- Baru: favorit tanpa status build bisa disembunyikan
+- Baru: pengaturan dummy untuk memilih buildType untuk tampilan utama
+- Perbaikan: caching pada tampilan utama
+- Baru: menampilkan log build yang berhasil dalam tampilan detail

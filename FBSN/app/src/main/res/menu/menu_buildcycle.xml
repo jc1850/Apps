@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.storchp.fdroidbuildstatus.MainActivity">
+    <item
+        android:id="@+id/build_cycle_all"
+        android:title="@string/build_cycle_all"
+        android:icon="@drawable/ic_empty_24" />
+    <item
+        android:id="@+id/build_cycle_running"
+        android:title="@string/bottom_bar_running"
+        android:icon="@drawable/ic_directions_run_24px" />
+    <item
+        android:id="@+id/build_cycle_build"
+        android:title="@string/bottom_bar_build"
+        android:icon="@drawable/ic_build_24" />
+    <item
+        android:id="@+id/build_cycle_update"
+        android:title="@string/bottom_bar_update"
+        android:icon="@drawable/ic_upgrade_black_24dp" />
+</menu>

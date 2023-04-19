@@ -1,0 +1,5 @@
+- ajout de la traduction tchétchène
+- mise à jour des traductions
+- mise à jour de gradle
+- correction #42 : limiter le chargement du fichier de log pour éviter le crash OutOfMemory
+- amélioration des barres de défilement

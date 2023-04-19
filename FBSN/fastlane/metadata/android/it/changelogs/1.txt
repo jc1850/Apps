@@ -1,0 +1,6 @@
+Rilascio iniziale
+
+- Mostra le build fallite e quelle riuscite
+- Mostra i log degli errori di compilazione nella schermata di dettaglio
+- Segna le app come preferite per l'ordinamento
+- Notifica del nuovo stato di compilazione, opzionalmente solo delle tue app preferite

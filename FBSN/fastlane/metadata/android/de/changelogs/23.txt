@@ -1,0 +1,3 @@
+- Neu: Metadaten aus Gitlab laden, um die neueste erkannte Version einer App anzuzeigen
+- Neu: Chinesische Übersetzung
+- Aktualisierte Übersetzungen

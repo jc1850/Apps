@@ -1,0 +1,2 @@
+- 从API加载SourceCode URI并在细节视图中提供链接
+- 如果AutoName和Name没有提供一个有用的名字，则从SourceCode URI衍生出应用程序的名字

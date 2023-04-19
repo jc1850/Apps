@@ -1,0 +1,3 @@
+- Übersetzungen aktualisiert
+- Abhängigkeiten aktualisiert
+- Fix #88: Unterstützung für API-Änderung in running.json, wenn der Update-Befehl ausgeführt wird

@@ -1,0 +1,5 @@
+- added translation Chechen
+- updated translations
+- upgrade gradle
+- fix #42: limit logfile loading to prevent OutOfMemory crash
+- improve scrollbars

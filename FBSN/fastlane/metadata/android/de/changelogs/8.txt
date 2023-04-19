@@ -1,0 +1,5 @@
+- Verbesserte Fehlerbehandlung in der Detailansicht
+- Zeige "nicht gefunden", wenn der Aufruf von veröffentlichten Versionen einen 404 zurückgibt
+- Fix (try): zeichenbare Tönung auf Schaltflächen für den Bauzyklus
+- Fix: Suche beim Neuladen merken
+- Unbekannte App in der Detailansicht anzeigen, sie könnte im Repo existieren

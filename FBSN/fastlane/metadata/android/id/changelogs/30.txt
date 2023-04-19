@@ -1,0 +1,3 @@
+- memperbarui terjemahan
+- naikkan minSdk menjadi 24 dan modernisasi kode Java
+- jangan memuat log dari build yang gagal di build.json dan running.json untuk mencegah OutOfMemory Exception

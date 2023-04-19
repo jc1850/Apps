@@ -1,0 +1,2 @@
+- Update translations
+- New: support for website build status

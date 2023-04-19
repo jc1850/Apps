@@ -1,0 +1,4 @@
+- 新功能：为使用的图标添加图例
+- 修复：当设置改变时，重新安排MonitorJobService。
+- 修复：当构建包含成功和失败的应用程序版本相同时，SQLiteConstraintException。
+- 修复：从设置和细节页面返回导航

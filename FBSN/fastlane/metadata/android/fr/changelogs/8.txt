@@ -1,0 +1,5 @@
+- Amélioration de la gestion des erreurs dans la vue détaillée
+- Afficher "not found" si l'appel aux versions publiées retourne un 404
+- Correction (essai) : teinte traçable sur les boutons de cycle de construction
+- Correction : mémorisation de la recherche lors du rechargement
+- Afficher une application inconnue dans la vue détaillée, elle peut exister dans le repo

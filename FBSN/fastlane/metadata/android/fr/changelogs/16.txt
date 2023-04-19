@@ -1,0 +1,2 @@
+- charger update.json pour indiquer les applications désactivées et celles qui ont besoin d'une mise à jour
+- remplacement de l'icône "ouvrir avec" par "partager"

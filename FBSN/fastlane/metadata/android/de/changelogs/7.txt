@@ -1,0 +1,2 @@
+- Verbesserungen am Layout
+- Neu: Anzeige der veröffentlichten Versionen in der Detailansicht

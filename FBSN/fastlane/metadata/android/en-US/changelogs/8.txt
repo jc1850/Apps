@@ -1,0 +1,5 @@
+- Improve error handling on details view
+- Show "not found" if published versions call returns a 404
+- Fix (try): drawable tint on build cycle buttons
+- Fix: remember search when reloaded
+- Show unknown app in details view, it might exist in repo

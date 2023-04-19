@@ -1,0 +1,3 @@
+- Fix: show "None" when currentVersionCode is null
+- New: show running subcommand if other then "build"
+- New: add link to build metadata in details view

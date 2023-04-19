@@ -1,0 +1,3 @@
+- New: pull to refresh
+- Updated translations
+- Updated dependencies

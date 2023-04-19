@@ -1,0 +1,3 @@
+- memuat array successfulBuildIds baru untuk menentukan versionCode yang benar dari build yang berhasil
+- mengoptimalkan tampilan log build di layar detail
+- mengingat posisi daftar layar utama

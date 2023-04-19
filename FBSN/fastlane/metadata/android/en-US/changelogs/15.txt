@@ -1,0 +1,3 @@
+- loads new successfulBuildIds array to determine correct versionCode of successful builds
+- optimize display of build logs in details screen
+- remember list position of main screen

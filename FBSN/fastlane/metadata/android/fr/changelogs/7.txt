@@ -1,0 +1,2 @@
+- Améliorations de la mise en page
+- Nouveau : affichage des versions publiées dans la vue détaillée

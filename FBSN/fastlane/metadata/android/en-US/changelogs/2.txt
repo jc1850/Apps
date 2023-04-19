@@ -1,0 +1,4 @@
+Integrate https://f-droid.org/repo/status/running.json
+
+Next to load the build.json for the last build run, it also loads the running.json for the currently running build of the F-Droid buildserver.
+Which file to monitor can be configured in the settings screen.

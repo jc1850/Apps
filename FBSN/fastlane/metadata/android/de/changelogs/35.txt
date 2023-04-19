@@ -1,0 +1,2 @@
+- Aktualisierung der Abhängigkeiten
+- BottomBar zum schnellen Filtern von Builds eingeführt

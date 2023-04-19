@@ -1,0 +1,25 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 11",
+  "commandLine": [
+    "/home/fdroid/fdroidserver/fdroid build",
+    "--all",
+    "--server",
+    "--verbose"
+  ],
+  "fdroiddata": {
+    "commitId": "74a44c1596872bb898ae0f1fb865776006616dd3",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": []
+  },
+  "fdroidserver": {
+    "commitId": "e62a2a86fcdc5fb2497907e663399eb6705fda18",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": [
+      ".vagrant/rgloader/loader.rb"
+    ]
+  },
+  "startTimestamp": 1665901087000,
+  "subcommand": "build"
+}

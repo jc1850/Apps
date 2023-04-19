@@ -1,0 +1,1 @@
+- Fix: Programmabsturz verursacht durch SQLiteBlobTooBigException

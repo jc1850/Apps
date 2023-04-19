@@ -1,0 +1,1 @@
+- perbaikan: kerusakan aplikasi yang disebabkan oleh SQLiteBlobTooBigException

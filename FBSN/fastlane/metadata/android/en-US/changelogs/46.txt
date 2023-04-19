@@ -1,0 +1,4 @@
+- Updated translations
+- Fix progressbar on mainscreen
+- Updated screenshots
+- Fix sorting favorites first

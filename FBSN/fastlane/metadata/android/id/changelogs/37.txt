@@ -1,0 +1,3 @@
+- Memperbarui dependensi
+- Baca nama dan sourceCode dari Metadata (fdroiddata repo)
+- Keterbacaan yang lebih baik dari bilah filter bawah

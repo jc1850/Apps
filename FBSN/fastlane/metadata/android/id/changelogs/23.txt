@@ -1,0 +1,3 @@
+- Baru: memuat metadata dari Gitlab untuk menampilkan versi terbaru yang dikenali dari sebuah aplikasi
+- Baru: terjemahan bahasa Mandarin
+- Terjemahan yang diperbarui

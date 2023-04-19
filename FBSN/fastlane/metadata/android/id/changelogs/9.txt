@@ -1,0 +1,3 @@
+- Fix: tampilkan "None" ketika currentVersionCode adalah null
+- Baru: tampilkan subperintah yang sedang berjalan jika selain "build"
+- Baru: tambahkan tautan ke metadata build di tampilan detail

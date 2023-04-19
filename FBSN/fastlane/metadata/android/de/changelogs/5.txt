@@ -1,0 +1,7 @@
+- Layout: mehr vertikaler Platz zwischen den Icons
+- Fix: kein http-Caching, um die neuesten Daten zu erhalten
+- Neu: Anzeige eines unvollständigen Bauzyklus (maxBuildTimeReached)
+- Fix: Scrollen in der Detail-Ansicht
+- Neu: Favoriten ohne Build-Status können ausgeblendet werden
+- Fix: Zwischenspeicherung in der Hauptansicht, kein Neuladen, wenn die letzte Aktualisierung innerhalb der letzten Stunde war
+- Neu: Anzeige erfolgreicher Build-Logs in der Detailansicht

@@ -1,0 +1,3 @@
+- Perbaiki: hapus notifikasi saat dimulai melalui peluncur
+- Baru: Terjemahan bahasa Rusia, terima kasih kepada Tri-fan
+- Baru: Terjemahan bahasa Jerman

@@ -1,0 +1,5 @@
+- Updated translations
+- Update dependencies
+- Partial migration to Kotlin
+- New: update.json integration with missing builds
+- New: support for Android 13 themed icons

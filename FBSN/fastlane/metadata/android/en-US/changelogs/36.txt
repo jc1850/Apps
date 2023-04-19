@@ -1,0 +1,3 @@
+- update translations
+- update dependencies
+- Fix #88: support for API change in running.json when update command is running

@@ -1,0 +1,4 @@
+Integration von https://f-droid.org/repo/status/running.json
+
+Neben dem Laden der build.json für den letzten Build-Lauf wird auch die running.json für den aktuell laufenden Build des F-Droid Buildservers geladen.
+Welche Datei überwacht werden soll, kann im Einstellungsbildschirm konfiguriert werden.

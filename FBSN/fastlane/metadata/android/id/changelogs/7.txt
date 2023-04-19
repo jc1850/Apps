@@ -1,0 +1,2 @@
+- Perbaikan tata letak
+- Baru: tampilkan versi yang diterbitkan pada tampilan detail

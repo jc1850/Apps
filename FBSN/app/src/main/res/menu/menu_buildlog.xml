@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.storchp.fdroidbuildstatus.BuildlogActivity">
+    <item
+        android:id="@+id/action_download_buildlog"
+        android:orderInCategory="100"
+        android:title="@string/action_download_buildlog"
+        android:icon="@drawable/ic_download"
+        app:showAsAction="always" />
+</menu>

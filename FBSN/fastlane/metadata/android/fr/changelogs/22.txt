@@ -1,0 +1,1 @@
+- Nouveau : affichage du nom des applications favorites dans les notifications

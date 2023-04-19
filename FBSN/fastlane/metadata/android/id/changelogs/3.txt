@@ -1,0 +1,4 @@
+- Baru: menambahkan legenda untuk ikon yang digunakan
+- Fix: menjadwal ulang MonitorJobService ketika pengaturan diubah
+- Fix: SQLiteConstraintException ketika build berisi versi aplikasi yang sama dengan build yang berhasil dan gagal
+- Perbaikan: navigasi kembali dari halaman Pengaturan dan Detail

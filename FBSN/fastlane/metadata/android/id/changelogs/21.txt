@@ -1,0 +1,2 @@
+- Baru: kemungkinan untuk mengunduh indeks repo F-Droid untuk meningkatkan hasil pencarian dan nama aplikasi
+- Perbaikan: tautan ke kode sumber dari halaman detail aplikasi tanpa build saat ini

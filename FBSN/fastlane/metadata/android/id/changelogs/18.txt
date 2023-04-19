@@ -1,0 +1,1 @@
+- perbaiki #36 memuat log build lengkap dari build yang gagal

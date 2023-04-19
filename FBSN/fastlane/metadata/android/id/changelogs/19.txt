@@ -1,0 +1,3 @@
+- Baru: UI yang direfaktori ulang untuk menjaga build dari satu aplikasi tetap bersama
+ - Baru: Terjemahan yang diperbarui
+ - Perbaikan: memberi tahu build baru aplikasi favorit hanya sekali per build

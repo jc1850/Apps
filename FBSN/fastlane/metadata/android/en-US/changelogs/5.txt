@@ -1,0 +1,9 @@
+- Fix: deduplication error
+- Layout: more vertical space between the icons
+- Fix: no http caching to get most recent data
+- New: indicate incomplete build cycle (maxBuildTimeReached)
+- Fix: scrolling in details view
+- New: favourites without build status can be hidden
+- New: dummy setting to select buildType for main view (preparation for #10)
+- Fix: caching on main view, don't reload if last update was within the last hour
+- New: show successful build logs in detail view

@@ -1,0 +1,2 @@
+- Fix: #171 IllegalStateException in WebsiteBuildStatusFragment
+- New: UI Theme settings

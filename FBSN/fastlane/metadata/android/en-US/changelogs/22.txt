@@ -1,0 +1,1 @@
+- New: show name of favorite apps in notification

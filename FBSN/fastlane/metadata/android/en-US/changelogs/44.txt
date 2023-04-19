@@ -1,0 +1,3 @@
+- Fix: #153 Scrolling on build log screen
+- Update translations
+- Upgrade dependencies

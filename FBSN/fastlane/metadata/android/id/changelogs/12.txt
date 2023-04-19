@@ -1,0 +1,2 @@
+- Perbaiki #29 hasil pencarian di item "unknown build" dengan string pencarian huruf kecil
+- Perbaiki #17 ikon pencarian menghilang

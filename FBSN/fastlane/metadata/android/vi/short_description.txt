@@ -1,0 +1,1 @@
+Megjeleníti és figyeli a build állapotát az F-Droidról

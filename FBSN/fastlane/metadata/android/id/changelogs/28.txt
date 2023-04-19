@@ -1,0 +1,4 @@
+- Baru: tambahkan opsi untuk melihat metadata yml mentah
+- Baru: unduh log build sebagai .log.gz atau sebagai .log
+- Perbaikan: format tanggal/waktu 24 jam
+- Terjemahan yang diperbarui

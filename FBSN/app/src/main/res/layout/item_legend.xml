@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/legend_item"
+    android:padding="10dp"
+    android:textSize="@dimen/fragment_text_size"
+    android:drawablePadding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</TextView>

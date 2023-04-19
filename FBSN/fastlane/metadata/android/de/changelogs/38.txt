@@ -1,0 +1,1 @@
+- fix für #92: Fehler wenn `failedBuilds` in der Antwort fehlt

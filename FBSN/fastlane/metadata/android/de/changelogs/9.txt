@@ -1,0 +1,3 @@
+- Fix: zeige "None" wenn currentVersionCode null ist
+- Neu: Anzeige des laufenden Unterbefehls, wenn anders als "build"
+- Neu: Link zu Build-Metadaten in Detailansicht hinzufügen

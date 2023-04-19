@@ -1,0 +1,5 @@
+- Legenda yang diekstrak dari dialog About
+- Sembunyikan tautan buildlog saat build tidak diketahui
+- Target API 31
+- Terjemahan yang diperbarui, oleh linsui dan mondstern
+- Tingkatkan gradle

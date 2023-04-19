@@ -1,0 +1,5 @@
+- Légende extraite de la boîte de dialogue À propos
+- Cacher le lien du journal de bord lorsque la construction est inconnue
+- Cible API 31
+- Traductions mises à jour
+- mise à jour de gradle

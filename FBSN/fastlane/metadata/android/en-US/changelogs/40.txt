@@ -1,0 +1,4 @@
+- Updated and added translations
+- Hide StackTrace of crash report in details
+- Restrict filter chips to single row
+- Remove unused code

@@ -1,0 +1,2 @@
+- Fix #29 search results in "unknown build" item with lowercase search string
+- Fix #17 search icon disappears

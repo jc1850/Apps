@@ -1,0 +1,1 @@
+- fix #92 NPE when no `failedBuilds` are in the response

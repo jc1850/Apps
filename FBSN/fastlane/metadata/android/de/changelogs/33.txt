@@ -1,0 +1,3 @@
+- Scrolling auf der Hauptseite mit Kopfzeile
+- Unterstützung für Querformat auf der Detailseite
+- Neuladen der Detailseite nach Bildschirmrotation abgefangen

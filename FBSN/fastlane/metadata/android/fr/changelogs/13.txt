@@ -1,0 +1,3 @@
+- Correction : suppression de la notification lors du démarrage via le lanceur
+- Nouveau : Traduction en russe, merci à Tri-fan
+- Nouveau : Traduction allemande

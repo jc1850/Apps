@@ -1,0 +1,4 @@
+- Neu: Hinzufügen einer Option zum Anzeigen der rohen yml-Metadaten
+- Neu: Download von Build-Protokollen als .log.gz oder als .log
+- Fix: 24h Datum/Zeit Format
+- Aktualisierte Übersetzungen

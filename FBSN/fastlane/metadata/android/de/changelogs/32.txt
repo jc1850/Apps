@@ -1,0 +1,1 @@
+- Formartierung der veröffentlichten Versionen behoben

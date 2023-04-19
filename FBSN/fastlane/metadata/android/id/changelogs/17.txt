@@ -1,0 +1,1 @@
+- memperbaiki tabel yang hilang pada instalasi bersih versi 1.13

@@ -1,0 +1,5 @@
+- menambahkan terjemahan Chechnya
+- terjemahan yang diperbarui
+- perbarui gradle
+- perbaiki #42: batasi pemuatan logfile untuk mencegah kerusakan OutOfMemory
+- perbaiki scrollbar

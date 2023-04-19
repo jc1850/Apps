@@ -1,0 +1,2 @@
+- SourceCode URI aus API laden und Link in Detailansicht bereitstellen
+- Ableitung des Anwendungsnamens aus dem Quellcode-URI, wenn AutoName und Name keinen sinnvollen Namen liefern

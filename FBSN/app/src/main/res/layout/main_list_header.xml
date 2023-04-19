@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/build_status"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="start"
+    android:textSize="16sp"
+    android:layout_centerHorizontal="true"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="16dp"
+    android:columnCount="4"
+    android:rowCount="6"
+    android:orientation="horizontal"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TextView
+        android:id="@+id/build_status_head_running"
+        android:text="@string/build_status_head_running"
+        android:textStyle="bold"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="1"
+        android:layout_row="0" />
+
+    <TextView
+        android:id="@+id/build_status_head_build"
+        android:text="@string/build_status_head_finished"
+        android:textStyle="bold"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="2"
+        android:layout_row="0" />
+
+    <TextView
+        android:id="@+id/build_status_head_update"
+        android:text="@string/build_status_head_update"
+        android:textStyle="bold"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="3"
+        android:layout_row="0" />
+
+    <TextView
+        android:id="@+id/build_status_start"
+        android:text="@string/build_status_start"
+        android:textStyle="bold"
+        android:layout_gravity="start|top"
+        android:layout_column="0"
+        android:layout_row="1" />
+
+    <TextView
+        android:id="@+id/build_status_start_running"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="1"
+        android:layout_row="1" />
+
+    <TextView
+        android:id="@+id/build_status_start_build"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="2"
+        android:layout_row="1" />
+
+    <TextView
+        android:id="@+id/build_status_start_update"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="3"
+        android:layout_row="1" />
+
+    <TextView
+        android:id="@+id/build_status_end"
+        android:text="@string/build_status_end"
+        android:textStyle="bold"
+        android:layout_gravity="start|top"
+        android:layout_column="0"
+        android:layout_row="2" />
+
+    <TextView
+        android:id="@+id/build_status_end_running"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="1"
+        android:layout_row="2" />
+
+    <TextView
+        android:id="@+id/build_status_end_build"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="2"
+        android:layout_row="2" />
+
+    <TextView
+        android:id="@+id/build_status_end_update"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="3"
+        android:layout_row="2" />
+
+    <TextView
+        android:id="@+id/build_status_last_modified"
+        android:text="@string/build_status_last_modified"
+        android:textStyle="bold"
+        android:layout_gravity="start|top"
+        android:layout_column="0"
+        android:layout_row="3" />
+
+    <TextView
+        android:id="@+id/build_status_last_modified_running"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="1"
+        android:layout_row="3" />
+
+    <TextView
+        android:id="@+id/build_status_last_modified_build"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="2"
+        android:layout_row="3" />
+
+    <TextView
+        android:id="@+id/build_status_last_modified_update"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="3"
+        android:layout_row="3" />
+
+    <TextView
+        android:id="@+id/build_status_builds"
+        android:text="@string/build_status_builds"
+        android:textStyle="bold"
+        android:layout_gravity="start|top"
+        android:layout_column="0"
+        android:layout_row="4" />
+
+    <TextView
+        android:id="@+id/build_status_builds_running"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="1"
+        android:layout_row="4" />
+
+    <TextView
+        android:id="@+id/build_status_builds_build"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="2"
+        android:layout_row="4" />
+
+    <TextView
+        android:id="@+id/build_status_builds_update"
+        android:layout_gravity="start|top"
+        android:layout_marginStart="8dp"
+        android:layout_column="3"
+        android:layout_row="4" />
+
+</GridLayout>
+
+        

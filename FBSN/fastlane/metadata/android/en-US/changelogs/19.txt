@@ -1,0 +1,3 @@
+ - New: Refactored UI to keep builds of one app together
+ - New: Updated translations
+ - Fix: notify new builds of favorite app only once per build

@@ -1,0 +1,4 @@
+- Nouveau : ajouter une option pour voir les métadonnées yml brutes
+- Nouveau : télécharger les logs de construction comme .log.gz ou comme .log
+- Correction : format de date/heure 24h
+- Traductions mises à jour

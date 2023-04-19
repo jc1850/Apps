@@ -1,0 +1,4 @@
+- Redesign Mainscreen: replace bottom bar with filter chips, merge same builds
+- Redesign Detailscreen: merge same builds
+- New and updated translations
+- Update dependencies

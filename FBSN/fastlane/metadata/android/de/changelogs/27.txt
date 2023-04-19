@@ -1,0 +1,5 @@
+- Extrahierte Legende aus dem Über-Dialog
+- Buildlog-Link ausblenden, wenn Build unbekannt ist
+- Ziel-API 31
+- Aktualisierte Übersetzungen, von linsui und mondstern
+- Gradle aktualisieren

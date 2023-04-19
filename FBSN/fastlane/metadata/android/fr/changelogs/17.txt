@@ -1,0 +1,1 @@
+- correction des tables manquantes lors d'une installation propre de la version 1.13

@@ -1,0 +1,124 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 10",
+  "antiFeatures": {
+    "Ads": {
+      "apps": [
+        "com.eightsines.firestrike.opensource",
+        "zame.GloomyDungeons.opensource.game"
+      ]
+    },
+    "DisabledAlgorithm": {
+      "apps": [
+        "com.markuspage.android.certtools",
+        "de.chagemann.regexcrossword"
+      ]
+    },
+    "KnownVuln": {
+      "apps": [
+        "de.chagemann.regexcrossword",
+        "org.mozilla.klar"
+      ]
+    },
+    "NSFW": {
+      "apps": [
+        "org.nonononoki.hendroid",
+        "org.nv95.openmanga"
+      ]
+    },
+    "NoSourceSince": {
+      "apps": [
+        "us.bravender.android.dongsa",
+        "za.co.neilson.alarm"
+      ]
+    },
+    "NonFreeAdd": {
+      "apps": [
+        "ru.ra66it.updaterforspotify",
+        "subreddit.android.appstore"
+      ]
+    },
+    "NonFreeAssets": {
+      "apps": [
+        "org.shadowice.flocke.andotp",
+        "rak.pixellwp"
+      ]
+    },
+    "NonFreeDep": {
+      "apps": [
+        "re.jcg.playmusicexporter",
+        "to.networld.android.divedroid"
+      ]
+    },
+    "NonFreeNet": {
+      "apps": [
+        "xyz.adjutor.aniki",
+        "ymakei.vegetarian_journal"
+      ]
+    },
+    "Tracking": {
+      "apps": [
+        "re.jcg.playmusicexporter",
+        "sh.ftp.rocketninelabs.meditationassistant.opensource"
+      ]
+    },
+    "UpstreamNonFree": {
+      "apps": [
+        "zame.GloomyDungeons.opensource.game",
+        "zen.meditation.android"
+      ]
+    }
+  },
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [
+    "vu.de.urpool.quickdroid",
+    "yellr.net.yellr_android"
+  ],
+  "commandLine": [
+    "/home/fbuild/fdroidserver/fdroid update",
+    "--nosign",
+    "--delete-unknown"
+  ],
+  "disabled": [
+    "me.lucky.catcher",
+    "me.lucky.reactor"
+  ],
+  "endTimestamp": 1664979743515,
+  "failedBuilds": {
+    "com.espruino.gadgetbridge.banglejs": [
+      "216"
+    ],
+    "com.standardnotes": [
+      "3000518"
+    ]
+  },
+  "fdroiddata": {
+    "commitId": "5af8169594303c3c9ca30b672ee12d5b3933250a",
+    "isDirty": true,
+    "modifiedFiles": [
+      "stats/known_apks.txt"
+    ],
+    "untrackedFiles": []
+  },
+  "fdroidserver": {
+    "commitId": "bd6689a75def8bfa8f5b35a2e45875a091c3e7a7",
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": []
+  },
+  "jarsigner": "/usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-11-openjdk-amd64/bin/keytool",
+  "needsUpdate": [
+    "wb.receiptspro",
+    "xyz.zedler.patrick.grocy"
+  ],
+  "noPackages": [
+    "org.owntracks.android",
+    "security.pEp"
+  ],
+  "noUpdateCheck": [
+    "za.co.neilson.alarm",
+    "zen.meditation.android"
+  ],
+  "startTimestamp": 1664958843000,
+  "subcommand": "update"
+}

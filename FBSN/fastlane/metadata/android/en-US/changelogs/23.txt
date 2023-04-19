@@ -1,0 +1,3 @@
+- New: load metadata from Gitlab to show newest recognized version from an app
+- New: chinese translation
+- Updated translations

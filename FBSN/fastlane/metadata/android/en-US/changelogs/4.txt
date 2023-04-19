@@ -1,0 +1,3 @@
+- Fix: corrected preferences default settings, monitoring enabled, only favourites = false
+- Fix: About dialog icons
+- New: disable HTTP caching to get recent data

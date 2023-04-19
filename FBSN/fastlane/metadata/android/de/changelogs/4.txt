@@ -1,0 +1,3 @@
+- Fix: korrigierte Voreinstellungen, Überwachung aktiviert, nur Favoriten = false
+- Korrigiert: Über-Dialog-Symbole
+- Neu: HTTP-Caching deaktivieren, um aktuelle Daten zu erhalten

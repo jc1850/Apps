@@ -1,0 +1,3 @@
+- Abhängigkeiten aktualisiert
+- Name und sourceCode aus den Metadaten (fdroiddate Repository) auslesen
+- Verbesserte Lesbarkeit der Bottom Filter Bar

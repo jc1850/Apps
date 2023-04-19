@@ -1,0 +1,3 @@
+- Fix: clear notification when started via launcher
+- New: Russian translation, thanks to Tri-fan
+- New: German translation

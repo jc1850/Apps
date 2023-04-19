@@ -1,0 +1,4 @@
+Intégrer https://f-droid.org/repo/status/running.json
+
+En plus de charger le build.json pour la dernière exécution de la construction, il charge également le running.json pour la construction en cours d'exécution du serveur de construction F-Droid.
+Le fichier à surveiller peut être configuré dans l'écran des paramètres.

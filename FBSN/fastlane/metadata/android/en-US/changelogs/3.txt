@@ -1,0 +1,4 @@
+- New: added legend for used icons
+- Fix: reschedule MonitorJobService when settings are changed
+- Fix: SQLiteConstraintException when build contains same app version as successful and failed build
+- Fix: back navigation from Settings and Details pages

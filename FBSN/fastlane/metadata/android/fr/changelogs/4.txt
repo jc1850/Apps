@@ -1,0 +1,3 @@
+- Correction : correction des paramètres par défaut des préférences, suivi activé, seulement les favoris = faux
+- Correction : Icônes de la boîte de dialogue À propos
+- Nouveau : désactiver la mise en cache HTTP pour obtenir des données récentes

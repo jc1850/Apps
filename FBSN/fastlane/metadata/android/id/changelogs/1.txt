@@ -1,0 +1,6 @@
+Rilis awal
+
+- Menunjukkan build yang gagal dan berhasil
+- Menampilkan log kesalahan build di layar detail
+- Menandai aplikasi sebagai favorit untuk disortir
+- Memberi tahu tentang status build baru, secara opsional hanya untuk aplikasi favorit Anda

@@ -1,0 +1,3 @@
+- lädt neues successfulBuildIds-Array, um den korrekten versionCode erfolgreicher Builds zu ermitteln
+- optimiert die Anzeige von Build-Protokollen im Detailbildschirm
+- merkt sich die Listenposition des Hauptbildschirms

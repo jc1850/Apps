@@ -1,0 +1,3 @@
+- Terjemahan baru: Bahasa Vietnam, Italia, Finlandia, Swedia, Prancis, dan Basque
+- Terjemahan yang diperbarui
+- Perbaikan: tampilkan favorit tanpa build saat ini

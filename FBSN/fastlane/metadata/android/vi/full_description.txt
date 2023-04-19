@@ -1,0 +1,24 @@
+Android alkalmazás az F-Droid build status API-hoz.
+
+Jellemzők
+
+- Megjeleníti a sikertelen és sikeres buildeket
+- Megjeleníti az építési naplót a részletes képernyőn
+- Megjeleníti az alkalmazás közzétett verzióit
+- Megmutatja, hogy egy alkalmazás frissítésre szorul-e vagy letiltva van-e.
+- Alkalmazások kedvencként való megjelölése a rendezéshez
+- Értesítés az új build állapotáról, opcionálisan csak a kedvenc alkalmazásokról
+
+F-Droid API használata:
+
+Az alkalmazás a következő F-Droid API végpontokat használja:
+
+- running.json: az aktuálisan futó F-Droid buildserver folyamat, https://f-droid.org/repo/status/running.json.
+- build.json: az utolsó befejezett F-Droid buildserver építési ciklus, https://f-droid.org/repo/status/build.json.
+- update.json: az F-Droid buildserver utolsó frissítési ellenőrzése, https://f-droid.org/repo/status/update.json.
+- build.log: https://f-droid.org/repo/{id}_{versionCode}.log.gz
+- közzétett csomaginformáció: https://f-droid.org/api/v1/packages/{id}, példa: https://f-droid.org/api/v1/packages/org.fdroid.fdroid.
+
+Művészeti alkotás
+
+Az F-Droidból származó logó: https://gitlab.com/fdroid/artwork

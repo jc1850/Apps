@@ -1,0 +1,3 @@
+- Neu: Überarbeitete Benutzeroberfläche, um Builds einer Anwendung zusammenzuhalten
+ - neu: Aktualisierte Übersetzungen
+ - Fix: Benachrichtigung über neue Builds der Lieblings-App nur einmal pro Build

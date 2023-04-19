@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.storchp.fdroidbuildstatus.MainActivity">
+    <item
+        android:id="@+id/build_status_all"
+        android:title="@string/build_status_all"
+        android:icon="@drawable/ic_empty_24" />
+    <item
+        android:id="@+id/build_status_builds"
+        android:title="@string/bottom_bar_success"
+        android:icon="@drawable/ic_check_24px" />
+    <item
+        android:id="@+id/build_status_failed"
+        android:title="@string/bottom_bar_failed"
+        android:icon="@drawable/ic_error_outline_24px" />
+    <item
+        android:id="@+id/build_status_missing"
+        android:title="@string/bottom_bar_missing"
+        android:icon="@drawable/ic_questionmark_outline_24px" />
+    <item
+        android:id="@+id/status_disabled"
+        android:title="@string/bottom_bar_disabled"
+        android:icon="@drawable/ic_disabled_24dp" />
+    <item
+        android:id="@+id/status_archived"
+        android:title="@string/bottom_bar_archived"
+        android:icon="@drawable/ic_archive_24" />
+    <item
+        android:id="@+id/status_needs_update"
+        android:title="@string/bottom_bar_needs_update"
+        android:icon="@drawable/ic_upgrade_black_24dp" />
+    <item
+        android:id="@+id/status_no_packages"
+        android:title="@string/bottom_bar_no_packages"
+        android:icon="@drawable/ic_no_packages_24" />
+    <item
+        android:id="@+id/status_no_update_check"
+        android:title="@string/bottom_bar_no_update_check"
+        android:icon="@drawable/ic_no_update_check_24" />
+</menu>
