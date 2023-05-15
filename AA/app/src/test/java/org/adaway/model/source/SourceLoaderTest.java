@@ -1,6 +1,7 @@
 package org.adaway.model.source;
 
 import org.adaway.util.RegexUtils;
+import org.junit.After;
 import org.junit.Test;
 
 import java.util.HashSet;
@@ -167,5 +168,10 @@ public class SourceLoaderTest {
                     RegexUtils.isValidWildcardHostname(invalidWildcardName)
             );
         }
+    }
+    @After
+    public void tearDown(){
+        Runtime.getRuntime().gc();
+        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
 }

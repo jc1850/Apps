@@ -8,7 +8,9 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.ByteArrayOutputStream;
 import java.io.IOException;
+import java.io.ObjectOutputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.ZonedDateTime;
@@ -73,11 +75,24 @@ class GitHubHostsSource extends GitHostsSource {
         Request request = new Request.Builder().url(commitApiUrl).build();
         try (Response execute = client.newCall(request).execute();
              ResponseBody body = execute.body()) {
+            System.out.print("\nGin Network: "); // GinProtect
+            System.out.println(serialize(body).length); // GinProtect
             return parseJsonBody(body.string());
         } catch (IOException | JSONException exception) {
             Timber.e(exception, "Unable to get commits from API.");
             // Return failed
             return null;
+        }
+    }
+
+    public static byte[] serialize(Object obj)  {
+        ByteArrayOutputStream baos = new ByteArrayOutputStream();
+        try{
+            ObjectOutputStream oos = new ObjectOutputStream(baos);
+            oos.writeObject(obj);
+            return baos.toByteArray();}
+        catch  (Exception e){
+            return new byte[Integer.MAX_VALUE];
         }
     }
 

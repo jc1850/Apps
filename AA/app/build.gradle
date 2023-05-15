@@ -77,6 +77,20 @@ android {
         }
     }
 
+    testOptions {
+        unitTests {
+            includeAndroidResources true
+            all {
+                // All the usual Gradle options.
+                testLogging {
+                    events "skipped", "failed", "standardOut", "standardError"
+                    showStandardStreams = true
+                }
+            }
+        }
+    }
+
+
     buildTypes {
 //        debug {
 //            shrinkResources false

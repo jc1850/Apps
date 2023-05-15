@@ -36,6 +36,8 @@ class FdroidClientTest {
     @AfterEach
     void teardown() throws Exception {
         server.shutdown();
+        Runtime.getRuntime().gc();
+        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
 
     @Test
