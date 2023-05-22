@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\incremental\\mergeFdroidDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "227,465",
+                        "endLines": "10,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "457,679"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,287",
+                        "endLines": "5,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "282,498"
+                    }
+                }
+            ]
+        }
+    ]
+}

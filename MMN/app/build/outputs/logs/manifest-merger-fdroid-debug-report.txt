@@ -1,0 +1,446 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+MERGED from [:imageviewtouchlibrary] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\imageviewtouchlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [:fakegps] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\fakegps\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0db5d88c6118bc4cacdf0d6360754bcc\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [me.everything:overscroll-decor-android:1.0.4] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3aece0732113c04d5af414f45159250b\jetified-overscroll-decor-android-1.0.4\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.sevar83:indeterminate-checkbox:1.0.5] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3d0809bad52ea6c8dfdd50811f155e57\jetified-indeterminate-checkbox-1.0.5\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9a0c9b1be82171452d51dbdbf9ef1e56\jetified-PersistentCookieJar-v1.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.squareup.duktape:duktape-android:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\90ed43391475d42a6d07bcc9264c4d39\jetified-duktape-android-1.2.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:2:1-65:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\603e1027c83344c99a101e0a9bba521d\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\b38b71f06320cbde4df5ece2722e8ae8\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.raulhaag.RapidDecoder:library:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\029fbdaafe7cfe7fe5fd5de1affda8c7\jetified-library-0.3.1Ax\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\12d61d5fc338c482956bbd691d074ada\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\cf7ef8ce6f65aa524f622e3325f41c1c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\7bd485c10f27b4d2ba45829be6973538\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\611defeaf3d473aab6bc20e630bc7748\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\8ea89f1ba139367cf0715440c9a44f1a\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.raulhaag.RapidDecoder:jpeg-decoder:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\c8a46703a0ed0429f7f4ec191f328266\jetified-jpeg-decoder-0.3.1Ax\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.raulhaag.RapidDecoder:png-decoder:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4856f9d16c2547736261dd28f82d2097\jetified-png-decoder-0.3.1Ax\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:5:5-35
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:11:5-68
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:12:5-68
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:12:5-81
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:14:5-81
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:13:5-79
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:14:22-80
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:15:5-88
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:15:22-85
+application
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:17:5-79:19
+MERGED from [:imageviewtouchlibrary] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\imageviewtouchlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [:imageviewtouchlibrary] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\imageviewtouchlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-14:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.sevar83:indeterminate-checkbox:1.0.5] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3d0809bad52ea6c8dfdd50811f155e57\jetified-indeterminate-checkbox-1.0.5\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.sevar83:indeterminate-checkbox:1.0.5] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3d0809bad52ea6c8dfdd50811f155e57\jetified-indeterminate-checkbox-1.0.5\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9a0c9b1be82171452d51dbdbf9ef1e56\jetified-PersistentCookieJar-v1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9a0c9b1be82171452d51dbdbf9ef1e56\jetified-PersistentCookieJar-v1.0.1\AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\90ed43391475d42a6d07bcc9264c4d39\jetified-duktape-android-1.2.0\AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\90ed43391475d42a6d07bcc9264c4d39\jetified-duktape-android-1.2.0\AndroidManifest.xml:12:5-20
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:16:5-63:19
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:16:5-63:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.raulhaag.RapidDecoder:library:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\029fbdaafe7cfe7fe5fd5de1affda8c7\jetified-library-0.3.1Ax\AndroidManifest.xml:11:5-20
+MERGED from [com.github.raulhaag.RapidDecoder:library:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\029fbdaafe7cfe7fe5fd5de1affda8c7\jetified-library-0.3.1Ax\AndroidManifest.xml:11:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.raulhaag.RapidDecoder:jpeg-decoder:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\c8a46703a0ed0429f7f4ec191f328266\jetified-jpeg-decoder-0.3.1Ax\AndroidManifest.xml:5:5-20
+MERGED from [com.github.raulhaag.RapidDecoder:jpeg-decoder:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\c8a46703a0ed0429f7f4ec191f328266\jetified-jpeg-decoder-0.3.1Ax\AndroidManifest.xml:5:5-20
+MERGED from [com.github.raulhaag.RapidDecoder:png-decoder:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4856f9d16c2547736261dd28f82d2097\jetified-png-decoder-0.3.1Ax\AndroidManifest.xml:5:5-20
+MERGED from [com.github.raulhaag.RapidDecoder:png-decoder:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4856f9d16c2547736261dd28f82d2097\jetified-png-decoder-0.3.1Ax\AndroidManifest.xml:5:5-20
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:23:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.github.sevar83:indeterminate-checkbox:1.0.5] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3d0809bad52ea6c8dfdd50811f155e57\jetified-indeterminate-checkbox-1.0.5\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:21:9-41
+	tools:ignore
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:16:18-44
+	android:largeHeap
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:22:9-33
+	android:icon
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:19:9-35
+	android:usesCleartextTraffic
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:18:9-45
+activity#ar.rulosoft.mimanganu.utils.RequestWebViewUserAction
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:25:9-27:63
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:27:13-51
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:26:13-59
+activity#ar.rulosoft.mimanganu.utils.autotest.RunAutoTest
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:28:9-32:65
+	android:screenOrientation
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:30:13-50
+	tools:ignore
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:32:13-53
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:29:13-55
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:36:13-55
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:35:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:39:13-41:58
+	android:resource
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:41:17-55
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:40:17-67
+activity#ar.rulosoft.mimanganu.SplashActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:50:9-60:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:52:13-45
+	android:launchMode
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:53:13-42
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:54:13-47
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:51:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:58:27-74
+activity#ar.rulosoft.mimanganu.MainActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:61:9-63:39
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:63:13-36
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:62:13-41
+receiver#ar.rulosoft.mimanganu.utils.NotificationDeleteIntentReceiver
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:65:9-76
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:65:19-73
+receiver#ar.rulosoft.mimanganu.utils.CancelIntentReceiver
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:66:9-64
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:66:19-61
+receiver#ar.rulosoft.mimanganu.utils.NetworkUtilsAndReceiver
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:67:9-72:20
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:67:19-64
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:68:13-71:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:69:17-79
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:69:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:70:25-75
+service#ar.rulosoft.mimanganu.services.DownloadPoolService
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:74:9-65
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:74:18-62
+activity#ar.rulosoft.mimanganu.MessageActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:76:9-78:56
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:78:13-53
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:77:13-44
+uses-sdk
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+MERGED from [:imageviewtouchlibrary] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\imageviewtouchlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:imageviewtouchlibrary] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\imageviewtouchlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:fakegps] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\fakegps\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [:fakegps] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\fakegps\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ae67d481176994a76afa6f312b4e8a78\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0db5d88c6118bc4cacdf0d6360754bcc\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0db5d88c6118bc4cacdf0d6360754bcc\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [me.everything:overscroll-decor-android:1.0.4] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3aece0732113c04d5af414f45159250b\jetified-overscroll-decor-android-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [me.everything:overscroll-decor-android:1.0.4] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3aece0732113c04d5af414f45159250b\jetified-overscroll-decor-android-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ec405108832dd0d34725ec01b1378307\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4764869116b7944d884a78eb3b5d999f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.sevar83:indeterminate-checkbox:1.0.5] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3d0809bad52ea6c8dfdd50811f155e57\jetified-indeterminate-checkbox-1.0.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.sevar83:indeterminate-checkbox:1.0.5] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3d0809bad52ea6c8dfdd50811f155e57\jetified-indeterminate-checkbox-1.0.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9a0c9b1be82171452d51dbdbf9ef1e56\jetified-PersistentCookieJar-v1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.franmontiel:PersistentCookieJar:v1.0.1] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9a0c9b1be82171452d51dbdbf9ef1e56\jetified-PersistentCookieJar-v1.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.duktape:duktape-android:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\90ed43391475d42a6d07bcc9264c4d39\jetified-duktape-android-1.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.duktape:duktape-android:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\90ed43391475d42a6d07bcc9264c4d39\jetified-duktape-android-1.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\73b741376758043ca71b2712dd6b8e85\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\8820464f905e976a0e372e114ed12d81\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\603e1027c83344c99a101e0a9bba521d\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\603e1027c83344c99a101e0a9bba521d\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\b38b71f06320cbde4df5ece2722e8ae8\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\b38b71f06320cbde4df5ece2722e8ae8\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.raulhaag.RapidDecoder:library:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\029fbdaafe7cfe7fe5fd5de1affda8c7\jetified-library-0.3.1Ax\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.raulhaag.RapidDecoder:library:0.3.1Ax] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\029fbdaafe7cfe7fe5fd5de1affda8c7\jetified-library-0.3.1Ax\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\12d61d5fc338c482956bbd691d074ada\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\12d61d5fc338c482956bbd691d074ada\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\cf7ef8ce6f65aa524f622e3325f41c1c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\cf7ef8ce6f65aa524f622e3325f41c1c\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\7bd485c10f27b4d2ba45829be6973538\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\7bd485c10f27b4d2ba45829be6973538\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\611defeaf3d473aab6bc20e630bc7748\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\611defeaf3d473aab6bc20e630bc7748\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\8ea89f1ba139367cf0715440c9a44f1a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\8ea89f1ba139367cf0715440c9a44f1a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		ADDED from [:imageviewtouchlibrary] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\imageviewtouchlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+service#com.evernote.android.job.v21.PlatformJobService
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:19:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:18:13-75
+service#com.evernote.android.job.v14.PlatformAlarmService
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:21:9-24:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:22:13-77
+service#com.evernote.android.job.v14.PlatformAlarmServiceExact
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:26:13-82
+receiver#com.evernote.android.job.v14.PlatformAlarmReceiver
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:29:9-38:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.evernote.android.job.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:32:13-37:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:35:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:36:25-75
+receiver#com.evernote.android.job.JobBootReceiver
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:39:9-48:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:40:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:42:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:43:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:43:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:44:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:45:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:46:25-81
+service#com.evernote.android.job.gcm.PlatformGcmService
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:50:9-58:19
+	android:enabled
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:52:13-36
+	android:exported
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:54:13-93
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:51:13-75
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:55:13-57:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:56:17-87
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:56:25-84
+service#com.evernote.android.job.JobRescheduleService
+ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:59:9-62:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:61:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:62:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:60:13-73
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:2:1-81:12 reason: rapid.decoder.builtin.jpeg has a targetSdkVersion < 4

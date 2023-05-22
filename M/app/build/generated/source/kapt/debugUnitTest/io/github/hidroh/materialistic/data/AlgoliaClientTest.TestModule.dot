@@ -1,0 +1,10 @@
+digraph G1 {
+  concentrate = true;
+  n2 [label="@Named ItemManager"];
+  AlgoliaClient -> n2;
+  n3 [label="@Named Scheduler"];
+  AlgoliaClient -> n3;
+  AlgoliaClient -> RestServiceFactory;
+  AlgoliaClientTest -> n2;
+  AlgoliaClientTest -> RestServiceFactory;
+}

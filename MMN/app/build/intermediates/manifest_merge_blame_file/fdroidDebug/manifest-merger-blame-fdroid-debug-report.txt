@@ -1,0 +1,253 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ar.rulosoft.mimanganu"
+4    android:installLocation="auto"
+5    android:versionCode="133"
+6    android:versionName="1.133" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="15"
+9-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->[:imageviewtouchlibrary] C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\imageviewtouchlibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:9-38
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:8:5-66
+13-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:8:22-63
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:11:5-68
+16-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:11:22-65
+17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+17-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:12:5-81
+17-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:13:5-79
+18-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:13:22-76
+19    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+19-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:14:5-83
+19-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:14:22-80
+20    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+20-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:15:5-88
+20-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:15:22-85
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+22
+23    <application
+23-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:17:5-79:19
+24        android:name="ar.rulosoft.mimanganu.MiMangaNuApplication"
+24-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:18:9-45
+25        android:allowBackup="true"
+25-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:19:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.1.0] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:20:9-43
+29        android:label="@string/app_name"
+29-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:21:9-41
+30        android:largeHeap="true"
+30-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:22:9-33
+31        android:requestLegacyExternalStorage="true"
+31-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:23:9-52
+32        android:supportsRtl="true"
+32-->[com.github.sevar83:indeterminate-checkbox:1.0.5] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\3d0809bad52ea6c8dfdd50811f155e57\jetified-indeterminate-checkbox-1.0.5\AndroidManifest.xml:14:9-35
+33        android:usesCleartextTraffic="true" >
+33-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:24:9-44
+34        <activity
+34-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:25:9-27:63
+35            android:name="ar.rulosoft.mimanganu.utils.RequestWebViewUserAction"
+35-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:26:13-59
+36            android:theme="@style/Theme.AppCompat" />
+36-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:27:13-51
+37        <activity
+37-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:28:9-32:65
+38            android:name="ar.rulosoft.mimanganu.utils.autotest.RunAutoTest"
+38-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:29:13-55
+39            android:screenOrientation="landscape"
+39-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:30:13-50
+40            android:theme="@style/Theme.AppCompat" />
+40-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:31:13-51
+41
+42        <provider
+42-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:34:9-42:20
+43            android:name="androidx.core.content.FileProvider"
+43-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:35:13-62
+44            android:authorities="ar.rulosoft.provider"
+44-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:36:13-55
+45            android:exported="false"
+45-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:37:13-37
+46            android:grantUriPermissions="true" >
+46-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:38:13-47
+47            <meta-data
+47-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:39:13-41:58
+48                android:name="android.support.FILE_PROVIDER_PATHS"
+48-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:40:17-67
+49                android:resource="@xml/provider_paths" />
+49-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:41:17-55
+50        </provider>
+51        <!--
+52            Better if app starts dark and turns white than blinds you with white splash screen
+53            before it turns dark.
+54
+55            MainActivity's launchMode needs to be "standard" for onActivityResult to work
+56            note: we don't currently use onActivityResult
+57        -->
+58        <activity
+58-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:50:9-60:20
+59            android:name="ar.rulosoft.mimanganu.SplashActivity"
+59-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:51:13-43
+60            android:label="@string/app_name"
+60-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:52:13-45
+61            android:launchMode="standard"
+61-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:53:13-42
+62            android:theme="@style/SplashTheme" >
+62-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:54:13-47
+63            <intent-filter>
+63-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:55:13-59:29
+64                <action android:name="android.intent.action.MAIN" />
+64-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:56:17-69
+64-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:56:25-66
+65
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:58:17-77
+66-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:58:27-74
+67            </intent-filter>
+68        </activity>
+69        <activity
+69-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:61:9-63:39
+70            android:name="ar.rulosoft.mimanganu.MainActivity"
+70-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:62:13-41
+71            android:exported="true" />
+71-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:63:13-36
+72
+73        <receiver android:name="ar.rulosoft.mimanganu.utils.NotificationDeleteIntentReceiver" />
+73-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:65:9-76
+73-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:65:19-73
+74        <receiver android:name="ar.rulosoft.mimanganu.utils.CancelIntentReceiver" />
+74-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:66:9-64
+74-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:66:19-61
+75        <receiver android:name="ar.rulosoft.mimanganu.utils.NetworkUtilsAndReceiver" >
+75-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:67:9-72:20
+75-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:67:19-64
+76            <intent-filter>
+76-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:68:13-71:29
+77                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+77-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:69:17-79
+77-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:69:25-76
+78                <action android:name="android.net.wifi.WIFI_STATE_CHANGED" />
+78-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:70:17-78
+78-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:70:25-75
+79            </intent-filter>
+80        </receiver>
+81
+82        <service android:name="ar.rulosoft.mimanganu.services.DownloadPoolService" />
+82-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:74:9-65
+82-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:74:18-62
+83
+84        <activity
+84-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:76:9-78:56
+85            android:name="ar.rulosoft.mimanganu.MessageActivity"
+85-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:77:13-44
+86            android:theme="@style/Theme.Transparent" />
+86-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\MiMangaNu\app\src\main\AndroidManifest.xml:78:13-53
+87
+88        <service
+88-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:17:9-20:72
+89            android:name="com.evernote.android.job.v21.PlatformJobService"
+89-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:18:13-75
+90            android:exported="false"
+90-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:19:13-37
+91            android:permission="android.permission.BIND_JOB_SERVICE" />
+91-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:20:13-69
+92        <service
+92-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:21:9-24:72
+93            android:name="com.evernote.android.job.v14.PlatformAlarmService"
+93-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:22:13-77
+94            android:exported="false"
+94-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:23:13-37
+95            android:permission="android.permission.BIND_JOB_SERVICE" />
+95-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:24:13-69
+96        <service
+96-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:25:9-27:40
+97            android:name="com.evernote.android.job.v14.PlatformAlarmServiceExact"
+97-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:26:13-82
+98            android:exported="false" />
+98-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:27:13-37
+99
+100        <receiver
+100-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:29:9-38:20
+101            android:name="com.evernote.android.job.v14.PlatformAlarmReceiver"
+101-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:30:13-78
+102            android:exported="false" >
+102-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:31:13-37
+103            <intent-filter>
+103-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:32:13-37:29
+104
+105                <!-- Keep the filter for legacy intents -->
+106                <action android:name="com.evernote.android.job.v14.RUN_JOB" />
+106-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:35:17-79
+106-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:35:25-76
+107                <action android:name="net.vrallev.android.job.v14.RUN_JOB" />
+107-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:36:17-78
+107-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:36:25-75
+108            </intent-filter>
+109        </receiver>
+110        <receiver
+110-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:39:9-48:20
+111            android:name="com.evernote.android.job.JobBootReceiver"
+111-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:40:13-68
+112            android:exported="false" >
+112-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:41:13-37
+113            <intent-filter>
+113-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:42:13-47:29
+114                <action android:name="android.intent.action.BOOT_COMPLETED" />
+114-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:43:17-79
+114-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:43:25-76
+115                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+115-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:44:17-82
+115-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:44:25-79
+116                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+116-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:45:17-82
+116-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:45:25-79
+117                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+117-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:46:17-84
+117-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:46:25-81
+118            </intent-filter>
+119        </receiver>
+120
+121        <service
+121-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:50:9-58:19
+122            android:name="com.evernote.android.job.gcm.PlatformGcmService"
+122-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:51:13-75
+123            android:enabled="false"
+123-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:52:13-36
+124            android:exported="true"
+124-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:53:13-36
+125            android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE" >
+125-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:54:13-93
+126            <intent-filter>
+126-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:55:13-57:29
+127                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY" />
+127-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:56:17-87
+127-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:56:25-84
+128            </intent-filter>
+129        </service>
+130        <service
+130-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:59:9-62:72
+131            android:name="com.evernote.android.job.JobRescheduleService"
+131-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:60:13-73
+132            android:exported="false"
+132-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:61:13-37
+133            android:permission="android.permission.BIND_JOB_SERVICE" />
+133-->[com.evernote:android-job:1.4.2] C:\Users\jcall\.gradle\caches\transforms-2\files-2.1\5dfcb374fb88812e07a6860bc88eacfc\jetified-android-job-1.4.2\AndroidManifest.xml:62:13-69
+134    </application>
+135
+136</manifest>

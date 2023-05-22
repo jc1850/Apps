@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw376dp-v13\\values-sw376dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\values-sw376dp\\styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "693",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "797"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "157"
+                    }
+                }
+            ]
+        }
+    ]
+}

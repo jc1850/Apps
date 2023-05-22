@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_feedback.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thumb_up_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_thumb_up_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_footer.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_release.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_release.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_sc_bookmark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\sc_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout-w820dp-land_activity_compose.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout-w820dp-land\\activity_compose.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_zoom_out_map_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_zoom_out_map_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow_back_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_arrow_back_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sc_new_releases.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\sc_new_releases.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_story.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_volume_up_black_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_volume_up_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_sc_trending.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\sc_trending.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_favorite.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_widget_light.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_widget_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_contextual_story.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_contextual_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_help_navigation.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\help_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_appwidget_preview.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_readability.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_readability.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_expand_more_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_expand_more_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_help_volume.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\help_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_include_help_list_view.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\include_help_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_button_reply.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\button_reply.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_work_white_18dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_work_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_in_up.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_empty_favorite.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\empty_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_appwidget_light.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\bg_appwidget_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_web.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\fragment_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_appwidget_preview.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_preference_help.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\preference_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_header.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bookmark_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_bookmark_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_item_compact.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_item_compact.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_progress.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_app.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_app.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_reply_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_reply_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout-w820dp-land_activity_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout-w820dp-land\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_thread_preview.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_thread_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_sc_new_releases.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\sc_new_releases.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_volume_down_black_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_volume_down_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_appwidget_preview.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_comment_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_comment_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_history_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_history_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_drawer_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\bg_drawer_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_sc_bookmark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\sc_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_item.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_chrome_reader_mode_black_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_chrome_reader_mode_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_backup.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\anim_slide_out_down.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\anim\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_appwidget.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\appwidget.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_item.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_help_list_view.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\help_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_button_comment.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\button_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sc_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\sc_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_submit.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_lock_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_lock_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_trending_up_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_trending_up_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_send_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_send_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_appwidget_dark.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\appwidget_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_comments.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_sc_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\sc_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg_drawer_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\bg_drawer_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_drawer_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_drawer_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_widget.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_contextual_favorite.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_contextual_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_help_lazy_load.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\help_lazy_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_share_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_share_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_done_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_done_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg_drawer_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\bg_drawer_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_share.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save_white_48dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_save_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_empty_item.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\empty_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_preference_spinner.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\preference_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_poll_white_18dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_poll_white_18dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_palette_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_palette_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_konami.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\dialog_konami.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_appwidget_preview.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_new_releases_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_new_releases_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_sc_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\sc_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_web.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_button_download.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\button_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_preferences.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_compose.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_compose.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_user_header.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\user_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_person_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_bg_drawer_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\bg_drawer_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_offline_web.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_offline_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_local_library_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_local_library_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_category.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_favorite.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_sc_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\sc_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_sc_trending.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\sc_trending.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_compose.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_compose.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_appwidget.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\bg_appwidget.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_bg_drawer_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\bg_drawer_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_preference_theme.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\preference_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_bg_drawer_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\bg_drawer_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_drawer.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_item.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_syncadapter.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_delete_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_delete_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_clear_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_clear_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_dummy_transparent_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_dummy_transparent_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_info_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_info_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sc_bookmark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\sc_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_touch_app_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_touch_app_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_expand_less_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_expand_less_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_empty_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\empty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_include_help_lazy_load.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\include_help_lazy_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_offline.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_offline.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_drawer_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\bg_drawer_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_button_navigation.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\button_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_font.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_gamepad_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_gamepad_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_settings_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_settings_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_drawer_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\bg_drawer_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bookmark_border_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_bookmark_border_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_include_appwidget.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\include_appwidget.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sc_trending.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\sc_trending.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_sc_new_releases.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\sc_new_releases.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_refresh_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_refresh_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_local_story_view.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\local_story_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_empty_search.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\empty_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_more_vert_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_more_vert_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_sort_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_sort_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_sc_bookmark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\sc_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cloud_off_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_cloud_off_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_chat_bubble_outline_white_48dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_chat_bubble_outline_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_contextual_comment.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_contextual_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_theme_view.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\theme_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_appwidget_info.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\appwidget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_feedback_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_feedback_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_cloud_off_white_48dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_cloud_off_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_web_black_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_web_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_sort.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sc_bookmark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\sc_bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_sc_trending.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\sc_trending.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_open_in_browser_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_open_in_browser_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_search.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_list_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_list_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_whatshot_orange500_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_whatshot_orange500_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_searchable_stories.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\searchable_stories.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_power_settings_new_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_power_settings_new_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_help_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_help_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_local_library_white_48dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_local_library_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_favorite.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\fragment_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_popular.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_popular.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_submit.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_story_view.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\story_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_widget.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_sc_new_releases.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxhdpi\\sc_new_releases.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_work_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_work_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_popup_settings.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\fragment_popup_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_settings.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_searchable_favorite.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\searchable_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_favorite_action.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_favorite_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar_web.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\toolbar_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_widget_config.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_widget_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_bg_drawer_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xhdpi\\bg_drawer_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_display.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_display.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_appwidget_light.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\appwidget_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_sc_trending.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-xxxhdpi\\sc_trending.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_touch_app_white_48dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_touch_app_white_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_submission.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_format_quote_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_format_quote_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_appwidget_dark.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\bg_appwidget_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_format_size_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_format_size_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_item_view.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_appwidget_preview.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-mdpi\\appwidget_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_preferences_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\preferences_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sc_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\sc_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_preference_category_hint.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\preference_category_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_button_more.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\button_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_sc_new_releases.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable-hdpi\\sc_new_releases.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_drawer.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\layout\\activity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_article.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\menu\\menu_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_whatshot_orange500_18dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_whatshot_orange500_18dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\xml_authenticator.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow_forward_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_arrow_forward_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_live_help_white_24dp.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\drawable\\ic_live_help_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

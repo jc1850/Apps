@@ -1,0 +1,12 @@
+digraph G1 {
+  concentrate = true;
+  n2 [label="ReadabilityClient$Impl"];
+  n3 [label="@javax.inject.Named(value=io)/rx.Scheduler"];
+  n2 -> n3;
+  n4 [label="@javax.inject.Named(value=main)/rx.Scheduler"];
+  n2 -> n4;
+  n2 -> LocalCache;
+  n2 -> RestServiceFactory;
+  ReadabilityClientTest -> LocalCache;
+  ReadabilityClientTest -> RestServiceFactory;
+}

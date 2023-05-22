@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v23\\values-night-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\materialistic\\app\\src\\main\\res\\values-night-v23\\themes.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "693",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "909"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "268"
+                    }
+                }
+            ]
+        }
+    ]
+}

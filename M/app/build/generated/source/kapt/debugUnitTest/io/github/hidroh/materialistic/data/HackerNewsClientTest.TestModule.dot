@@ -1,0 +1,13 @@
+digraph G1 {
+  concentrate = true;
+  n2 [label="@javax.inject.Named(value=io)/rx.Scheduler"];
+  HackerNewsClient -> n2;
+  n3 [label="@javax.inject.Named(value=main)/rx.Scheduler"];
+  HackerNewsClient -> n3;
+  HackerNewsClient -> FavoriteManager;
+  HackerNewsClient -> RestServiceFactory;
+  HackerNewsClient -> SessionManager;
+  HackerNewsClientTest -> FavoriteManager;
+  HackerNewsClientTest -> RestServiceFactory;
+  HackerNewsClientTest -> SessionManager;
+}

@@ -1,0 +1,1622 @@
+[
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_bajar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bajar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_kumanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\kumanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_control_tapa_manga.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\control_tapa_manga.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_screen_portrait.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_screen_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_readcomiconline.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\readcomiconline.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_view_as_grid.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_view_as_grid.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_action_search.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_x_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_x_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_clasico.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_clasico.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_action_done.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_action_done.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_screen_free.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_screen_free.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_manganelo.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\manganelo.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_ru.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_ru.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mymanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mymanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_av_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_av_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_listitem_mis_mangas.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\listitem_mis_mangas.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_from_folder.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\from_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_remove.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_menu_reader.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\menu_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_ic_order_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-ldpi\\ic_order_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_original.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_original.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_arrow_back_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxhdpi\\ic_arrow_back_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_select_from.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_select_from.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_selecionar_todos.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_selecionar_todos.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_edit_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-mdpi\\ic_edit_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_listitem_capitulo_menu_cab.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\listitem_capitulo_menu_cab.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_launcher_white.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_fragment_preferences.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\xml\\fragment_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_batoto.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\batoto.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_content_filter.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_content_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_run_auto_test_item.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\run_auto_test_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_delete_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_delete_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_control_tapa_serie.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\control_tapa_serie.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_screen_free.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_screen_free.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_details.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_info_bg.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-ldpi\\info_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_mantain_screen_off.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_mantain_screen_off.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_mantain_screen_off.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_mantain_screen_off.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_selecionar_todo.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_selecionar_todo.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_control_info_no_scroll.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\control_info_no_scroll.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_sync.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_screen_landscape.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_screen_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_selecionar_todos.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_selecionar_todos.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_run_auto_test.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\activity_run_auto_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_original.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_original.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_download_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_download_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_view_reader_page.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\view_reader_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_ic_edit_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-ldpi\\ic_edit_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_sni_cloudflaressl_1.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\sni_cloudflaressl_1"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_leomanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\leomanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_select_to.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_select_to.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_download_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xhdpi\\ic_download_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_screen_free.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_screen_free.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_image_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_image_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_border_black.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable\\border_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_control_info.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\control_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_ajustar_diagonal.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_ajustar_diagonal.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_screen_landscape.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_screen_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_esmanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\esmanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_desume.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\desume.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_mantain_screen_off.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_mantain_screen_off.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_bajar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_bajar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_unread.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_unread.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_download_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxxhdpi\\ic_download_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_mantain_screen_on.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_mantain_screen_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_readmangatoday.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\readmangatoday.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_continuous.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_continuous.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_ajustar_alto.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_ajustar_alto.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_content_new.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_content_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_launcher_white.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_download_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_download_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_listitem_capitulo.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\listitem_capitulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_japscan.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\japscan.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_delete_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_delete_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_x_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_x_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangakawaii.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangakawaii.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_content_new.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_content_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_it.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_it.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_kissmanga_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\kissmanga_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_screen_landscape.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_screen_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_1a9.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_1a9.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_ajustar_ancho.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_ajustar_ancho.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_serveruc.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\serveruc.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_edit_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xhdpi\\ic_edit_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_screen_free.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_screen_free.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_add_manga.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_add_manga.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_viewcomic.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\viewcomic.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_downloads.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_downloads.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_order_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-hdpi\\ic_order_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_screen_portrait.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_screen_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_order_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxhdpi\\ic_order_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_arrow_back_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-hdpi\\ic_arrow_back_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_content_filter.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_screen_portrait.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_screen_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_edit_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-hdpi\\ic_edit_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_borrar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_borrar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_menu_server_select.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\menu_server_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_action_done.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_action_done.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_x.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_x.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_listitem_dir.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\listitem_dir.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_delete_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_sync.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_verical.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_verical.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_image_filter_none.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_image_filter_none.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_original.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_original.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_submanga_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\submanga_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_navigation_previous_item.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_navigation_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_delete_images.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete_images.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_action_done.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_action_done.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_action_settings.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_download_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_download_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_numpicker_pref.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\dialog_numpicker_pref.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_image_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_image_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_listitem_server_manga.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\listitem_server_manga.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_selecionar_todos.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_selecionar_todos.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_border.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_seekbar_pref.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\dialog_seekbar_pref.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_sync.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_enter_from_right.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\anim\\enter_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_select_to.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_select_to.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_gridview_mismangas.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\gridview_mismangas.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_x_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_x_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_x_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_x_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangashironet.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangashironet.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_screen_free.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_screen_free.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangareader.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangareader.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-anydpi-v21_ic_arrow_back_white_vd.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-anydpi-v21\\ic_arrow_back_white_vd.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_manga_server.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\manga_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_download_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_download_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_ic_borrar_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_ic_borrar_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_remove.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-anydpi-v21_ic_download_white_vd.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-anydpi-v21\\ic_download_white_vd.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_readmangame.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\readmangame.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_view_paged_reader_vertical.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\view_paged_reader_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_img1_lectortmo_com.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\img1_lectortmo_com"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_remove.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangaeden.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangaeden.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_ajustar_ancho.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_ajustar_ancho.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_paged.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_paged.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_ajustar_alto.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_ajustar_alto.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_inverso.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_inverso.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_notif.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-ldpi\\notif.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_view_as_list.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_mantain_screen_off.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_mantain_screen_off.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_delete_images.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_delete_images.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_view_as_grid.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_delete_images.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_delete_images.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_readcomicstv.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\readcomicstv.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_select_to.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_select_to.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_manga.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_manga.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_divider.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_download_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxhdpi\\ic_download_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_continuous.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_continuous.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_delete_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_delete_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_mantain_screen_off.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_mantain_screen_off.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_x.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_x.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_screen_portrait.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_screen_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_listitem_server.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\listitem_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_arrow_back_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-mdpi\\ic_arrow_back_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_x_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_x_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_content_filter.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_content_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_exit_to_right.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\anim\\exit_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_verical.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_verical.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_inmanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\inmanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_paged.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_paged.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_view_as_list.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_ajustar_diagonal.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_ajustar_diagonal.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_view_as_list.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_download_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_download_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_ic_borrar_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_ic_borrar_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_content_filter.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_content_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_select_from.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_select_from.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_ic_borrar_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_ic_borrar_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_no_more_chapters.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\dialog_no_more_chapters.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_borrar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_borrar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_continuous.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_continuous.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_screen_portrait.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_screen_portrait.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_download_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_download_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_ajustar_diagonal.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_ajustar_diagonal.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_listitem_server_menu_cab.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\listitem_server_menu_cab.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_ic_borrar_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_ic_borrar_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_inverso.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_inverso.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_image_filter_none.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_image_filter_none.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_preference_color_chose_widget.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\preference_color_chose_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_download_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_download_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_lectureenligne_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\lectureenligne_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_indo.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_indo.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_mangatownsecureimages.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\mangatownsecureimages"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_edit_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxxhdpi\\ic_edit_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_download_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_download_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_sni_cloudflaressl_2.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\sni_cloudflaressl_2"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_download_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_download_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_request_webview_user_action.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\activity_request_webview_user_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_view_mismangas.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\view_mismangas.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_senmanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\senmanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_order_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxxhdpi\\ic_order_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_download_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-hdpi\\ic_download_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_remove.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_image_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_image_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_content_filter.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_content_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_ar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_ar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_menu_manga.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\menu_manga.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_delete_images.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_delete_images.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_stay.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\anim\\stay.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_enter_from_left.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mintmanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mintmanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_image_filter_none.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_image_filter_none.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_ajustar_alto.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_ajustar_alto.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_1a9.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_1a9.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_read.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_read.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_server_visual_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_server_visual_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_ajustar_ancho.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_ajustar_ancho.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_ic_download_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-ldpi\\ic_download_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_x_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_x_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_paged.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_paged.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_action_done.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_action_done.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_add.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_server_plain_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_server_plain_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_listitem_color.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\listitem_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_borrar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_borrar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_fr.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_fr.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_login.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\dialog_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_mantain_screen_on.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_mantain_screen_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_action_search.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_navigation_previous_item.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_navigation_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_image_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_image_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_read.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_read.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_serverok.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\serverok.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_ajustar_al_mayor.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_ajustar_al_mayor.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_ajustar_al_mayor.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_ajustar_al_mayor.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_ajustar_ancho.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_ajustar_ancho.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_action_done.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_action_done.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_x.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_x.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangapedia.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangapedia.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_serverko.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\serverko.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_menu_downloads.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\menu_downloads.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_1a9.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_1a9.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_select_to.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_select_to.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable_background_splash.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_ajustar_al_mayor.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_ajustar_al_mayor.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_exit_to_left.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\anim\\exit_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangastream.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangastream.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_next_chapter.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\dialog_next_chapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_reader.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_screen_landscape.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_screen_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxhdpi_ic_launcher_white.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangapanda_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangapanda_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_action_settings.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_esmangaonline_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\esmangaonline_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_es.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_es.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_inverso.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_inverso.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_search_result.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_arrow_back_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xhdpi\\ic_arrow_back_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_action_settings.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangafox_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangafox_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_order_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-mdpi\\ic_order_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_mantain_screen_on.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_mantain_screen_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_av_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_av_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_1a9.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_1a9.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_ic_arrow_back_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-ldpi\\ic_arrow_back_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_action_settings.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_action_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_reader_options.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\reader_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-anydpi-v21_ic_edit_white_vd.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-anydpi-v21\\ic_edit_white_vd.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_delete_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_vercomicscom.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\vercomicscom.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_view_as_grid.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_view_as_grid.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_select_from.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_select_from.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_original.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_original.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_x.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_x.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_arrow_back_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxxhdpi\\ic_arrow_back_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_en.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_en.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_continuous.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_continuous.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_image_preview.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-ldpi\\image_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_simple_input_dialog.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\simple_input_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_de.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_de.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangahere_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangahere_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_mantain_screen_on.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_mantain_screen_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_view_license.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\view_license.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_paged.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_paged.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_mantain_screen_on.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_mantain_screen_on.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_delete_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_delete_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_screen_landscape.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_screen_landscape.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_mangaherecoimages.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\mangaherecoimages"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_clasico.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_clasico.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_content_new.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_content_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangatube.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangatube.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangatown.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangatown.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_ajustar_alto.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_ajustar_alto.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_bajar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_bajar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_heavenmanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\heavenmanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_av_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_av_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_av_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_av_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_config_reader.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_config_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_mangaae.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\mangaae.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_verical.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_verical.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_paged.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_paged.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_content_new.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_content_new.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_select_from.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_select_from.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_folder.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_image_reload.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_image_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_launcher_white.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_taadd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\taadd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_check.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_check.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_clasico.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_clasico.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_download_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-mdpi\\ic_download_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_edit_white_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xxhdpi\\ic_edit_white_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_9a1.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_9a1.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_mangahereco.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\mangahereco"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_view_paged_reader.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\view_paged_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_x_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_x_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_order_vd.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-xhdpi\\ic_order_vd.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_image_filter_none.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_image_filter_none.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_fragment_descargas.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\fragment_descargas.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_x_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_x_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_download_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_download_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_read.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_read.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_activity_main_no_permision.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\activity_main_no_permision.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_tumangaonline_me.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\tumangaonline_me"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_select_directory.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\dialog_select_directory.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_listitem_descarga.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\listitem_descarga.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_view_as_list.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_view_as_list.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-mdpi_ic_launcher_white.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_white.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_neumangatv.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\neumangatv.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_dialog_update.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\dialog_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_sync.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_sync.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_ajustar_al_mayor.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_ajustar_al_mayor.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_9a1.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_9a1.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_selecionar_todo.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_selecionar_todo.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_read.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_read.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_action_search.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_delete_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_delete_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_delete_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_delete_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_select_to.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_select_to.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-ldpi_color_list.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-ldpi\\color_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_9a1.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_9a1.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_lectortmo_com.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\lectortmo_com"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_starkana.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\starkana.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_gogocomic.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\gogocomic.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ninemanga.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ninemanga.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_select_from.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_select_from.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_ajustar_diagonal.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_ajustar_diagonal.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_manga_server_visual.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\manga_server_visual.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_clasico.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_clasico.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_delete_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_delete_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\layout_preference_seekbar_widget_layout.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\layout\\preference_seekbar_widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_mangafoxme.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\mangafoxme"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_action_navigation_previous_item.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_action_navigation_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_inverso.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_inverso.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_bajar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_bajar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_verical.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_verical.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_selecionar_todo.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_selecionar_todo.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-anydpi-v21_ic_order_vd.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\generated\\res\\pngs\\fdroid\\debug\\drawable-anydpi-v21\\ic_order_vd.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_tumangaonline.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\tumangaonline"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_continuous.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_continuous.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_flag_raw.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\flag_raw.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_ic_borrar.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\ic_borrar.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_tumangaonline_icon.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\tumangaonline_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_selecionar_todo.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_selecionar_todo.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_x_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_x_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxxhdpi_ic_action_delete_light.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_delete_light.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\raw_mangatowncom.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\raw\\mangatowncom"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_x_dark.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_x_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_selecionar_todos.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_selecionar_todos.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\menu_menu_manga_item_server_nav.xml.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\menu\\menu_manga_item_server_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xhdpi_ic_action_9a1.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_9a1.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_navigation_previous_item.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_navigation_previous_item.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_config_reader.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_config_reader.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_serverwn.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\serverwn.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-xxhdpi_ic_action_action_search.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-hdpi_noimage.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-hdpi\\noimage.png"
+    },
+    {
+        "merged": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\build\\intermediates\\res\\merged\\fdroid\\debug\\drawable-mdpi_rip.png.flat",
+        "source": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\covered\\MiMangaNu\\app\\src\\main\\res\\drawable-mdpi\\rip.png"
+    }
+]

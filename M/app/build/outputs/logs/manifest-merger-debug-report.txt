@@ -1,0 +1,674 @@
+-- Merging decision tree log ---
+data
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:99:17-102:57
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:230:17-233:57
+	android:host
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:78:21-56
+	android:scheme
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:80:21-43
+	android:mimeType
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:190:23-52
+	android:pathPrefix
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:79:21-47
+manifest
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5.4] C:\Users\jcall\.gradle\caches\transforms-3\6dbf05d715543ce35e194ef13730db1e\transformed\leakcanary-android-no-op-1.5.4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\jcall\.gradle\caches\transforms-3\ce2d27a38c89d783c10f82c10ff827d3\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\2e27b84e305f2d49c476ac08743f9cc3\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\jcall\.gradle\caches\transforms-3\3943084734dd691628223822f789caf9\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\jcall\.gradle\caches\transforms-3\907746753281bdfab14af0bd9d86e67b\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\e58fbe3ce6927474f7c6873e748efefd\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\jcall\.gradle\caches\transforms-3\0bf6591636ec01ae08d1c2bf0efc2a0e\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\94755b35bb716e0ff11976ed59429bba\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\00e3cc2f4f4cb8c9ab0129fd321e5c7d\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\jcall\.gradle\caches\transforms-3\f733251b59a68c0530c0bc7bcdd34740\transformed\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\jcall\.gradle\caches\transforms-3\8617ac2d86fed0f322ce4172a1461e6a\transformed\rxandroid-1.2.1\AndroidManifest.xml:15:1-21:12
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\e7e47d742c15f5010282ee915a872bfa\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\d93f3fbd1312962ac6713694884804b5\transformed\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\67700e1b40c6439d728f5617be486268\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\jcall\.gradle\caches\transforms-3\cce2bb9331af388b70dbf73d7bbc2a9d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\jcall\.gradle\caches\transforms-3\b98832efe03da291d1193fd66b909e52\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\jcall\.gradle\caches\transforms-3\95b76d0082afb1b1e1bc34e669a36c75\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\c18971d2edad62bfb30fc37613419cf5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\033c53c2cebb5ed107e4a32f5853c64c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\28f57f2e77b679ab441e0fb6f0347d76\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\cc2080ac4147c6112e8cd19568ce75b0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\fb05ae01ffb6f710060845711d59a679\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jcall\.gradle\caches\transforms-3\0985a69ac634ab345bba968bca8e4655\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\a881bbabf5552c8df61db19f29ba3873\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\721ec5693b7fec4375558090ffbbd325\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\5750db3abb4b0d9856421b05d6845505\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\6d44c50598fa0115ac7b8b3fb68278a9\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\jcall\.gradle\caches\transforms-3\2d44a14d9614ad4f1c875a53e5eecdc4\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\2e2faffd5a0d838367a4bec6c8a0bf06\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\ac1e372ba398acb03f05639b00912714\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\0b9ce589c0e935bb9e7899d532fdd1cf\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\7c860bfb50f4b072f48370aa754f4928\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\089a9a57c55b4f93d6b072f1bd37c4c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\7ae51f5719bac7ea23d8f6df03392181\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\a98f4e36a609a3e74cf3f27bebe62b07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\6803ee96020e79afffcefb7b1b26276f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\693778cc8c2f73f903abe53c88ac9bf7\transformed\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\4b681548a47ef2ecac632d2de4788ea8\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\f7097fcec92f302ac12fe3db6390605b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5a03503777f72c1335205edb23b5e98\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\2680fcbbf4a159edb85e5a29e614b27e\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\5665c20ba13fd8422032f47122e497c1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\3720a0c3a8090058e1fa5e9dd8682670\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9b7b64be945d6184045ca7787d1b3ae2\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\12f882d674571861eae4ce112e4a23f2\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+	package
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:20:5-45
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:1-323:12
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:22:5-107
+	android:maxSdkVersion
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:22:78-104
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:23:5-98
+	android:maxSdkVersion
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:23:69-95
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:24:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:26:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:27:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:28:5-66
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:28:22-63
+permission#io.github.hidroh.materialistic.permission.SYNC_ITEM
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:30:5-31:47
+	android:protectionLevel
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:30:17-83
+permission#io.github.hidroh.materialistic.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:32:5-33:47
+	android:protectionLevel
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:32:17-95
+uses-permission#io.github.hidroh.materialistic.permission.SYNC_ITEM
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:34:5-91
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:34:22-88
+uses-permission#io.github.hidroh.materialistic.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:35:5-103
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:35:22-100
+uses-sdk
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:5-58
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:5-58
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:5-58
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5.4] C:\Users\jcall\.gradle\caches\transforms-3\6dbf05d715543ce35e194ef13730db1e\transformed\leakcanary-android-no-op-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5.4] C:\Users\jcall\.gradle\caches\transforms-3\6dbf05d715543ce35e194ef13730db1e\transformed\leakcanary-android-no-op-1.5.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\jcall\.gradle\caches\transforms-3\ce2d27a38c89d783c10f82c10ff827d3\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\jcall\.gradle\caches\transforms-3\ce2d27a38c89d783c10f82c10ff827d3\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\2e27b84e305f2d49c476ac08743f9cc3\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\2e27b84e305f2d49c476ac08743f9cc3\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\jcall\.gradle\caches\transforms-3\3943084734dd691628223822f789caf9\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\jcall\.gradle\caches\transforms-3\3943084734dd691628223822f789caf9\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\jcall\.gradle\caches\transforms-3\907746753281bdfab14af0bd9d86e67b\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\jcall\.gradle\caches\transforms-3\907746753281bdfab14af0bd9d86e67b\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\e58fbe3ce6927474f7c6873e748efefd\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\e58fbe3ce6927474f7c6873e748efefd\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\jcall\.gradle\caches\transforms-3\0bf6591636ec01ae08d1c2bf0efc2a0e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\jcall\.gradle\caches\transforms-3\0bf6591636ec01ae08d1c2bf0efc2a0e\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\94755b35bb716e0ff11976ed59429bba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\94755b35bb716e0ff11976ed59429bba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\00e3cc2f4f4cb8c9ab0129fd321e5c7d\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\00e3cc2f4f4cb8c9ab0129fd321e5c7d\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\jcall\.gradle\caches\transforms-3\f733251b59a68c0530c0bc7bcdd34740\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\jcall\.gradle\caches\transforms-3\f733251b59a68c0530c0bc7bcdd34740\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\jcall\.gradle\caches\transforms-3\8617ac2d86fed0f322ce4172a1461e6a\transformed\rxandroid-1.2.1\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\jcall\.gradle\caches\transforms-3\8617ac2d86fed0f322ce4172a1461e6a\transformed\rxandroid-1.2.1\AndroidManifest.xml:19:5-43
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\e7e47d742c15f5010282ee915a872bfa\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\e7e47d742c15f5010282ee915a872bfa\transformed\lifecycle-viewmodel-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\d93f3fbd1312962ac6713694884804b5\transformed\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\d93f3fbd1312962ac6713694884804b5\transformed\lifecycle-livedata-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\67700e1b40c6439d728f5617be486268\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\67700e1b40c6439d728f5617be486268\transformed\lifecycle-livedata-core-ktx-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\jcall\.gradle\caches\transforms-3\cce2bb9331af388b70dbf73d7bbc2a9d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\jcall\.gradle\caches\transforms-3\cce2bb9331af388b70dbf73d7bbc2a9d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\jcall\.gradle\caches\transforms-3\b98832efe03da291d1193fd66b909e52\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\jcall\.gradle\caches\transforms-3\b98832efe03da291d1193fd66b909e52\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\jcall\.gradle\caches\transforms-3\95b76d0082afb1b1e1bc34e669a36c75\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\jcall\.gradle\caches\transforms-3\95b76d0082afb1b1e1bc34e669a36c75\transformed\appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\c18971d2edad62bfb30fc37613419cf5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\c18971d2edad62bfb30fc37613419cf5\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\033c53c2cebb5ed107e4a32f5853c64c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\033c53c2cebb5ed107e4a32f5853c64c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\28f57f2e77b679ab441e0fb6f0347d76\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\28f57f2e77b679ab441e0fb6f0347d76\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\cc2080ac4147c6112e8cd19568ce75b0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\cc2080ac4147c6112e8cd19568ce75b0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\fb05ae01ffb6f710060845711d59a679\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\fb05ae01ffb6f710060845711d59a679\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jcall\.gradle\caches\transforms-3\0985a69ac634ab345bba968bca8e4655\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\jcall\.gradle\caches\transforms-3\0985a69ac634ab345bba968bca8e4655\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\a881bbabf5552c8df61db19f29ba3873\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\a881bbabf5552c8df61db19f29ba3873\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\721ec5693b7fec4375558090ffbbd325\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\721ec5693b7fec4375558090ffbbd325\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\5750db3abb4b0d9856421b05d6845505\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\5750db3abb4b0d9856421b05d6845505\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\6d44c50598fa0115ac7b8b3fb68278a9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\6d44c50598fa0115ac7b8b3fb68278a9\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\jcall\.gradle\caches\transforms-3\2d44a14d9614ad4f1c875a53e5eecdc4\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\jcall\.gradle\caches\transforms-3\2d44a14d9614ad4f1c875a53e5eecdc4\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\2e2faffd5a0d838367a4bec6c8a0bf06\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\2e2faffd5a0d838367a4bec6c8a0bf06\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\ac1e372ba398acb03f05639b00912714\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\ac1e372ba398acb03f05639b00912714\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\0b9ce589c0e935bb9e7899d532fdd1cf\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\0b9ce589c0e935bb9e7899d532fdd1cf\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\7c860bfb50f4b072f48370aa754f4928\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\7c860bfb50f4b072f48370aa754f4928\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\089a9a57c55b4f93d6b072f1bd37c4c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\089a9a57c55b4f93d6b072f1bd37c4c0\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\7ae51f5719bac7ea23d8f6df03392181\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\7ae51f5719bac7ea23d8f6df03392181\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\a98f4e36a609a3e74cf3f27bebe62b07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\a98f4e36a609a3e74cf3f27bebe62b07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\6803ee96020e79afffcefb7b1b26276f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\6803ee96020e79afffcefb7b1b26276f\transformed\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\693778cc8c2f73f903abe53c88ac9bf7\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\693778cc8c2f73f903abe53c88ac9bf7\transformed\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\4b681548a47ef2ecac632d2de4788ea8\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\4b681548a47ef2ecac632d2de4788ea8\transformed\lifecycle-livedata-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\f7097fcec92f302ac12fe3db6390605b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\jcall\.gradle\caches\transforms-3\f7097fcec92f302ac12fe3db6390605b\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5a03503777f72c1335205edb23b5e98\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5a03503777f72c1335205edb23b5e98\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\2680fcbbf4a159edb85e5a29e614b27e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\jcall\.gradle\caches\transforms-3\2680fcbbf4a159edb85e5a29e614b27e\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\5665c20ba13fd8422032f47122e497c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\5665c20ba13fd8422032f47122e497c1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\3720a0c3a8090058e1fa5e9dd8682670\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\3720a0c3a8090058e1fa5e9dd8682670\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9b7b64be945d6184045ca7787d1b3ae2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9b7b64be945d6184045ca7787d1b3ae2\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\12f882d674571861eae4ce112e4a23f2\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jcall\.gradle\caches\transforms-3\12f882d674571861eae4ce112e4a23f2\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:5-58
+INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:5-58
+	tools:overrideLibrary
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:15-55
+	android:targetSdkVersion
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:5-58
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:37:5-58
+		INJECTED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:39:5-321:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\jcall\.gradle\caches\transforms-3\ce2d27a38c89d783c10f82c10ff827d3\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\jcall\.gradle\caches\transforms-3\ce2d27a38c89d783c10f82c10ff827d3\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\jcall\.gradle\caches\transforms-3\3943084734dd691628223822f789caf9\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\jcall\.gradle\caches\transforms-3\3943084734dd691628223822f789caf9\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\jcall\.gradle\caches\transforms-3\2d44a14d9614ad4f1c875a53e5eecdc4\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\jcall\.gradle\caches\transforms-3\2d44a14d9614ad4f1c875a53e5eecdc4\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\a98f4e36a609a3e74cf3f27bebe62b07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\jcall\.gradle\caches\transforms-3\a98f4e36a609a3e74cf3f27bebe62b07\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\jcall\.gradle\caches\transforms-3\2d44a14d9614ad4f1c875a53e5eecdc4\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:41:9-36
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:46:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:43:9-48
+	tools:ignore
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:49:9-39
+	android:roundIcon
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:45:9-54
+	android:icon
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:44:9-43
+	android:allowBackup
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:42:9-35
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:48:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:47:9-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:40:9-36
+activity#io.github.hidroh.materialistic.LauncherActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:50:9-62:20
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:52:13-59
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:51:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:57:27-74
+meta-data#android.app.shortcuts
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:59:13-61:53
+	android:resource
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:61:17-50
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:60:17-53
+activity#io.github.hidroh.materialistic.ListActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:63:9-66:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:64:13-41
+activity#io.github.hidroh.materialistic.ItemActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:67:9-104:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:69:13-56
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:70:13-36
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:68:13-41
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:news.ycombinator.com+data:pathPrefix:/item+data:scheme:https
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:71:13-81:29
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:71:28-69
+action#android.intent.action.VIEW
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:72:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:74:17-76
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:74:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:75:17-78
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:75:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:news.ycombinator.com+data:pathPrefix:/item+data:scheme:http
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:82:13-92:29
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:82:28-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:item+data:pathPrefix:/+data:scheme:io.github.hidroh.materialistic
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:93:13-103:29
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:93:28-69
+activity#io.github.hidroh.materialistic.FavoriteActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:105:9-115:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:107:13-60
+	android:launchMode
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:108:13-43
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:109:13-36
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:106:13-45
+meta-data#android.app.searchable
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:110:13-111:63
+	android:resource
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:111:17-60
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:110:24-61
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:112:13-114:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:113:17-71
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:113:25-68
+activity#io.github.hidroh.materialistic.NewActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:116:9-119:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:118:13-55
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:117:13-40
+activity#io.github.hidroh.materialistic.ShowActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:120:9-123:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:122:13-56
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:121:13-41
+activity#io.github.hidroh.materialistic.AskActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:124:9-127:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:126:13-55
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:125:13-40
+activity#io.github.hidroh.materialistic.JobsActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:128:9-131:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:130:13-56
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:129:13-41
+activity#io.github.hidroh.materialistic.BestActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:132:9-135:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:134:13-56
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:133:13-41
+activity#io.github.hidroh.materialistic.PopularActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:136:9-139:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:138:13-59
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:137:13-44
+activity#io.github.hidroh.materialistic.SearchActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:140:9-149:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:142:13-58
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:143:13-36
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:141:13-43
+activity#io.github.hidroh.materialistic.AboutActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:150:9-153:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:152:13-57
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:151:13-42
+activity#io.github.hidroh.materialistic.SettingsActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:154:9-163:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:156:13-52
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:158:13-36
+	android:permission
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:157:13-74
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:155:13-45
+intent-filter#action:name:android.intent.action.APPLICATION_PREFERENCES+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:159:13-162:29
+action#android.intent.action.APPLICATION_PREFERENCES
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:160:17-88
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:160:25-85
+activity#io.github.hidroh.materialistic.PreferencesActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:164:9-167:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:166:13-52
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:165:13-48
+activity#io.github.hidroh.materialistic.OfflineWebActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:168:9-169:50
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:169:13-47
+activity#io.github.hidroh.materialistic.ReleaseNotesActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:170:9-173:53
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:172:13-59
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:173:13-50
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:171:13-49
+activity#io.github.hidroh.materialistic.LoginActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:174:9-178:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:176:13-57
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:177:13-50
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:175:13-42
+activity#io.github.hidroh.materialistic.FeedbackActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:179:9-182:20
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:181:13-50
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:180:13-45
+activity#io.github.hidroh.materialistic.SubmitActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:183:9-192:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:185:13-58
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:186:13-36
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:184:13-43
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:187:13-191:29
+action#android.intent.action.SEND
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:188:17-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:188:25-66
+activity#io.github.hidroh.materialistic.ComposeActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:193:9-196:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:195:13-59
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:194:13-44
+activity#io.github.hidroh.materialistic.UserActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:197:9-235:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:199:13-56
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:201:13-36
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:200:13-56
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:198:13-41
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:news.ycombinator.com+data:pathPrefix:/user+data:scheme:https
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:202:13-212:29
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:202:28-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:news.ycombinator.com+data:pathPrefix:/user+data:scheme:http
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:213:13-223:29
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:213:28-69
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:user+data:pathPrefix:/+data:scheme:io.github.hidroh.materialistic
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:224:13-234:29
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:224:28-71
+activity#io.github.hidroh.materialistic.ThreadPreviewActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:236:9-240:20
+	android:label
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:238:13-66
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:239:13-50
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:237:13-50
+activity#io.github.hidroh.materialistic.appwidget.WidgetConfigActivity
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:241:9-248:20
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:244:13-36
+	android:theme
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:243:13-50
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:242:13-59
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:245:13-247:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:246:17-87
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:246:25-84
+service#io.github.hidroh.materialistic.accounts.AuthenticatorService
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:249:9-258:19
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:251:13-36
+	android:permission
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:250:13-97
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:249:18-63
+intent-filter#action:name:android.accounts.AccountAuthenticator
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:252:13-254:29
+action#android.accounts.AccountAuthenticator
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:253:17-80
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:253:25-77
+meta-data#android.accounts.AccountAuthenticator
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:255:13-257:57
+	android:resource
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:257:17-54
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:256:17-69
+service#io.github.hidroh.materialistic.data.ItemSyncService
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:259:9-268:19
+	android:process
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:260:13-36
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:262:13-36
+	android:permission
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:261:13-85
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:259:18-54
+intent-filter#action:name:android.content.SyncAdapter
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:263:13-265:29
+action#android.content.SyncAdapter
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:264:17-70
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:264:25-67
+meta-data#android.content.SyncAdapter
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:266:13-267:55
+	android:resource
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:267:17-52
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:266:24-66
+service#io.github.hidroh.materialistic.data.ItemSyncJobService
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:269:9-272:39
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:272:13-36
+	android:permission
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:271:13-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:270:13-52
+service#io.github.hidroh.materialistic.appwidget.WidgetRefreshJobService
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:273:9-276:39
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:276:13-36
+	android:permission
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:275:13-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:274:13-62
+service#io.github.hidroh.materialistic.appwidget.WidgetService
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:277:9-279:72
+	android:permission
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:279:13-69
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:278:13-52
+service#io.github.hidroh.materialistic.data.WebCacheService
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:280:9-282:40
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:282:13-37
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:281:13-49
+provider#io.github.hidroh.materialistic.data.SyncContentProvider
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:283:9-286:40
+	android:authorities
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:284:13-78
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:286:13-37
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:285:13-53
+provider#io.github.hidroh.materialistic.data.SearchRecentSuggestionsProvider
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:287:9-290:40
+	android:authorities
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:288:13-80
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:290:13-37
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:289:13-65
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:291:9-299:20
+	android:grantUriPermissions
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:295:13-47
+	android:authorities
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:292:13-78
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:294:13-37
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:293:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:296:13-298:54
+	android:resource
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:298:17-51
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:297:17-67
+receiver#io.github.hidroh.materialistic.data.ItemSyncWifiReceiver
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:300:9-307:20
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:301:13-36
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:300:19-60
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:302:13-306:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:303:17-305:49
+	tools:ignore
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:305:21-47
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:304:21-72
+receiver#io.github.hidroh.materialistic.appwidget.WidgetProvider
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:308:9-320:20
+	android:exported
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:311:13-36
+	tools:ignore
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:310:13-44
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:309:13-53
+intent-filter#action:name:io.github.hidroh.materialistic.ACTION_REFRESH_WIDGET
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:312:13-314:29
+action#io.github.hidroh.materialistic.ACTION_REFRESH_WIDGET
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:313:17-95
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:313:25-92
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:315:13-317:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:316:17-84
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:316:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:318:13-319:65
+	android:resource
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:319:24-62
+	android:name
+		ADDED from C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\materialistic\app\src\main\AndroidManifest.xml:318:24-65
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] C:\Users\jcall\.gradle\caches\transforms-3\c7b70ea8638aee738fdec106a86b130d\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74

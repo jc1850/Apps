@@ -1,0 +1,128 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 30
+
+    defaultConfig {
+        applicationId "io.github.hidroh.materialistic"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 79
+        versionName "3.3"
+        buildConfigField "int", "LATEST_RELEASE", "77"
+        buildConfigField "String", "GITHUB_TOKEN", "\"\""
+        buildConfigField "String", "MERCURY_TOKEN", "\"\""
+        proguardFiles getDefaultProguardFile('proguard-android.txt'),
+                'proguard-rules.pro',
+                'proguard-square.pro',
+                'proguard-support.pro',
+                'proguard-rx.pro'
+        resConfigs "en", "zh-rCN", "es"
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled !rootProject.ext.ci
+        }
+        release {
+            minifyEnabled true
+            shrinkResources true
+        }
+    }
+
+    lintOptions {
+        htmlReport false
+        xmlReport false
+        textReport true
+        lintConfig file("${rootProject.getRootDir()}/lint.xml")
+        warningsAsErrors true
+        abortOnError true
+        explainIssues false
+        absolutePaths false
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    testOptions {
+        unitTests {
+            includeAndroidResources true
+            all {
+                // All the usual Gradle options.
+                testLogging {
+                    events "skipped", "failed", "standardOut", "standardError"
+                    showStandardStreams = true
+                }
+            }
+        }
+    }
+
+    aaptOptions {
+        cruncherEnabled = false
+    }
+}
+
+ext {
+    okHttpVersion = '3.9.1'
+    daggerVersion = '1.2.5'
+    leakCanaryVersion = '1.5.4'
+    retrofitVersion = '2.3.0'
+    roomVersion = '2.3.0'
+    lifecycleVersion = '2.3.1'
+}
+
+task classpath(type: Jar) {
+    from android.sourceSets.main.java.srcDirs,
+            android.sourceSets.test.java.srcDirs
+    outputs.upToDateWhen { false }
+    doLast {
+        println "Building classpath..."
+        def cp2 = [android.getBootClasspath()[0], it.archivePath]
+        android.applicationVariants.all { v ->
+            v.getCompileClasspath(null).getFiles().each{
+                File f->
+                    cp2 += f.getAbsolutePath()//this is the one of classpath
+            }
+        }
+        def classpath = cp2.unique().join(":")
+        println classpath
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.3.1',
+            'androidx.recyclerview:recyclerview:1.2.1',
+            'androidx.cardview:cardview:1.0.0',
+            'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0',
+            'com.google.android.material:material:1.4.0',
+            'androidx.preference:preference:1.1.1',
+            'androidx.browser:browser:1.3.0',
+            "com.squareup.dagger:dagger:$daggerVersion",
+            "com.squareup.retrofit2:retrofit:$retrofitVersion",
+            "com.squareup.retrofit2:converter-gson:$retrofitVersion",
+            "com.squareup.retrofit2:adapter-rxjava:$retrofitVersion",
+            "com.squareup.okhttp3:okhttp:$okHttpVersion",
+            "com.squareup.okhttp3:logging-interceptor:$okHttpVersion",
+            "io.reactivex:rxandroid:1.2.1",
+            "io.reactivex:rxjava:1.1.7",
+            "androidx.room:room-runtime:$roomVersion",
+            "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycleVersion",
+            "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycleVersion",
+            "androidx.lifecycle:lifecycle-common-java8:$lifecycleVersion"
+            "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+
+    debugImplementation "com.squareup.leakcanary:leakcanary-android${rootProject.hasProperty("leak") ? "" : "-no-op"}:$leakCanaryVersion"
+    releaseImplementation "com.squareup.leakcanary:leakcanary-android-no-op:$leakCanaryVersion"
+    testImplementation "com.squareup.leakcanary:leakcanary-android-no-op:$leakCanaryVersion"
+    kapt "androidx.room:room-compiler:$roomVersion",
+            "com.squareup.dagger:dagger-compiler:$daggerVersion"
+    kaptTest "androidx.room:room-compiler:$roomVersion",
+            "com.squareup.dagger:dagger-compiler:$daggerVersion"
+}
+
+apply from: "${rootProject.getRootDir()}/robolectric.gradle"
+apply from: "${rootProject.getRootDir()}/jacoco.gradle"

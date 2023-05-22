@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ar.rulosoft.mimanganu.TestServers" tests="38" skipped="0" failures="23" errors="0" timestamp="2023-05-22T12:52:40" hostname="DESKTOP-P1HHUKE" time="78.411">
+  <properties/>
+  <testcase name="test_DENINEMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="8.902"/>
+  <testcase name="test_DESUME" classname="ar.rulosoft.mimanganu.TestServers" time="2.952">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:106)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_DESUME(TestServers.java:228)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_ESMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="0.062"/>
+  <testcase name="test_ESMANGAHERE" classname="ar.rulosoft.mimanganu.TestServers" time="0.051"/>
+  <testcase name="test_ESNINEMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="1.085">
+    <failure message="junit.framework.AssertionFailedError: &#10;(Error)" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+(Error)
+	at junit.framework.Assert.fail(Assert.java:50)
+	at util.TestServersCommon.testInitChapter(TestServersCommon.java:181)
+	at util.TestServersCommon.testManga(TestServersCommon.java:115)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_ESNINEMANGA(TestServers.java:97)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_GOGOCOMIC" classname="ar.rulosoft.mimanganu.TestServers" time="0.05"/>
+  <testcase name="test_HEAVENMANGACOM" classname="ar.rulosoft.mimanganu.TestServers" time="0.481">
+    <failure message="junit.framework.AssertionFailedError: &#10;Could not load chapter information." type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+Could not load chapter information.
+	at junit.framework.Assert.fail(Assert.java:50)
+	at util.TestServersCommon.testLoadManga(TestServersCommon.java:132)
+	at util.TestServersCommon.testManga(TestServersCommon.java:95)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_HEAVENMANGACOM(TestServers.java:87)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_ITNINEMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="2.313">
+    <failure message="junit.framework.AssertionFailedError: &#10;[CONTENT] 404" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+[CONTENT] 404
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at util.TestServersCommon.testLoadImage(TestServersCommon.java:232)
+	at util.TestServersCommon.testInitChapter(TestServersCommon.java:197)
+	at util.TestServersCommon.testManga(TestServersCommon.java:115)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_ITNINEMANGA(TestServers.java:113)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_KISSMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="1.056">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_KISSMANGA(TestServers.java:108)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_KUMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="0.403">
+    <failure message="org.json.JSONException: Value &lt;!doctype of type java.lang.String cannot be converted to JSONObject" type="org.json.JSONException">org.json.JSONException: Value &lt;!doctype of type java.lang.String cannot be converted to JSONObject
+	at org.json.JSON.typeMismatch(JSON.java:112)
+	at org.json.JSONObject.&lt;init&gt;(JSONObject.java:168)
+	at org.json.JSONObject.&lt;init&gt;(JSONObject.java:181)
+	at ar.rulosoft.mimanganu.servers.Kumanga.getMangasFiltered(Kumanga.java:209)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:63)
+	at ar.rulosoft.mimanganu.TestServers.test_KUMANGA(TestServers.java:208)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_LECTUREENLIGNE" classname="ar.rulosoft.mimanganu.TestServers" time="0.031"/>
+  <testcase name="test_LEOMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="0.033"/>
+  <testcase name="test_MANGAAE" classname="ar.rulosoft.mimanganu.TestServers" time="15.93">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGAAE(TestServers.java:243)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGAEDEN" classname="ar.rulosoft.mimanganu.TestServers" time="0.054">
+    <failure message="java.net.UnknownHostException: No such host is known (www.mangaeden.com)" type="java.net.UnknownHostException">java.net.UnknownHostException: No such host is known (www.mangaeden.com)
+	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1529)
+	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1378)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at okhttp3.Dns$1.lookup(Dns.java:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.java:149)
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.java:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:213)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.UncompressInterceptor.intercept(UncompressInterceptor.java:19)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.CFInterceptor.intercept(CFInterceptor.java:50)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.RetryInterceptor.intercept(RetryInterceptor.java:21)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at ar.rulosoft.navegadores.Navigator.getResponse(Navigator.java:212)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java:216)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java:199)
+	at ar.rulosoft.mimanganu.servers.MangaEden.getMangasFiltered(MangaEden.java:309)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:63)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGAEDEN(TestServers.java:163)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGAEDENIT" classname="ar.rulosoft.mimanganu.TestServers" time="0.043">
+    <failure message="java.net.UnknownHostException: www.mangaeden.com" type="java.net.UnknownHostException">java.net.UnknownHostException: www.mangaeden.com
+	at java.base/java.net.InetAddress$CachedAddresses.get(InetAddress.java:797)
+	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1519)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1378)
+	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+	at okhttp3.Dns$1.lookup(Dns.java:40)
+	at okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:185)
+	at okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.java:149)
+	at okhttp3.internal.connection.RouteSelector.next(RouteSelector.java:84)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:213)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.UncompressInterceptor.intercept(UncompressInterceptor.java:19)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.CFInterceptor.intercept(CFInterceptor.java:50)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.RetryInterceptor.intercept(RetryInterceptor.java:21)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at ar.rulosoft.navegadores.Navigator.getResponse(Navigator.java:212)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java:216)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java:199)
+	at ar.rulosoft.mimanganu.servers.MangaEden.getMangasFiltered(MangaEden.java:309)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:63)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGAEDENIT(TestServers.java:143)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGAFOX" classname="ar.rulosoft.mimanganu.TestServers" time="0.037"/>
+  <testcase name="test_MANGAHERE" classname="ar.rulosoft.mimanganu.TestServers" time="16.121">
+    <failure message="junit.framework.AssertionFailedError: &#10;[CONTENT] 403" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+[CONTENT] 403
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at util.TestServersCommon.testLoadImage(TestServersCommon.java:232)
+	at util.TestServersCommon.testInitChapter(TestServersCommon.java:197)
+	at util.TestServersCommon.testManga(TestServersCommon.java:115)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGAHERE(TestServers.java:67)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGANELO" classname="ar.rulosoft.mimanganu.TestServers" time="0.639">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGANELO(TestServers.java:253)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGAPANDA" classname="ar.rulosoft.mimanganu.TestServers" time="0.423">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGAPANDA(TestServers.java:57)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGARAWONLINE" classname="ar.rulosoft.mimanganu.TestServers" time="0.032"/>
+  <testcase name="test_MANGAREADER" classname="ar.rulosoft.mimanganu.TestServers" time="0.572">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGAREADER(TestServers.java:123)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGASTREAM" classname="ar.rulosoft.mimanganu.TestServers" time="0.19">
+    <failure message="javax.net.ssl.SSLPeerUnverifiedException: Hostname www.mangastream.cc not verified:&#10;    certificate: sha256/H5G4PGKWSjdGeSNPRtk9W1viM4VlMj4/KbejtIsj4wE=&#10;    DN: CN=dan.com&#10;    subjectAltNames: [undeveloped.com, undeveloped.es, undeveloped.cn, undeveloped.uk, undeveloped.eu, undeveloped.us, undeveloped.nl, undeveloped.be, undeveloped.co.uk, undeveloped.domains, dan.com, www.dan.com, undeveloped.fr, undeveloped.nu]" type="javax.net.ssl.SSLPeerUnverifiedException">javax.net.ssl.SSLPeerUnverifiedException: Hostname www.mangastream.cc not verified:
+    certificate: sha256/H5G4PGKWSjdGeSNPRtk9W1viM4VlMj4/KbejtIsj4wE=
+    DN: CN=dan.com
+    subjectAltNames: [undeveloped.com, undeveloped.es, undeveloped.cn, undeveloped.uk, undeveloped.eu, undeveloped.us, undeveloped.nl, undeveloped.be, undeveloped.co.uk, undeveloped.domains, dan.com, www.dan.com, undeveloped.fr, undeveloped.nu]
+	at okhttp3.internal.connection.RealConnection.connectTls(RealConnection.java:308)
+	at okhttp3.internal.connection.RealConnection.establishProtocol(RealConnection.java:268)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:160)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:256)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.UncompressInterceptor.intercept(UncompressInterceptor.java:19)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.CFInterceptor.intercept(CFInterceptor.java:50)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.RetryInterceptor.intercept(RetryInterceptor.java:21)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at ar.rulosoft.navegadores.Navigator.post(Navigator.java:374)
+	at ar.rulosoft.mimanganu.servers.MangaStream.getMangasFiltered(MangaStream.java:215)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:63)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGASTREAM(TestServers.java:198)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGATOWN" classname="ar.rulosoft.mimanganu.TestServers" time="16.264">
+    <failure message="junit.framework.AssertionFailedError: &#10;[CONTENT] 403" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+[CONTENT] 403
+	at junit.framework.Assert.fail(Assert.java:50)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at util.TestServersCommon.testLoadImage(TestServersCommon.java:232)
+	at util.TestServersCommon.testInitChapter(TestServersCommon.java:197)
+	at util.TestServersCommon.testManga(TestServersCommon.java:115)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_MANGATOWN(TestServers.java:218)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MANGATUBE" classname="ar.rulosoft.mimanganu.TestServers" time="0.054"/>
+  <testcase name="test_MINTMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="0.2">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_MINTMANGA(TestServers.java:238)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_MYMANGAIO" classname="ar.rulosoft.mimanganu.TestServers" time="0.03"/>
+  <testcase name="test_NEUMANGATV" classname="ar.rulosoft.mimanganu.TestServers" time="0.251">
+    <failure message="javax.net.ssl.SSLHandshakeException: PKIX path building failed: java.security.cert.CertPathBuilderException: No issuer certificate for certificate in certification path found." type="javax.net.ssl.SSLHandshakeException">javax.net.ssl.SSLHandshakeException: PKIX path building failed: java.security.cert.CertPathBuilderException: No issuer certificate for certificate in certification path found.
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:353)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:296)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:291)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:654)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:473)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:369)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:392)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:443)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:421)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:183)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1416)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:456)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:427)
+	at okhttp3.internal.connection.RealConnection.connectTls(RealConnection.java:299)
+	at okhttp3.internal.connection.RealConnection.establishProtocol(RealConnection.java:268)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:160)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:256)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.UncompressInterceptor.intercept(UncompressInterceptor.java:19)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.CFInterceptor.intercept(CFInterceptor.java:50)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.RetryInterceptor.intercept(RetryInterceptor.java:21)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at ar.rulosoft.navegadores.Navigator.getResponse(Navigator.java:212)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java:216)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java:199)
+	at ar.rulosoft.mimanganu.servers.NeuMangaTv.getMangasFiltered(NeuMangaTv.java:157)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:63)
+	at ar.rulosoft.mimanganu.TestServers.test_NEUMANGATV(TestServers.java:248)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: java.security.cert.CertPathBuilderException: No issuer certificate for certificate in certification path found.
+	at java.base/sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:439)
+	at java.base/sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:306)
+	at java.base/sun.security.validator.Validator.validate(Validator.java:264)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.validate(X509TrustManagerImpl.java:313)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:222)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:129)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:638)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:473)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:369)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:392)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:443)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:421)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:183)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:172)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1506)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1416)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:456)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:427)
+	at okhttp3.internal.connection.RealConnection.connectTls(RealConnection.java:299)
+	at okhttp3.internal.connection.RealConnection.establishProtocol(RealConnection.java:268)
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.java:160)
+	at okhttp3.internal.connection.StreamAllocation.findConnection(StreamAllocation.java:256)
+	at okhttp3.internal.connection.StreamAllocation.findHealthyConnection(StreamAllocation.java:134)
+	at okhttp3.internal.connection.StreamAllocation.newStream(StreamAllocation.java:113)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.UncompressInterceptor.intercept(UncompressInterceptor.java:19)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.CFInterceptor.intercept(CFInterceptor.java:50)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at ar.rulosoft.navegadores.RetryInterceptor.intercept(RetryInterceptor.java:21)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at ar.rulosoft.navegadores.Navigator.$$robo$$ar_rulosoft_navegadores_Navigator$getResponse(Navigator.java:212)
+	at ar.rulosoft.navegadores.Navigator.getResponse(Navigator.java)
+	at ar.rulosoft.navegadores.Navigator.$$robo$$ar_rulosoft_navegadores_Navigator$get(Navigator.java:216)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java)
+	at ar.rulosoft.navegadores.Navigator.$$robo$$ar_rulosoft_navegadores_Navigator$get(Navigator.java:199)
+	at ar.rulosoft.navegadores.Navigator.get(Navigator.java)
+	at ar.rulosoft.mimanganu.servers.NeuMangaTv.getMangasFiltered(NeuMangaTv.java:157)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:63)
+	at ar.rulosoft.mimanganu.TestServers.test_NEUMANGATV(TestServers.java:248)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	... 13 more
+Caused by: java.security.cert.CertPathBuilderException: No issuer certificate for certificate in certification path found.
+	at org.bouncycastle.jce.provider.PKIXCertPathBuilderSpi.engineBuild(Unknown Source)
+	at java.base/java.security.cert.CertPathBuilder.build(CertPathBuilder.java:297)
+	at java.base/sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:434)
+	... 71 more
+</failure>
+  </testcase>
+  <testcase name="test_NINEMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="3.316"/>
+  <testcase name="test_RAWSENMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="0.301">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_RAWSENMANGA(TestServers.java:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_READCOMICSTV" classname="ar.rulosoft.mimanganu.TestServers" time="0.04"/>
+  <testcase name="test_READMANGAME" classname="ar.rulosoft.mimanganu.TestServers" time="1.522">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_READMANGAME(TestServers.java:223)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_RUNINEMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="1.333">
+    <failure message="junit.framework.AssertionFailedError: &#10;[NUM] 35 - Could not load page image information." type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+[NUM] 35 - Could not load page image information.
+	at junit.framework.Assert.fail(Assert.java:50)
+	at util.TestServersCommon.testInitChapter(TestServersCommon.java:195)
+	at util.TestServersCommon.testManga(TestServersCommon.java:115)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_RUNINEMANGA(TestServers.java:133)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_STARKANACOM" classname="ar.rulosoft.mimanganu.TestServers" time="0.033"/>
+  <testcase name="test_SUBMANGA" classname="ar.rulosoft.mimanganu.TestServers" time="0.03"/>
+  <testcase name="test_TAADD" classname="ar.rulosoft.mimanganu.TestServers" time="1.174">
+    <failure message="junit.framework.AssertionFailedError: &#10;(Error)" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: 
+(Error)
+	at junit.framework.Assert.fail(Assert.java:50)
+	at util.TestServersCommon.testInitChapter(TestServersCommon.java:181)
+	at util.TestServersCommon.testManga(TestServersCommon.java:115)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_TAADD(TestServers.java:193)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_TUSMANGAS" classname="ar.rulosoft.mimanganu.TestServers" time="0.033"/>
+  <testcase name="test_VERCOMICSCOM" classname="ar.rulosoft.mimanganu.TestServers" time="0.807">
+    <failure message="java.lang.Exception: (Error)" type="java.lang.Exception">java.lang.Exception: (Error)
+	at ar.rulosoft.mimanganu.servers.ServerBase.getFirstMatch(ServerBase.java:383)
+	at ar.rulosoft.mimanganu.servers.VerComicsCom.getMangas(VerComicsCom.java:39)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:70)
+	at ar.rulosoft.mimanganu.TestServers.test_VERCOMICSCOM(TestServers.java:47)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <testcase name="test_VIEWCOMIC" classname="ar.rulosoft.mimanganu.TestServers" time="1.561">
+    <failure message="java.lang.AssertionError: &#10;" type="java.lang.AssertionError">java.lang.AssertionError: 
+
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertFalse(Assert.java:65)
+	at util.TestServersCommon.testManga(TestServersCommon.java:86)
+	at util.TestServersCommon.&lt;init&gt;(TestServersCommon.java:64)
+	at ar.rulosoft.mimanganu.TestServers.test_VIEWCOMIC(TestServers.java:273)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.robolectric.RobolectricTestRunner$HelperTestRunner$1.evaluate(RobolectricTestRunner.java:546)
+	at org.robolectric.internal.SandboxTestRunner$2.lambda$evaluate$0(SandboxTestRunner.java:252)
+	at org.robolectric.internal.bytecode.Sandbox.lambda$runOnMainThread$0(Sandbox.java:89)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+</failure>
+  </testcase>
+  <system-out><![CDATA[[Robolectric] ar.rulosoft.mimanganu.TestServers.test_DENINEMANGA: sdk=29; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+Testing: DeNineManga (id=16)
+(filtered navigation)
+[MNG] Ah! Itoshi no Caramel Boy (/manga/Ah%21+Itoshi+no+Caramel+Boy.html)
+[CHP] Ah! Itoshi no Caramel Boy Kapitel 0 (/chapter/Ah%21%20Itoshi%20no%20Caramel%20Boy/189905.html)
+[IMG] https://wie.mangadogs.com/comics/pic/11/11/189905/Kapitel0185_0.jpg
+[IMG] https://wie.mangadogs.com/comics/pic/11/11/189905/Kapitel0867_0.jpg
+(search)
+[MNG] A Kind World (/manga/A+Kind+World.html)
+[CHP] A Kind World A Kind World 35 Ich habe eine Brille in die Hände bekommen, mit der ich durch Gegenstände hindurchsehen kann, also habe ich sie sofort an der Krankenschwester als Ärztin ausprobiert (/chapter/A%20Kind%20World/452443.html)
+[IMG] https://img.wiemanga.com/comics/pic2/0/832/452443/b338e58b59a9ca0892d2f528f6ae2ae4.jpg
+[IMG] https://img.wiemanga.com/comics/pic2/0/832/452443/823de42f619c837112209aa7a127c4af.jpg
+Testing: [SUCCESS]
+
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_DESUME: sdk=29; resources=BINARY
+Testing: DesuMe (id=37)
+(filtered navigation)
+[MNG] Zombie Fight (/manga/zombie-fight.3635/)
+[WRN] no chapters found - will try another Manga.
+[MNG] Eternal Club (/manga/eternal-club.3149/)
+[WRN] no chapters found - will try another Manga.
+[MNG] Zombie Fight (/manga/zombie-fight.3635/)
+[WRN] no chapters found - will try another Manga.
+[MNG] Martial Inverse (/manga/martial-inverse.3451/)
+[WRN] no chapters found - will try another Manga.
+[MNG] The taming master (/manga/the-taming-master.2720/)
+[WRN] no chapters found - will try another Manga.
+[MNG] I can't be so stupid (/manga/i-cant-be-so-stupid.3715/)
+[WRN] no chapters found - will try another Manga.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_ESMANGA: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_ESMANGAHERE: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_ESNINEMANGA: sdk=29; resources=BINARY
+Testing: EsNineManga (id=10)
+(filtered navigation)
+[MNG] Haikyuu!! (/manga/Haikyuu%21%21.html)
+[CHP] Haikyuu!! 8 (/chapter/Haikyuu%21%21/189952.html)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_GOGOCOMIC: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_HEAVENMANGACOM: sdk=29; resources=BINARY
+Testing: HeavenManga (id=8)
+(filtered navigation)
+[MNG] ¡Bienvenido al salón del cum! (https://heavenmanga.com/manga/bienvenido-al-saln-del-cum)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_ITNINEMANGA: sdk=29; resources=BINARY
+Testing: ItNineManga (id=13)
+(filtered navigation)
+[MNG] Due come Noi (/manga/Due+come+Noi.html)
+[CHP] Due come Noi 185 (/chapter/Due%20come%20Noi/190515.html)
+[IMG] https://manga.mangadogs.com/it_manga/pic/11/11/190515/DuecomeNoi185751.jpg
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_KISSMANGA: sdk=29; resources=BINARY
+Testing: KissManga (id=12)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_KUMANGA: sdk=29; resources=BINARY
+Testing: Kumanga (id=33)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_LECTUREENLIGNE: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_LEOMANGA: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGAAE: sdk=29; resources=BINARY
+Testing: MangaAE (id=40)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGAEDEN: sdk=29; resources=BINARY
+Testing: MangaEden (id=24)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGAEDENIT: sdk=29; resources=BINARY
+Testing: MangaEdenIt (id=19)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGAFOX: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGAHERE: sdk=29; resources=BINARY
+Testing: MangaHere (id=4)
+(filtered navigation)
+[MNG] 07 Ghost (/manga/07_ghost/)
+[CHP] Ch.088 - Landkarte (/manga/07_ghost/c088/1.html)
+[IMG] https://zjcdn.mangahere.org/store/manga/407/088.0/compressed/lt_s_007-ghost-kapitel-088-024.jpg
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGANELO: sdk=29; resources=BINARY
+Testing: Manganelo (Mangakakalot) (id=45)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGAPANDA: sdk=29; resources=BINARY
+Testing: mangapanda (id=1)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGARAWONLINE: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGAREADER: sdk=29; resources=BINARY
+Testing: mangareader.net (id=15)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGASTREAM: sdk=29; resources=BINARY
+Testing: MangaStream (id=31)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGATOWN: sdk=29; resources=BINARY
+Testing: MangaTown (id=35)
+(filtered navigation)
+[MNG] Mushoku Tensei - Isekai Ittara Honki Dasu (https://www.mangatown.com/manga/mushoku_tensei_isekai_ittara_honki_dasu/)
+[CHP] Mushoku Tensei - Isekai Ittara Honki Dasu 63.2 (https://www.mangatown.com/manga/mushoku_tensei_isekai_ittara_honki_dasu/c063.2/)
+[IMG] https://zjcdn.mangahere.org/store/manga/15229/063.2/compressed/v012.jpg
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MANGATUBE: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MINTMANGA: sdk=29; resources=BINARY
+Testing: MintManga (id=39)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_MYMANGAIO: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_NEUMANGATV: sdk=29; resources=BINARY
+Testing: NeuMangaTv (id=41)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_NINEMANGA: sdk=29; resources=BINARY
+Testing: NineManga (id=23)
+(filtered navigation)
+[MNG] Shinozaki-san Ki wo Ota Shika ni! (/manga/Shinozaki-san+Ki+wo+Ota+Shika+ni%21.html)
+[CHP] Shinozaki-san Ki wo Ota Shika ni! 9 (/chapter/Shinozaki-san%20Ki%20wo%20Ota%20Shika%20ni%21/522018.html)
+[IMG] https://pic2.yx247.com/comics/pic4/9/35785/522018/2feb75fc9b86f959e54a9cc501e190e3.jpg
+[IMG] https://pic2.yx247.com/comics/pic4/9/35785/522018/e11a3aa5a5d08443e5532d304e851f39.jpg
+(search)
+[MNG] YOU ARE MY EVERYTHING (/manga/YOU+ARE+MY+EVERYTHING.html)
+[CHP] You are My Everything 13 (/chapter/YOU%20ARE%20MY%20EVERYTHING/725686.html)
+[IMG] https://pic5.yx247.com/comics/pic7/50/20018/725686/YouareMyEverything1324668.jpg
+[IMG] https://pic5.yx247.com/comics/pic7/50/20018/725686/YouareMyEverything1326162.jpg
+Testing: [SUCCESS]
+
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_RAWSENMANGA: sdk=29; resources=BINARY
+Testing: SenManga (id=21)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_READCOMICSTV: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_READMANGAME: sdk=29; resources=BINARY
+Testing: ReadMangaMe (id=36)
+(filtered navigation)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_RUNINEMANGA: sdk=29; resources=BINARY
+Testing: RuNineManga (id=17)
+(filtered navigation)
+[MNG] Чашка с... (/manga/%D0%A7%D0%B0%D1%88%D0%BA%D0%B0+%D1%81....html)
+[CHP] Чашка с... Сингл (/chapter/%D0%A7%D0%B0%D1%88%D0%BA%D0%B0%20%D1%81.../271397.html)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_STARKANACOM: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_SUBMANGA: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_TAADD: sdk=29; resources=BINARY
+Testing: Taadd (id=30)
+(filtered navigation)
+[MNG] THE GAMER (https://www.taadd.com/book/THE+GAMER.html)
+[CHP] The Gamer 247 (https://www.taadd.com/chapter/TheGamer247/1153984/)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_TUSMANGAS: sdk=29; resources=BINARY
+Testing: DEAD SERVER (id=0)
+[INFO] server is an instance of DeadServer - skipping.
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_VERCOMICSCOM: sdk=29; resources=BINARY
+Testing: VerComicsCom (id=1005)
+(list)
+[Robolectric] ar.rulosoft.mimanganu.TestServers.test_VIEWCOMIC: sdk=29; resources=BINARY
+Testing: ViewComic (id=1004)
+(filtered navigation)
+]]></system-out>
+  <system-err><![CDATA[[WRN] default value for 'author'
+[WRN] default value for 'author'
+[WRN] default value for 'author'
+[WRN] default value for 'author'
+[WRN] default value for 'author'
+[WRN] default value for 'author'
+[WRN] relative chapter paths shall be used if possible
+[WRN] relative chapter paths shall be used if possible
+]]></system-err>
+</testsuite>
