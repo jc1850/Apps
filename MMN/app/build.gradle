@@ -57,6 +57,18 @@ android {
             dimension "builds"
         }
     }
+    testOptions {
+            unitTests {
+                includeAndroidResources = true
+            }
+            all {
+                // All the usual Gradle options.
+                testLogging {
+                    events "skipped", "failed", "standardOut", "standardError"
+                    showStandardStreams = true
+                }
+            }
+        }
 }
 
 android.sourceSets {
@@ -110,21 +122,6 @@ dependencies {
     testImplementation 'org.robolectric:robolectric:4.3.1'
     testImplementation 'androidx.test:core:1.2.0'
 
-    android {
-        testOptions {
-            unitTests {
-                includeAndroidResources = true
-            }
-            all {
-                // All the usual Gradle options.
-                testLogging {
-                    events "skipped", "failed", "standardOut", "standardError"
-                    showStandardStreams = true
-                }
-            }
-        }
-        }
-    }
 
 
     task classpath(type: Jar) {
