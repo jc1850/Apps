@@ -45,16 +45,7 @@ public class FdroidClient {
         return date;
     }
 
-    public static byte[] serialize(Object obj)  {
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        try{
-            ObjectOutputStream oos = new ObjectOutputStream(baos);
-            oos.writeObject(obj);
-            return baos.toByteArray();}
-        catch  (Exception e){
-            return new byte[Integer.MAX_VALUE];
-        }
-    }
+
 
 
 
@@ -96,8 +87,7 @@ public class FdroidClient {
             @Override
             public void onResponse(@NotNull Call<BuildResult> call, @NotNull Response<BuildResult> response) {
                 ;
-                System.out.print("Gin Network: "); // GinProtected
-                System.out.println(serialize(response.body()).length); // GinProtected
+                System.out.print("Gin Network: "+response.body().getBuildItems().size()); // GinProtected
                 var buildRun = response.body();
                 if (response.isSuccessful() && buildRun != null) {
                     buildRun.setLastModified(getLastModified(response));
@@ -122,8 +112,7 @@ public class FdroidClient {
         call.enqueue(new Callback<>() {
             @Override
             public void onResponse(@NotNull Call<RunningResult> call, @NotNull Response<RunningResult> response) {
-                System.out.print("Gin Network: "); // GinProtected
-                System.out.println(serialize(response.body()).length); // GinProtected
+                System.out.print("Gin Network: "+ response.body().getBuildItems().size()); // GinProtected
                 var buildRun = response.body();
                 if (response.isSuccessful() && buildRun != null) {
                     buildRun.setLastModified(getLastModified(response));
@@ -147,11 +136,12 @@ public class FdroidClient {
         indexCall.enqueue(new Callback<>() {
             @Override
             public void onResponse(@NotNull Call<ResponseBody> call, @NotNull Response<ResponseBody> response) {
-                System.out.print("Gin Network: "); // GinProtected
-                System.out.println(serialize(response.body()).length); // GinProtected
+
                 try (var body = response.body()) {
                     if (response.isSuccessful() && body != null) {
+
                         try (var jarFile = new JarInputStream(body.byteStream(), true)) {
+                            System.out.print("Gin Network: "+jarFile.getManifest().getMainAttributes().size());// GinProtected
                             JarEntry indexEntry = null;
                             var entry = jarFile.getNextJarEntry();
                             do {
@@ -189,8 +179,7 @@ public class FdroidClient {
             @Override
             public void onResponse(@NotNull Call<UpdateResult> call, @NotNull Response<UpdateResult> response) {
                 var update = response.body();
-                System.out.print("Gin Network: "); // GinProtect
-                System.out.println(serialize(response.body()).length); // GinProtect
+                System.out.print("Gin Network: "+response.body().getBuildItems().size()); // GinProtect
                 if (response.isSuccessful() && update != null) {
                     update.setLastModified(getLastModified(response));
                     callback.onResponse(ApiResponse.success(update));
@@ -213,10 +202,10 @@ public class FdroidClient {
         call.enqueue(new Callback<>() {
             @Override
             public void onResponse(@NotNull Call<PublishedPackage> call, @NotNull Response<PublishedPackage> response) {
-                System.out.print("Gin Network: "); // GinProtect
-                System.out.println(serialize(response.body()).length); // GinProtect
+
                 var publishedVersions = response.body();
                 if (response.isSuccessful() && publishedVersions != null) {
+                    System.out.print("Gin Network: "+publishedVersions.getPackages().size()); // GinProtect
                     Log.d(TAG, "loaded published versions");
                     callback.onResponse(ApiResponse.success(publishedVersions));
                 } else if (response.code() == 404 || publishedVersions == null) {
@@ -242,10 +231,11 @@ public class FdroidClient {
         call.enqueue(new Callback<>() {
             @Override
             public void onResponse(@NotNull Call<ResponseBody> call, @NotNull Response<ResponseBody> response) {
-                System.out.print("Gin Network: "); // GinProtect
-                System.out.println(serialize(response.body()).length); // GinProtect
+
                 try (var body = response.body()) {
+
                     if (response.isSuccessful() && body != null) {
+                        System.out.print("Gin Network: "+body.contentLength()); // GinProtect
                         Log.d(TAG, "loaded logfile: " + call.request().url());
                         callback.onResponse(ApiResponse.success(body.charStream()));
                     } else if (response.code() == 404 || body == null) {
@@ -272,7 +262,7 @@ public class FdroidClient {
             @Override
             public void onResponse(@NotNull Call<WebsiteBuildStatus> call, @NotNull Response<WebsiteBuildStatus> response) {
                 System.out.print("Gin Network: "); // GinProtect
-                System.out.println(serialize(response.body()).length); // GinProtect
+                System.out.print("Gin Network: "+response.body().getCommandLine().size()); // GinProtect
                 var update = response.body();
                 if (response.isSuccessful() && update != null) {
                     callback.onResponse(ApiResponse.success(update));
