@@ -139,7 +139,7 @@ public class UserServicesClient implements UserServices {
         }
         execute(postSubmitForm(credentials.first, credentials.second)).flatMap(response -> response.code() != HttpURLConnection.HTTP_MOVED_TEMP ? Observable.just(response) : Observable.error(new IOException())).flatMap(response -> {
             try {
-                System.out.print("\nGin Network: " + response.body().string().length());
+                System.out.println("\nGin Network: " + response.body().string().length());
                 return Observable.just(new String[] { response.header(HEADER_SET_COOKIE), response.body().string() });
             } catch (IOException e) {
                 return Observable.error(e);

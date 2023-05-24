@@ -187,8 +187,8 @@ class NineManga extends ServerBase {
     public void loadMangaInformation(Manga manga, boolean forceReload) throws Exception {
         if (manga.getChapters().isEmpty() || forceReload) {
             String data = getNavigatorWithNeededHeader().get(HOST + manga.getPath());
-            System.out.print("\nGin Network: "); // GinProtect
-            System.out.println(serialize(data).length); // GinProtect
+
+            System.out.println("\nGin Network: " + data.length()); // GinProtect
             if (data.contains("?waring=1")) {
                 // es.ninemanga delivers invalid chapter links if ?waring=1 is already passed on
                 // non-warned Manga - so check if there is a link and then retry with the extension
@@ -227,8 +227,8 @@ class NineManga extends ServerBase {
         String data = nav.get(HOST + chapter.getPath().replace(".html", "-"
                 + page + ".html"));
         data = getFirstMatch(PATTERN_IMAGE, data, context.getString(R.string.server_failed_loading_image));
-        System.out.print("\nGin Network: "); // GinProtect
-        System.out.println(serialize(data).length); // GinProtect
+
+        System.out.println("\nGin Network: " + data.length()); // GinProtect
         if (data.contains("////")) {
             throw new Exception(context.getString(R.string.server_failed_loading_image));
         }
@@ -239,8 +239,8 @@ class NineManga extends ServerBase {
     public void chapterInit(Chapter chapter) throws Exception {
         if (chapter.getPages() == 0) {
             String data = getNavigatorWithNeededHeader().get(HOST + chapter.getPath());
-            System.out.print("\nGin Network: "); // GinProtect
-            System.out.println(serialize(data).length); // GinProtect
+
+            System.out.println("\nGin Network: " + data.length()); // GinProtect
             String pages = getFirstMatch(
                     PATTERN_PAGES, data,
                     context.getString(R.string.server_failed_loading_page_count));
@@ -279,8 +279,7 @@ class NineManga extends ServerBase {
         String web;
         web = HOST + "/search/?name_sel=contain&wd=&author_sel=contain&author=&artist_sel=contain&artist=&category_id=" + includedGenres + "&out_category_id=" + excludedGenres + "&completed_series=" + valStatus[filters[1][0]] + "&page=" + pageNumber + ".html";
         String data = getNavigatorWithNeededHeader().get(web);
-        System.out.print("\nGin Network: "); // GinProtect
-        System.out.println(serialize(data).length); // GinProtect
+        System.out.println("\nGin Network: " + data.length()); // GinProtect
         Pattern pattern = Pattern.compile(PATTERN_MANGA_SEARCHED, Pattern.DOTALL);
         Matcher m = pattern.matcher(data);
         ArrayList<Manga> mangas = new ArrayList<>();
@@ -307,14 +306,4 @@ class NineManga extends ServerBase {
         return nav;
     }
 
-
-    public static byte[] serialize(Object obj)  {
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        try{
-            ObjectOutputStream oos = new ObjectOutputStream(baos);
-            oos.writeObject(obj);
-            return baos.toByteArray();}
-        catch  (IOException e){
-            return new byte[Integer.MAX_VALUE];
-        }
 }

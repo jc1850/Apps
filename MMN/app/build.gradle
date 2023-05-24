@@ -60,15 +60,11 @@ android {
     testOptions {
             unitTests {
                 includeAndroidResources = true
+
             }
-            all {
-                // All the usual Gradle options.
-                testLogging {
-                    events "skipped", "failed", "standardOut", "standardError"
-                    showStandardStreams = true
-                }
-            }
+
         }
+
 }
 
 android.sourceSets {
@@ -124,23 +120,25 @@ dependencies {
 
 
 
-    task classpath(type: Jar) {
-        from android.sourceSets.main.java.srcDirs,
-                android.sourceSets.test.java.srcDirs
-        outputs.upToDateWhen { false }
-        doLast {
-            println "Building classpath..."
-            def cp2 = [android.getBootClasspath()[0], it.archivePath]
-            android.applicationVariants.all { v ->
-                v.getCompileClasspath(null).getFiles().each{
-                    File f->
-                        cp2 += f.getAbsolutePath()//this is the one of classpath
-                }
+
+
+
+}
+
+task classpath(type: Jar) {
+    from android.sourceSets.main.java.srcDirs,
+            android.sourceSets.test.java.srcDirs
+    outputs.upToDateWhen { false }
+    doLast {
+        println "Building classpath..."
+        def cp2 = [android.getBootClasspath()[0], it.archivePath]
+        android.applicationVariants.all { v ->
+            v.getCompileClasspath(null).getFiles().each{
+                File f->
+                    cp2 += f.getAbsolutePath()//this is the one of classpath
             }
-            def classpath = cp2.unique().join(":")
-            println classpath
         }
+        def classpath = cp2.unique().join(":")
+        println classpath
     }
-
-
 }

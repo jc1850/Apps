@@ -22,4 +22,7 @@ allprojects {
 //    tasks.withType(JavaCompile) {
 //        options.compilerArgs << "-Xlint:unchecked" << "-Xlint:deprecation"
 //    }
+    tasks.matching {it instanceof Test}.all {
+        testLogging.events = ["failed", "passed", "skipped"]
+    }
 }

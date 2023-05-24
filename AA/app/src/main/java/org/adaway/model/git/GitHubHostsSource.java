@@ -78,7 +78,7 @@ class GitHubHostsSource extends GitHostsSource {
         try (Response execute = client.newCall(request).execute();
              ResponseBody body = execute.body()) {
             String bodyString = body.string();
-            System.out.print("\nGin Network: " + bodyString.length()); // GinProtect
+            System.out.println("\nGin Network: " + bodyString.length()); // GinProtect
             return parseJsonBody(bodyString);
         } catch (IOException | JSONException exception) {
             Timber.e(exception, "Unable to get commits from API.");
