@@ -2,6 +2,8 @@ package org.adaway.model.git;
 
 import static java.util.stream.Collectors.joining;
 
+import android.app.Instrumentation;
+
 import androidx.annotation.Nullable;
 
 import org.json.JSONArray;
@@ -75,8 +77,9 @@ class GitHubHostsSource extends GitHostsSource {
         Request request = new Request.Builder().url(commitApiUrl).build();
         try (Response execute = client.newCall(request).execute();
              ResponseBody body = execute.body()) {
-            System.out.print("\nGin Network: " + serialize(body).length); // GinProtect
-            return parseJsonBody(body.string());
+            String bodyString = body.string();
+            System.out.print("\nGin Network: " + bodyString.length()); // GinProtect
+            return parseJsonBody(bodyString);
         } catch (IOException | JSONException exception) {
             Timber.e(exception, "Unable to get commits from API.");
             // Return failed
@@ -84,16 +87,6 @@ class GitHubHostsSource extends GitHostsSource {
         }
     }
 
-    public static byte[] serialize(Object obj)  {
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        try{
-            ObjectOutputStream oos = new ObjectOutputStream(baos);
-            oos.writeObject(obj);
-            return baos.toByteArray();}
-        catch  (Exception e){
-            return new byte[Integer.MAX_VALUE];
-        }
-    }
 
     @Nullable
     private ZonedDateTime parseJsonBody(String body) throws JSONException {
@@ -113,4 +106,8 @@ class GitHubHostsSource extends GitHostsSource {
         }
         return date;
     }
+
+
+
+
 }
