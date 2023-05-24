@@ -3,7 +3,6 @@ package io.github.hidroh.materialistic.accounts;
 import android.accounts.Account;
 import android.accounts.AccountManager;
 
-import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -60,12 +59,6 @@ public class UserServicesClientTest {
         account = new Account("username", BuildConfig.APPLICATION_ID);
         AccountManager.get(RuntimeEnvironment.application)
                 .addAccountExplicitly(account, "password", null);
-    }
-
-    @After
-    public void tearDown() {
-        Runtime.getRuntime().gc();
-        System.out.println("\nGin Memory: " + (Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory()));
     }
 
     @Test
@@ -194,7 +187,7 @@ public class UserServicesClientTest {
                         .build());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "content", false, callback);
-        verify(call, times(1)).execute();
+        verify(call, times(2)).execute();
         verify(callback).onDone(eq(true));
     }
 
@@ -214,8 +207,8 @@ public class UserServicesClientTest {
                         .build());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "url", true, callback);
-        verify(call, times(1)).execute();
-        verify(callback).onError(isA(IOException.class));
+        verify(call, times(2)).execute();
+        verify(callback).onError(isA(UserServices.Exception.class));
     }
 
     @Test
@@ -233,7 +226,7 @@ public class UserServicesClientTest {
                         .build());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "url", true, callback);
-        verify(call, times(1)).execute();
+        verify(call, times(2)).execute();
         verify(callback).onError(any(Throwable.class));
     }
 
@@ -249,7 +242,7 @@ public class UserServicesClientTest {
                 .thenThrow(new IOException());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "url", true, callback);
-        verify(call, times(1)).execute();
+        verify(call, times(2)).execute();
         verify(callback).onError(any(Throwable.class));
     }
 

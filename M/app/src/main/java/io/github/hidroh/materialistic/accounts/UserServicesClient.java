@@ -139,8 +139,9 @@ public class UserServicesClient implements UserServices {
         }
         execute(postSubmitForm(credentials.first, credentials.second)).flatMap(response -> response.code() != HttpURLConnection.HTTP_MOVED_TEMP ? Observable.just(response) : Observable.error(new IOException())).flatMap(response -> {
             try {
-                System.out.println("\nGin Network: " + response.body().string().length());
-                return Observable.just(new String[] { response.header(HEADER_SET_COOKIE), response.body().string() });
+                String bodyString = response.body().string();
+                System.out.println("\nGin Network: " + bodyString.length());
+                return Observable.just(new String[] { response.header(HEADER_SET_COOKIE), bodyString });
             } catch (IOException e) {
                 return Observable.error(e);
             } finally {
@@ -152,16 +153,7 @@ public class UserServicesClient implements UserServices {
         }).flatMap(array -> !TextUtils.isEmpty(array[1]) ? Observable.just(array) : Observable.error(new IOException())).flatMap(array -> execute(postSubmit(title, content, isUrl, array[0], array[1]))).flatMap(response -> response.code() == HttpURLConnection.HTTP_MOVED_TEMP ? Observable.just(Uri.parse(response.header(HEADER_LOCATION))) : Observable.error(new IOException())).flatMap(uri -> TextUtils.equals(uri.getPath(), DEFAULT_SUBMIT_REDIRECT) ? Observable.just(true) : Observable.error(buildException(uri))).observeOn(AndroidSchedulers.mainThread()).subscribe(callback::onDone, callback::onError);
     }
 
-    public static byte[] serialize(Object obj) {
-        ByteArrayOutputStream baos = new ByteArrayOutputStream();
-        try {
-            ObjectOutputStream oos = new ObjectOutputStream(baos);
-            oos.writeObject(obj);
-            return baos.toByteArray();
-        } catch (IOException e) {
-            return new byte[Integer.MAX_VALUE];
-        }
-    }
+
 
     private Request postLogin(String username, String password, boolean createAccount) {
         FormBody.Builder formBuilder = new FormBody.Builder().add(LOGIN_PARAM_ACCT, username).add(LOGIN_PARAM_PW, password).add(LOGIN_PARAM_GOTO, DEFAULT_REDIRECT);
