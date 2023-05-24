@@ -194,7 +194,7 @@ public class UserServicesClientTest {
                         .build());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "content", false, callback);
-        verify(call, times(2)).execute();
+        verify(call, times(1)).execute();
         verify(callback).onDone(eq(true));
     }
 
@@ -214,8 +214,8 @@ public class UserServicesClientTest {
                         .build());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "url", true, callback);
-        verify(call, times(2)).execute();
-        verify(callback).onError(isA(UserServices.Exception.class));
+        verify(call, times(1)).execute();
+        verify(callback).onError(isA(IOException.class));
     }
 
     @Test
@@ -233,7 +233,7 @@ public class UserServicesClientTest {
                         .build());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "url", true, callback);
-        verify(call, times(2)).execute();
+        verify(call, times(1)).execute();
         verify(callback).onError(any(Throwable.class));
     }
 
@@ -249,7 +249,7 @@ public class UserServicesClientTest {
                 .thenThrow(new IOException());
         UserServices.Callback callback = mock(UserServices.Callback.class);
         userServices.submit(RuntimeEnvironment.application, "title", "url", true, callback);
-        verify(call, times(2)).execute();
+        verify(call, times(1)).execute();
         verify(callback).onError(any(Throwable.class));
     }
 
