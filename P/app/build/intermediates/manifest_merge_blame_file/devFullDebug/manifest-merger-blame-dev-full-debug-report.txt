@@ -1,0 +1,723 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.openobservatory.ooniprobe.dev"
+4    android:versionCode="20230619"
+5    android:versionName="2023.06.19-14" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <!-- Allows unlocking your device and activating its screen so UI tests can succeed -->
+12    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+12-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:4:2-71
+12-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:4:19-69
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:5:2-64
+13-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:5:19-62
+14
+15    <!-- Allows for storing and retrieving screenshots -->
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:8:2-78
+16-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:8:19-75
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:9:2-77
+17-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:9:19-74
+18
+19    <!-- Allows changing locales -->
+20    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+20-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:12:2-76
+20-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\debug\AndroidManifest.xml:12:19-73
+21    <uses-permission android:name="org.openobservatory.ooniprobe.dev.CountlyPush.BROADCAST_PERMISSION" />
+21-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\full\AndroidManifest.xml:4:2-86
+21-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\full\AndroidManifest.xml:4:19-83
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:4:2-64
+22-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:4:19-61
+23    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+23-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:5:2-78
+23-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:5:19-75
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:6:2-76
+24-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:6:19-73
+25    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+25-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:7:2-74
+25-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:7:19-71
+26    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+26-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:8:2-92
+26-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:8:19-89
+27
+28    <permission
+28-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:10:2-12:41
+29        android:name="org.openobservatory.ooniprobe.permission.C2D_MESSAGE"
+29-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:11:3-70
+30        android:protectionLevel="signature" />
+30-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:12:3-38
+31
+32    <uses-permission android:name="org.openobservatory.ooniprobe.permission.C2D_MESSAGE" />
+32-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:14:2-89
+32-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:14:19-86
+33
+34    <permission
+34-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:9:5-11:47
+35        android:name="org.openobservatory.ooniprobe.dev.CountlyPush.BROADCAST_PERMISSION"
+35-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:10:9-73
+36        android:protectionLevel="signature" />
+36-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:11:9-44
+37
+38    <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+38-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:13:5-89
+38-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:13:22-86
+39    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+39-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:26:5-82
+39-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:26:22-79
+40
+41    <application
+41-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:16:2-193:16
+42        android:name="org.openobservatory.ooniprobe.common.Application"
+42-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:17:3-37
+43        android:allowBackup="false"
+43-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:18:3-30
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.7.0] C:\Users\jcall\.gradle\caches\transforms-3\c7e7a2a6a914503ffb66f1eb720274a7\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+45        android:debuggable="true"
+46        android:icon="@mipmap/ic_launcher"
+46-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:19:3-37
+47        android:label="@string/APP_NAME"
+47-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:20:3-35
+48        android:supportsRtl="true"
+48-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:21:3-29
+49        android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App" >
+49-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:22:3-74
+50        <meta-data
+51            android:name="com.google.firebase.messaging.default_notification_icon"
+52            android:resource="@drawable/ic_notification" />
+53        <meta-data
+54            android:name="com.google.firebase.messaging.default_notification_color"
+55            android:resource="@color/color_base" />
+56        <meta-data
+57            android:name="com.google.firebase.messaging.default_notification_channel_id"
+58            android:value="@string/General_AppName" />
+59        <meta-data
+60            android:name="firebase_analytics_collection_enabled"
+61            android:value="false" />
+62
+63        <service
+64            android:name="org.openobservatory.ooniprobe.common.FirebaseMessagingService"
+65            android:exported="false" >
+66            <intent-filter>
+66-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:32:13-34:29
+67                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+67-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:17-78
+67-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:25-75
+68            </intent-filter>
+69        </service>
+70
+71        <meta-data
+72            android:name="io.sentry.dsn"
+73            android:value="https://9dcd83d9519844188803aa817cdcd416@o155150.ingest.sentry.io/5619989" />
+74
+75        <activity
+75-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:23:3-34:14
+76            android:name="org.openobservatory.ooniprobe.activity.MainActivity"
+76-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:24:4-41
+77            android:exported="true"
+77-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:26:4-27
+78            android:launchMode="singleTop"
+78-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:25:4-34
+79            android:screenOrientation="userPortrait"
+79-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:27:4-44
+80            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App.NoActionBar" >
+80-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:28:4-87
+81            <intent-filter>
+81-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:29:4-33:20
+82                <action android:name="android.intent.action.MAIN" />
+82-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:30:5-57
+82-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:30:13-54
+83
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:32:5-65
+84-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:32:15-62
+85            </intent-filter>
+86        </activity>
+87        <activity
+87-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:35:3-38:77
+88            android:name="org.openobservatory.ooniprobe.activity.OnboardingActivity"
+88-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:36:4-47
+89            android:screenOrientation="userPortrait"
+89-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:37:4-44
+90            android:theme="@style/Theme.MaterialComponents.NoActionBar.Onboarding" />
+90-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:38:4-74
+91        <activity
+91-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:39:3-43:47
+92            android:name="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+92-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:40:4-47
+93            android:launchMode="singleTop"
+93-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:41:4-34
+94            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+94-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:42:4-55
+95            android:screenOrientation="userPortrait" />
+95-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:43:4-44
+96        <activity
+96-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:44:3-48:47
+97            android:name="org.openobservatory.ooniprobe.activity.OverviewActivity"
+97-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:45:4-45
+98            android:launchMode="singleTop"
+98-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:46:4-34
+99            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+99-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:47:4-55
+100            android:screenOrientation="userPortrait" />
+100-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:48:4-44
+101        <activity
+101-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:49:3-53:47
+102            android:name="org.openobservatory.ooniprobe.activity.ResultDetailActivity"
+102-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:50:4-49
+103            android:launchMode="singleTop"
+103-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:51:4-34
+104            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+104-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:52:4-55
+105            android:screenOrientation="userPortrait" />
+105-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:53:4-44
+106        <activity
+106-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:54:3-58:47
+107            android:name="org.openobservatory.ooniprobe.activity.MeasurementDetailActivity"
+107-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:55:4-54
+108            android:launchMode="singleTop"
+108-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:56:4-34
+109            android:parentActivityName="org.openobservatory.ooniprobe.activity.ResultDetailActivity"
+109-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:57:4-63
+110            android:screenOrientation="userPortrait" />
+110-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:58:4-44
+111        <activity
+111-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:59:3-63:47
+112            android:name="org.openobservatory.ooniprobe.activity.TextActivity"
+112-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:60:4-41
+113            android:hardwareAccelerated="false"
+113-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:61:4-39
+114            android:parentActivityName="org.openobservatory.ooniprobe.activity.MeasurementDetailActivity"
+114-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:62:4-68
+115            android:screenOrientation="userPortrait" />
+115-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:63:4-44
+116        <activity
+116-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:64:3-68:47
+117            android:name="org.openobservatory.ooniprobe.activity.RunningActivity"
+117-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:65:4-44
+118            android:launchMode="singleTop"
+118-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:66:4-34
+119            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+119-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:67:4-55
+120            android:screenOrientation="userPortrait" />
+120-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:68:4-44
+121        <activity
+121-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:69:3-81:14
+122            android:name="org.openobservatory.ooniprobe.activity.InfoActivity"
+122-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:70:4-41
+123            android:exported="false"
+123-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:72:4-28
+124            android:label="@string/Settings_About_Label"
+124-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:71:4-48
+125            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+125-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:73:4-61
+126            android:screenOrientation="userPortrait"
+126-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:74:4-44
+127            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App.NoActionBar" >
+127-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:75:4-87
+128            <intent-filter>
+128-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:76:4-80:20
+129                <action android:name="org.openobservatory.ooniprobe.activity.InfoActivity" />
+129-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:77:5-82
+129-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:77:13-79
+130
+131                <category android:name="android.intent.category.DEFAULT" />
+131-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+131-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+132            </intent-filter>
+133        </activity>
+134        <activity
+134-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:82:3-94:14
+135            android:name="org.openobservatory.ooniprobe.activity.ProxyActivity"
+135-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:83:4-42
+136            android:exported="false"
+136-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:85:4-28
+137            android:label="Proxy"
+137-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:84:4-25
+138            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+138-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:86:4-61
+139            android:screenOrientation="userPortrait"
+139-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:87:4-44
+140            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App" >
+140-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:88:4-75
+141            <intent-filter>
+141-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:89:4-93:20
+142                <action android:name="org.openobservatory.ooniprobe.activity.ProxyActivity" />
+142-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:90:5-83
+142-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:90:13-80
+143
+144                <category android:name="android.intent.category.DEFAULT" />
+144-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+144-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+145            </intent-filter>
+146        </activity>
+147        <activity
+147-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:95:3-106:14
+148            android:name="org.openobservatory.ooniprobe.activity.CustomWebsiteActivity"
+148-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:96:4-50
+149            android:exported="false"
+149-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:98:4-28
+150            android:label="@string/Settings_Websites_CustomURL_Title"
+150-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:97:4-61
+151            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+151-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:99:4-61
+152            android:screenOrientation="userPortrait" >
+152-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:100:4-44
+153            <intent-filter>
+153-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:101:4-105:20
+154                <action android:name="org.openobservatory.ooniprobe.activity.CustomWebsiteActivity" />
+154-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:102:5-91
+154-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:102:13-88
+155
+156                <category android:name="android.intent.category.DEFAULT" />
+156-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+156-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+157            </intent-filter>
+158        </activity>
+159        <activity
+159-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:107:3-159:14
+160            android:name="org.openobservatory.ooniprobe.activity.OoniRunActivity"
+160-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:108:4-44
+161            android:exported="true"
+161-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:110:4-27
+162            android:label="@string/APP_NAME"
+162-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:109:4-36
+163            android:launchMode="singleTop"
+163-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:111:4-34
+164            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+164-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:112:4-55
+165            android:screenOrientation="userPortrait"
+165-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:113:4-44
+166            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar.App" >
+166-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:114:4-73
+167            <intent-filter>
+167-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:115:4-122:20
+168                <action android:name="android.intent.action.SEND" />
+168-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:116:5-57
+168-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:116:13-54
+169
+170                <category android:name="android.intent.category.DEFAULT" />
+170-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+170-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+171
+172                <action android:name="org.openobservatory.ooniprobe.nettest" />
+172-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:119:5-68
+172-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:119:13-65
+173
+174                <data android:mimeType="text/plain" />
+174-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:121:5-43
+174-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:121:11-40
+175            </intent-filter>
+176            <intent-filter android:autoVerify="true" >
+176-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:123:4-135:20
+176-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:123:19-44
+177                <action android:name="android.intent.action.VIEW" />
+177-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:124:5-57
+177-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:124:13-54
+178
+179                <category android:name="android.intent.category.DEFAULT" />
+179-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+179-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+180                <category android:name="android.intent.category.BROWSABLE" />
+180-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:127:5-66
+180-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:127:15-63
+181
+182                <action android:name="org.openobservatory.ooniprobe.nettest" />
+182-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:119:5-68
+182-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:119:13-65
+183
+184                <data
+184-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:121:5-43
+185                    android:host="run.ooni.io"
+186                    android:pathPrefix="/nettest"
+187                    android:scheme="https" />
+188            </intent-filter>
+189            <intent-filter android:autoVerify="true" >
+189-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:136:4-148:20
+189-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:136:19-44
+190                <action android:name="android.intent.action.VIEW" />
+190-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:124:5-57
+190-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:124:13-54
+191
+192                <category android:name="android.intent.category.DEFAULT" />
+192-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+192-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+193                <category android:name="android.intent.category.BROWSABLE" />
+193-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:127:5-66
+193-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:127:15-63
+194
+195                <action android:name="org.openobservatory.ooniprobe.nettest" />
+195-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:119:5-68
+195-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:119:13-65
+196
+197                <data
+197-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:121:5-43
+198                    android:host="run.ooni.io"
+199                    android:pathPrefix="/nettest"
+200                    android:scheme="http" />
+201            </intent-filter>
+202            <intent-filter android:autoVerify="true" >
+202-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:149:4-158:20
+202-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:149:19-44
+203                <action android:name="android.intent.action.VIEW" />
+203-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:124:5-57
+203-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:124:13-54
+204
+205                <category android:name="android.intent.category.DEFAULT" />
+205-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+205-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+206                <category android:name="android.intent.category.BROWSABLE" />
+206-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:127:5-66
+206-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:127:15-63
+207
+208                <data
+208-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:121:5-43
+209                    android:host="nettest"
+210                    android:scheme="ooni" />
+211            </intent-filter>
+212        </activity>
+213        <activity
+213-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:161:9-171:20
+214            android:name="org.openobservatory.ooniprobe.activity.LogActivity"
+214-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:162:13-49
+215            android:exported="false"
+215-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:163:13-37
+216            android:label="LogActivity"
+216-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:164:13-40
+217            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity" >
+217-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:165:13-70
+218            <intent-filter>
+218-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:166:13-170:29
+219                <action android:name="org.openobservatory.ooniprobe.activity.LogActivity" />
+219-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:167:17-93
+219-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:167:25-90
+220
+221                <category android:name="android.intent.category.DEFAULT" />
+221-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:5-64
+221-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:79:15-61
+222            </intent-filter>
+223        </activity>
+224
+225        <service
+225-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:173:3-176:48
+226            android:name="org.openobservatory.ooniprobe.common.service.RunTestService"
+226-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:174:4-49
+227            android:icon="@drawable/notification_icon"
+227-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:175:4-46
+228            android:label="@string/Dashboard_Card_Run" />
+228-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:176:4-46
+229        <service
+229-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:177:3-180:62
+230            android:name="org.openobservatory.ooniprobe.common.service.RunTestJobService"
+230-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:178:4-52
+231            android:label="Run Test Service"
+231-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:179:4-36
+232            android:permission="android.permission.BIND_JOB_SERVICE" />
+232-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:180:4-60
+233
+234        <provider
+234-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:182:3-192:14
+235            android:name="androidx.core.content.FileProvider"
+235-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:183:4-53
+236            android:authorities="org.openobservatory.ooniprobe.provider"
+236-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:184:4-64
+237            android:exported="false"
+237-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:185:4-28
+238            android:grantUriPermissions="true" >
+238-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:186:4-38
+239
+240            <!-- resource file to create -->
+241            <meta-data
+241-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:188:4-191:16
+242                android:name="android.support.FILE_PROVIDER_PATHS"
+242-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:189:5-55
+243                android:resource="@xml/file_paths" >
+243-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:190:5-39
+244            </meta-data>
+245        </provider>
+246        <!--
+247             FirebaseMessagingService performs security checks at runtime,
+248             but set to not exported to explicitly avoid allowing another app to call it.
+249        -->
+250        <service
+250-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:28:9-35:19
+251            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+251-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:29:13-82
+252            android:directBootAware="true"
+252-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:30:13-43
+253            android:exported="false" >
+253-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:31:13-37
+254            <intent-filter android:priority="-500" >
+254-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:32:13-34:29
+254-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:32:28-51
+255                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+255-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:17-78
+255-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:33:25-75
+256            </intent-filter>
+257        </service>
+258        <service
+258-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:36:9-42:19
+259            android:name="com.google.firebase.components.ComponentDiscoveryService"
+259-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:37:13-84
+260            android:directBootAware="true"
+260-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+261            android:exported="false" >
+261-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:38:13-37
+262            <meta-data
+262-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:39:13-41:85
+263                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+263-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:40:17-119
+264                android:value="com.google.firebase.components.ComponentRegistrar" />
+264-->[com.google.firebase:firebase-messaging:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\721091d0dd949f2b7c22ba552804fd2c\transformed\jetified-firebase-messaging-21.0.1\AndroidManifest.xml:41:17-82
+265            <meta-data
+265-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:32:13-34:85
+266                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+266-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:33:17-96
+267                android:value="com.google.firebase.components.ComponentRegistrar" />
+267-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:34:17-82
+268            <meta-data
+268-->[com.google.firebase:firebase-datatransport:17.0.10] C:\Users\jcall\.gradle\caches\transforms-3\b76fbb68214e84276435d6e24f7c798f\transformed\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:28:13-30:85
+269                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+269-->[com.google.firebase:firebase-datatransport:17.0.10] C:\Users\jcall\.gradle\caches\transforms-3\b76fbb68214e84276435d6e24f7c798f\transformed\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:29:17-115
+270                android:value="com.google.firebase.components.ComponentRegistrar" />
+270-->[com.google.firebase:firebase-datatransport:17.0.10] C:\Users\jcall\.gradle\caches\transforms-3\b76fbb68214e84276435d6e24f7c798f\transformed\jetified-firebase-datatransport-17.0.10\AndroidManifest.xml:30:17-82
+271            <meta-data
+271-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\jcall\.gradle\caches\transforms-3\48d694790e4c13a42fcd28a92119acf5\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:18:13-20:85
+272                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+272-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\jcall\.gradle\caches\transforms-3\48d694790e4c13a42fcd28a92119acf5\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:19:17-127
+273                android:value="com.google.firebase.components.ComponentRegistrar" />
+273-->[com.google.firebase:firebase-installations:16.3.5] C:\Users\jcall\.gradle\caches\transforms-3\48d694790e4c13a42fcd28a92119acf5\transformed\jetified-firebase-installations-16.3.5\AndroidManifest.xml:20:17-82
+274            <!--
+275                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+276                clients to use it as well, by defining this registrar in their own core/common library.
+277            -->
+278            <meta-data
+278-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+279                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+279-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+280                android:value="com.google.firebase.components.ComponentRegistrar" />
+280-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+281        </service>
+282
+283        <uses-library android:name="android.test.runner" />
+283-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:16:9-60
+283-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:16:23-57
+284
+285        <receiver
+285-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:18:9-25:20
+286            android:name="ly.count.android.sdk.messaging.CountlyPush$NotificationBroadcastReceiver"
+286-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:19:13-100
+287            android:exported="false"
+287-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:20:13-37
+288            android:permission="org.openobservatory.ooniprobe.dev.CountlyPush.BROADCAST_PERMISSION" >
+288-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:21:13-83
+289            <intent-filter>
+289-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:22:13-24:29
+290                <action android:name="ly.count.android.sdk.CountlyPush.SECURE_NOTIFICATION_BROADCAST" />
+290-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:23:17-105
+290-->[ly.count.android:sdk:21.11.0] C:\Users\jcall\.gradle\caches\transforms-3\a66f2784fb2ae93725c3d4dfe5a3ec14\transformed\jetified-sdk-21.11.0\AndroidManifest.xml:23:25-102
+291            </intent-filter>
+292        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+293        <activity
+293-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:18:9-24:45
+294            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+294-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:19:13-100
+295            android:enabled="false"
+295-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:20:13-36
+296            android:exported="false"
+296-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:21:13-37
+297            android:launchMode="singleInstance"
+297-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:22:13-48
+298            android:process=":playcore_missing_splits_activity"
+298-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:23:13-64
+299            android:stateNotNeeded="true" />
+299-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:24:13-42
+300        <activity
+300-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:25:9-29:65
+301            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+301-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:26:13-93
+302            android:exported="false"
+302-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:27:13-37
+303            android:stateNotNeeded="true"
+303-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:28:13-42
+304            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+304-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:29:13-62
+305        <service
+305-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:32:9-39:19
+306            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+306-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:33:13-94
+307            android:enabled="false"
+307-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:34:13-36
+308            android:exported="true" >
+308-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:35:13-36
+309            <meta-data
+309-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:36:13-38:41
+310                android:name="com.google.android.play.core.assetpacks.versionCode"
+310-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:37:17-83
+311                android:value="11003" />
+311-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:38:17-38
+312        </service>
+313        <service
+313-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:40:9-43:40
+314            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+314-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:41:13-95
+315            android:enabled="false"
+315-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:42:13-36
+316            android:exported="false" />
+316-->[com.google.android.play:core:1.10.3] C:\Users\jcall\.gradle\caches\transforms-3\a104afd2e28b9df4dc28a133fece0ca1\transformed\jetified-core-1.10.3\AndroidManifest.xml:43:13-37
+317
+318        <provider
+318-->[com.github.xanscale.LocalhostToolkit:app:19.05.01] C:\Users\jcall\.gradle\caches\transforms-3\461da0fa60118015f2da64a4e13c4846\transformed\jetified-app-19.05.01\AndroidManifest.xml:14:9-22:20
+319            android:name="localhost.toolkit.content.FileProvider"
+319-->[com.github.xanscale.LocalhostToolkit:app:19.05.01] C:\Users\jcall\.gradle\caches\transforms-3\461da0fa60118015f2da64a4e13c4846\transformed\jetified-app-19.05.01\AndroidManifest.xml:15:13-66
+320            android:authorities="org.openobservatory.ooniprobe.dev.localhost.provider"
+320-->[com.github.xanscale.LocalhostToolkit:app:19.05.01] C:\Users\jcall\.gradle\caches\transforms-3\461da0fa60118015f2da64a4e13c4846\transformed\jetified-app-19.05.01\AndroidManifest.xml:16:13-70
+321            android:exported="false"
+321-->[com.github.xanscale.LocalhostToolkit:app:19.05.01] C:\Users\jcall\.gradle\caches\transforms-3\461da0fa60118015f2da64a4e13c4846\transformed\jetified-app-19.05.01\AndroidManifest.xml:17:13-37
+322            android:grantUriPermissions="true" >
+322-->[com.github.xanscale.LocalhostToolkit:app:19.05.01] C:\Users\jcall\.gradle\caches\transforms-3\461da0fa60118015f2da64a4e13c4846\transformed\jetified-app-19.05.01\AndroidManifest.xml:18:13-47
+323            <meta-data
+323-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:188:4-191:16
+324                android:name="android.support.FILE_PROVIDER_PATHS"
+324-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:189:5-55
+325                android:resource="@xml/paths" />
+325-->C:\Users\jcall\AndroidHttpInstrumenter\apps\covered\probe-android\app\src\main\AndroidManifest.xml:190:5-39
+326        </provider> <!-- 'android:authorities' must be unique in the device, across all apps -->
+327        <provider
+327-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:14:9-17:40
+328            android:name="io.sentry.android.core.SentryInitProvider"
+328-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:15:13-69
+329            android:authorities="org.openobservatory.ooniprobe.dev.SentryInitProvider"
+329-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:16:13-70
+330            android:exported="false" />
+330-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:17:13-37
+331        <provider
+331-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:18:9-22:39
+332            android:name="io.sentry.android.core.SentryPerformanceProvider"
+332-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:19:13-76
+333            android:authorities="org.openobservatory.ooniprobe.dev.SentryPerformanceProvider"
+333-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:20:13-77
+334            android:exported="false"
+334-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:21:13-37
+335            android:initOrder="200" />
+335-->[io.sentry:sentry-android-core:6.3.0] C:\Users\jcall\.gradle\caches\transforms-3\7bfd9a5265bbc7452537683d69111ce6\transformed\jetified-sentry-android-core-6.3.0\AndroidManifest.xml:22:13-36
+336        <provider
+336-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5719db0ac49ee8ed458385e907d8bba\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+337            android:name="androidx.startup.InitializationProvider"
+337-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5719db0ac49ee8ed458385e907d8bba\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+338            android:authorities="org.openobservatory.ooniprobe.dev.androidx-startup"
+338-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5719db0ac49ee8ed458385e907d8bba\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+339            android:exported="false" >
+339-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5719db0ac49ee8ed458385e907d8bba\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+340            <meta-data
+340-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5719db0ac49ee8ed458385e907d8bba\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+341                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+341-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5719db0ac49ee8ed458385e907d8bba\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+342                android:value="androidx.startup" />
+342-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\f5719db0ac49ee8ed458385e907d8bba\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+343            <meta-data
+343-->[androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\jcall\.gradle\caches\transforms-3\5d8414111229930b024caf5ea0c686dd\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:31:13-33:52
+344                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+344-->[androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\jcall\.gradle\caches\transforms-3\5d8414111229930b024caf5ea0c686dd\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:32:17-78
+345                android:value="androidx.startup" />
+345-->[androidx.lifecycle:lifecycle-process:2.5.1] C:\Users\jcall\.gradle\caches\transforms-3\5d8414111229930b024caf5ea0c686dd\transformed\jetified-lifecycle-process-2.5.1\AndroidManifest.xml:33:17-49
+346        </provider>
+347
+348        <receiver
+348-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:37:9-44:20
+349            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+349-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:38:13-78
+350            android:exported="true"
+350-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:39:13-36
+351            android:permission="com.google.android.c2dm.permission.SEND" >
+351-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:40:13-73
+352            <intent-filter>
+352-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:41:13-43:29
+353                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+353-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:42:17-81
+353-->[com.google.firebase:firebase-iid:21.0.1] C:\Users\jcall\.gradle\caches\transforms-3\05a43ecd3d5fc65b837b5e9b1e9ffcd9\transformed\jetified-firebase-iid-21.0.1\AndroidManifest.xml:42:25-78
+354            </intent-filter>
+355        </receiver>
+356
+357        <service
+357-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jcall\.gradle\caches\transforms-3\4a0c6630cf42e39302a11c9478b17f4a\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+358            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+358-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jcall\.gradle\caches\transforms-3\4a0c6630cf42e39302a11c9478b17f4a\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+359            android:exported="false" >
+359-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jcall\.gradle\caches\transforms-3\4a0c6630cf42e39302a11c9478b17f4a\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+360            <meta-data
+360-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jcall\.gradle\caches\transforms-3\4a0c6630cf42e39302a11c9478b17f4a\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+361                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+361-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jcall\.gradle\caches\transforms-3\4a0c6630cf42e39302a11c9478b17f4a\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+362                android:value="cct" />
+362-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\jcall\.gradle\caches\transforms-3\4a0c6630cf42e39302a11c9478b17f4a\transformed\jetified-transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+363        </service>
+364
+365        <provider
+365-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+366            android:name="com.google.firebase.provider.FirebaseInitProvider"
+366-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+367            android:authorities="org.openobservatory.ooniprobe.dev.firebaseinitprovider"
+367-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+368            android:directBootAware="true"
+368-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+369            android:exported="false"
+369-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+370            android:initOrder="100" />
+370-->[com.google.firebase:firebase-common:19.5.0] C:\Users\jcall\.gradle\caches\transforms-3\e755d53a0fe152bf7ee7a23e913c1b7f\transformed\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+371
+372        <activity
+372-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jcall\.gradle\caches\transforms-3\040538fc10b8acf76bb84c3d89ddd855\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+373            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+373-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jcall\.gradle\caches\transforms-3\040538fc10b8acf76bb84c3d89ddd855\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+374            android:exported="false"
+374-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jcall\.gradle\caches\transforms-3\040538fc10b8acf76bb84c3d89ddd855\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+375            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+375-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jcall\.gradle\caches\transforms-3\040538fc10b8acf76bb84c3d89ddd855\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+376
+377        <meta-data
+377-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jcall\.gradle\caches\transforms-3\a965057d0956579623e8416bc4484ff5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+378            android:name="com.google.android.gms.version"
+378-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jcall\.gradle\caches\transforms-3\a965057d0956579623e8416bc4484ff5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+379            android:value="@integer/google_play_services_version" />
+379-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jcall\.gradle\caches\transforms-3\a965057d0956579623e8416bc4484ff5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+380
+381        <uses-library
+381-->[androidx.window:window:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9dfddd9546857668908566884114bc22\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+382            android:name="androidx.window.extensions"
+382-->[androidx.window:window:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9dfddd9546857668908566884114bc22\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+383            android:required="false" />
+383-->[androidx.window:window:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9dfddd9546857668908566884114bc22\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+384        <uses-library
+384-->[androidx.window:window:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9dfddd9546857668908566884114bc22\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+385            android:name="androidx.window.sidecar"
+385-->[androidx.window:window:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9dfddd9546857668908566884114bc22\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+386            android:required="false" />
+386-->[androidx.window:window:1.0.0] C:\Users\jcall\.gradle\caches\transforms-3\9dfddd9546857668908566884114bc22\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+387
+388        <service
+388-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\jcall\.gradle\caches\transforms-3\dc550206f4070764f5d258fcdd3f1cb9\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:26:9-30:19
+389            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+389-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\jcall\.gradle\caches\transforms-3\dc550206f4070764f5d258fcdd3f1cb9\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:27:13-117
+390            android:exported="false"
+390-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\jcall\.gradle\caches\transforms-3\dc550206f4070764f5d258fcdd3f1cb9\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:28:13-37
+391            android:permission="android.permission.BIND_JOB_SERVICE" >
+391-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\jcall\.gradle\caches\transforms-3\dc550206f4070764f5d258fcdd3f1cb9\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:29:13-69
+392        </service>
+393
+394        <receiver
+394-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\jcall\.gradle\caches\transforms-3\dc550206f4070764f5d258fcdd3f1cb9\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:32:9-34:40
+395            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+395-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\jcall\.gradle\caches\transforms-3\dc550206f4070764f5d258fcdd3f1cb9\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:33:13-132
+396            android:exported="false" />
+396-->[com.google.android.datatransport:transport-runtime:2.2.5] C:\Users\jcall\.gradle\caches\transforms-3\dc550206f4070764f5d258fcdd3f1cb9\transformed\jetified-transport-runtime-2.2.5\AndroidManifest.xml:34:13-37
+397    </application>
+398
+399</manifest>

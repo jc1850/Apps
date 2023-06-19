@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">951667061699-2aq9bnbot04qdjbed2bpnl9ee4ro0c39.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ooniprobe-android.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">951667061699</string>
+    <string name="google_api_key" translatable="false">AIzaSyBsbX_pOQoqlyOOyZ6yf7CJf0lZZn6O1yg</string>
+    <string name="google_app_id" translatable="false">1:951667061699:android:12ea7e8f6168b9e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBsbX_pOQoqlyOOyZ6yf7CJf0lZZn6O1yg</string>
+    <string name="google_storage_bucket" translatable="false">ooniprobe-android.appspot.com</string>
+    <string name="project_id" translatable="false">ooniprobe-android</string>
+</resources>

@@ -1,0 +1,311 @@
+<resources>
+	<string name="version" translatable="false">%1$s: %2$s</string>
+	<integer name="default_timeout" translatable="false">30</integer>
+	<string name="preferences" translatable="false">preferences</string>
+	<string name="notifications" translatable="false">notifications</string>
+	<string name="automated_testing" translatable="false">automated_testing</string>
+	<string name="theme" translatable="false">theme</string>
+	<string name="theme_enabled" translatable="false">theme_enabled</string>
+	<string name="sharing" translatable="false">sharing</string>
+	<string name="test_options" translatable="false">test_options</string>
+	<string name="privacy" translatable="false">privacy</string>
+	<string name="advanced" translatable="false">advanced</string>
+	<string name="send_email" translatable="false">send_email</string>
+	<string name="about_ooni" translatable="false">about_ooni</string>
+	<string name="websites" translatable="false">websites</string>
+	<string name="instant_messaging" translatable="false">instant_messaging</string>
+	<string name="circumvention" translatable="false">circumvention</string>
+	<string name="ooni_backend_proxy" translatable="false">proxy</string>
+	<string name="proxy_protocol" translatable="false">proxy_protocol</string>
+	<string name="proxy_hostname" translatable="false">proxy_hostname</string>
+	<string name="proxy_port" translatable="false">proxy_port</string>
+	<string name="SOCKS5" translatable="false">SOCKS5</string>
+	<string name="middle_boxes" translatable="false">middle_boxes</string>
+	<string name="performance" translatable="false">performance</string>
+
+	<string name="websites_datausage" translatable="false">~ 8 MB</string>
+	<string name="small_datausage" translatable="false">&lt; 1 MB</string>
+	<string name="performance_datausage" translatable="false">5 - 200 MB</string>
+
+	<string name="notifications_enabled" translatable="false">notifications_enabled</string>
+	<string name="notifications_completion" translatable="false">notifications_completion</string>
+	<string name="notifications_news" translatable="false">notifications_news</string>
+	<string name="automated_testing_enabled" translatable="false">automated_testing_enabled</string>
+	<string name="automated_testing_wifionly" translatable="false">automated_testing_wifionly</string>
+	<string name="automated_testing_charging" translatable="false">automated_testing_charging</string>
+	<string name="upload_results" translatable="false">upload_results</string>
+	<string name="debugLogs" translatable="false">debugLogs</string>
+	<string name="storage_usage" translatable="false">storage_usage</string>
+	<string name="send_crash" translatable="false">send_crash</string>
+	<string name="warn_vpn_in_use" translatable="false">warn_vpn_in_use</string>
+	<string name="run_http_invalid_request_line" translatable="false">run_http_invalid_request_line</string>
+	<string name="run_http_header_field_manipulation" translatable="false">run_http_header_field_manipulation</string>
+	<string name="test_whatsapp" translatable="false">test_whatsapp</string>
+	<string name="test_telegram" translatable="false">test_telegram</string>
+	<string name="test_facebook_messenger" translatable="false">test_facebook_messenger</string>
+	<string name="test_signal" translatable="false">test_signal</string>
+	<string name="test_psiphon" translatable="false">test_psiphon</string>
+	<string name="test_tor" translatable="false">test_tor</string>
+	<string name="test_riseupvpn" translatable="false">test_riseupvpn</string>
+	<string name="run_ndt" translatable="false">run_ndt</string>
+	<string name="run_dash" translatable="false">run_dash</string>
+	<string name="experimental" translatable="false">experimental</string>
+	<string name="long_running_tests_in_foreground" translatable="false">long_running_tests_in_foreground</string>
+	<string name="max_runtime_enabled" translatable="false">max_runtime_enabled</string>
+	<string name="max_runtime" translatable="false">max_runtime</string>
+	<string name="d" translatable="false">%1$d</string>
+	<string name="f" translatable="false">%1$.2f</string>
+	<string name="bold" translatable="false">&lt;b>%1$s&lt;/b></string>
+	<string name="normalBold" translatable="false">%1$s &lt;b>%2$s&lt;/b></string>
+	<string name="bigNormal" translatable="false">%1$s&lt;small>&lt;small>&lt;small>%2$s&lt;/small>&lt;/small>&lt;/small></string>
+	<string name="paramOfParam" translatable="false">%1$s / %2$s</string>
+	<string name="twoParam" translatable="false">%1$s %2$s</string>
+	<string name="twoParamWithBrackets" translatable="false">%1$s (%2$s)</string>
+	<string name="outcomeHeader" translatable="false">&lt;big>&lt;b>%1$s&lt;/b>&lt;/big>&lt;br>&lt;small>%2$s&lt;/small></string>
+	<string name="http" translatable="false">http://</string>
+	<string name="r240p" translatable="false">240p</string>
+	<string name="r360p" translatable="false">360p</string>
+	<string name="r480p" translatable="false">480p</string>
+	<string name="r720p" translatable="false">720p</string>
+	<string name="r720p_ext" translatable="false">720p (HD)</string>
+	<string name="r1080p" translatable="false">1080p</string>
+	<string name="r1080p_ext" translatable="false">1080p (full HD)</string>
+	<string name="r1440p" translatable="false">1440p</string>
+	<string name="r1440p_ext" translatable="false">1440p (2k)</string>
+	<string name="r2160p" translatable="false">2160p</string>
+	<string name="r2160p_ext" translatable="false">2160p (4k)</string>
+	<string name="bullet" translatable="false">• %1$s</string>
+	<string name="transitionNameCard" translatable="false">card</string>
+	<string name="transitionNameRun" translatable="false">run</string>
+	<string name="transitionNameIcon" translatable="false">icon</string>
+	<string name="transitionNameTitle" translatable="false">title</string>
+	<string name="transitionNameRuntime" translatable="false">runtime</string>
+	<string name="shareEmailTo" translatable="false">mailto:contact@openobservatory.org</string>
+	<string name="shareSubject" translatable="false">[bug-report] OONI Probe Android %1$s</string>
+	<string name="urlTestDas" translatable="false">https://ooni.org/nettest/dash</string>
+	<string name="urlTestFbm" translatable="false">https://ooni.org/nettest/facebook-messenger</string>
+	<string name="urlTestHfm" translatable="false">https://ooni.org/nettest/http-header-field-manipulation</string>
+	<string name="urlTestIrl" translatable="false">https://ooni.org/nettest/http-invalid-request-line</string>
+	<string name="urlTestNdt" translatable="false">https://ooni.org/nettest/ndt</string>
+	<string name="urlTestTlg" translatable="false">https://ooni.org/nettest/telegram</string>
+	<string name="urlTestWeb" translatable="false">https://ooni.org/nettest/web-connectivity</string>
+	<string name="urlTestWap" translatable="false">https://ooni.org/nettest/whatsapp</string>
+	<string name="urlTestTor" translatable="false">https://ooni.org/nettest/tor</string>
+	<string name="urlTestPsi" translatable="false">https://ooni.org/nettest/psiphon</string>
+	<string name="urlTestRvpn" translatable="false">https://ooni.org/nettest/riseupvpn</string>
+	<string name="urlTestSig" translatable="false">https://ooni.org/nettest/signal</string>
+	<string-array name="filterTests" translatable="false">
+		<item>@string/TestResults_Overview_FilterTests_AllTests</item>
+		<item>@string/TestResults_Overview_FilterTests_Websites</item>
+		<item>@string/TestResults_Overview_FilterTests_InstantMessaging</item>
+		<item>@string/TestResults_Overview_FilterTests_Circumvention</item>
+		<item>@string/TestResults_Overview_FilterTests_Performance</item>
+	</string-array>
+	<string-array name="filterTestValues" translatable="false">
+		<item></item>
+		<item>websites</item>
+		<item>instant_messaging</item>
+		<item>circumvention</item>
+		<item>performance</item>
+	</string-array>
+	<string-array name="preferenceTestsNames" translatable="false">
+		<item>run_http_invalid_request_line</item>
+		<item>run_http_header_field_manipulation</item>
+		<item>test_whatsapp</item>
+		<item>test_telegram</item>
+		<item>test_facebook_messenger</item>
+		<item>run_ndt</item>
+		<item>run_dash</item>
+		<item>test_tor</item>
+		<item>test_psiphon</item>
+	</string-array>
+	<plurals name="TestResults_Overview_Websites_Blocked" translatable="false">
+		<item quantity="one">@string/TestResults_Overview_Websites_Blocked_Singular</item>
+		<item quantity="other">@string/TestResults_Overview_Websites_Blocked_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Overview_Websites_Tested" translatable="false">
+		<item quantity="one">@string/TestResults_Overview_Websites_Tested_Singular</item>
+		<item quantity="other">@string/TestResults_Overview_Websites_Tested_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Overview_InstantMessaging_Blocked" translatable="false">
+		<item quantity="one">@string/TestResults_Overview_InstantMessaging_Blocked_Singular</item>
+		<item quantity="other">@string/TestResults_Overview_InstantMessaging_Blocked_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Overview_InstantMessaging_Available" translatable="false">
+		<item quantity="one">@string/TestResults_Overview_InstantMessaging_Available_Singular</item>
+		<item quantity="other">@string/TestResults_Overview_InstantMessaging_Available_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Overview_Circumvention_Available" translatable="false">
+		<item quantity="one">@string/TestResults_Overview_Circumvention_Available_Singular</item>
+		<item quantity="other">@string/TestResults_Overview_Circumvention_Available_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Overview_Circumvention_Blocked" translatable="false">
+		<item quantity="one">@string/TestResults_Overview_Circumvention_Blocked_Singular</item>
+		<item quantity="other">@string/TestResults_Overview_Circumvention_Blocked_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Summary_Websites_Hero_Tested" translatable="false">
+		<item quantity="one">@string/TestResults_Summary_Websites_Hero_Tested_Singular</item>
+		<item quantity="other">@string/TestResults_Summary_Websites_Hero_Tested_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Summary_Websites_Hero_Blocked" translatable="false">
+		<item quantity="one">@string/TestResults_Summary_Websites_Hero_Blocked_Singular</item>
+		<item quantity="other">@string/TestResults_Summary_Websites_Hero_Blocked_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Summary_Websites_Hero_Reachable" translatable="false">
+		<item quantity="one">@string/TestResults_Summary_Websites_Hero_Reachable_Singular</item>
+		<item quantity="other">@string/TestResults_Summary_Websites_Hero_Reachable_Plural</item>
+	</plurals>
+	<plurals name="TestResults_Overview_Circumvention_RiseupVPN_Blocked" translatable="false">
+		<item quantity="one">@string/TestResults_Overview_Circumvention_RiseupVPN_Blocked_Singular</item>
+		<item quantity="other">@string/TestResults_Overview_Circumvention_RiseupVPN_Blocked_Plural</item>
+	</plurals>
+	<string name="CategoryCode_ALDR_Key" translatable="false">ALDR</string>
+	<string name="CategoryCode_REL_Key" translatable="false">REL</string>
+	<string name="CategoryCode_PORN_Key" translatable="false">PORN</string>
+	<string name="CategoryCode_PROV_Key" translatable="false">PROV</string>
+	<string name="CategoryCode_POLR_Key" translatable="false">POLR</string>
+	<string name="CategoryCode_HUMR_Key" translatable="false">HUMR</string>
+	<string name="CategoryCode_ENV_Key" translatable="false">ENV</string>
+	<string name="CategoryCode_MILX_Key" translatable="false">MILX</string>
+	<string name="CategoryCode_HATE_Key" translatable="false">HATE</string>
+	<string name="CategoryCode_NEWS_Key" translatable="false">NEWS</string>
+	<string name="CategoryCode_XED_Key" translatable="false">XED</string>
+	<string name="CategoryCode_PUBH_Key" translatable="false">PUBH</string>
+	<string name="CategoryCode_GMB_Key" translatable="false">GMB</string>
+	<string name="CategoryCode_ANON_Key" translatable="false">ANON</string>
+	<string name="CategoryCode_DATE_Key" translatable="false">DATE</string>
+	<string name="CategoryCode_GRP_Key" translatable="false">GRP</string>
+	<string name="CategoryCode_LGBT_Key" translatable="false">LGBT</string>
+	<string name="CategoryCode_FILE_Key" translatable="false">FILE</string>
+	<string name="CategoryCode_HACK_Key" translatable="false">HACK</string>
+	<string name="CategoryCode_COMT_Key" translatable="false">COMT</string>
+	<string name="CategoryCode_MMED_Key" translatable="false">MMED</string>
+	<string name="CategoryCode_HOST_Key" translatable="false">HOST</string>
+	<string name="CategoryCode_SRCH_Key" translatable="false">SRCH</string>
+	<string name="CategoryCode_GAME_Key" translatable="false">GAME</string>
+	<string name="CategoryCode_CULTR_Key" translatable="false">CULTR</string>
+	<string name="CategoryCode_ECON_Key" translatable="false">ECON</string>
+	<string name="CategoryCode_GOVT_Key" translatable="false">GOVT</string>
+	<string name="CategoryCode_COMM_Key" translatable="false">COMM</string>
+	<string name="CategoryCode_CTRL_Key" translatable="false">CTRL</string>
+	<string name="CategoryCode_IGO_Key" translatable="false">IGO</string>
+	<string name="CategoryCode_MISC_Key" translatable="false">MISC</string>
+	<string-array name="CategoryCodes" translatable="false">
+		<item>@string/CategoryCode_ALDR_Key</item>
+		<item>@string/CategoryCode_REL_Key</item>
+		<item>@string/CategoryCode_PORN_Key</item>
+		<item>@string/CategoryCode_PROV_Key</item>
+		<item>@string/CategoryCode_POLR_Key</item>
+		<item>@string/CategoryCode_HUMR_Key</item>
+		<item>@string/CategoryCode_ENV_Key</item>
+		<item>@string/CategoryCode_MILX_Key</item>
+		<item>@string/CategoryCode_HATE_Key</item>
+		<item>@string/CategoryCode_NEWS_Key</item>
+		<item>@string/CategoryCode_XED_Key</item>
+		<item>@string/CategoryCode_PUBH_Key</item>
+		<item>@string/CategoryCode_GMB_Key</item>
+		<item>@string/CategoryCode_ANON_Key</item>
+		<item>@string/CategoryCode_DATE_Key</item>
+		<item>@string/CategoryCode_GRP_Key</item>
+		<item>@string/CategoryCode_LGBT_Key</item>
+		<item>@string/CategoryCode_FILE_Key</item>
+		<item>@string/CategoryCode_HACK_Key</item>
+		<item>@string/CategoryCode_COMT_Key</item>
+		<item>@string/CategoryCode_MMED_Key</item>
+		<item>@string/CategoryCode_HOST_Key</item>
+		<item>@string/CategoryCode_SRCH_Key</item>
+		<item>@string/CategoryCode_GAME_Key</item>
+		<item>@string/CategoryCode_CULTR_Key</item>
+		<item>@string/CategoryCode_ECON_Key</item>
+		<item>@string/CategoryCode_GOVT_Key</item>
+		<item>@string/CategoryCode_COMM_Key</item>
+		<item>@string/CategoryCode_CTRL_Key</item>
+		<item>@string/CategoryCode_IGO_Key</item>
+	</string-array>
+	<array name="CategoryIcons" translatable="false">
+		<item>@drawable/category_aldr</item>
+		<item>@drawable/category_rel</item>
+		<item>@drawable/category_porn</item>
+		<item>@drawable/category_prov</item>
+		<item>@drawable/category_polr</item>
+		<item>@drawable/category_humr</item>
+		<item>@drawable/category_env</item>
+		<item>@drawable/category_milx</item>
+		<item>@drawable/category_hate</item>
+		<item>@drawable/category_news</item>
+		<item>@drawable/category_xed</item>
+		<item>@drawable/category_pubh</item>
+		<item>@drawable/category_gmb</item>
+		<item>@drawable/category_anon</item>
+		<item>@drawable/category_date</item>
+		<item>@drawable/category_grp</item>
+		<item>@drawable/category_lgbt</item>
+		<item>@drawable/category_file</item>
+		<item>@drawable/category_hack</item>
+		<item>@drawable/category_comm</item>
+		<item>@drawable/category_mmed</item>
+		<item>@drawable/category_host</item>
+		<item>@drawable/category_srch</item>
+		<item>@drawable/category_game</item>
+		<item>@drawable/category_cultr</item>
+		<item>@drawable/category_econ</item>
+		<item>@drawable/category_govt</item>
+		<item>@drawable/category_comm</item>
+		<item>@drawable/category_ctrl</item>
+		<item>@drawable/category_igo</item>
+		<item>@drawable/category_misc</item>
+	</array>
+	<string name="language_setting" translatable="false">language_setting</string>
+	<string-array name="language_sort_options">
+		<item>Automatic</item>
+		<item>Albanian</item>
+		<item>العربية</item>
+		<item>Català</item>
+		<item>中文 (S)</item>
+		<item>中文 (T)</item>
+		<item>Nederlands</item>
+		<item>English</item>
+		<item>فارسی</item>
+		<item>Français</item>
+		<item>Deutsch</item>
+		<item>Ελληνικά</item>
+		<item>हिन्दी</item>
+		<item>Icelandic</item>
+		<item>Indonesia</item>
+		<item>Italiano</item>
+		<item>Português</item>
+		<item>Română</item>
+		<item>Pусский</item>
+		<item>Slovenčina</item>
+		<item>Español</item>
+		<item>Kiswahili</item>
+		<item>ไทย</item>
+		<item>Türkçe</item>
+	</string-array>
+	<string-array name="language_sort_options_values">
+		<item>auto</item>
+		<item>sq</item>
+		<item>ar</item>
+		<item>ca</item>
+		<item>zh_CN</item>
+		<item>zh_TW</item>
+		<item>nl</item>
+		<item>en</item>
+		<item>fa</item>
+		<item>fr</item>
+		<item>de</item>
+		<item>el</item>
+		<item>hi</item>
+		<item>is</item>
+		<item>id</item>
+		<item>it</item>
+		<item>pt_BR</item>
+		<item>ro</item>
+		<item>ru</item>
+		<item>sk</item>
+		<item>es</item>
+		<item>sw</item>
+		<item>th</item>
+		<item>tr</item>
+	</string-array>
+</resources>

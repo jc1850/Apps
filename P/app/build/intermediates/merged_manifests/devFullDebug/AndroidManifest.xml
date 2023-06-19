@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.openobservatory.ooniprobe.dev"
+    android:versionCode="20230619"
+    android:versionName="2023.06.19-14" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="33" />
+
+    <!-- Allows unlocking your device and activating its screen so UI tests can succeed -->
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Allows for storing and retrieving screenshots -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- Allows changing locales -->
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="org.openobservatory.ooniprobe.dev.CountlyPush.BROADCAST_PERMISSION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+
+    <permission
+        android:name="org.openobservatory.ooniprobe.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="org.openobservatory.ooniprobe.permission.C2D_MESSAGE" />
+
+    <permission
+        android:name="org.openobservatory.ooniprobe.dev.CountlyPush.BROADCAST_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:name="org.openobservatory.ooniprobe.common.Application"
+        android:allowBackup="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/APP_NAME"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App" >
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ic_notification" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/color_base" />
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="@string/General_AppName" />
+        <meta-data
+            android:name="firebase_analytics_collection_enabled"
+            android:value="false" />
+
+        <service
+            android:name="org.openobservatory.ooniprobe.common.FirebaseMessagingService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="io.sentry.dsn"
+            android:value="https://9dcd83d9519844188803aa817cdcd416@o155150.ingest.sentry.io/5619989" />
+
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.MainActivity"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="userPortrait"
+            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.OnboardingActivity"
+            android:screenOrientation="userPortrait"
+            android:theme="@style/Theme.MaterialComponents.NoActionBar.Onboarding" />
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+            android:screenOrientation="userPortrait" />
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.OverviewActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+            android:screenOrientation="userPortrait" />
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.ResultDetailActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+            android:screenOrientation="userPortrait" />
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.MeasurementDetailActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.ResultDetailActivity"
+            android:screenOrientation="userPortrait" />
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.TextActivity"
+            android:hardwareAccelerated="false"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.MeasurementDetailActivity"
+            android:screenOrientation="userPortrait" />
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.RunningActivity"
+            android:launchMode="singleTop"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+            android:screenOrientation="userPortrait" />
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.InfoActivity"
+            android:exported="false"
+            android:label="@string/Settings_About_Label"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+            android:screenOrientation="userPortrait"
+            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App.NoActionBar" >
+            <intent-filter>
+                <action android:name="org.openobservatory.ooniprobe.activity.InfoActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.ProxyActivity"
+            android:exported="false"
+            android:label="Proxy"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+            android:screenOrientation="userPortrait"
+            android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar.App" >
+            <intent-filter>
+                <action android:name="org.openobservatory.ooniprobe.activity.ProxyActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.CustomWebsiteActivity"
+            android:exported="false"
+            android:label="@string/Settings_Websites_CustomURL_Title"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity"
+            android:screenOrientation="userPortrait" >
+            <intent-filter>
+                <action android:name="org.openobservatory.ooniprobe.activity.CustomWebsiteActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.OoniRunActivity"
+            android:exported="true"
+            android:label="@string/APP_NAME"
+            android:launchMode="singleTop"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.MainActivity"
+            android:screenOrientation="userPortrait"
+            android:theme="@style/Theme.MaterialComponents.Light.NoActionBar.App" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="org.openobservatory.ooniprobe.nettest" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <action android:name="org.openobservatory.ooniprobe.nettest" />
+
+                <data
+                    android:host="run.ooni.io"
+                    android:pathPrefix="/nettest"
+                    android:scheme="https" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <action android:name="org.openobservatory.ooniprobe.nettest" />
+
+                <data
+                    android:host="run.ooni.io"
+                    android:pathPrefix="/nettest"
+                    android:scheme="http" />
+            </intent-filter>
+            <intent-filter android:autoVerify="true" >
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="nettest"
+                    android:scheme="ooni" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.openobservatory.ooniprobe.activity.LogActivity"
+            android:exported="false"
+            android:label="LogActivity"
+            android:parentActivityName="org.openobservatory.ooniprobe.activity.PreferenceActivity" >
+            <intent-filter>
+                <action android:name="org.openobservatory.ooniprobe.activity.LogActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="org.openobservatory.ooniprobe.common.service.RunTestService"
+            android:icon="@drawable/notification_icon"
+            android:label="@string/Dashboard_Card_Run" />
+        <service
+            android:name="org.openobservatory.ooniprobe.common.service.RunTestJobService"
+            android:label="Run Test Service"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="org.openobservatory.ooniprobe.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+
+            <!-- resource file to create -->
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" >
+            </meta-data>
+        </provider>
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             but set to not exported to explicitly avoid allowing another app to call it.
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <!--
+                This registrar is not defined in the dynamic-module-support sdk itself to allow non-firebase
+                clients to use it as well, by defining this registrar in their own core/common library.
+            -->
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <uses-library android:name="android.test.runner" />
+
+        <receiver
+            android:name="ly.count.android.sdk.messaging.CountlyPush$NotificationBroadcastReceiver"
+            android:exported="false"
+            android:permission="org.openobservatory.ooniprobe.dev.CountlyPush.BROADCAST_PERMISSION" >
+            <intent-filter>
+                <action android:name="ly.count.android.sdk.CountlyPush.SECURE_NOTIFICATION_BROADCAST" />
+            </intent-filter>
+        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+        <activity
+            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+            android:enabled="false"
+            android:exported="false"
+            android:launchMode="singleInstance"
+            android:process=":playcore_missing_splits_activity"
+            android:stateNotNeeded="true" />
+        <activity
+            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+            android:exported="false"
+            android:stateNotNeeded="true"
+            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+        <service
+            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+            android:enabled="false"
+            android:exported="true" >
+            <meta-data
+                android:name="com.google.android.play.core.assetpacks.versionCode"
+                android:value="11003" />
+        </service>
+        <service
+            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+            android:enabled="false"
+            android:exported="false" />
+
+        <provider
+            android:name="localhost.toolkit.content.FileProvider"
+            android:authorities="org.openobservatory.ooniprobe.dev.localhost.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/paths" />
+        </provider> <!-- 'android:authorities' must be unique in the device, across all apps -->
+        <provider
+            android:name="io.sentry.android.core.SentryInitProvider"
+            android:authorities="org.openobservatory.ooniprobe.dev.SentryInitProvider"
+            android:exported="false" />
+        <provider
+            android:name="io.sentry.android.core.SentryPerformanceProvider"
+            android:authorities="org.openobservatory.ooniprobe.dev.SentryPerformanceProvider"
+            android:exported="false"
+            android:initOrder="200" />
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="org.openobservatory.ooniprobe.dev.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="org.openobservatory.ooniprobe.dev.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <uses-library
+            android:name="androidx.window.extensions"
+            android:required="false" />
+        <uses-library
+            android:name="androidx.window.sidecar"
+            android:required="false" />
+
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
+    </application>
+
+</manifest>

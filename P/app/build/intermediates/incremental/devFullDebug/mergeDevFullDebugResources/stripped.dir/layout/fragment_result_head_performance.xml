@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="90dp"
+	android:layout_gravity="center_vertical"
+	android:baselineAligned="false"
+	android:divider="@drawable/divider"
+	android:dividerPadding="8dp"
+	android:gravity="center_vertical"
+	android:orientation="horizontal"
+	android:showDividers="middle"
+	android:theme="@style/Theme.MaterialComponents.NoActionBar.App">
+
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+		<TextView
+			android:id="@+id/videoLabel"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:gravity="center_horizontal"
+			android:text="@string/TestResults_Summary_Performance_Hero_Video" />
+
+		<TextView
+			android:id="@+id/video"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:textColor="@android:color/white"
+			android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+		<TextView
+			android:id="@+id/videoUnit"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:textColor="@android:color/white"
+			android:text="@string/TestResults_Summary_Performance_Hero_Video_Quality" />
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+		<TextView
+			android:id="@+id/downloadLabel"
+			android:textColor="@android:color/white"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:text="@string/TestResults_Summary_Performance_Hero_Download" />
+
+		<TextView
+			android:id="@+id/download"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:textColor="@android:color/white"
+			android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+		<TextView
+			android:id="@+id/downloadUnit"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:gravity="center_horizontal" />
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+		<TextView
+			android:id="@+id/uploadLabel"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:textColor="@android:color/white"
+			android:text="@string/TestResults_Summary_Performance_Hero_Upload" />
+
+		<TextView
+			android:id="@+id/upload"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:textColor="@android:color/white"
+			android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+		<TextView
+			android:id="@+id/uploadUnit"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:gravity="center_horizontal" />
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="0dp"
+		android:layout_height="wrap_content"
+		android:layout_weight="1"
+		android:orientation="vertical">
+
+		<TextView
+			android:id="@+id/pingLabel"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textColor="@android:color/white"
+			android:gravity="center_horizontal"
+			android:text="@string/TestResults_Summary_Performance_Hero_Ping" />
+
+		<TextView
+			android:id="@+id/ping"
+			android:textColor="@android:color/white"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+		<TextView
+			android:id="@+id/pingUnit"
+			android:textColor="@android:color/white"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:gravity="center_horizontal"
+			android:text="@string/TestResults_ms" />
+	</LinearLayout>
+</LinearLayout>
+

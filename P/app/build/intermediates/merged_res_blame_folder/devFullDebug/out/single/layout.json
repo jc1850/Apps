@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_info.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_info.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_experimental.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_experimental.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_result_detail.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_result_detail.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_failed.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_failed.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/logo.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/logo.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_failed.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_failed.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_running.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_running.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_date.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_date.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_measurement.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_measurement.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_onboarding_dialog_warning.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_dialog_warning.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_measurement_perf.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_measurement_perf.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_testsuite.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_testsuite.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_onboarding_3.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_3.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_seperator.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_seperator.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_result_list.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_list.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_result_head_performance.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_performance.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_onboarding_dialog_popquiz.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_dialog_popquiz.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_oonirun.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_oonirun.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_proxy.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_proxy.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_circumvention.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_circumvention.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_instantmessaging.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_instantmessaging.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_result_head_tba.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_tba.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_main.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_overview.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_overview.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_text.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_text.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/text.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/text.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_customwebsite.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_customwebsite.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_telegram.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_telegram.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_measurement_detail.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_measurement_detail.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_header_ndt.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_header_ndt.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_signal.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_signal.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_result_head_middlebox.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_middlebox.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_browser.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_browser.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_onboarding_2.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_2.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_websites.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_websites.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_httpheaderfieldmanipulation.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_httpheaderfieldmanipulation.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_riseupvpn.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_riseupvpn.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_httpinvalidrequestline.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_httpinvalidrequestline.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_middleboxes.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_middleboxes.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_psiphon.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_psiphon.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_tor.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_tor.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_whatsapp.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_whatsapp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_result_head_detail.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_detail.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_ndt.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_ndt.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_dashboard.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_onboarding_crash.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_crash.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/edittext_url.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/edittext_url.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/activity_log.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_log.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_content.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_content.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_webconnectivity.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_webconnectivity.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/preference_button.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/preference_button.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/item_performance.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_performance.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_facebookmessenger.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_facebookmessenger.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_progress.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_dash.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_dash.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_onboarding_1.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_1.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_onboarding_autotest.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_autotest.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-mergeDevFullDebugResources-39:/layout/fragment_measurement_header_outcome.xml",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_header_outcome.xml"
+    }
+]

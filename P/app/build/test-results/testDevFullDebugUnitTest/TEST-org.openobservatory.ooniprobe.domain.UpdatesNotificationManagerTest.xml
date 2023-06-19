@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-06-19T13:57:58" hostname="DESKTOP-P1HHUKE" time="1.242">
+  <properties/>
+  <testcase name="testShouldNotShowWhenAlreadyEnabled" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="1.209"/>
+  <testcase name="testShouldShow" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.002"/>
+  <testcase name="testDisableUpdates" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.019"/>
+  <testcase name="testGetUpdates" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.002"/>
+  <testcase name="testShouldShowAutoTest" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.002"/>
+  <testcase name="testShouldNotShowWhenNotMultipleOf5" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.002"/>
+  <testcase name="testShouldNotShowAutoTestWhenAskingDisabled" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.002"/>
+  <testcase name="testDisableAskNotificationDialog" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.0"/>
+  <testcase name="testShouldNotShowWhenAskingDisabled" classname="org.openobservatory.ooniprobe.domain.UpdatesNotificationManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

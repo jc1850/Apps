@@ -1,0 +1,1038 @@
+[
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_mmed.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_mmed.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_ic_baseline_add_36.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/ic_baseline_add_36.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_tick_green_cloudoff.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/tick_green_cloudoff.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_test_performance_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxxhdpi/test_performance_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_onboarding_autotest.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_autotest.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_test_middle_boxes_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxxhdpi/test_middle_boxes_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxhdpi_test_websites_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxhdpi/test_websites_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_button_back.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/button_back.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxhdpi_test_middle_boxes_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxhdpi/test_middle_boxes_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_telegram.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_telegram.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_customwebsite.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_customwebsite.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_onboarding_3.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/onboarding_3.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_experimental.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_experimental.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-mdpi_test_experimental_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-mdpi/test_experimental_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_privacy.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/privacy.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_tick_white_48dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/tick_white_48dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_settings_circumvention.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/settings_circumvention.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_tab_test_results.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/tab_test_results.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-hdpi_test_circumvention_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-hdpi/test_circumvention_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_news.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_news.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_onboarding_dialog_popquiz.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_dialog_popquiz.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-mdpi_test_websites_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-mdpi/test_websites_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_testsuite.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_testsuite.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xhdpi_test_signal.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xhdpi/test_signal.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_sharing.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/sharing.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_onboarding_1.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/onboarding_1.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_facebook_messenger.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_facebook_messenger.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_telegram.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_telegram.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_date.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_date.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-hdpi_test_middle_boxes_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-hdpi/test_middle_boxes_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/font_firasans_semibold_italic.otf.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/font/firasans_semibold_italic.otf"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-anydpi-v24_test_signal.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-anydpi-v24/test_signal.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_failed.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_failed.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_anon.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_anon.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_header_ndt.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_header_ndt.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-ldpi_test_middle_boxes_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-ldpi/test_middle_boxes_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-anydpi-v24_test_experimental_24.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-anydpi-v24/test_experimental_24.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-anydpi-v24_test_websites_24.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-anydpi-v24/test_websites_24.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_result_head_detail.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_detail.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_upload_white.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/upload_white.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_onboarding_dialog_warning.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_dialog_warning.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_env.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_env.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_delete_forever_white.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/delete_forever_white.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_govt.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_govt.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_exclamation_white_48dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/exclamation_white_48dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_error_48dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/error_48dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xhdpi_test_middle_boxes_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xhdpi/test_middle_boxes_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_cloudoff.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/cloudoff.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_content.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_content.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_error_24dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/error_24dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_tick_green_24dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/tick_green_24dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xhdpi_test_performance_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xhdpi/test_performance_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-mdpi_test_performance_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-mdpi/test_performance_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_ooni_bw.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/ooni_bw.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_ic_content_copy_white.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/ic_content_copy_white.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_notifications.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/notifications.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_log_viewer.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/log_viewer.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_middleboxes.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_middleboxes.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_onboarding_2.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/onboarding_2.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_measurement.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/measurement.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_test_circumvention_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxxhdpi/test_circumvention_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-anydpi-v24_test_performance_24.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-anydpi-v24/test_performance_24.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-ldpi_test_instant_messaging_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-ldpi/test_instant_messaging_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-ldpi_test_signal.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-ldpi/test_signal.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_divider.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/divider.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xhdpi_test_circumvention_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xhdpi/test_circumvention_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_prov.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_prov.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-mdpi_test_instant_messaging_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-mdpi/test_instant_messaging_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_tor.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_tor.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_browser.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_browser.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_bottom_navigation.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/bottom_navigation.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_instantmessaging.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_instantmessaging.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_failed.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_failed.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_dialog_red.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/dialog_red.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/font_firasans_regular_italic.otf.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/font/firasans_regular_italic.otf"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_signal.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_signal.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_clipboard.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/clipboard.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_button_false.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/button_false.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_host.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_host.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_performance.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_performance.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_ooni_logo.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/ooni_logo.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_proxy.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_proxy.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_instant_messaging.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_instant_messaging.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_humr.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_humr.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/xml_preferences_global.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/xml/preferences_global.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_rel.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_rel.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-hdpi_test_experimental_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-hdpi/test_experimental_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_dashboard.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_httpheaderfieldmanipulation.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_httpheaderfieldmanipulation.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_delete.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/delete.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_test_signal.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxxhdpi/test_signal.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_igo.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_igo.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-ldpi_test_performance_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-ldpi/test_performance_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_ic_forward.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/ic_forward.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_about_ooni.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/about_ooni.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/font_firasans_light_normal.otf.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/font/firasans_light_normal.otf"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_httpinvalidrequestline.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_httpinvalidrequestline.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_automated_testing.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/automated_testing.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_exclamation_24dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/exclamation_24dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_notification_icon.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_advanced.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/advanced.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_seperator.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_seperator.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_middle_boxes_white.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_middle_boxes_white.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_rerun.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/rerun.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_websites.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_websites.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_middle_boxes.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_middle_boxes.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_tick_black_18dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/tick_black_18dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_progress.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-anydpi-v24_test_instant_messaging_24.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-anydpi-v24/test_instant_messaging_24.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_progress_blue.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/progress_blue.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_date.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_date.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_settings_performance.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/settings_performance.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_settings_websites.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/settings_websites.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_comt.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_comt.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_tor.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_tor.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_pubh.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_pubh.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_tab_dashboard.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/tab_dashboard.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_middle_boxes_small.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_middle_boxes_small.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_hate.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_hate.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_progress.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/progress.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_rounded_corner.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_question_mark.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/question_mark.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_hack.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_hack.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_options.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_options.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-ldpi_test_experimental_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-ldpi/test_experimental_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_settings_instant_messaging.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/settings_instant_messaging.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_ic_refresh.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/ic_refresh.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_ndt.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_ndt.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_polr.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_polr.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_rerun.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/rerun.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_exclamation_cloudoff.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/exclamation_cloudoff.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_result_list.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_list.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_lgbt.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_lgbt.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_onboarding_2.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_2.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_result_head_performance.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_performance.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_milx.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_milx.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_dots_2.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/dots_2.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_measurement.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_measurement.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_ic_close.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/ic_close.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_test_experimental_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxxhdpi/test_experimental_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_proxy.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/proxy.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_onboarding_3.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_3.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_video_quality.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/video_quality.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_facebookmessenger.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_facebookmessenger.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_ctrl.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_ctrl.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_edittext_url.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/edittext_url.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-anydpi-v24_test_middle_boxes_24.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-anydpi-v24/test_middle_boxes_24.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_whatsapp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_whatsapp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_run.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/run.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_laoyout_rounded_corners.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/laoyout_rounded_corners.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_dialog_quiz.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/dialog_quiz.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_download_white.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/download_white.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_update.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/update.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_ic_menu_share.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/ic_menu_share.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-ldpi_test_websites_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-ldpi/test_websites_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxhdpi_test_instant_messaging_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxhdpi/test_instant_messaging_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_result_head_middlebox.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_middlebox.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_logo.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/logo.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_result_detail.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_result_detail.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_dots_1.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/dots_1.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_text.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/text.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxhdpi_test_signal.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxhdpi/test_signal.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxhdpi_test_experimental_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxhdpi/test_experimental_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_chevron_right.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/chevron_right.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_overview.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_overview.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_webconnectivity.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_webconnectivity.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_settings_middle_boxes.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/settings_middle_boxes.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_gmb.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_gmb.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_websites.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_websites.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/xml_file_paths.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/xml/file_paths.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_comm.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_comm.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_experimental.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_experimental.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_download_black.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/download_black.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-mdpi_test_signal.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-mdpi/test_signal.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_srch.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_srch.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-hdpi_test_instant_messaging_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-hdpi/test_instant_messaging_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_button_continue.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/button_continue.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_onboarding_1.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_1.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_button_true.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/button_true.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_oonirun.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_oonirun.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_psiphon.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_psiphon.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_riseupvpn.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_riseupvpn.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xhdpi_test_experimental_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xhdpi/test_experimental_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_text.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_text.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_onboarding_crash.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_onboarding_crash.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_test_instant_messaging_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxxhdpi/test_instant_messaging_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_xed.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_xed.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_close.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/close.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_preference_button.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/preference_button.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_ooniprobe_logo.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/ooniprobe_logo.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_exclamation_18dp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/exclamation_18dp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_performance.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_performance.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-ldpi_test_circumvention_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-ldpi/test_circumvention_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_test_websites_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxxhdpi/test_websites_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-hdpi_test_signal.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-hdpi/test_signal.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_econ.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_econ.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_running.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_running.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_send_email.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/send_email.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_dash.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_dash.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_whatsapp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_whatsapp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_circumvention.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_circumvention.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xhdpi_test_instant_messaging_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xhdpi/test_instant_messaging_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_circumvention.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_circumvention.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-anydpi-v24_test_circumvention_24.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-anydpi-v24/test_circumvention_24.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_file.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_file.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-dev-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_riseupvpn.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_riseupvpn.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_test_psiphon.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/test_psiphon.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_aldr.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_aldr.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_measurement_header_outcome.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_measurement_header_outcome.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-hdpi_test_performance_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-hdpi/test_performance_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_dialog_green.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/dialog_green.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_info.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_info.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_ooni_empty_state.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/ooni_empty_state.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_dialog_wrong.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/dialog_wrong.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-mdpi_test_middle_boxes_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-mdpi/test_middle_boxes_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_item_measurement_perf.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/item_measurement_perf.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-mdpi_test_circumvention_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-mdpi/test_circumvention_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_misc.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_misc.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_log.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_log.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_grp.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_grp.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_measurement_detail.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_measurement_detail.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxhdpi_test_circumvention_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxhdpi/test_circumvention_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_fragment_result_head_tba.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/fragment_result_head_tba.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxhdpi_test_performance_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xxhdpi/test_performance_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_porn.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_porn.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_game.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_game.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-hdpi_test_websites_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-hdpi/test_websites_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_globe.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/globe.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_upload_black.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/upload_black.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/font_firasans_regular_normal.otf.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/font/firasans_regular_normal.otf"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_category_cultr.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/category_cultr.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xxxhdpi_ic_back.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable-xxxhdpi/ic_back.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_settings_icon.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/settings_icon.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/font_firasans_semibold_normal.otf.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/font/firasans_semibold_normal.otf"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable-xhdpi_test_websites_24.png.flat",
+        "source": "org.openobservatory.ooniprobe.app-devFull-35:/drawable-xhdpi/test_websites_24.png"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/menu_share.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/menu/share.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/font_firasans.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/font/firasans.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_ic_baseline_remove_circle_24.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/ic_baseline_remove_circle_24.xml"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/font_firasans_light_italic.otf.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/font/firasans_light_italic.otf"
+    },
+    {
+        "merged": "org.openobservatory.ooniprobe.app-merged_res-40:/drawable_dots_3.xml.flat",
+        "source": "org.openobservatory.ooniprobe.app-main-46:/drawable/dots_3.xml"
+    }
+]

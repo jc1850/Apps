@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "org.openobservatory.ooniprobe.dev",
+  "variantName": "devFullDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 20230619,
+      "versionName": "2023.06.19-14",
+      "outputFile": "resources-devFullDebug.ap_"
+    }
+  ],
+  "elementType": "File"
+}
