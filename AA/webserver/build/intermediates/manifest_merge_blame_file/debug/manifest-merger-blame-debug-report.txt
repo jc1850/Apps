@@ -3,6 +3,6 @@
 3    package="org.adaway.webserver" >
 4
 5    <uses-sdk android:minSdkVersion="26" />
-5-->C:\Users\jcall\AndroidHttpInstrumenter\apps\AdAway\webserver\src\main\AndroidManifest.xml
+5-->C:\Users\jcall\Apps\AA\webserver\src\main\AndroidManifest.xml
 6
 7</manifest>

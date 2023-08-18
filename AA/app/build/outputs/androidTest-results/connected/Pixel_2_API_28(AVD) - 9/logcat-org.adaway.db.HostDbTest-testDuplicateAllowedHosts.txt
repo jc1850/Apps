@@ -1,2 +1,0 @@
-04-04 16:10:44.742  7667  7697 I TestRunner: started: testDuplicateAllowedHosts(org.adaway.db.HostDbTest)
-04-04 16:10:44.764  7667  7697 I TestRunner: finished: testDuplicateAllowedHosts(org.adaway.db.HostDbTest)

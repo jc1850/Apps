@@ -6,9 +6,9 @@
     "deprecated": false,
     "default": true
   },
-  "cxxBuildFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\.cxx\\Debug\\40b3742g\\x86",
-  "soFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g\\obj\\local\\x86",
-  "soRepublishFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "cxxBuildFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\.cxx\\Debug\\40b3742g\\x86",
+  "soFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g\\obj\\local\\x86",
+  "soRepublishFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
   "abiPlatformVersion": 26,
   "variant": {
     "buildSystemArgumentList": [],
@@ -26,13 +26,13 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\.cxx",
-      "intermediatesBaseFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates",
-      "intermediatesFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx",
+      "cxxFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\.cxx",
+      "intermediatesBaseFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\intermediates",
+      "intermediatesFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\intermediates\\cxx",
       "gradleModulePathName": ":webserver",
-      "moduleRootFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver",
-      "moduleBuildFile": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build.gradle",
-      "makeFile": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+      "moduleRootFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver",
+      "moduleBuildFile": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build.gradle",
+      "makeFile": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
       "buildSystem": "NDK_BUILD",
       "ndkFolder": "C:\\Users\\jcall\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653",
       "ndkVersion": "25.2.9519653",
@@ -113,7 +113,7 @@
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway",
+        "rootBuildGradleFolder": "C:\\Users\\jcall\\Apps\\AA",
         "sdkFolder": "C:\\Users\\jcall\\AppData\\Local\\Android\\Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
@@ -134,22 +134,22 @@
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\.cxx\\Debug\\40b3742g\\prefab\\x86",
+  "prefabFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\.cxx\\Debug\\40b3742g\\prefab\\x86",
   "isActiveAbi": true,
   "fullConfigurationHash": "40b3742g1p32885f32x3y8u27304m3q222q315u1v64294n2b1ze1l3h",
   "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 7.4.2.\n#   - $NDK is the path to NDK 25.2.9519653.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d$PROJECT/webserver/jni/Android.mk\nNDK_APPLICATION_MK\u003d$PROJECT/webserver/jni/Application.mk\nNDK_GRADLE_INJECTED_IMPORT_PATH\u003d$PROJECT/webserver/build/.cxx/Debug/$HASH/prefab/$ABI\nAPP_ABI\u003d$ABI\nNDK_ALL_ABIS\u003d$ABI\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-26\nNDK_OUT\u003d$PROJECT/webserver/build/intermediates/cxx/Debug/$HASH/obj\nNDK_LIBS_OUT\u003d$PROJECT/webserver/build/intermediates/cxx/Debug/$HASH/lib",
   "configurationArguments": [
     "NDK_PROJECT_PATH\u003dnull",
-    "APP_BUILD_SCRIPT\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "NDK_APPLICATION_MK\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Application.mk",
-    "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\.cxx\\Debug\\40b3742g\\prefab\\x86",
+    "APP_BUILD_SCRIPT\u003dC:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
+    "NDK_APPLICATION_MK\u003dC:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Application.mk",
+    "NDK_GRADLE_INJECTED_IMPORT_PATH\u003dC:\\Users\\jcall\\Apps\\AA\\webserver\\build\\.cxx\\Debug\\40b3742g\\prefab\\x86",
     "APP_ABI\u003dx86",
     "NDK_ALL_ABIS\u003dx86",
     "NDK_DEBUG\u003d1",
     "APP_PLATFORM\u003dandroid-26",
-    "NDK_OUT\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g/obj",
-    "NDK_LIBS_OUT\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g/lib"
+    "NDK_OUT\u003dC:\\Users\\jcall\\Apps\\AA\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g/obj",
+    "NDK_LIBS_OUT\u003dC:\\Users\\jcall\\Apps\\AA\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g/lib"
   ],
   "stlLibraryFile": "C:\\Users\\jcall\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
-  "intermediatesParentFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g"
+  "intermediatesParentFolder": "C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g"
 }

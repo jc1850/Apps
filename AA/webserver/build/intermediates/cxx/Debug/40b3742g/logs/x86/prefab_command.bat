@@ -16,5 +16,5 @@
   --ndk-version ^
   25 ^
   --output ^
-  "C:\\Users\\jcall\\AppData\\Local\\Temp\\agp-prefab-staging16895672813248045872\\staged-cli-output" ^
+  "C:\\Users\\jcall\\AppData\\Local\\Temp\\agp-prefab-staging11576042911165746807\\staged-cli-output" ^
   "C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab"

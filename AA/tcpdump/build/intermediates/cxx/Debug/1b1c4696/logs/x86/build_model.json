@@ -6,9 +6,9 @@
     "deprecated": false,
     "default": true
   },
-  "cxxBuildFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\.cxx\\Debug\\1b1c4696\\x86",
-  "soFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696\\obj\\local\\x86",
-  "soRepublishFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
+  "cxxBuildFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\.cxx\\Debug\\1b1c4696\\x86",
+  "soFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696\\obj\\local\\x86",
+  "soRepublishFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86",
   "abiPlatformVersion": 26,
   "variant": {
     "buildSystemArgumentList": [],
@@ -26,13 +26,13 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\.cxx",
-      "intermediatesBaseFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\intermediates",
-      "intermediatesFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\intermediates\\cxx",
+      "cxxFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\.cxx",
+      "intermediatesBaseFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\intermediates",
+      "intermediatesFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\intermediates\\cxx",
       "gradleModulePathName": ":tcpdump",
-      "moduleRootFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump",
-      "moduleBuildFile": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build.gradle",
-      "makeFile": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\jni\\Android.mk",
+      "moduleRootFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump",
+      "moduleBuildFile": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build.gradle",
+      "makeFile": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\jni\\Android.mk",
       "buildSystem": "NDK_BUILD",
       "ndkFolder": "C:\\Users\\jcall\\AppData\\Local\\Android\\Sdk\\ndk\\25.2.9519653",
       "ndkVersion": "25.2.9519653",
@@ -113,7 +113,7 @@
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway",
+        "rootBuildGradleFolder": "C:\\Users\\jcall\\Apps\\AA",
         "sdkFolder": "C:\\Users\\jcall\\AppData\\Local\\Android\\Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
@@ -130,19 +130,19 @@
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\.cxx\\Debug\\1b1c4696\\prefab\\x86",
+  "prefabFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\.cxx\\Debug\\1b1c4696\\prefab\\x86",
   "isActiveAbi": true,
   "fullConfigurationHash": "1b1c46965611j2h5a1h3xv2f282mf375xs4m184l325b4e271o1h5x1q3m73",
   "fullConfigurationHashKey": "# Values used to calculate the hash in this folder name.\n# Should not depend on the absolute path of the project itself.\n#   - AGP: 7.4.2.\n#   - $NDK is the path to NDK 25.2.9519653.\n#   - $PROJECT is the path to the parent folder of the root Gradle build file.\n#   - $ABI is the ABI to be built with. The specific value doesn\u0027t contribute to the value of the hash.\n#   - $HASH is the hash value computed from this text.\nNDK_PROJECT_PATH\u003dnull\nAPP_BUILD_SCRIPT\u003d$PROJECT/tcpdump/jni/Android.mk\nAPP_ABI\u003d$ABI\nNDK_ALL_ABIS\u003d$ABI\nNDK_DEBUG\u003d1\nAPP_PLATFORM\u003dandroid-26\nNDK_OUT\u003d$PROJECT/tcpdump/build/intermediates/cxx/Debug/$HASH/obj\nNDK_LIBS_OUT\u003d$PROJECT/tcpdump/build/intermediates/cxx/Debug/$HASH/lib",
   "configurationArguments": [
     "NDK_PROJECT_PATH\u003dnull",
-    "APP_BUILD_SCRIPT\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\jni\\Android.mk",
+    "APP_BUILD_SCRIPT\u003dC:\\Users\\jcall\\Apps\\AA\\tcpdump\\jni\\Android.mk",
     "APP_ABI\u003dx86",
     "NDK_ALL_ABIS\u003dx86",
     "NDK_DEBUG\u003d1",
     "APP_PLATFORM\u003dandroid-26",
-    "NDK_OUT\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696/obj",
-    "NDK_LIBS_OUT\u003dC:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696/lib"
+    "NDK_OUT\u003dC:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696/obj",
+    "NDK_LIBS_OUT\u003dC:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696/lib"
   ],
-  "intermediatesParentFolder": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696"
+  "intermediatesParentFolder": "C:\\Users\\jcall\\Apps\\AA\\tcpdump\\build\\intermediates\\cxx\\Debug\\1b1c4696"
 }

@@ -1,2 +1,0 @@
-04-04 16:10:44.914  7667  7697 I TestRunner: started: testBlockedHostsFromDisabledSource(org.adaway.db.SourceDbTest)
-04-04 16:10:44.943  7667  7697 I TestRunner: finished: testBlockedHostsFromDisabledSource(org.adaway.db.SourceDbTest)

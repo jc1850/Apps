@@ -1,2 +1,0 @@
-04-04 16:10:44.799  7667  7697 I TestRunner: started: testSourceCount(org.adaway.db.SourceDbTest)
-04-04 16:10:44.818  7667  7697 I TestRunner: finished: testSourceCount(org.adaway.db.SourceDbTest)

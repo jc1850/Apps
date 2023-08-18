@@ -2,7 +2,7 @@
   {
     "level_": 0,
     "message_": "Start JSON generation. Platform version: 26 min SDK version: x86",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -11,12 +11,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -934271140
+    "memoizedHashCode": -1398453680
   },
   {
     "level_": 0,
-    "message_": "rebuilding JSON C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\.cxx\\Debug\\40b3742g\\x86\\android_gradle_build.json due to:",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "message_": "rebuilding JSON C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\.cxx\\Debug\\40b3742g\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -25,12 +25,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -101558034
+    "memoizedHashCode": -418779902
   },
   {
     "level_": 0,
     "message_": "- a file changed",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -39,12 +39,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1324860919
+    "memoizedHashCode": 860678379
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -53,12 +53,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -443875663
+    "memoizedHashCode": -908058203
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -67,12 +67,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -767119528
+    "memoizedHashCode": -1231302068
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -81,12 +81,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 855318983
+    "memoizedHashCode": 391136443
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -95,12 +95,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -421228285
+    "memoizedHashCode": -885410825
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -109,1468 +109,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1997052641
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\aes.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1531185038
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\asn1.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 524018468
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\asn1_mac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1079635084
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\asn1err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1375376743
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\asn1t.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1916718270
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\async.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -509730493
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\asyncerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -124408088
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\bio.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1937962943
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\bioerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -844007700
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\blowfish.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 96247485
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\bn.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 517023207
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\bnerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -862013500
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\buffer.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1773675413
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\buffererr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -329235776
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\camellia.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1227177617
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\cast.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -838314442
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\cmac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1079756761
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\cms.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -379923276
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\cmserr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1491827159
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\comp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -784078778
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\comperr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 88597765
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\conf.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1479528929
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\conf_api.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1856027274
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\conferr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 855385228
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\crypto.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1675895136
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\cryptoerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 655169643
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ct.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1132406544
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\cterr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1102559739
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\des.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1290141743
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\dh.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1337510529
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\dherr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1182753068
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\dsa.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1568209423
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\dsaerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 379675514
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\dtls1.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1468618329
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\e_os2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -412585189
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ebcdic.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 799361123
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ec.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 255722977
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ecdh.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -147107019
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ecdsa.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 974561019
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ecerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1518542218
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\engine.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1140994517
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\engineerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -751174378
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1024228224
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\evp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -155928382
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\evperr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 144536329
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\hmac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1510755074
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\idea.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1125195598
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\kdf.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1111274008
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\kdferr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -2103704541
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\lhash.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -595761447
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\md2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 157921806
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\md4.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1932388728
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\md5.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 672138541
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\mdc2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1868266519
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\modes.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 315552903
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\obj_mac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1241610742
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\objects.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2067509563
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\objectserr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1598716912
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ocsp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -106987952
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ocsperr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2134973115
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\opensslconf.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 236676981
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\opensslv.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 146965103
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ossl_typ.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2057392776
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\pem.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1354402033
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\pem2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1553922061
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\pemerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 479131036
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\pkcs12.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2024829607
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\pkcs12err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1430467332
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\pkcs7.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -310777997
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\pkcs7err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -185468232
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\rand.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1376892204
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\rand_drbg.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1123242904
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\randerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 489344951
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\rc2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 972710764
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\rc4.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1547789610
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\rc5.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1486927499
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ripemd.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -98414774
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\rsa.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -443340713
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\rsaerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2008571732
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\safestack.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2016480174
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\seed.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 857763472
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\sha.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -114408781
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\srp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1673826436
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\srtp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2058366658
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ssl.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1340843117
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ssl2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1974248457
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ssl3.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 713998270
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\sslerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 685871768
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\stack.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1390423487
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\store.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -413925972
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\storeerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2129792479
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\symhacks.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1721360270
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\tls1.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -2023473223
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ts.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -334228234
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\tserr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1288190549
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\txt_db.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -300467076
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\ui.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1029678385
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\uierr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2054978012
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\whrlpool.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1023877502
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\x509.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -361956503
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\x509_vfy.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 466009979
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\x509err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -130950398
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\x509v3.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1802785078
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\include\\openssl\\x509v3err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 48128001
+    "memoizedHashCode": 1532870101
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1579,12 +123,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 606334633
+    "memoizedHashCode": 142152093
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.arm64-v8a (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1593,40 +137,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1650066350
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.arm64-v8a\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1522942654
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.arm64-v8a\\libcrypto.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -715007280
+    "memoizedHashCode": 1185883810
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.armeabi-v7a (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1635,40 +151,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 388354092
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.armeabi-v7a\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -417784188
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.armeabi-v7a\\libcrypto.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1783286546
+    "memoizedHashCode": -75828448
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.x86 (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1677,40 +165,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -2014080256
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.x86\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 24594992
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.x86\\libcrypto.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1928118082
+    "memoizedHashCode": 1816704500
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.x86_64 (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1719,54 +179,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 2050633951
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.x86_64\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 340449073
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\libs\\android.x86_64\\libcrypto.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1050254017
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\crypto\\module.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 554114413
+    "memoizedHashCode": 1586451411
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1775,12 +193,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1026947272
+    "memoizedHashCode": 562764732
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1789,12 +207,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 614258436
+    "memoizedHashCode": 150075896
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -1803,1468 +221,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -950054942
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\aes.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -648206157
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\asn1.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2126560003
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\asn1_mac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1624382509
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\asn1err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -166216408
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\asn1t.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 517429059
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\async.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1924416836
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\asyncerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -669155513
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\bio.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1474025472
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\bioerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1600115467
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\blowfish.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -448499940
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\bn.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1930979718
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\bnerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1572133829
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\buffer.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 670447754
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\buffererr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -36536767
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\camellia.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 682430192
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\cast.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 764227093
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\cmac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 522784774
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\cms.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 503055605
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\cmserr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -359016970
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\comp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 818462757
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\comperr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1452995386
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\conf.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 123012606
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\conf_api.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1894192597
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\conferr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -686207923
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\crypto.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 768228031
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\cryptoerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 947868652
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ct.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1748604241
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\cterr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -758260228
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\des.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -407162862
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\dh.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 76445982
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\dherr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -678066899
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\dsa.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -685230542
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\dsaerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1471168615
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\dtls1.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -392201638
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\e_os2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2021562140
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ebcdic.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1051483006
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ec.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1669679488
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ecdh.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1455434516
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ecdsa.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -886258948
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ecerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -342277749
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\engine.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -709849612
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\engineerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -458475369
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -141249343
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\evp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 727050499
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\evperr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1706307800
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\hmac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 91786461
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\idea.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1567230163
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\kdf.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -228295127
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\kdferr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 340418626
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\lhash.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1838385882
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\md2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1040900687
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\md4.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1479599687
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\md5.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1555117422
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\mdc2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -265724984
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\modes.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1545267064
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\obj_mac.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1511763403
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\objects.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 525916412
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\objectserr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2082451599
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ocsp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1495553583
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ocsperr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 593379964
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\opensslconf.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1947416906
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\opensslv.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -397782322
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ossl_typ.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1512645351
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\pem.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -471423152
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\pem2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1138503700
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\pemerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1371713093
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\pkcs12.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 173985478
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\pkcs12err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1723166341
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\pkcs7.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2123369332
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\pkcs7err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -730215657
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\rand.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 225649331
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\rand_drbg.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -830543895
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\randerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1052248200
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\rc2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1855689645
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\rc4.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -664810729
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\rc5.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1925060916
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ripemd.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1949258903
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\rsa.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 439638168
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\rsaerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 157727603
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\safestack.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1985788113
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\seed.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1834662289
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\sha.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 768570100
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\srp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -790847555
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\srtp.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -634059103
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ssl.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -457864236
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ssl2.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -718177304
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ssl3.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1978427491
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\sslerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1164972361
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\stack.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -470396480
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\store.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2020221357
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\storeerr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1585045054
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\symhacks.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2028859601
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\tls1.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -420931688
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ts.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1079728277
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\tserr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -572629418
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\txt_db.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 2143656091
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\ui.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 384278126
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\uierr.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 194158045
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\whrlpool.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 479130077
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\x509.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1240585032
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\x509_vfy.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -78737446
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\x509err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1672543549
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\x509v3.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 641338089
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\include\\openssl\\x509v3err.h (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 340827010
+    "memoizedHashCode": -1414237482
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3273,12 +235,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1372344392
+    "memoizedHashCode": 908161852
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.arm64-v8a (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3287,40 +249,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1042359411
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.arm64-v8a\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -198160317
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.arm64-v8a\\libssl.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1645416352
+    "memoizedHashCode": -1506541951
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.armeabi-v7a (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3329,40 +263,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1462490037
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.armeabi-v7a\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1387722053
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.armeabi-v7a\\libssl.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -731837730
+    "memoizedHashCode": -1926672577
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.x86 (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3371,40 +277,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1114865183
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.x86\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -1516998159
-  },
-  {
-    "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.x86\\libssl.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -583851086
+    "memoizedHashCode": 650682643
   },
   {
     "level_": 0,
     "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.x86_64 (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3413,12 +291,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1505985184
+    "memoizedHashCode": -1970167724
   },
   {
     "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.x86_64\\abi.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "message_": "@echo off\n\"C:\\\\Users\\\\jcall\\\\.jdks\\\\corretto-11.0.16.1\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\jcall\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  ndk-build ^\n  --platform ^\n  android ^\n  --abi ^\n  x86 ^\n  --os-version ^\n  26 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  25 ^\n  --output ^\n  \"C:\\\\Users\\\\jcall\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging11576042911165746807\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\jcall\\\\.gradle\\\\caches\\\\transforms-3\\\\18f9defc0c53f79ea334dc8688e39ce9\\\\transformed\\\\openssl-1.1.1q-beta-1\\\\prefab\"\n",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3427,12 +305,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 824183760
+    "memoizedHashCode": -2114835475
   },
   {
     "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\libs\\android.x86_64\\libssl.so (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "message_": "keeping json folder \u0027C:\\Users\\jcall\\Apps\\AA\\webserver\\build\\.cxx\\Debug\\40b3742g\\x86\u0027 but regenerating project",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3441,12 +319,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1021655629
+    "memoizedHashCode": 789097220
   },
   {
     "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\modules\\ssl\\module.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "message_": "executing ndkBuild @echo off\n\"C:\\\\Users\\\\jcall\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\25.2.9519653\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\jni\\\\Application.mk\" ^\n  \"NDK_GRADLE_INJECTED_IMPORT_PATH\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\build\\\\.cxx\\\\Debug\\\\40b3742g\\\\prefab\\\\x86\" ^\n  \"APP_ABI\u003dx86\" ^\n  \"NDK_ALL_ABIS\u003dx86\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-26\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3455,12 +333,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1657111826
+    "memoizedHashCode": 2082887128
   },
   {
     "level_": 0,
-    "message_": "  - C:\\Users\\jcall\\.gradle\\caches\\transforms-3\\18f9defc0c53f79ea334dc8688e39ce9\\transformed\\openssl-1.1.1q-beta-1\\prefab\\prefab.json (LAST_MODIFIED_CHANGED)",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "message_": "@echo off\n\"C:\\\\Users\\\\jcall\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\25.2.9519653\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\jni\\\\Application.mk\" ^\n  \"NDK_GRADLE_INJECTED_IMPORT_PATH\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\build\\\\.cxx\\\\Debug\\\\40b3742g\\\\prefab\\\\x86\" ^\n  \"APP_ABI\u003dx86\" ^\n  \"NDK_ALL_ABIS\u003dx86\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-26\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\jcall\\\\Apps\\\\AA\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3469,68 +347,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1575950241
-  },
-  {
-    "level_": 0,
-    "message_": "@echo off\n\"C:\\\\Users\\\\jcall\\\\.jdks\\\\corretto-11.0.16.1\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\jcall\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  ndk-build ^\n  --platform ^\n  android ^\n  --abi ^\n  x86 ^\n  --os-version ^\n  26 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  25 ^\n  --output ^\n  \"C:\\\\Users\\\\jcall\\\\AppData\\\\Local\\\\Temp\\\\agp-prefab-staging16895672813248045872\\\\staged-cli-output\" ^\n  \"C:\\\\Users\\\\jcall\\\\.gradle\\\\caches\\\\transforms-3\\\\18f9defc0c53f79ea334dc8688e39ce9\\\\transformed\\\\openssl-1.1.1q-beta-1\\\\prefab\"\n",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1287242716
-  },
-  {
-    "level_": 0,
-    "message_": "keeping json folder \u0027C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\.cxx\\Debug\\40b3742g\\x86\u0027 but regenerating project",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 638637680
-  },
-  {
-    "level_": 0,
-    "message_": "executing ndkBuild @echo off\n\"C:\\\\Users\\\\jcall\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\25.2.9519653\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\jni\\\\Application.mk\" ^\n  \"NDK_GRADLE_INJECTED_IMPORT_PATH\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\build\\\\.cxx\\\\Debug\\\\40b3742g\\\\prefab\\\\x86\" ^\n  \"APP_ABI\u003dx86\" ^\n  \"NDK_ALL_ABIS\u003dx86\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-26\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1179506970
-  },
-  {
-    "level_": 0,
-    "message_": "@echo off\n\"C:\\\\Users\\\\jcall\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\25.2.9519653\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\jni\\\\Application.mk\" ^\n  \"NDK_GRADLE_INJECTED_IMPORT_PATH\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\build\\\\.cxx\\\\Debug\\\\40b3742g\\\\prefab\\\\x86\" ^\n  \"APP_ABI\u003dx86\" ^\n  \"NDK_ALL_ABIS\u003dx86\" ^\n  \"NDK_DEBUG\u003d1\" ^\n  \"APP_PLATFORM\u003dandroid-26\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\jcall\\\\AndroidHttpInstrumenter\\\\apps\\\\AdAway\\\\webserver\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\40b3742g/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -688148953
+    "memoizedHashCode": 1138647339
   },
   {
     "level_": 0,
     "message_": "parse and convert ndk-build output to build configuration JSON",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3539,12 +361,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -1385992208
+    "memoizedHashCode": -1850174748
   },
   {
     "level_": 0,
-    "message_": "found application make file C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Application.mk",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "message_": "found application make file C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Application.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3553,12 +375,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": -855901264
+    "memoizedHashCode": 304990212
   },
   {
     "level_": 0,
     "message_": "done executing ndkBuild",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3567,54 +389,12 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 478854358
-  },
-  {
-    "level_": 0,
-    "message_": "deleted unexpected build output C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g\\obj\\local\\x86\\libc++_shared.so in incremental regenerate",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": -965747802
-  },
-  {
-    "level_": 0,
-    "message_": "deleted unexpected build output C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g\\obj\\local\\x86\\libcrypto.so in incremental regenerate",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 409116934
-  },
-  {
-    "level_": 0,
-    "message_": "deleted unexpected build output C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\build\\intermediates\\cxx\\Debug\\40b3742g\\obj\\local\\x86\\libssl.so in incremental regenerate",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
-    "tag_": "debug|x86",
-    "diagnosticCode_": 0,
-    "memoizedIsInitialized": 1,
-    "unknownFields": {
-      "fields": {},
-      "fieldsDescending": {}
-    },
-    "memoizedSize": -1,
-    "memoizedHashCode": 1635137665
+    "memoizedHashCode": 14671818
   },
   {
     "level_": 0,
     "message_": "JSON generation completed without problems",
-    "file_": "C:\\Users\\jcall\\AndroidHttpInstrumenter\\apps\\AdAway\\webserver\\jni\\Android.mk",
+    "file_": "C:\\Users\\jcall\\Apps\\AA\\webserver\\jni\\Android.mk",
     "tag_": "debug|x86",
     "diagnosticCode_": 0,
     "memoizedIsInitialized": 1,
@@ -3623,6 +403,6 @@
       "fieldsDescending": {}
     },
     "memoizedSize": -1,
-    "memoizedHashCode": 1797217938
+    "memoizedHashCode": 1333035398
   }
 ]

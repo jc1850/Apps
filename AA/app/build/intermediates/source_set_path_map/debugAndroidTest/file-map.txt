@@ -1,7 +1,0 @@
-org.adaway.test.app-core-1.5.0-0 C:\Users\jcall\.gradle\caches\transforms-3\083c44d649cacd49cba0f389b8ddefd3\transformed\core-1.5.0\res
-org.adaway.test.app-annotation-experimental-1.3.0-1 C:\Users\jcall\.gradle\caches\transforms-3\5e573054e22002375735e189ed4ceb6b\transformed\annotation-experimental-1.3.0\res
-org.adaway.test.app-androidTest-2 C:\Users\jcall\AndroidHttpInstrumenter\apps\AdAway\app\build\generated\res\resValues\androidTest\debug
-org.adaway.test.app-androidTest-3 C:\Users\jcall\AndroidHttpInstrumenter\apps\AdAway\app\build\generated\res\rs\androidTest\debug
-org.adaway.test.app-mergeDebugAndroidTestResources-4 C:\Users\jcall\AndroidHttpInstrumenter\apps\AdAway\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-org.adaway.test.app-mergeDebugAndroidTestResources-5 C:\Users\jcall\AndroidHttpInstrumenter\apps\AdAway\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-org.adaway.test.app-merged_res-6 C:\Users\jcall\AndroidHttpInstrumenter\apps\AdAway\app\build\intermediates\merged_res\debugAndroidTest

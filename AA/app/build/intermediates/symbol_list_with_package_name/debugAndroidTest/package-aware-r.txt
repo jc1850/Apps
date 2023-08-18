@@ -1,3 +1,0 @@
-org.adaway.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

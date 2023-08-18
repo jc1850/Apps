@@ -1,2 +1,0 @@
-04-04 16:10:44.721  7667  7697 I TestRunner: started: testRedirectionPriority(org.adaway.db.HostDbTest)
-04-04 16:10:44.740  7667  7697 I TestRunner: finished: testRedirectionPriority(org.adaway.db.HostDbTest)

@@ -1,2 +1,0 @@
-04-04 16:10:44.768  7667  7697 I TestRunner: started: testSourceDeletion(org.adaway.db.SourceDbTest)
-04-04 16:10:44.794  7667  7697 I TestRunner: finished: testSourceDeletion(org.adaway.db.SourceDbTest)
