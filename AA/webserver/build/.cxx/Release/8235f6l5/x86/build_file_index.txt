@@ -1,2 +1,0 @@
-C:\Users\jcall\Apps\AA\webserver\jni\Android.mk
-C:\Users\jcall\Apps\AA\webserver\jni\Application.mk

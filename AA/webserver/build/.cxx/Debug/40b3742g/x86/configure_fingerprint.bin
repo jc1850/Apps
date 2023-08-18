@@ -1,538 +1,0 @@
-C/C++ Structured Logx
-v
-tC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefabC
-A
-?com.android.build.gradle.internal.cxx.io.EncodedFileFingerPrint	äÔë„1€
-~
-|C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules	äÔë„1‰
-†
-ƒC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto	äÔë„1‘
-
-‹C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include	äÔë„1™
-–
-“C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl	äÔë„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\aes.h	äÔë„1• Ü”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\asn1.h	äÔë„1Û† ö”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\asn1_mac.h	äÔë„1	‹ ”šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\asn1err.h	äÔë„1
-ßr ¥”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\asn1t.h	äÔë„1¬ á”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\async.h	äÔë„1Ş œ”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\asyncerr.h	äÔë„1®
- “”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\bio.h	äÔë„1Û •šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\bioerr.h	äÔë„1€2 “”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\blowfish.h	äÔë„1· ¤”šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\bn.h	çÔë„1÷¬ †•šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\bnerr.h	çÔë„1«&  ”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\buffer.h	çÔë„1À ¶”šé„1¥
-¢
-ŸC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\buffererr.h	çÔë„1´ ä”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\camellia.h	çÔë„1ë Ø”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\cast.h	çÔë„1Š Û”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\cmac.h	çÔë„1¨ û”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\cms.h	çÔë„1û ì”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\cmserr.h	çÔë„1˜W ı”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\comp.h	çÔë„1°
- µ”šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\comperr.h	çÔë„1¼	 ¨”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\conf.h	çÔë„1á+ Á”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\conf_api.h	çÔë„1”
- ş”šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\conferr.h	çÔë„1å Ë”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\crypto.h	çÔë„1×† ­”šé„1¥
-¢
-ŸC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\cryptoerr.h	çÔë„1 Õ ‰•šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ct.h	çÔë„1!€| Ï”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\cterr.h	çÔë„1" É”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\des.h	çÔë„1#Ë; İ”šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\dh.h	çÔë„1$Ûh š”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\dherr.h	çÔë„1%† ç”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\dsa.h	çÔë„1&ÃN é”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\dsaerr.h	çÔë„1'œ Ş”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\dtls1.h	çÔë„1(ª ˜”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\e_os2.h	çÔë„1)ØE ‘”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ebcdic.h	çÔë„1*œ ¡”šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ec.h	çÔë„1+Äñ Ô”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ecdh.h	çÔë„1,æ è”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ecdsa.h	çÔë„1-æ õ”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ecerr.h	çÔë„1.Í{ ¼”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\engine.h	çÔë„1/¦ Ú”šé„1¥
-¢
-ŸC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\engineerr.h	çÔë„10Ç* ¦”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\err.h	çÔë„11…X ñ”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\evp.h	çÔë„12œØ Ñ”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\evperr.h	çÔë„13½Y ¹”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\hmac.h	çÔë„14· à”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\idea.h	çÔë„15³ ª”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\kdf.h	çÔë„16æ! Å”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\kdferr.h	éÔë„17Ê •”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\lhash.h	éÔë„18·H æ”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\md2.h	éÔë„19 ¢”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\md4.h	éÔë„1:ª
- £”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\md5.h	éÔë„1;¨
- Å”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\mdc2.h	éÔë„1< ·”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\modes.h	éÔë„1=îQ Õ”šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\obj_mac.h	éÔë„1>²£ ƒ•šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\objects.h	éÔë„1?é3 í”šé„1¦
-£
- C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\objectserr.h	éÔë„1@¤
- Ò”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ocsp.h	éÔë„1AÉw ê”šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ocsperr.h	éÔë„1Bœ Ç”šé„1§
-¤
-¡C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\opensslconf.h	éÔë„1C„% Ÿ”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\opensslv.h	éÔë„1D…  ÷”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ossl_typ.h	éÔë„1Eú0 º”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\pem.h	éÔë„1Fìx ÿ”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\pem2.h	éÔë„1GŸ ²”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\pemerr.h	éÔë„1Hæ( ù”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\pkcs12.h	éÔë„1IM Â”šé„1¥
-¢
-ŸC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\pkcs12err.h	éÔë„1J¥ ¾”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\pkcs7.h	éÔë„1KÆZ À”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\pkcs7err.h	éÔë„1Lö' Ö”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\rand.h	éÔë„1M¥ ô”šé„1¥
-¢
-ŸC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\rand_drbg.h	éÔë„1N›% Ì”šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\randerr.h	éÔë„1O™$ Ğ”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\rc2.h	éÔë„1Pş ß”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\rc4.h	éÔë„1Q¹ …•šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\rc5.h	éÔë„1RÄ «”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ripemd.h	éÔë„1SÛ	 â”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\rsa.h	éÔë„1Tº­ ‡•šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\rsaerr.h	éÔë„1UóF ™”šé„1¥
-¢
-ŸC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\safestack.h	éÔë„1VË? §”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\seed.h	éÔë„1W— ¿”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\sha.h	éÔë„1X÷ ´”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\srp.h	éÔë„1Yó ½”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\srtp.h	éÔë„1Z¤
- Ó”šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ssl.h	éÔë„1[Èé È”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ssl2.h	éÔë„1\ ğ”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ssl3.h	éÔë„1]ñr î”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\sslerr.h	éÔë„1^î ­”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\stack.h	éÔë„1_— ¯”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\store.h	éÔë„1`¿W ó”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\storeerr.h	éÔë„1a¯" –”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\symhacks.h	éÔë„1bŸ
- ‰•šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\tls1.h	éÔë„1cª¶ Ä”šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ts.h	éÔë„1d¯ ¸”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\tserr.h	éÔë„1eÚ4 ×”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\txt_db.h	éÔë„1f‚ ã”šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\ui.h	éÔë„1g´} °”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\uierr.h	éÔë„1h± ï”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\whrlpool.h	éÔë„1iá
- ›”šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\x509.h	éÔë„1j¾Ò Í”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\x509_vfy.h	éÔë„1kÃı ”šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\x509err.h	éÔë„1l“5 ³”šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\x509v3.h	éÔë„1mŸ… å”šé„1¥
-¢
-ŸC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\include\openssl\x509v3err.h	éÔë„1nÅE ò”šé„1
-‹
-ˆC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs	éÔë„1o 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.arm64-v8a	éÔë„1p©
-¦
-£C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.arm64-v8a\abi.json	éÔë„1q8 ¥•šé„1­
-ª
-§C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.arm64-v8a\libcrypto.so	éÔë„1r¨©· Á•šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.armeabi-v7a	éÔë„1s«
-¨
-¥C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.armeabi-v7a\abi.json	éÔë„1t: Œ•šé„1¯
-¬
-©C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.armeabi-v7a\libcrypto.so	éÔë„1uèÇ ¤•šé„1š
-—
-”C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.x86	éÔë„1v£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.x86\abi.json	éÔë„1w2 Ã•šé„1§
-¤
-¡C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.x86\libcrypto.so	éÔë„1x€å¯ İ•šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.x86_64	éÔë„1y¦
-£
- C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.x86_64\abi.json	éÔë„1z5 Ş•šé„1ª
-§
-¤C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\libs\android.x86_64\libcrypto.so	éÔë„1{øäÇ ú•šé„1•
-’
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\crypto\module.json	éÔë„1| Š•šé„1†
-ƒ
-€C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl	éÔë„1}
-‹
-ˆC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include	éÔë„1~–
-“
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl	éÔë„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\aes.h	éÔë„1€• ¶“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\asn1.h	éÔë„1Û† Ù“šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\asn1_mac.h	éÔë„1‚‹ Ú’šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\asn1err.h	éÔë„1ƒßr æ’šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\asn1t.h	éÔë„1„¬ ½“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\async.h	éÔë„1…Ş Õ’šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\asyncerr.h	éÔë„1†®
- É’šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\bio.h	éÔë„1‡Û ã“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\bioerr.h	éÔë„1ˆ€2 Æ’šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\blowfish.h	éÔë„1‰· ä’šé„1›
-˜
-•C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\bn.h	éÔë„1Š÷¬ è“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\bnerr.h	éÔë„1‹«& İ’šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\buffer.h	éÔë„1ŒÀ ÿ’šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\buffererr.h	éÔë„1´ Á“šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\camellia.h	éÔë„1ë ²“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\cast.h	ìÔë„1Š µ“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\cmac.h	ìÔë„1¨ İ“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\cms.h	ìÔë„1‘û Ê“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\cmserr.h	ìÔë„1’˜W ß“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\comp.h	ìÔë„1“°
- ş’šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\comperr.h	ìÔë„1”¼	 í’šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\conf.h	ìÔë„1•á+ ‘“šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\conf_api.h	ìÔë„1–”
- à“šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\conferr.h	ìÔë„1—å “šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\crypto.h	ìÔë„1˜×† ô’šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\cryptoerr.h	ìÔë„1™Õ ë“šé„1›
-˜
-•C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ct.h	ìÔë„1š€| ¢“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\cterr.h	ìÔë„1› œ“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\des.h	ìÔë„1œË; ¸“šé„1›
-˜
-•C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\dh.h	ìÔë„1Ûh Ó’šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\dherr.h	ìÔë„1† Æ“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\dsa.h	ìÔë„1ŸÃN È“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\dsaerr.h	ìÔë„1 œ ¸“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\dtls1.h	ìÔë„1¡ª Î’šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\e_os2.h	ìÔë„1¢ØE Ä’šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ebcdic.h	ìÔë„1£œ ß’šé„1›
-˜
-•C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ec.h	ìÔë„1¤Äñ «“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ecdh.h	ìÔë„1¥æ Ç“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ecdsa.h	ìÔë„1¦æ ×“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ecerr.h	ìÔë„1§Í{ ‰“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\engine.h	ìÔë„1¨¦ ´“šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\engineerr.h	ìÔë„1©Ç* è’šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\err.h	ìÔë„1ª…X Ò“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\evp.h	ìÔë„1«œØ ¦“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\evperr.h	ìÔë„1¬½Y …“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\hmac.h	ìÔë„1­· »“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\idea.h	ìÔë„1®³ î’šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\kdf.h	ìÔë„1¯æ! —“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\kdferr.h	ìÔë„1°Ê Ê’šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\lhash.h	ìÔë„1±·H Ä“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\md2.h	ìÔë„1² á’šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\md4.h	ìÔë„1³ª
- â’šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\md5.h	ìÔë„1´¨
- •“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\mdc2.h	ìÔë„1µ “šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\modes.h	ìÔë„1¶îQ ­“šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\obj_mac.h	ìÔë„1·²£ å“šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\objects.h	ìÔë„1¸é3 Ì“šé„1£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\objectserr.h	ìÔë„1¹¤
- §“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ocsp.h	ìÔë„1ºÉw É“šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ocsperr.h	ìÔë„1»œ ™“šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\opensslconf.h	ìÔë„1¼„% Ü’šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\opensslv.h	ìÔë„1½…  Ú“šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ossl_typ.h	ìÔë„1¾ú0 ‡“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\pem.h	ìÔë„1¿ìx â“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\pem2.h	ìÔë„1ÀŸ ú’šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\pemerr.h	ìÔë„1Áæ( Ü“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\pkcs12.h	ìÔë„1ÂM ’“šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\pkcs12err.h	ìÔë„1Ã¥ Œ“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\pkcs7.h	ìÔë„1ÄÆZ “šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\pkcs7err.h	ìÔë„1Åö' ¯“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\rand.h	ìÔë„1Æ¥ Ö“šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\rand_drbg.h	ìÔë„1Ç›% “šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\randerr.h	ìÔë„1È™$ £“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\rc2.h	ìÔë„1Éş º“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\rc4.h	ìÔë„1Ê¹ ç“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\rc5.h	ìÔë„1ËÄ ñ’šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ripemd.h	ìÔë„1ÌÛ	 ¾“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\rsa.h	ìÔë„1Íº­ ê“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\rsaerr.h	ìÔë„1ÎóF Ñ’šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\safestack.h	ìÔë„1ÏË? ë’šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\seed.h	ìÔë„1Ğ— “šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\sha.h	ìÔë„1Ñ÷ ı’šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\srp.h	ìÔë„1Òó Š“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\srtp.h	ìÔë„1Ó¤
- ©“šé„1œ
-™
-–C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ssl.h	ìÔë„1ÔÈé š“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ssl2.h	ìÔë„1Õ Ğ“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ssl3.h	ìÔë„1Öñr Í“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\sslerr.h	ìÔë„1×î ò’šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\stack.h	ìÔë„1Ø— ÷’šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\store.h	ìÔë„1Ù¿W Õ“šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\storeerr.h	ìÔë„1Ú¯" Ì’šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\symhacks.h	ìÔë„1ÛŸ
- ì“šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\tls1.h	ìÔë„1Üª¶ ”“šé„1›
-˜
-•C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ts.h	ìÔë„1İ¯ ‚“šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\tserr.h	ìÔë„1ŞÚ4 ±“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\txt_db.h	ìÔë„1ß‚ À“šé„1›
-˜
-•C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\ui.h	îÔë„1à´} ù’šé„1
-›
-˜C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\uierr.h	îÔë„1á± Î“šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\whrlpool.h	îÔë„1âá
- Ô’šé„1
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\x509.h	îÔë„1ã¾Ò  “šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\x509_vfy.h	îÔë„1äÃı Ø’šé„1 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\x509err.h	îÔë„1å“5 ü’šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\x509v3.h	îÔë„1æŸ… Ã“šé„1¢
-Ÿ
-œC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\include\openssl\x509v3err.h	îÔë„1çÅE Ó“šé„1‹
-ˆ
-…C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs	îÔë„1è
-š
-—C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.arm64-v8a	îÔë„1é¦
-£
- C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.arm64-v8a\abi.json	îÔë„1ê8 ı“šé„1§
-¤
-¡C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.arm64-v8a\libssl.so	îÔë„1ëğå' ü“šé„1Ÿ
-œ
-™C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.armeabi-v7a	îÔë„1ì¨
-¥
-¢C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.armeabi-v7a\abi.json	îÔë„1í: õ“šé„1©
-¦
-£C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.armeabi-v7a\libssl.so	îÔë„1î„‰# ô“šé„1—
-”
-‘C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.x86	îÔë„1ï 
-
-šC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.x86\abi.json	îÔë„1ğ2 †”šé„1¡
-
-›C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.x86\libssl.so	îÔë„1ñø‹% „”šé„1š
-—
-”C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.x86_64	îÔë„1ò£
- 
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.x86_64\abi.json	îÔë„1ó5 ”šé„1¤
-¡
-C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\libs\android.x86_64\libssl.so	îÔë„1ô€×) ”šé„1’
-
-ŒC:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\modules\ssl\module.json	îÔë„1õ í“šé„1†
-ƒ
-€C:\Users\jcall\.gradle\caches\transforms-3\18f9defc0c53f79ea334dc8688e39ce9\transformed\openssl-1.1.1q-beta-1\prefab\prefab.json	îÔë„1öL ¾’šé„1_
-]
-[C:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\additional_project_files.txt	îÔë„1÷\
-Z
-XC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\android_gradle_build.json	îÔë„1ø×# šÔë„1a
-_
-]C:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\android_gradle_build_mini.json	îÔë„1ù¨! ¬Ôë„1N
-L
-JC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\build.ninja	îÔë„1úR
-P
-NC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\build.ninja.txt	îÔë„1ûW
-U
-SC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\build_file_index.txt	îÔë„1üd ıÊÇ×÷0X
-V
-TC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\compile_commands.json	îÔë„1ı\
-Z
-XC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\compile_commands.json.bin	îÔë„1ş’ šÔë„1b
-`
-^C:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\metadata_generation_command.txt	îÔë„1ÿ• ıÊÇ×÷0U
-S
-QC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\prefab_config.json	îÔë„1€Õ ıÊÇ×÷0Z
-X
-VC:\Users\jcall\Apps\AA\webserver\build\.cxx\Debug\40b3742g\x86\symbol_folder_index.txt	îÔë„1U ıÊÇ×÷03
-1
-/C:\Users\jcall\Apps\AA\webserver\jni\Android.mk	îÔë„1‚á à«Àåô07
-5
-3C:\Users\jcall\Apps\AA\webserver\jni\Application.mk	îÔë„1ƒ' à«Àåô0
